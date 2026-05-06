@@ -16,7 +16,7 @@ type StoredConfig = {
 };
 
 const DEFAULT_MODELS: Record<Provider, string> = {
-  anthropic: "claude-3-5-sonnet-latest",
+  anthropic: "claude-opus-4-7",
   openai: "gpt-4o-mini",
 };
 
@@ -57,10 +57,6 @@ export function QueriesClient({ examples }: { examples: string[] }) {
   async function ask(q: string) {
     setError(null);
     setSpec(null);
-    if (!apiKey) {
-      setError("Please paste an API key first.");
-      return;
-    }
     if (!q.trim()) {
       setError("Type a question.");
       return;
@@ -142,8 +138,8 @@ export function QueriesClient({ examples }: { examples: string[] }) {
                 }}
                 placeholder={
                   provider === "anthropic"
-                    ? "sk-ant-..."
-                    : "sk-..."
+                    ? "sk-ant-… (or leave blank to use server key)"
+                    : "sk-… (or leave blank to use server key)"
                 }
                 className="w-full rounded-lg border border-neutral-200 bg-white py-2 pl-9 pr-3 text-detail text-neutral-800 placeholder:text-neutral-400 focus:border-bv-blue-400 focus:outline-none focus:ring-2 focus:ring-bv-blue-100"
               />
@@ -197,7 +193,7 @@ export function QueriesClient({ examples }: { examples: string[] }) {
             />
             <p className="mt-1 text-micro text-neutral-500">
               {provider === "anthropic"
-                ? "e.g. claude-3-5-sonnet-latest, claude-3-5-haiku-latest"
+                ? "e.g. claude-opus-4-7, claude-sonnet-4-6, claude-haiku-4-5"
                 : "e.g. gpt-4o-mini, gpt-4o, o4-mini"}
             </p>
           </div>

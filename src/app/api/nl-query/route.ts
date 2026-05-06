@@ -130,9 +130,17 @@ export async function POST(req: NextRequest) {
       model?: string;
       question: string;
     };
-    if (!apiKey) {
+    // Fall back to server-side env keys if the client didn't supply one
+    const effectiveKey =
+      apiKey ||
+      (provider === "openai"
+        ? process.env.OPENAI_API_KEY
+        : process.env.ANTHROPIC_API_KEY) ||
+      "";
+    if (!effectiveKey) {
       return NextResponse.json({ error: "Missing API key" }, { status: 400 });
     }
+
     if (!question?.trim()) {
       return NextResponse.json({ error: "Missing question" }, { status: 400 });
     }
@@ -141,17 +149,17 @@ export async function POST(req: NextRequest) {
     let raw: string;
     if (provider === "openai") {
       raw = await callOpenAI(
-        apiKey,
+        effectiveKey,
         question,
         contextJson,
         model || "gpt-4o-mini"
       );
     } else {
       raw = await callAnthropic(
-        apiKey,
+        effectiveKey,
         question,
         contextJson,
-        model || "claude-3-5-sonnet-latest"
+        model || "claude-opus-4-7"
       );
     }
 

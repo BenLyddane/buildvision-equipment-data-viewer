@@ -7,11 +7,13 @@ export const metadata = {
 
 const examples = [
   "Which manufacturer dominates Packaged Rooftop Air-Conditioning Units?",
-  "Show me the top 10 component types overall.",
-  "What is the BOD match vs mismatch breakdown?",
-  "Which projects have the most distinct manufacturers?",
+  "Show me Energy Recovery Unit market share by manufacturer as a pie chart.",
+  "What manufacturers are specified for Dedicated Outdoor-Air Units (DOAS)?",
+  "Compare Packaged Rooftop Units vs Energy Recovery Units vs DOAS by total item count.",
+  "BOD match vs mismatch rate across the dataset",
+  "Which projects use the most Packaged Rooftop Units?",
   "Show me a pie chart of equipment share for the top 6 manufacturers.",
-  "List the projects sorted by equipment count as a table.",
+  "List the top 10 component types overall as a table.",
 ];
 
 export default function QueriesPage() {

@@ -2,7 +2,7 @@
 
 import { ReactNode, useMemo, useState } from "react";
 import clsx from "clsx";
-import { ArrowDown, ArrowUp, Search } from "lucide-react";
+import { ArrowDown, ArrowUp, ChevronDown, ChevronRight, Search } from "lucide-react";
 
 export type Column<T> = {
   key: string;
@@ -21,6 +21,8 @@ export function DataTable<T extends Record<string, any>>({
   searchPlaceholder = "Search…",
   pageSize = 25,
   emptyText = "No matching rows.",
+  rowKey,
+  renderExpanded,
 }: {
   data: T[];
   columns: Column<T>[];
@@ -28,11 +30,16 @@ export function DataTable<T extends Record<string, any>>({
   searchPlaceholder?: string;
   pageSize?: number;
   emptyText?: string;
+  /** Stable id accessor; required for accordion rows. */
+  rowKey?: (row: T) => string;
+  /** If provided, each row becomes expandable. Receives the row, returns the panel. */
+  renderExpanded?: (row: T) => ReactNode;
 }) {
   const [query, setQuery] = useState("");
   const [sortKey, setSortKey] = useState<string | null>(null);
   const [sortDir, setSortDir] = useState<"asc" | "desc">("asc");
   const [page, setPage] = useState(0);
+  const [expanded, setExpanded] = useState<Record<string, boolean>>({});
 
   const filtered = useMemo(() => {
     let rows = data;
@@ -115,6 +122,9 @@ export function DataTable<T extends Record<string, any>>({
         <table className="min-w-full text-detail">
           <thead className="bg-neutral-50 text-neutral-600">
             <tr>
+              {renderExpanded && (
+                <th className="w-10 border-b border-neutral-200 px-2 py-3" />
+              )}
               {columns.map((c) => (
                 <th
                   key={c.key}
@@ -144,38 +154,82 @@ export function DataTable<T extends Record<string, any>>({
             {pageRows.length === 0 ? (
               <tr>
                 <td
-                  colSpan={columns.length}
+                  colSpan={columns.length + (renderExpanded ? 1 : 0)}
                   className="px-4 py-10 text-center text-detail text-neutral-500"
                 >
                   {emptyText}
                 </td>
               </tr>
             ) : (
-              pageRows.map((row, i) => (
-                <tr
-                  key={i}
-                  className="border-b border-neutral-100 last:border-0 hover:bg-neutral-50"
-                >
-                  {columns.map((c) => (
-                    <td
-                      key={c.key}
+              pageRows.map((row, i) => {
+                const id = rowKey ? rowKey(row) : String(i);
+                const isOpen = !!expanded[id];
+                return (
+                  <>
+                    <tr
+                      key={id}
                       className={clsx(
-                        "px-4 py-3 align-middle text-neutral-800",
-                        c.className
+                        "border-b border-neutral-100 last:border-0 hover:bg-neutral-50",
+                        renderExpanded && "cursor-pointer"
                       )}
+                      onClick={
+                        renderExpanded
+                          ? () =>
+                              setExpanded((e) => ({ ...e, [id]: !e[id] }))
+                          : undefined
+                      }
                     >
-                      {c.render
-                        ? c.render(row)
-                        : (() => {
-                            const acc =
-                              c.accessor ||
-                              ((r: T) => (r as any)[c.key] as ReactNode);
-                            return acc(row) as ReactNode;
-                          })()}
-                    </td>
-                  ))}
-                </tr>
-              ))
+                      {renderExpanded && (
+                        <td className="w-10 px-2 py-3 align-middle">
+                          <button
+                            type="button"
+                            aria-label={isOpen ? "Collapse" : "Expand"}
+                            onClick={(ev) => {
+                              ev.stopPropagation();
+                              setExpanded((e) => ({ ...e, [id]: !e[id] }));
+                            }}
+                            className="inline-flex h-6 w-6 items-center justify-center rounded-md text-neutral-500 hover:bg-neutral-100 hover:text-bv-blue-400"
+                          >
+                            {isOpen ? (
+                              <ChevronDown className="h-4 w-4" />
+                            ) : (
+                              <ChevronRight className="h-4 w-4" />
+                            )}
+                          </button>
+                        </td>
+                      )}
+                      {columns.map((c) => (
+                        <td
+                          key={c.key}
+                          className={clsx(
+                            "px-4 py-3 align-middle text-neutral-800",
+                            c.className
+                          )}
+                        >
+                          {c.render
+                            ? c.render(row)
+                            : (() => {
+                                const acc =
+                                  c.accessor ||
+                                  ((r: T) => (r as any)[c.key] as ReactNode);
+                                return acc(row) as ReactNode;
+                              })()}
+                        </td>
+                      ))}
+                    </tr>
+                    {renderExpanded && isOpen && (
+                      <tr key={`${id}-x`} className="bg-neutral-50">
+                        <td
+                          colSpan={columns.length + 1}
+                          className="border-b border-neutral-100 px-6 py-4"
+                        >
+                          {renderExpanded(row)}
+                        </td>
+                      </tr>
+                    )}
+                  </>
+                );
+              })
             )}
           </tbody>
         </table>

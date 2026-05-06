@@ -6,9 +6,9 @@ import { DataTable, type Column } from "@/components/data-table";
 import { Badge } from "@/components/ui";
 import { EquipmentSpecsPanel } from "@/components/equipment-specs-panel";
 
-type Row = Equipment & { specCount: number };
+type Row = Equipment & { projectName: string };
 
-export function ProjectEquipmentTable({ rows }: { rows: Row[] }) {
+export function HvacFocusTable({ rows }: { rows: Row[] }) {
   const columns: Column<Row>[] = [
     {
       key: "tag",
@@ -38,25 +38,33 @@ export function ProjectEquipmentTable({ rows }: { rows: Row[] }) {
         ),
     },
     {
-      key: "packageName",
-      header: "Package",
+      key: "manufacturer",
+      header: "Specified",
       sortable: true,
-      accessor: (r) => r.packageName || "",
+      accessor: (r) => r.manufacturer || "",
       render: (r) => (
-        <span className="text-neutral-600">{r.packageName || "—"}</span>
+        <span className="font-bold text-neutral-800">
+          {r.manufacturer || "—"}
+        </span>
       ),
     },
     {
-      key: "manufacturer",
-      header: "Manufacturer",
+      key: "bodManufacturer",
+      header: "BOD",
       sortable: true,
-      accessor: (r) => r.manufacturer || "",
-      render: (r) =>
-        r.manufacturer ? (
-          <span className="font-bold text-neutral-800">{r.manufacturer}</span>
-        ) : (
-          <span className="text-neutral-400">—</span>
-        ),
+      accessor: (r) => r.bodManufacturer || "",
+      render: (r) => {
+        if (!r.bodManufacturer) return <span className="text-neutral-400">—</span>;
+        const match =
+          r.manufacturer &&
+          r.bodManufacturer.trim().toLowerCase() ===
+            r.manufacturer.trim().toLowerCase();
+        return (
+          <Badge tone={match ? "green" : "yellow"}>
+            {r.bodManufacturer}
+          </Badge>
+        );
+      },
     },
     {
       key: "componentModel",
@@ -68,28 +76,34 @@ export function ProjectEquipmentTable({ rows }: { rows: Row[] }) {
       ),
     },
     {
-      key: "specCount",
-      header: "Specs",
+      key: "projectName",
+      header: "Project",
       sortable: true,
-      accessor: (r) => r.specCount,
+      accessor: (r) => r.projectName,
       render: (r) => (
-        <span className="text-neutral-600">{r.specCount}</span>
+        <Link
+          href={`/projects/${r.projectId}`}
+          className="text-neutral-700 hover:text-bv-blue-400"
+        >
+          {r.projectName}
+        </Link>
       ),
-      width: "80px",
     },
   ];
+
   return (
     <DataTable
       data={rows}
       columns={columns}
       searchKeys={[
         "tag",
-        "componentTypeName",
-        "packageName",
         "manufacturer",
+        "bodManufacturer",
         "componentModel",
+        "componentTypeName",
+        "projectName",
       ]}
-      searchPlaceholder="Search by tag, type, manufacturer, model…"
+      searchPlaceholder="Search tag, manufacturer, model…"
       pageSize={25}
       rowKey={(r) => r.id}
       renderExpanded={(r) => <EquipmentSpecsPanel equipmentId={r.id} />}

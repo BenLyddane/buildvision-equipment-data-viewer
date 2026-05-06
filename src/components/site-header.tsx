@@ -9,6 +9,7 @@ const navItems = [
   { href: "/", label: "Dashboard" },
   { href: "/projects", label: "Projects" },
   { href: "/equipment", label: "Equipment" },
+  { href: "/hvac", label: "RTU · DOAS · ERU" },
   { href: "/manufacturers", label: "Manufacturers" },
   { href: "/component-types", label: "Component Types" },
   { href: "/insights", label: "Insights" },

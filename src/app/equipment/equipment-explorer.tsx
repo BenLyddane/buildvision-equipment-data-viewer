@@ -5,6 +5,7 @@ import { useMemo, useState } from "react";
 import type { Equipment } from "@/data/types";
 import { DataTable, type Column } from "@/components/data-table";
 import { Badge } from "@/components/ui";
+import { EquipmentSpecsPanel } from "@/components/equipment-specs-panel";
 
 type Row = Equipment & { projectName: string };
 
@@ -152,6 +153,8 @@ export function EquipmentExplorer({ rows }: { rows: Row[] }) {
         ]}
         searchPlaceholder="Search tag, manufacturer, model…"
         pageSize={50}
+        rowKey={(r) => r.id}
+        renderExpanded={(r) => <EquipmentSpecsPanel equipmentId={r.id} />}
       />
     </div>
   );

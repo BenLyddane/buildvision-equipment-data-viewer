@@ -54,10 +54,16 @@ export function EquipmentSpecsPanel({
     );
   }
 
-  // Group by category
+  // Skip rows that are completely empty (no type AND no value)
+  const cleaned = reqs.filter(
+    (r) =>
+      (r.type && r.type.trim()) || (r.value && r.value.trim()) || r.optionName
+  );
+
+  // Group by category — use a friendly bucket for missing category
   const grouped = new Map<string, Requirement[]>();
-  for (const r of reqs) {
-    const k = r.category || "General";
+  for (const r of cleaned) {
+    const k = (r.category && r.category.trim()) || "General";
     const arr = grouped.get(k) || [];
     arr.push(r);
     grouped.set(k, arr);
@@ -79,13 +85,13 @@ export function EquipmentSpecsPanel({
               <Badge tone="neutral">{items.length}</Badge>
             </div>
             <dl className="divide-y divide-neutral-100">
-              {items.map((r) => (
+              {items.map((r, i) => (
                 <div
-                  key={r.specId}
-                  className="grid grid-cols-2 gap-3 py-1.5 text-detail"
+                  key={`${r.specId}-${i}`}
+                  className="grid grid-cols-[1fr_auto] gap-3 py-1.5 text-detail"
                 >
                   <dt className="text-neutral-500">{r.type || "—"}</dt>
-                  <dd className="font-bold text-neutral-800">
+                  <dd className="text-right font-bold text-neutral-800">
                     {r.value || r.optionName || "—"}{" "}
                     {r.unit && (
                       <span className="font-normal text-neutral-500">

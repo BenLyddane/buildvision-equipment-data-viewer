@@ -40,15 +40,10 @@ export default function DashboardPage() {
   }));
 
   // ---- Vendor Spotlight ----
-  // Pick the manufacturer with the largest BOD footprint where we also have
-  // a strong specified count (so the win-rate is interesting).
+  // Spotlight Greenheck (BuildVision's client). Falls back to the largest
+  // BOD-footprint manufacturer if Greenheck isn't in the dataset.
   const spotlight =
-    manufacturers
-      .filter((m) => (m.bodCount || 0) >= 50 && m.count >= 50)
-      .sort(
-        (a, b) =>
-          (b.bodCount + b.count) / 2 - (a.bodCount + a.count) / 2
-      )[0] || manufacturers[0];
+    manufacturers.find((m) => m.name === "Greenheck") || manufacturers[0];
   const spotlightProjectCoverage = spotlight
     ? Math.round((spotlight.projectCount / totals.projects) * 100)
     : 0;
@@ -87,13 +82,23 @@ export default function DashboardPage() {
                 <p className="text-h2 font-bold leading-tight text-neutral-900">
                   {spotlight.name}
                 </p>
+                <p className="mt-1 text-detail font-bold uppercase tracking-wide text-bv-purple-700">
+                  Client
+                </p>
                 <p className="mt-2 text-body-sm text-neutral-700">
-                  Most active vendor in the dataset across {spotlight.projectCount} of{" "}
-                  {totals.projects} projects ({spotlightProjectCoverage}% coverage)
+                  Specified <span className="font-bold">{spotlight.count}</span>{" "}
+                  times across{" "}
+                  <span className="font-bold">
+                    {spotlight.projectCount} of {totals.projects} projects
+                  </span>{" "}
+                  ({spotlightProjectCoverage}% coverage)
                   {spotlightWinPct != null && (
                     <>
-                      , with a <span className="font-bold">{spotlightWinPct}% BOD-to-spec win rate</span> on{" "}
-                      {spotlight.bodCount} basis-of-design line items.
+                      , with a{" "}
+                      <span className="font-bold">
+                        {spotlightWinPct}% BOD-to-spec retention rate
+                      </span>{" "}
+                      on {spotlight.bodCount} basis-of-design line items.
                     </>
                   )}
                 </p>

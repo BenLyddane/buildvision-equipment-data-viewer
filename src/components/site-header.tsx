@@ -12,6 +12,7 @@ const navItems = [
   { href: "/hvac", label: "RTU · DOAS · ERU" },
   { href: "/manufacturers", label: "Manufacturers" },
   { href: "/component-types", label: "Component Types" },
+  { href: "/spec-types", label: "Spec Types" },
   { href: "/insights", label: "Insights" },
   { href: "/queries", label: "Ask AI" },
 ];

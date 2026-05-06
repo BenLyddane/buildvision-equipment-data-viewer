@@ -607,6 +607,173 @@ function main() {
     `[build-data] flattened specs: total=${requirementSpecCount} withType=${requirementSpecWithType} withValue=${requirementSpecWithValue}`
   );
 
+  // ---- Spec-type aggregates ----
+  // Per (canonical type → spec type) rollup: count, sample values, numeric stats.
+  type SpecTypeStat = {
+    type: string;
+    canonicalType: string;
+    componentType: string | null;
+    count: number;
+    distinctEquipment: number;
+    distinctValues: number;
+    units: Map<string, number>;
+    categories: Map<string, number>;
+    numericCount: number;
+    numericMin: number | null;
+    numericMax: number | null;
+    numericSum: number;
+    sampleValues: Map<string, number>;
+    optionCounts: Map<string, number>; // for boolean-y / option specs
+    equipmentIds: Set<string>;
+  };
+
+  function ensureSpecStat(map: Map<string, SpecTypeStat>, key: string, init: () => SpecTypeStat) {
+    let s = map.get(key);
+    if (!s) {
+      s = init();
+      map.set(key, s);
+    }
+    return s;
+  }
+
+  // We'll roll up spec types two ways:
+  //   (a) global by `type` only
+  //   (b) per canonical category × type
+  const eqIndex = new Map(equipmentOut.map((e) => [e.id, e]));
+  const specByType = new Map<string, SpecTypeStat>();
+  const specByCanonAndType = new Map<string, SpecTypeStat>();
+
+  for (const [eqId, flats] of Object.entries(requirementsByEquipment)) {
+    const e = eqIndex.get(eqId);
+    const canon = e?.canonicalType || "Other";
+    const compType = e?.componentTypeName || null;
+    for (const f of flats) {
+      if (!f.type) continue;
+      const t = f.type.trim();
+      if (!t) continue;
+      // global by type
+      const g = ensureSpecStat(specByType, t, () => ({
+        type: t,
+        canonicalType: "*",
+        componentType: null,
+        count: 0,
+        distinctEquipment: 0,
+        distinctValues: 0,
+        units: new Map(),
+        categories: new Map(),
+        numericCount: 0,
+        numericMin: null,
+        numericMax: null,
+        numericSum: 0,
+        sampleValues: new Map(),
+        optionCounts: new Map(),
+        equipmentIds: new Set(),
+      }));
+      g.count++;
+      g.equipmentIds.add(eqId);
+      if (f.unit) g.units.set(f.unit, (g.units.get(f.unit) || 0) + 1);
+      if (f.category)
+        g.categories.set(f.category, (g.categories.get(f.category) || 0) + 1);
+      if (f.numeric != null) {
+        g.numericCount++;
+        if (g.numericMin == null || f.numeric < g.numericMin)
+          g.numericMin = f.numeric;
+        if (g.numericMax == null || f.numeric > g.numericMax)
+          g.numericMax = f.numeric;
+        g.numericSum += f.numeric;
+      } else if (f.value) {
+        g.sampleValues.set(f.value, (g.sampleValues.get(f.value) || 0) + 1);
+      }
+      if (f.optionName)
+        g.optionCounts.set(
+          f.optionName,
+          (g.optionCounts.get(f.optionName) || 0) + 1
+        );
+
+      // per canonical × type
+      const ck = `${canon}::${t}`;
+      const c = ensureSpecStat(specByCanonAndType, ck, () => ({
+        type: t,
+        canonicalType: canon,
+        componentType: compType,
+        count: 0,
+        distinctEquipment: 0,
+        distinctValues: 0,
+        units: new Map(),
+        categories: new Map(),
+        numericCount: 0,
+        numericMin: null,
+        numericMax: null,
+        numericSum: 0,
+        sampleValues: new Map(),
+        optionCounts: new Map(),
+        equipmentIds: new Set(),
+      }));
+      c.count++;
+      c.equipmentIds.add(eqId);
+      if (f.unit) c.units.set(f.unit, (c.units.get(f.unit) || 0) + 1);
+      if (f.category)
+        c.categories.set(f.category, (c.categories.get(f.category) || 0) + 1);
+      if (f.numeric != null) {
+        c.numericCount++;
+        if (c.numericMin == null || f.numeric < c.numericMin)
+          c.numericMin = f.numeric;
+        if (c.numericMax == null || f.numeric > c.numericMax)
+          c.numericMax = f.numeric;
+        c.numericSum += f.numeric;
+      } else if (f.value) {
+        c.sampleValues.set(f.value, (c.sampleValues.get(f.value) || 0) + 1);
+      }
+      if (f.optionName)
+        c.optionCounts.set(
+          f.optionName,
+          (c.optionCounts.get(f.optionName) || 0) + 1
+        );
+    }
+  }
+
+  // Finalize: distinct counts and serializable shape
+  function finalizeStat(s: SpecTypeStat) {
+    return {
+      type: s.type,
+      canonicalType: s.canonicalType,
+      componentType: s.componentType,
+      count: s.count,
+      distinctEquipment: s.equipmentIds.size,
+      numeric: s.numericCount
+        ? {
+            count: s.numericCount,
+            min: s.numericMin,
+            max: s.numericMax,
+            avg: s.numericSum / s.numericCount,
+          }
+        : null,
+      topUnits: [...s.units.entries()]
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5)
+        .map(([name, count]) => ({ name, count })),
+      topCategories: [...s.categories.entries()]
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5)
+        .map(([name, count]) => ({ name, count })),
+      topOptions: [...s.optionCounts.entries()]
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5)
+        .map(([name, count]) => ({ name, count })),
+      sampleValues: [...s.sampleValues.entries()]
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 8)
+        .map(([value, count]) => ({ value, count })),
+    };
+  }
+
+  const specTypes = [...specByType.values()]
+    .sort((a, b) => b.count - a.count)
+    .map(finalizeStat);
+  const specTypeByCanon = [...specByCanonAndType.values()]
+    .sort((a, b) => b.count - a.count)
+    .map(finalizeStat);
+
   // ---- Aggregates ----
   const manufacturerCounts = new Map<string, number>();
   const bodManufacturerCounts = new Map<string, number>();
@@ -923,6 +1090,10 @@ function main() {
   fs.writeFileSync(
     path.join(OUT_DIR, "manufacturers.json"),
     JSON.stringify(perManufacturerSummary)
+  );
+  fs.writeFileSync(
+    path.join(OUT_DIR, "spec-types.json"),
+    JSON.stringify({ global: specTypes, byCanonical: specTypeByCanon })
   );
   fs.writeFileSync(
     path.join(OUT_DIR, "dataset-summary.json"),

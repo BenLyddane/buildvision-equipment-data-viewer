@@ -16,57 +16,31 @@ export const metadata = {
 type Focus = {
   key: "rtu" | "doas" | "eru";
   label: string;
+  canonical: string;
   description: string;
-  match: (componentType: string | null, pkg: string | null) => boolean;
 };
 
 const FOCUSES: Focus[] = [
   {
     key: "rtu",
     label: "Packaged Rooftop Units",
+    canonical: "Packaged Rooftop Unit",
     description:
       "Packaged Rooftop Air-Conditioning Units (RTUs), DX-cooling/gas-heat or heat-pump variants.",
-    match: (ct, pkg) => {
-      const t = `${ct || ""} ${pkg || ""}`.toLowerCase();
-      return (
-        t.includes("packaged rooftop") ||
-        t.includes("rooftop air-conditioning") ||
-        t.includes("rooftop unit") ||
-        t.includes("rtu schedule") ||
-        t.includes("rooftop heat pump") ||
-        t.includes("roof-top heat pump")
-      );
-    },
   },
   {
     key: "doas",
     label: "Dedicated Outdoor-Air Units (DOAS)",
+    canonical: "Dedicated Outdoor-Air Unit (DOAS)",
     description:
       "Dedicated Outdoor-Air Units / Dedicated Outdoor Air Systems used for ventilation.",
-    match: (ct, pkg) => {
-      const t = `${ct || ""} ${pkg || ""}`.toLowerCase();
-      return (
-        t.includes("dedicated outdoor") ||
-        t.includes("dedicated outdoor air") ||
-        t.includes("doas") ||
-        t.includes("outdoor air unit")
-      );
-    },
   },
   {
     key: "eru",
     label: "Energy Recovery Units",
+    canonical: "Energy Recovery Unit",
     description:
       "Energy Recovery Units / wheels — heat or enthalpy recovery between supply and exhaust air.",
-    match: (ct, pkg) => {
-      const t = `${ct || ""} ${pkg || ""}`.toLowerCase();
-      return (
-        t.includes("energy recovery") ||
-        t.includes("energy-recovery") ||
-        t.includes("erv") ||
-        t.includes(" eru")
-      );
-    },
   },
 ];
 
@@ -77,11 +51,11 @@ function formatNum(n: number) {
 export default function HvacFocusPage() {
   const projById = new Map(projects.map((p) => [p.id, p.name]));
 
-  // Categorize equipment into the three buckets
+  // Categorize equipment using the canonical type from the build pipeline
   const buckets = FOCUSES.map((f) => ({
     focus: f,
     items: equipment
-      .filter((e) => f.match(e.componentTypeName, e.packageName))
+      .filter((e) => e.canonicalType === f.canonical)
       .map((e) => ({ ...e, projectName: projById.get(e.projectId) || e.projectId })),
   }));
 

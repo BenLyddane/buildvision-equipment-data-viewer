@@ -7,7 +7,7 @@ export function PageTitle({
   title,
   description,
 }: {
-  eyebrow?: string;
+  eyebrow?: React.ReactNode;
   title: string;
   description?: string;
 }) {

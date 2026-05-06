@@ -3,10 +3,12 @@ import {
   Boxes,
   Factory,
   Layers,
+  Sparkles,
   TrendingUp,
 } from "lucide-react";
-import { aggregates, projects } from "@/data/load";
-import { Card, PageTitle, SectionTitle, StatCard, BVLink } from "@/components/ui";
+import { aggregates, manufacturers, projects } from "@/data/load";
+import { manufacturerSlug } from "@/data/load";
+import { Badge, Card, PageTitle, SectionTitle, StatCard, BVLink } from "@/components/ui";
 import { HBarChart, VBarChart, TimeSeriesChart } from "@/components/charts";
 
 function formatNumber(n: number) {
@@ -37,6 +39,33 @@ export default function DashboardPage() {
     count: row.count,
   }));
 
+  // ---- Vendor Spotlight ----
+  // Pick the manufacturer with the largest BOD footprint where we also have
+  // a strong specified count (so the win-rate is interesting).
+  const spotlight =
+    manufacturers
+      .filter((m) => (m.bodCount || 0) >= 50 && m.count >= 50)
+      .sort(
+        (a, b) =>
+          (b.bodCount + b.count) / 2 - (a.bodCount + a.count) / 2
+      )[0] || manufacturers[0];
+  const spotlightProjectCoverage = spotlight
+    ? Math.round((spotlight.projectCount / totals.projects) * 100)
+    : 0;
+  const spotlightWhitespaceCount = spotlight
+    ? totals.projects - spotlight.projectCount
+    : 0;
+  const spotlightWinPct =
+    spotlight && spotlight.winRate != null
+      ? Math.round(spotlight.winRate * 100)
+      : null;
+  const spotlightTopCanonical = spotlight?.canonicalTypes.slice(0, 5) || [];
+
+  // ---- Category Competitive Set: top 5 canonical categories by total ----
+  const competitive = aggregates.canonicalMarketShare
+    .filter((c) => c.totalSpecified >= 25)
+    .slice(0, 6);
+
   return (
     <div className="space-y-12">
       <PageTitle
@@ -44,6 +73,89 @@ export default function DashboardPage() {
         title="Equipment data across all projects"
         description="High-level view of HVAC/MEP equipment schedules extracted from construction bid packages — projects, manufacturers, component types, and specifications at a glance."
       />
+
+      {/* Vendor Spotlight */}
+      {spotlight && (
+        <section>
+          <Card className="border-bv-blue-300 bg-gradient-to-br from-bv-blue-100 to-white">
+            <div className="flex items-center gap-2 text-detail font-bold uppercase tracking-wide text-bv-blue-400">
+              <Sparkles className="h-4 w-4" />
+              Vendor Spotlight
+            </div>
+            <div className="mt-3 grid grid-cols-1 gap-6 lg:grid-cols-3">
+              <div className="lg:col-span-1">
+                <p className="text-h2 font-bold leading-tight text-neutral-900">
+                  {spotlight.name}
+                </p>
+                <p className="mt-2 text-body-sm text-neutral-700">
+                  Most active vendor in the dataset across {spotlight.projectCount} of{" "}
+                  {totals.projects} projects ({spotlightProjectCoverage}% coverage)
+                  {spotlightWinPct != null && (
+                    <>
+                      , with a <span className="font-bold">{spotlightWinPct}% BOD-to-spec win rate</span> on{" "}
+                      {spotlight.bodCount} basis-of-design line items.
+                    </>
+                  )}
+                </p>
+                <p className="mt-2 text-detail text-neutral-600">
+                  {spotlightWhitespaceCount > 0 && (
+                    <>
+                      Whitespace: <span className="font-bold">{spotlightWhitespaceCount} projects</span> in this
+                      corpus do not specify them at all.
+                    </>
+                  )}
+                </p>
+                <BVLink
+                  href={`/manufacturers/${manufacturerSlug(spotlight.name)}`}
+                  className="mt-4 inline-flex items-center gap-1 text-detail font-bold"
+                >
+                  Open vendor deep-dive →
+                </BVLink>
+              </div>
+              <div className="lg:col-span-2 grid grid-cols-2 gap-4 md:grid-cols-4">
+                <StatCard
+                  label="Specified"
+                  value={spotlight.count}
+                  hint="line items"
+                  accent="blue"
+                />
+                <StatCard
+                  label="Basis of Design"
+                  value={spotlight.bodCount}
+                  hint="BOD entries"
+                  accent="purple"
+                />
+                <StatCard
+                  label="BOD win rate"
+                  value={spotlightWinPct != null ? `${spotlightWinPct}%` : "—"}
+                  hint={`${spotlight.bodMatchSelf}/${spotlight.bodCount} held`}
+                  accent="green"
+                />
+                <StatCard
+                  label="Project coverage"
+                  value={`${spotlightProjectCoverage}%`}
+                  hint={`${spotlight.projectCount}/${totals.projects} projects`}
+                  accent="yellow"
+                />
+                {spotlightTopCanonical.length > 0 && (
+                  <div className="md:col-span-4">
+                    <p className="mb-1 text-micro font-bold uppercase tracking-wide text-neutral-500">
+                      Top categories
+                    </p>
+                    <div className="flex flex-wrap gap-2">
+                      {spotlightTopCanonical.map((c) => (
+                        <Badge key={c.name} tone="blue">
+                          {c.name} · {c.count}
+                        </Badge>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+            </div>
+          </Card>
+        </section>
+      )}
 
       {/* KPIs */}
       <section className="grid grid-cols-2 gap-4 md:grid-cols-5">
@@ -136,6 +248,73 @@ export default function DashboardPage() {
           )}
         </Card>
       </section>
+
+      {/* Category Competitive Set */}
+      {competitive.length > 0 && (
+        <section>
+          <SectionTitle
+            title="Category competitive set"
+            action={
+              <BVLink href="/insights" className="text-detail font-bold">
+                Full insights →
+              </BVLink>
+            }
+          />
+          <p className="mb-4 text-detail text-neutral-500">
+            Who leads each canonical HVAC category, after consolidating
+            schedule-name variants and normalizing manufacturer names.
+          </p>
+          <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
+            {competitive.map((cat) => {
+              const top3 = cat.top.slice(0, 3);
+              const totalTop3 = top3.reduce((a, b) => a + b.count, 0);
+              return (
+                <Card key={cat.type}>
+                  <div className="mb-2 flex items-baseline justify-between">
+                    <p className="text-body-sm font-bold text-neutral-900">
+                      {cat.type}
+                    </p>
+                    <p className="text-detail text-neutral-500">
+                      {cat.totalSpecified} specified
+                    </p>
+                  </div>
+                  <ul className="space-y-2">
+                    {top3.map((m, i) => {
+                      const pct =
+                        cat.totalSpecified > 0
+                          ? Math.round(
+                              (m.count / cat.totalSpecified) * 100
+                            )
+                          : 0;
+                      return (
+                        <li key={m.key}>
+                          <div className="mb-1 flex items-center justify-between text-detail">
+                            <BVLink
+                              href={`/manufacturers/${manufacturerSlug(m.key)}`}
+                              className="!text-neutral-800 font-bold hover:!text-bv-blue-400 !no-underline"
+                            >
+                              {i + 1}. {m.key}
+                            </BVLink>
+                            <span className="font-bold text-neutral-700">
+                              {pct}%
+                            </span>
+                          </div>
+                          <div className="h-1.5 w-full overflow-hidden rounded-full bg-neutral-100">
+                            <div
+                              className="h-full rounded-full bg-bv-blue-400"
+                              style={{ width: `${pct}%` }}
+                            />
+                          </div>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                </Card>
+              );
+            })}
+          </div>
+        </section>
+      )}
 
       {/* Quick links */}
       <section className="grid grid-cols-2 gap-4 md:grid-cols-4">

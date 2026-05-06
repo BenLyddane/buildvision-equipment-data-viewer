@@ -1,7 +1,9 @@
 "use client";
 
+import Link from "next/link";
 import { DataTable, type Column } from "@/components/data-table";
 import { Badge } from "@/components/ui";
+import { manufacturerSlug } from "@/data/load";
 
 type Row = {
   name: string;
@@ -20,7 +22,12 @@ export function ManufacturersExplorer({ rows }: { rows: Row[] }) {
       sortable: true,
       accessor: (r) => r.name,
       render: (r) => (
-        <span className="font-bold text-neutral-900">{r.name}</span>
+        <Link
+          href={`/manufacturers/${manufacturerSlug(r.name)}`}
+          className="font-bold text-neutral-900 hover:text-bv-blue-400"
+        >
+          {r.name}
+        </Link>
       ),
     },
     {

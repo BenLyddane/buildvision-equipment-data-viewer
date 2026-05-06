@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a9fe4e71-873a-41f4-9239-87e58405caef,CU-3,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,cdca2795-c32b-4b38-8df5-8d871fc2f2bb,RZA30AAVJU,RZA30AAVJU,Daikin AC,Daikin AC
+4dd00f87-7619-45df-8081-e08665e287cf,CU-1,6e8977c7-aa28-4436-9fa4-2e23e0d5d07e,VRF Outdoor Units,0,990154da-f0e9-4d29-8f87-1c9e7933349f,RXLA48AAVJU,RXLA48AAVJU,Daikin AC,Daikin AC
+17da6878-5047-45fb-a19a-f5c8b0180128,CU-4,6e8977c7-aa28-4436-9fa4-2e23e0d5d07e,VRF Outdoor Units,0,de13b893-5e85-4a2d-a674-d34454732851,RKF09AXVJU,RKF09AXVJU,Daikin AC,Daikin AC
+7f04268e-432a-49c8-8bc6-0f41fb255505,CU-2,6e8977c7-aa28-4436-9fa4-2e23e0d5d07e,VRF Outdoor Units,0,990154da-f0e9-4d29-8f87-1c9e7933349f,RXLA48AAVJU,RXLA48AAVJU,Daikin AC,Daikin AC

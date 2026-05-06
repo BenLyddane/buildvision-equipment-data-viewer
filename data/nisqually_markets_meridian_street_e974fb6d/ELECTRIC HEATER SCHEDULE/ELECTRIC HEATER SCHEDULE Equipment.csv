@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+0c0fcc79-92ee-4546-984c-6be87531fb08,EH-1,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,1,97e51bd8-d32d-4d43-aa40-eba48cfabbed,PAW-2022,PAW-2022,Air King,Air King

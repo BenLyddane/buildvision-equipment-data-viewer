@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+124055ae-e802-4fce-9574-1194b9e72ef3,DHU-1,83d0c691-a32c-47fa-8ba9-311bb3cc653e,Humidifiers,0,4738604d-22f9-40c6-a214-b3a92295b248,US-20,US-20,Condair,Condair

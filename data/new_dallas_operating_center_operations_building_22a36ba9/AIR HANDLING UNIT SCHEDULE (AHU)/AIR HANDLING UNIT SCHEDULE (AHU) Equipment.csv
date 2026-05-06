@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+8b4230e8-9bd1-4ed8-9834-80520b801c92,AHU-2,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,8525ce3f-9574-4f83-ab79-6aa148a6e740,CSAA Series Performance Climate Changer,CSAA,Trane,Trane

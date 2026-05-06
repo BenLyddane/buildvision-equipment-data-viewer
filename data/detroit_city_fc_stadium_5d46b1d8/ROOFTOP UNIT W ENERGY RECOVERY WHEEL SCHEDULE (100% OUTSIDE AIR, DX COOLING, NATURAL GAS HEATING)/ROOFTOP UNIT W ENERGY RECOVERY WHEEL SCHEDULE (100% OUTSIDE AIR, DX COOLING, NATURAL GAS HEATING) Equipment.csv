@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+ce9da899-d01a-4b15-b278-310a1b069ac0,RTU W1-3,ddc581d3-3e59-400c-acca-3ad1592cfd83,DOAS with Energy Recovery,0,cc3a1beb-f53d-40ac-81c6-48b3b3d172cf,OADG020C3,OADG020C3,Trane,Trane
+ffd4ef00-af2a-4aa4-91e2-6eb7d319a66b,RTU SE1-1,ddc581d3-3e59-400c-acca-3ad1592cfd83,DOAS with Energy Recovery,0,992c6d95-4d4a-41ef-932b-a217285f866d,OAND540A4,OAND540A4,Trane,Trane
+afb2e81e-2151-4c52-a865-621be5540e28,RTU W1-1,ddc581d3-3e59-400c-acca-3ad1592cfd83,DOAS with Energy Recovery,0,f75e0897-5d87-4305-ba14-eadfeef70cc3,OADG025C3,OADG025C3,Trane,Trane
+71542c4f-8307-4445-abae-2599c5ebfe13,DOAS W4-1,ddc581d3-3e59-400c-acca-3ad1592cfd83,DOAS with Energy Recovery,0,8d13d101-f1e5-4553-bb00-12c306838fbb,OABD108A4,OABD108A4,Trane,Trane

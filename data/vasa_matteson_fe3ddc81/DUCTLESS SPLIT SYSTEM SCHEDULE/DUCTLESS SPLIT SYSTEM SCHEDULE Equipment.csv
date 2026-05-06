@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d6a21ade-f81c-4362-9b39-181765501c2f,FCU-1,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,1,ec05ebf1-8b76-45fb-b94d-2b3bc3ee0cdd,FTX18NVJU,FTX18NVJU,Daikin Comfort Technologies (VRV and Mini Split),Daikin Comfort Technologies (VRV and Mini Split)

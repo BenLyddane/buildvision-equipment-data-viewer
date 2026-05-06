@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+2e77c276-cbe5-45fe-b780-8e591928c84a,WH-1,18d25db1-7296-4141-91f9-3ab7e83168fb,Gas-Fired Water Heaters,0,1da4e36d-e328-45da-9043-9a08cd09a143,BTH-120,BTH-120,A.O Smith,

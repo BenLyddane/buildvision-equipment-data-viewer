@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+953c6e1d-9f84-467d-9279-971d5d26f1d9,DHU-1,c277ac7c-ca6a-4eec-9ba7-5ba6ef144aa3,Dehumidifiers,0,ff2eaa98-c59b-4b0a-9866-804aad8be2c2,DA-2400,DA-2400,Condair,Condair

@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+afc0ceb5-edf5-441f-8e08-d89393ea35be,FCU-3,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,37b33e16-d07b-4c08-b533-d2d5aca4656a,UCCAA06A0G,UCCAA06A0G,Trane,Trane
+bd65994b-795a-4edc-ad85-241a226abea9,AHU-3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,1fcf6b75-11b7-465c-b313-0f40ba0046d5,CSAA017,CSAA017,Trane,Trane
+835a8b7f-665c-4f45-bfc4-8cfd68cac558,FCU-2,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,37b33e16-d07b-4c08-b533-d2d5aca4656a,UCCAA06A0G,UCCAA06A0G,Trane,Trane
+b15a0e38-3c0b-48b1-b1c4-8ac41a0dc13e,AHU-4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,1fcf6b75-11b7-465c-b313-0f40ba0046d5,CSAA017,CSAA017,Trane,Trane

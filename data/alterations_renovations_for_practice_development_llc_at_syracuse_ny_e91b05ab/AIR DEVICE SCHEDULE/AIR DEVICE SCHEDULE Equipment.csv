@@ -1,0 +1,8 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+8e19feb2-00bf-4779-9db9-82cc487128e8,E-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+bc95e438-7cb6-44ed-81c0-b2f78e913c14,CD-4,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,7354c364-2d26-44ff-873b-ae2487235541,TDCA 10" Ø NECK,TDCA 10" Ø NECK,Titus,Titus
+eb063124-12b8-42be-9951-24b83e95313a,CD-2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,f170cecc-15c8-4292-8858-50881be6a05f,OMNI 6" Ø NECK,OMNI 6" Ø NECK,Titus,Titus
+e71f4f09-48f7-4c23-b33a-6fc7d2bcf0db,CD-5,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,10288173-2355-410a-968f-474fde3c9654,TDCA 12" Ø NECK,TDCA 12" Ø NECK,Titus,Titus
+be66b0e1-f48e-41ce-8f3c-47f15cda7d3c,CD-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,18c09b92-1ae1-4643-bf95-bbc38fb8ce00,OMNI 4" Ø NECK,OMNI 4" Ø NECK,Titus,Titus
+f21ee345-e88b-4441-9eb4-6145d0af87a8,R-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+2e8c5ff3-5e39-409b-a249-b040cb8eb518,CD-3,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,9063b3c9-1b6c-445a-aa46-c9c43166b46d,OMNI 8" Ø NECK,OMNI 8" Ø NECK,Titus,Titus

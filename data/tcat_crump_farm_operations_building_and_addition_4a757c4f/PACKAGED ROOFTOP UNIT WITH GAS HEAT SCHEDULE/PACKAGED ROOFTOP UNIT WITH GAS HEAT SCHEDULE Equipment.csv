@@ -1,0 +1,12 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+78d96a91-697c-4da0-9873-127d176b5540,RTU-11,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,a1054b1f-8c15-41a4-af91-5287bd848eb6,YSK072,YSK072,Trane,Trane
+21f30006-d35f-4ec9-a085-c5f778c13baf,RTU-6,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,726b7480-dab2-424c-8d19-334d0569454d,VXC-112-PH-15IJ-G2,VXC-112-PH-15IJ-G2,Valent,Valent
+f5a34f11-ddeb-4171-ab88-0e26b651dfaa,RTU-4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,192f78e5-d4e6-4fb0-bfc7-998ff5c9a110,YHK048,YHK048,Trane,Trane
+cf49f233-eb57-40c0-817e-d8fa5eb46914,RTU-5,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,192f78e5-d4e6-4fb0-bfc7-998ff5c9a110,YHK048,YHK048,Trane,Trane
+9a86e88b-02ec-4402-8d7c-a0b817d8c6b2,RTU-9,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,8bbe8a43-422f-44ef-8094-16ee12069796,YSK180,YSK180,Trane,Trane
+cc2c458d-b442-4b45-95e1-37e8d04f7436,RTU-3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,589d98d3-b1a0-4640-b6da-77fd5faf1a01,YHK036,YHK036,Trane,Trane
+8d560376-7d5f-48b2-a72a-b9f1e96f226b,RTU-10,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,589d98d3-b1a0-4640-b6da-77fd5faf1a01,YHK036,YHK036,Trane,Trane
+12259564-5628-4a74-b5ee-a195d31bf840,RTU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,97f0970c-be50-4ae1-9f7e-dd58a0d30ca4,YSK 090,YSK 090,Trane,Trane
+0de464ec-8a20-497e-bc06-6b1bb5a1542a,RTU-8,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,8bbe8a43-422f-44ef-8094-16ee12069796,YSK180,YSK180,Trane,Trane
+7b7f5fea-daad-40f8-a54d-922430d44d93,RTU-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,192f78e5-d4e6-4fb0-bfc7-998ff5c9a110,YHK048,YHK048,Trane,Trane
+2f72d295-f0c3-4ecf-bdb9-f4192f056d2d,RTU-7,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,48c3a93c-a041-4e0d-b82c-239a2ccf0c87,VXC-112-PH-10IC-G2,VXC-112-PH-10IC-G2,Valent,Valent

@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+baaf4098-ae56-489c-a360-0353a7a61131,RCP-1,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,5c2f2039-5081-4ad3-88ec-1a9ae1fffe23,PL-36B,PL-36B,Bell & Gossett,Bell & Gossett

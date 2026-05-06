@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+3421b800-a1ec-438d-8f15-20fd69a03983,ZP-2,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,64c55388-c64a-498c-8276-a0dbdecdefac,MAGNA 40-80 GF,MAGNA 40-80 GF,Grundfos,Grundfos
+106dc89e-edcf-4d87-b50a-a5a5529d633b,ZP-1,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,fd70daa3-2a44-4922-8780-b4aba8c3a9bf,MAGNA 32-120 GF,MAGNA 32-120 GF,Grundfos,Grundfos
+4a2955e2-4c64-4284-b0e5-7ae40cdb8038,BP-1,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,64c55388-c64a-498c-8276-a0dbdecdefac,MAGNA 40-80 GF,MAGNA 40-80 GF,Grundfos,Grundfos

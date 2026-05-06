@@ -1,0 +1,19 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+8c9803e7-103c-4618-a658-66b6228d43cd,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"Service","unit":null,"value":"MAU-01","category":null}",MAU-01,,,Service
+18a57365-2863-424d-8f5f-ba90171859a7,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"Model","unit":null,"value":"RH96/2F","category":null}",RH96/2F,,,Model
+f51c040f-8dbe-4abb-a2a0-6a8b127d36aa,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,"{"kind":"flat","type":"Make","unit":null,"value":"PRICE","category":null}",PRICE,,,Make
+6f231ab6-caa2-4b92-869f-89cf94640278,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"Air Direction","unit":null,"value":"Forward","category":null}",Forward,,,Air Direction
+2e449658-aba7-4d01-b3e5-d33afb03107a,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,e5694989-5ba3-44c3-be0e-8f256f5444da,Flow Capacity,,,,,"{"kind":"flat","type":"CFM","unit":null,"value":"8000","category":null}",8000,,,CFM
+703b3c9a-12ee-4135-b2f6-669ee3d16517,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,,,"{"kind":"flat","type":"Pressure Drop","unit":"W/C","value":"0.25","category":null}",0.25,W/C,,Pressure Drop
+5b9d2f76-e3ab-4aaa-965d-d27291b14a4b,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,c252aa09-1f95-4220-80d9-7d3fc5b1c4fd,Air Velocity,,,,,"{"kind":"flat","type":"Velocity","unit":"FPM","value":"1091","category":null}",1091,FPM,,Velocity
+685f0010-a4c9-4a59-a19c-60c27ba85ee1,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,cc4503ac-3761-46ad-8235-325191dea98f,Width,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,"{"kind":"flat","type":"Width","unit":"in","value":"44","category":"Dimensions"}",44,in,Dimensions,Width
+5ac4577f-ddc6-4ed4-a4d9-aebc81e55691,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,778e1224-58f6-4cb6-af6f-7227bc5c219a,Height,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,"{"kind":"flat","type":"Height","unit":"in","value":"24","category":"Dimensions"}",24,in,Dimensions,Height
+3353229c-97f6-4e25-8abc-cf84292a1979,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,8f849a97-11fb-48e5-86d7-de5a5abacc0c,Length,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,"{"kind":"flat","type":"Length","unit":"in","value":"96","category":"Dimensions"}",96,in,Dimensions,Length
+ee2c228e-a91d-47b8-a52a-46903cb42d6a,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"63","unit":null,"value":"9","category":"Insertion Loss"}",9,,Insertion Loss,63
+cb48e879-5b8e-44a8-a49b-8099d1c92e41,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"125","unit":null,"value":"15","category":"Insertion Loss"}",15,,Insertion Loss,125
+e2172aa1-b21b-4bc9-bb55-d98ad55bcff5,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"250","unit":null,"value":"28","category":"Insertion Loss"}",28,,Insertion Loss,250
+262abf37-5e51-4010-910f-1afc0d2873f5,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"500","unit":null,"value":"50","category":"Insertion Loss"}",50,,Insertion Loss,500
+fdd92dbb-814e-4c58-97fe-d38082b90de8,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"1k","unit":null,"value":"51","category":"Insertion Loss"}",51,,Insertion Loss,1k
+451a046a-1b7c-4bb5-9944-1d613b18ffc2,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"2k","unit":null,"value":"45","category":"Insertion Loss"}",45,,Insertion Loss,2k
+bb054356-07dc-4718-b454-d38903d11c26,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"4k","unit":null,"value":"32","category":"Insertion Loss"}",32,,Insertion Loss,4k
+263f9e2f-de28-4076-948b-c7f42fb195e5,b79749d4-2cd5-4cb8-bdf1-d5824a7ffc39,,,,,,,"{"kind":"flat","type":"8k","unit":null,"value":"21","category":"Insertion Loss"}",21,,Insertion Loss,8k

@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a9feedf6-4b30-42d0-b8c8-a8e06f49fa40,HP-1-5T,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,823c3b44-f32a-486a-b87d-97bc01df6e75,RN-006,RN-006,AAON,AAON
+dd26e466-bdd0-4568-9521-9a9588bf85df,HP-3-3T,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,0,6437628f-2176-4eff-9c1c-abc4d5242613,RQ-003,RQ-003,AAON,AAON
+3c0a99f4-a202-4e4b-9fb9-e74877f98817,HP-4-3T,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,0,6437628f-2176-4eff-9c1c-abc4d5242613,RQ-003,RQ-003,AAON,AAON
+140441c8-d0b8-427f-905f-1e37bbf976db,HP-2-8T,8f0a3c4a-455a-4598-8294-0b49f76e5658,Air-Source Unitary Heat Pumps,0,49218609-924a-4974-9983-acd731d6f8aa,RN-008,RN-008,AAON,AAON
+d72d4dce-1f65-4707-b1fd-f36145f7e73e,"HP-5,6-7T",c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,6fc648a6-cef9-4890-851c-f958e325c7ef,RN-007,RN-007,AAON,AAON
+d8280683-a8fb-400e-94a3-86724e123f8d,HP-A(A1-A41)-30T,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,773c2cdf-7fe2-4012-bd55-b915ac46d23e,RN-030,RN-030,AAON,AAON

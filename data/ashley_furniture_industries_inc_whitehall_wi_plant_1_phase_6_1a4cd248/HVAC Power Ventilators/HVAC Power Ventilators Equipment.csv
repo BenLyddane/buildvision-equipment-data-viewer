@@ -1,0 +1,12 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+3fa263ea-5499-4b19-b594-b4f0e893db96,EF 5,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,977c5d4b-f1cc-45d0-a7f9-953a7d091e1d,300CPS-A (VF2),300CPS-A (VF2),Loren Cook,Loren Cook
+49400b54-5824-4b0e-a814-1c66715777c2,EF 7,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+80d9b530-fbb9-439d-b60e-2194e09d6be9,EF 3,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,95993fe7-f39b-4641-b6a6-52a63dcd142d,150C17D (VF),150C17D (VF),Loren Cook,Loren Cook
+06cdd54d-70a9-4a3e-8b00-143020989c1f,EF 9,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+154f6b67-0eab-4f98-8005-b40ea36b0116,EF 8,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+76914328-ce0a-4485-8d28-5715505d9adc,EF 10,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+1fd75ad0-0706-49a8-9d88-35df13cb3664,EF 4,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,74226f8e-ab1b-4539-91f1-7cdfa34d25e6,245CPS-A (VF2),245CPS-A (VF2),Loren Cook,Loren Cook
+6d5db004-3c66-4966-b0ca-fd52adf36eeb,EF 11,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,c23d888c-9d04-44fa-bf0c-de3d9598ed98,101C17D (VF),101C17D (VF),Loren Cook,Loren Cook
+1e11996f-997c-46ee-a8d9-a679305a9368,EF 1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,2e197347-00c5-44f7-aaec-65e4063ae061,210C17D (VF2),210C17D (VF2),Loren Cook,Loren Cook
+adf104f2-b6f2-4612-9b4b-565cf38e6e0d,EF 2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,95993fe7-f39b-4641-b6a6-52a63dcd142d,150C17D (VF),150C17D (VF),Loren Cook,Loren Cook
+618ed321-a508-4163-9b0d-54dcdd643adb,EF 6,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,2e197347-00c5-44f7-aaec-65e4063ae061,210C17D (VF2),210C17D (VF2),Loren Cook,Loren Cook

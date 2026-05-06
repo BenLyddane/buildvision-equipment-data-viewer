@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+3ee8c874-7f40-4464-9c35-69e250f9cfca,AC-1,522794c3-499d-4366-95f1-89215315c894,Air Curtains,0,12bdd766-9529-455d-aa5b-c95e6ee44b70,STD296-2EHN,STD296-2EHN,Mars Air,Mars Air

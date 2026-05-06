@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+3a3bc196-8a38-4c05-be2b-3b4cd6fa382c,EF-1,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,296eb9e5-e204-4b93-a76e-af666869ee1c,CUE-WALL-090-VG,CUE-WALL-090-VG,Greenheck,Greenheck
+76700463-4402-456f-a063-edba36bcd618,TEF-1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,79711089-1982-4e98-bb50-08ee529ee6e6,G-70-VG,G-70-VG,Greenheck,Greenheck
+02289130-7a3d-470e-b787-fac1c80b27da,HEF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,4a5ea7ab-6f78-415c-a5e4-6214d0edc0a8,FJ-13-B7,FJ-13-B7,Greenheck,Greenheck

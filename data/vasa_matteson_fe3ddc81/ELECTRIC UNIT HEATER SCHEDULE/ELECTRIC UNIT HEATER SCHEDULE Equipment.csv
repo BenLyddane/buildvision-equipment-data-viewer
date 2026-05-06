@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+0b20a586-ac62-472a-b42b-18fc7fe6b91f,EUH-1,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,1,bc1bb5e6-a6c2-4891-b0c6-bdb0bbabf588,HER 30,HER 30,Modine,Modine
+534399ff-ecc0-4b35-b937-3638067b4f31,EUH-2,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,1,bc1bb5e6-a6c2-4891-b0c6-bdb0bbabf588,HER 30,HER 30,Modine,Modine
+c67454fd-76a1-472a-a22e-a311aacb9eaf,EUH-3,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,1,bc1bb5e6-a6c2-4891-b0c6-bdb0bbabf588,HER 30,HER 30,Modine,Modine
+e6cfe73d-fbae-4bc3-be69-234d87e78671,EUH-4,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,1,bc1bb5e6-a6c2-4891-b0c6-bdb0bbabf588,HER 30,HER 30,Modine,Modine

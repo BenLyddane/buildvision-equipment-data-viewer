@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+aaad79af-09df-4dda-86b1-55c6b5be93ec,EF - A (A1-A4),705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,7bac3f02-149f-4d09-87ae-1cd5f99a0c63,G-099-VG,G-099-VG,Greenheck,Greenheck
+d9bd281f-ab42-4eb3-969b-6d5020f110ce,EF - 1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,4070837c-add2-4349-90aa-7ecfaf91d60b,G-143-VG,G-143-VG,Greenheck,Greenheck
+582e4942-fe54-488a-b3ae-e86d73ecbc13,EF - 2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,4070837c-add2-4349-90aa-7ecfaf91d60b,G-143-VG,G-143-VG,Greenheck,Greenheck
+0da18624-f1b2-4b16-8d9a-5c40f7cfb53e,EF - B (B1-B7),705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,42c5cdc0-f224-4304-abac-729c9b489b00,SP-A190,SP-A190,Greenheck,Greenheck

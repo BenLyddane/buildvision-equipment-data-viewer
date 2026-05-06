@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+76a506ad-e742-4131-8e93-b49f3321bc7c,FSS-1,b9d297c0-e088-4fa2-855d-029491de5baf,Fire-Extinguishing Systems,0,8372358a-37f5-4572-99ea-2703d0bbfe5b,R-102 WET CHEMICAL,R-102 WET CHEMICAL,ANSUL,ANSUL
+64a4b0eb-9f08-42e1-a1dc-3413bea19b4a,FSS-2,b9d297c0-e088-4fa2-855d-029491de5baf,Fire-Extinguishing Systems,0,8372358a-37f5-4572-99ea-2703d0bbfe5b,R-102 WET CHEMICAL,R-102 WET CHEMICAL,ANSUL,ANSUL

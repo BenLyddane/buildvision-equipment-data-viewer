@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+33bfa1bc-8b64-4569-b1e6-57e280a1af9e,FCU-6E,a08a70f9-5010-4e72-b96c-3916f4072e32,Fan Coil Units,0,c56a32d3-47d1-4c38-b5a0-fe18d313b0c5,FCBB020,FCBB020,Trane,Trane
+8dda3c52-3a59-42de-b7db-867d0039c6c4,FCU-6F,a08a70f9-5010-4e72-b96c-3916f4072e32,Fan Coil Units,0,c56a32d3-47d1-4c38-b5a0-fe18d313b0c5,FCBB020,FCBB020,Trane,Trane
+3523a30f-4299-4319-a0ac-3ea4f4306bbd,FCU-5C,a08a70f9-5010-4e72-b96c-3916f4072e32,Fan Coil Units,0,c56a32d3-47d1-4c38-b5a0-fe18d313b0c5,FCBB020,FCBB020,Trane,Trane
+6ec4a70a-c242-4cee-8300-4990f2ca9267,FCU-6G,a08a70f9-5010-4e72-b96c-3916f4072e32,Fan Coil Units,0,e63de1ad-db5b-41df-8be9-b9602f2800d3,FCBB080,FCBB080,Trane,Trane

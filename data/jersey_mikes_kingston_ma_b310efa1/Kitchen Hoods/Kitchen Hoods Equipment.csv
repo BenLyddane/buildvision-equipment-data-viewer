@@ -1,0 +1,15 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d5938e58-1281-4998-9817-d0eaabdb5912,2 - FIELD WRAPPER,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,,,,,
+4131d499-dccd-4735-8f72-ea8bbacd0db4,1 Griddle Hood,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,,,,,
+6a9a27a7-6903-468c-a1f8-080765a76de7,Griddle Hood,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,03ca25e6-8c9e-42e3-a997-9e09937adee4,5424 ND-2-PSP-F,5424 ND-2-PSP-F,CaptiveAire,CaptiveAire
+58a175b2-20a8-416b-b7ec-6257f50962c9,1 Griddle Hood - Electrical,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,,,,,
+3a6f4590-469f-470b-a684-12abd2c7d760,Bread Oven Hood,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,64d7d97e-d36b-4ea1-aedb-33ec5a9b209a,6024 VHB-ND,6024 VHB-ND,CaptiveAire,CaptiveAire
+dd6ab835-d71c-4b82-b8da-ea4ee9312049,1 - BACKSPLASH,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,,,,,
+10118d1b-9746-4add-b87f-33ab4cc18bb2,1 Griddle Hood - Filter,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,,,,,
+25a1e822-419e-4aa4-a11b-29a0903c4cdd,1 - RISER SENSOR INSTALL 6IN PLEN.,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,,,,,
+8cf159cb-1729-41bc-a688-c5370abaa91d,2 - BACKSPLASH,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,,,,,
+1d887a26-0f4b-41b1-bd87-a17a0ca4aafe,2 Bread Oven Hood,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,,,,,
+8b8edbe8-bfb3-4ba8-84c5-5d3c564788e9,Hood-2,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,64d7d97e-d36b-4ea1-aedb-33ec5a9b209a,6024 VHB-ND,6024 VHB-ND,CaptiveAire,
+14f95b4c-e875-4a6a-8fff-955a8f77c6ce,Hood-1,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,03ca25e6-8c9e-42e3-a997-9e09937adee4,5424 ND-2-PSP-F,5424 ND-2-PSP-F,CaptiveAire,
+741f1d4c-2718-46ba-9ca7-b59c188c92cd,2,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,64d7d97e-d36b-4ea1-aedb-33ec5a9b209a,6024 VHB-ND,6024 VHB-ND,CaptiveAire,CaptiveAire
+bfaea7b3-0ef8-4758-a342-16803e7bdd61,1,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,03ca25e6-8c9e-42e3-a997-9e09937adee4,5424 ND-2-PSP-F,5424 ND-2-PSP-F,CaptiveAire,CaptiveAire

@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+5f441eb7-a36d-4b2d-b2df-9f60662e5355,RT-40-8.5L-C-G0,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,0,05f0d9f4-01ee-4ba3-942a-7cb0f26c72c1,PACKAGED DX,PACKAGED DX,Greenheck,Greenheck

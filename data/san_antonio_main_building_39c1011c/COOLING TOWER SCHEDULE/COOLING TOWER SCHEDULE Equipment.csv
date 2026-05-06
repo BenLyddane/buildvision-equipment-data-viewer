@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+63ad617d-ff02-4802-b4d5-1402b9e32f5c,CT-1,ddf4a924-9c1c-46f2-aef7-172d3dfebef9,Cooling Towers,0,445b72e4-ff28-4ead-adc9-131985847275,NC8413WAN3,NC8413WAN3,Marley Cooling Towers,Berko
+e7eb68fd-0e7a-446b-8c4d-6c6ddbf7ce04,CT-2,ddf4a924-9c1c-46f2-aef7-172d3dfebef9,Cooling Towers,0,445b72e4-ff28-4ead-adc9-131985847275,NC8413WAN3,NC8413WAN3,Marley Cooling Towers,Berko
+bb8f4c4c-a597-4f57-863c-215206bb50a1,CT-3,ddf4a924-9c1c-46f2-aef7-172d3dfebef9,Cooling Towers,0,445b72e4-ff28-4ead-adc9-131985847275,NC8413WAN3,NC8413WAN3,Marley Cooling Towers,Berko
+8c007360-12b5-4525-9ccc-1716c3e8c378,CT-4 (FUTURE),ddf4a924-9c1c-46f2-aef7-172d3dfebef9,Cooling Towers,0,445b72e4-ff28-4ead-adc9-131985847275,NC8413WAN3,NC8413WAN3,Marley Cooling Towers,Berko

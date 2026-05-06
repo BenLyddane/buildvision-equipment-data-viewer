@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a83e69b7-11b8-46c9-a64c-afb2b4f7e50e,CEF-4,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,0a07cb2b-506f-4390-9014-1f1ca472046b,G-90-D,G-90-D,Greenheck,
+da6a7e7d-5c95-495f-861a-8b4c88893410,"CEF- 1,2,3",5a722346-9839-40ec-836b-61db06ae3b1b,Ceiling Fans*,0,1be945c7-ae6a-4844-8ee4-cf0b58d5f095,CFA-D110-CA,CFA-D110-CA,CaptiveAire,
+570cf510-ff3a-4bb2-8f00-6ce1b3245f3f,PCU- 1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,d34f2481-0d0a-4130-9ca4-a31fed5b34d2,USBI30DD-RM,USBI30DD-RM,CaptiveAire,

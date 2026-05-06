@@ -1,0 +1,14 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+9f040b80-ad13-493c-a9e7-564e0c01d6ae,ECH-A2,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+2d907814-899b-4c02-90cb-d810d62eb2a4,ECH-A (A1-A4),88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+7622f347-c981-4f5a-964e-064ec0a2942e,ECH-A-2,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+e5e21b9b-3599-4c57-8fc1-33a11757fa0a,ECH-A4,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+7571f901-ea56-49b7-a824-75121c45a05e,ECH-A-1,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+1d14a2cb-af94-447f-86e3-525f3fb513a7,ECH-A-4,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+ee24518f-f812-47bb-bff5-e57e8ccdc1d0,ECH-A3,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+00f0ef69-7838-4b04-aaf2-2c13d0907c17,ECH - A4,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+35949257-2218-4e08-bc05-561cb66ceafc,ECH-A-3,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+272c9ed9-f305-4b09-91ce-d75b9bc34d4a,ECH-A1,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+1ee107b0-841a-49d8-a844-88ae0f40a76f,ECH - A2,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+1255fc22-e63b-47b6-8130-e8904d4f35fe,ECH - A3,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall
+5645c339-da83-4e08-ae6e-a4b4d4539d6a,ECH - A1,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,Raywall

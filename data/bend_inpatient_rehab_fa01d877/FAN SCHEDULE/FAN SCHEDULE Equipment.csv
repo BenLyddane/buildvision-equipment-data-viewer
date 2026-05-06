@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+1613aee3-c2b8-45ea-8a23-00fc46f3eaf8,ACUR-LL-01,522794c3-499d-4366-95f1-89215315c894,Air Curtains,0,b04b34ee-a6e3-4663-88b8-0033f17582d6,PH1072,PH1072,Mars Air,Mars Air
+9a479a4b-417a-4937-afb1-602b7192db02,EF-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,9354c482-592f-46dc-aadd-ef5c2cd5b2c8,QEID-18-65,QEID-18-65,Greenheck,Greenheck
+f27abe05-0da9-4b0e-b32e-7f030b803c24,EF-LL-01,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,a57e2a58-8ce6-432f-801a-4c28329c7667,DEDPV 705,DEDPV 705,Fantech,Fantech

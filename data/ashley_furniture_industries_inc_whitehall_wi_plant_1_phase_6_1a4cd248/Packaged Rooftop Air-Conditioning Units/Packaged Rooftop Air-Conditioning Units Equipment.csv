@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+7aaec4d5-3131-447d-a97e-3e76a887ff90,RTU 3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,1bcc3bbe-44a5-4dd2-85a5-9eea4145a7e5,DPSC12B,DPSC12B,Daikin Applied,Daikin Applied
+f2323ad1-506a-4686-a816-31164e1adc36,RTU 2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,1bcc3bbe-44a5-4dd2-85a5-9eea4145a7e5,DPSC12B,DPSC12B,Daikin Applied,Daikin Applied
+7c63c743-319b-4aee-b060-eaa58c23a73d,RTU 1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,1bcc3bbe-44a5-4dd2-85a5-9eea4145a7e5,DPSC12B,DPSC12B,Daikin Applied,Daikin Applied

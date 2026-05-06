@@ -1,0 +1,14 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+203ca889-1f96-4ffc-92d9-4b29d8a45e51,2700bd56-745b-4800-8ebd-63bd58294e12,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+142b1d73-480b-4399-af30-597a975cede7,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,PR-,,,Model
+5a5d908d-c287-46f9-b823-ac3f0d97cceb,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,-,,,Service
+c731414c-4e10-438e-be21-8b4a9146748f,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,-,CFM,,Design Airflow
+b1a531ee-ec9d-4f3d-a139-e5f2e18999f4,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,-,"W.C.,,Air Pressure Drop
+6fa206de-fefc-4fd8-9877-7995e7636553,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,-,IN,,Overall Diameter
+55597f1a-e0c2-4d75-a242-006d1510b069,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,-,IN,,Throat Diameter
+7942a66c-a899-404d-ac4d-fbed0d205c99,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,-,SQ. FT.,,Throat / Face Area
+e10ed4c1-0fc5-4a12-8802-e14c649e62aa,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,-,FPM,,Throat Velocity
+ec229f67-b7dd-4d89-af5e-e56b8b7d4425,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,-,LBS,,Operating Weight
+aa68190a-9019-4a4c-a914-bc3666af7e54,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,ALL,,,Remarks
+accc75d5-2c91-42cd-b6d1-3c66c475fba2,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,"CAPTIVEAIRE, DAYTON, GREENHECK, LOREN COOK, SOLER & PALAU.",,,Acceptable Manufacturers
+164c7b43-bebd-468a-8215-c5bdd33cefc6,2700bd56-745b-4800-8ebd-63bd58294e12,,,,,,,,"PROVIDE WITH PREFABRICATED INSULATED ROOF CURB, BACKDRAFT DAMPER, AND BIRD SCREEN.",,,Required Features

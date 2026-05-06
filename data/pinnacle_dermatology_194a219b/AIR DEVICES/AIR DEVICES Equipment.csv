@@ -1,0 +1,19 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+73523906-5c07-470b-a70b-621e5187203e,1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",12,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+68668bf0-38cf-49bd-b58b-740f2da09b1e,2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",6,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+002027b0-c5ef-40d1-b67a-77961e198376,3,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",2,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+8b39a58a-2ac5-4b32-9454-622f47886440,4,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",10,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+4e9430af-1af6-46be-9168-6543a754ec4a,5,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",2,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+da568fc3-6693-4192-9812-0083becf9836,6,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",6,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+0fe2750c-60e1-4315-9006-2ee93fbd6a6e,7,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,11,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus
+a181813e-7ba3-4ea4-8fd9-b52dc09a7454,8,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",9,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+9371bdb0-d46c-435b-a2a0-e1109b9cb6b2,9,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,6,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus
+833bd4d3-2fdb-475c-825b-cdf0632e0107,D,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,7,0a4822a7-dbb0-410a-93ec-eb3c9105b8a0,OMNI AA Series Aluminum Plaque Diffuser,OMNI AA,Titus,Titus
+a31f498e-8e29-4b18-8f6f-669d4f94aec4,G,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,1,9231029b-6ccf-4ae1-bc1c-15aa96225145,300RL,300RL,Titus,Titus
+55727c48-7640-457a-af21-c24868ca77a8,F,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,2,9231029b-6ccf-4ae1-bc1c-15aa96225145,300RL,300RL,Titus,Titus
+d75d6e24-5139-41d5-ae30-59d39b851581,H,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,5,b74b0590-e6fd-4b04-8799-d4a13cb73230,R-OMNI,R-OMNI,Titus,Titus
+1376a44a-9e27-4e75-8ac6-1fa72c48001e,C,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,0a4822a7-dbb0-410a-93ec-eb3c9105b8a0,OMNI AA Series Aluminum Plaque Diffuser,OMNI AA,Titus,Titus
+9f2b486a-ea7f-47fb-8148-02dd48563b1b,E,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,0a4822a7-dbb0-410a-93ec-eb3c9105b8a0,OMNI AA Series Aluminum Plaque Diffuser,OMNI AA,Titus,Titus
+c386d49e-5c91-4f3b-b2be-5ce604b88dbf,B,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,0a4822a7-dbb0-410a-93ec-eb3c9105b8a0,OMNI AA Series Aluminum Plaque Diffuser,OMNI AA,Titus,Titus
+5493a853-55d3-4d7b-8174-fb65bf1b4570,J,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,8c182538-d1ad-42f4-afda-398f12f36809,S300FL,S300FL,Titus,Titus
+41d702ed-8b9b-4c12-933c-27ac4e1ec693,A,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,0a4822a7-dbb0-410a-93ec-eb3c9105b8a0,OMNI AA Series Aluminum Plaque Diffuser,OMNI AA,Titus,Titus

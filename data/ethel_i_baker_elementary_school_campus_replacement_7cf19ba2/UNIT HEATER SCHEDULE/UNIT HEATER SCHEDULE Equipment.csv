@@ -1,0 +1,8 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+50547c6f-af1d-4b38-922f-a015c0ac93d4,UH A-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,f6be21aa-c31c-4518-8517-a816dc86ff6b,OHVU03008AM,OHVU03008AM,Ouellet,Ouellet
+32f6fffc-ec7a-4be8-992a-f96ef8e326e3,UH M-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,f6be21aa-c31c-4518-8517-a816dc86ff6b,OHVU03008AM,OHVU03008AM,Ouellet,Ouellet
+dd08cb35-bbbf-41b5-ab9a-b1bdfa46504e,UH D-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,f6be21aa-c31c-4518-8517-a816dc86ff6b,OHVU03008AM,OHVU03008AM,Ouellet,Ouellet
+e428e35f-0de5-4c32-8887-9a519c5e713c,UH E-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,f6be21aa-c31c-4518-8517-a816dc86ff6b,OHVU03008AM,OHVU03008AM,Ouellet,Ouellet
+d86ba0b4-5945-4503-a78b-357236c08a82,UH K-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,f6be21aa-c31c-4518-8517-a816dc86ff6b,OHVU03008AM,OHVU03008AM,Ouellet,Ouellet
+677c80a4-be45-4b36-8331-f05e1a5a92f3,UH C-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,f6be21aa-c31c-4518-8517-a816dc86ff6b,OHVU03008AM,OHVU03008AM,Ouellet,Ouellet
+05f66e80-6326-4d33-9703-c7a743a12b09,UH F-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,f6be21aa-c31c-4518-8517-a816dc86ff6b,OHVU03008AM,OHVU03008AM,Ouellet,Ouellet

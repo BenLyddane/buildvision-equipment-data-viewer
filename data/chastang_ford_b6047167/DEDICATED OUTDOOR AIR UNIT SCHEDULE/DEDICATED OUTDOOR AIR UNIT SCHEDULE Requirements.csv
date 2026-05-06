@@ -1,0 +1,95 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+7a9a8fe9-9a37-4155-931b-828ae11b1106,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,10500,CFM,,Outside Air
+9bd02c3a-ed1a-42f1-8822-50d06569d75a,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,,,,2.819,"W.C.,Supply Fan Section,TSP
+8c5c6ad9-4967-4cb6-9770-dcc464e67a24,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,819972ad-cacc-4643-8e07-735f11561534,Fan Power,,,70284fc6-f347-49e1-b657-567b4a3bb6a9,Horsepower,,5,HP,Supply Fan Section,HP
+9d4f209d-1095-43fa-970e-47279cb6007d,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,6b991434-66c8-4d7d-929d-ff34a7df9384,Refrigerant Type,,,,,,R454B,,Cooling Coil Section,Refrig. Type
+eeae552a-d686-4607-bbfb-019941799d5e,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,ee42cdfe-bea4-4963-aa29-7170ed419a8a,Cooling Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,351.8,MBH,Cooling Coil Section,Total Capacity
+b0e80726-c641-4bc3-9bfb-18099a2da6c1,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,257.4,,Re-heat (Dehumidification) Coil,Total MBH
+3fab355f-97aa-4af4-b214-691126e638cc,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,6134d6e9-682b-4087-bf93-0ec5fdc07f9f,Coil Type,74b5c336-6eb5-40bd-9648-7ca721d098ef,Hot Gas Reheat Coil,,,,HOT GAS REHEAT,,Re-heat (Dehumidification) Coil,Type
+96103297-e408-4c39-8a1d-1661874c66c3,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,8d6f2d7b-b139-4459-8e2c-a0839d32fddb,Heat Source,a07f5a47-17e9-4b1a-af75-6f19ca4a006a,Indirect Gas-Fired,,,,NAT. GAS,,Re-heat (Dehumidification) Coil,Fuel Type
+1ff4da32-da8d-40e9-95dd-555b72e79310,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,600,MBH,Heating Coil Section (Gas),Input
+4fe3c285-572a-4e06-a178-7afe4bcaf366,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,486,MBH,Heating Coil Section (Gas),Output
+c2c95ab6-75c0-4680-885d-3a3d6cc21032,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,30287358-c89d-4677-933f-e5b30c9bd6a3,Energy Recovery Efficiency,,,b50e82be-8884-60bd-1cd7-4378e71c41d6,Percent,,81,%,Heating Coil Section (Gas),AFUE
+0127bf46-1403-47e1-8766-ceb808c89e53,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,59.4,°F,Heating Coil Section (Gas),EAT
+1ee080b5-5ad1-44c3-90be-685f61da48c4,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,102.2,°F,Heating Coil Section (Gas),LAT
+cd046dd2-f02f-47d7-bab9-0b1dae537b02,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,ce1d6df2-55ae-4331-a614-f7446b0f8dcc,Filter Type,,,,,,DISPOSABLE,,Filter Section,Type
+32dd431a-735b-4e5d-895b-f884fbba2cd7,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,ce1d6df2-55ae-4331-a614-f7446b0f8dcc,Filter Type,828c1e07-635d-480c-b0f7-bf107c53c118,MERV 13,,,,13,,Filter Section,MERV
+adfef440-b8d3-42b0-8948-0dc76e1ce7d6,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,460,,Electrical Data,Volt
+625c1bc1-747b-48af-863b-28bac8a2f845,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,3,,Electrical Data,Phase
+e2016f1d-4163-415d-8265-b36789a16486,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,GREENHECK,,,Manufacturer
+3ca79137-8343-4be7-95f8-77b501d92d3d,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,RVE-150-81D-30I-O-A2,,,Model
+884a8998-4797-436c-a27a-1767efab110c,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,SERVICE SHOP,,,Service
+ca359ee0-5046-4c70-9677-24fb22b036f0,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,10500,CFM,Supply Fan Section,Airflow
+c0fbdbe2-e897-40ee-b447-052d83bbb97b,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,0.5,"W.C.,Supply Fan Section,ESP
+4ab8ec88-3450-4f95-b303-af9ef2fd8a03,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,1497,,Supply Fan Section,RPM
+11df5acc-d1ea-4aa9-b2fe-ddeaa5ddd5f9,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,33.3,,Supply Fan Section,BHP
+c9d4a445-c7b4-448b-85b4-92b6acfc3fd6,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,10500,CFM,Return / Exhaust Fan Section,Airflow
+e06f852b-cff3-480d-b2f6-fa4bb35b2080,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,0.5,"W.C.,Return / Exhaust Fan Section,ESP
+ce35397b-7aa2-455f-aa55-e69ee1cbea8b,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,1.522,"W.C.,Return / Exhaust Fan Section,TSP
+884ae207-9a55-4bc9-bd65-97053866b63f,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,2166,,Return / Exhaust Fan Section,RPM
+a4a223db-ba2b-4aa3-8781-2740250aee88,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,2.99,,Return / Exhaust Fan Section,BHP
+e843dd46-3e67-40f8-84c2-42af1953f435,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,5,HP,Return / Exhaust Fan Section,HP
+9b67a741-e8c5-4f8d-a7b0-ac6cb43d682f,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,299.5,MBH,Cooling Coil Section,Sensible Capacity
+ddd42a22-b5fb-466f-a539-46b46c6543dc,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,81.5,°F,Re-heat (Dehumidification) Coil,EAT DB
+41001467-3afd-4344-bfc1-b16b6a18f9dc,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,65.6,°F,Re-heat (Dehumidification) Coil,EAT WB
+236b69f4-ace0-466c-aa7d-5af7178d3ba9,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,54.2,°F,Re-heat (Dehumidification) Coil,LAT DB
+47e79430-ca76-4780-8169-cee893d08f7b,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,54.2,°F,Re-heat (Dehumidification) Coil,LAT WB
+fd11b160-2d87-4a10-ac37-32f06386b17a,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,77.1,°F,Re-heat (Dehumidification) Coil,LAT DB
+455911a8-a6e6-4266-9423-37768f156d7f,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,16:01,,Heating Coil Section (Gas),# of Stages
+4ce1c036-fd6c-42cc-ba5c-5a06f3890360,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,81.5,°F,Energy Wheel Section,SUM. MAT WB
+b2eef0ad-5e82-4cc8-9705-103af88fbb80,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,65.6,°F,Energy Wheel Section,SUM. MAT DB
+0c298621-1b14-4c21-b034-7a64fa5a7088,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,291932,MBH,Energy Wheel Section,SUM. Capacity
+d074b7e9-9231-4f88-8c17-c301350da438,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,59.4,°F,Energy Wheel Section,WIN. MAT WB
+9970ec60-4837-4c63-a6fc-f34c5104dddb,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,47.4,°F,Energy Wheel Section,WIN. MAT DB
+3523760f-6dcb-4ab1-89c2-c8a3c8041872,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,379053,MBH,Energy Wheel Section,WIN. Capacity
+35ce0df3-e019-407b-8e8c-90a0de59bbdf,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,87.2,,Electrical Data,FLA
+314b9797-cb9c-4cd7-b2f4-11fb3eeba682,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,87.2,,Electrical Data,MCA
+5fc9bc2d-caba-4a89-adad-e358e5b47e3f,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,110,,Electrical Data,MOCP
+86455f8d-9c82-4866-9b2b-004cc05bb21f,067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,,,,,,,,7895,LBS,,Operating Weight
+27e19608-b22f-49c5-b81f-6b570093a1fa,24708ffa-a41a-4f0b-b568-d6cd38741938,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,10500,CFM,,Outside Air
+21184457-5340-492e-a65f-7ba10820adfd,24708ffa-a41a-4f0b-b568-d6cd38741938,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,10500,CFM,Supply Fan Section,Airflow
+a6ae0b01-1018-4ac6-98da-d460f7da16a3,24708ffa-a41a-4f0b-b568-d6cd38741938,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,,,,0.5,"W.C.,Supply Fan Section,ESP
+bc6b70d4-c711-44e4-a60f-5e0fb2f5a0f0,24708ffa-a41a-4f0b-b568-d6cd38741938,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,,,,2.819,"W.C.,Supply Fan Section,TSP
+6f3daaa1-60b3-43cf-b86d-e7c9f2f6e238,24708ffa-a41a-4f0b-b568-d6cd38741938,819972ad-cacc-4643-8e07-735f11561534,Fan Power,,,,,,33.3,,Supply Fan Section,BHP
+c0b78aff-b940-4c88-8851-6fa8c11b8e9e,24708ffa-a41a-4f0b-b568-d6cd38741938,819972ad-cacc-4643-8e07-735f11561534,Fan Power,,,70284fc6-f347-49e1-b657-567b4a3bb6a9,Horsepower,,5,HP,Supply Fan Section,HP
+268ea195-a3c5-44b0-8b5a-5d2a4f8ebaf2,24708ffa-a41a-4f0b-b568-d6cd38741938,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,10500,CFM,Return / Exhaust Fan Section,Airflow
+3778cbc9-88d6-410c-9160-df3a5d306db2,24708ffa-a41a-4f0b-b568-d6cd38741938,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,,,,0.5,"W.C.,Return / Exhaust Fan Section,ESP
+bbe1a0fb-dd63-49da-9a1f-e9fd9658891a,24708ffa-a41a-4f0b-b568-d6cd38741938,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,,,,1.522,"W.C.,Return / Exhaust Fan Section,TSP
+854e6c19-255e-4e69-8e0c-6289d56dd550,24708ffa-a41a-4f0b-b568-d6cd38741938,819972ad-cacc-4643-8e07-735f11561534,Fan Power,,,,,,2.99,,Return / Exhaust Fan Section,BHP
+edb1d746-fe67-4f86-8ed1-9d186a62108d,24708ffa-a41a-4f0b-b568-d6cd38741938,819972ad-cacc-4643-8e07-735f11561534,Fan Power,,,70284fc6-f347-49e1-b657-567b4a3bb6a9,Horsepower,,5,HP,Return / Exhaust Fan Section,HP
+2b57cf11-c2de-4a79-a4b3-258162c750c4,24708ffa-a41a-4f0b-b568-d6cd38741938,6b991434-66c8-4d7d-929d-ff34a7df9384,Refrigerant Type,,,,,,R454B,,Cooling Coil Section,Refrig. Type
+72ec903c-440f-4609-a808-8402006cc97e,24708ffa-a41a-4f0b-b568-d6cd38741938,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,351.8,MBH,Cooling Coil Section,Total Capacity
+3bcdae90-858a-46d6-9aac-4f81ecc46a24,24708ffa-a41a-4f0b-b568-d6cd38741938,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,299.5,MBH,Cooling Coil Section,Sensible Capacity
+6e14973d-703b-4ca4-963d-d8fab4702092,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,81.5,°F,Re-heat (Dehumidification) Coil,EAT DB
+7f62ff54-8681-4c8a-ad12-20fbcd93c5b9,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,65.6,°F,Re-heat (Dehumidification) Coil,EAT WB
+59dab677-3982-4122-81f3-0b53144c075f,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,54.2,°F,Re-heat (Dehumidification) Coil,LAT DB
+f4c0349b-6669-40aa-8568-acf1050fef7b,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,54.2,°F,Re-heat (Dehumidification) Coil,LAT WB
+b6655bcd-2798-4577-8109-2aa5932ea01e,24708ffa-a41a-4f0b-b568-d6cd38741938,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,257.4,,Re-heat (Dehumidification) Coil,Total MBH
+281c1710-4e3f-4da1-9db7-985b1d4c7265,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,77.1,°F,Re-heat (Dehumidification) Coil,LAT DB
+9ca6a7e7-792b-48af-b823-b4314a26d523,24708ffa-a41a-4f0b-b568-d6cd38741938,6134d6e9-682b-4087-bf93-0ec5fdc07f9f,Coil Type,74b5c336-6eb5-40bd-9648-7ca721d098ef,Hot Gas Reheat Coil,,,,HOT GAS REHEAT,,Re-heat (Dehumidification) Coil,Type
+a1eb795d-c6fa-4977-8cd4-fcbd68882a74,24708ffa-a41a-4f0b-b568-d6cd38741938,8d6f2d7b-b139-4459-8e2c-a0839d32fddb,Heat Source,,,,,,NAT. GAS,,Re-heat (Dehumidification) Coil,Fuel Type
+c5f64438-44b8-4d8b-9e47-cac3cf3c7cd1,24708ffa-a41a-4f0b-b568-d6cd38741938,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,600,MBH,Heating Coil Section (Gas),Input
+8bde123d-b21d-43be-a337-f632cc3f3a09,24708ffa-a41a-4f0b-b568-d6cd38741938,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,486,MBH,Heating Coil Section (Gas),Output
+59472614-6ee3-4280-876e-8e69db8aa1b5,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,59.4,°F,Heating Coil Section (Gas),EAT
+108e72a1-d627-4f93-8fda-64e13ca5f44c,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,102.2,°F,Heating Coil Section (Gas),LAT
+1a1f4144-e84b-43dc-b010-2e1d14cea5b6,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,81.5,°F,Energy Wheel Section,SUM. MAT WB
+04baf1a5-ba7d-4b89-a129-5c5945f0cf9a,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,65.6,°F,Energy Wheel Section,SUM. MAT DB
+7ad9ff13-e15d-47b3-825a-90cdc8a7f741,24708ffa-a41a-4f0b-b568-d6cd38741938,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,291932,MBH,Energy Wheel Section,SUM. Capacity
+51627c9a-4aab-4237-ad27-edb4919f5183,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,59.4,°F,Energy Wheel Section,WIN. MAT WB
+b0adb25e-e7b4-486e-8c82-14e1ab816f26,24708ffa-a41a-4f0b-b568-d6cd38741938,44644ffc-a575-422a-8b24-3a79cc5d7f90,Temperature Range,,,,,,47.4,°F,Energy Wheel Section,WIN. MAT DB
+e0e4d631-9cba-41fe-abe7-da2f08f38ed4,24708ffa-a41a-4f0b-b568-d6cd38741938,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,379053,MBH,Energy Wheel Section,WIN. Capacity
+63d5f86e-9393-45e2-a56c-6d135cc18eaf,24708ffa-a41a-4f0b-b568-d6cd38741938,ce1d6df2-55ae-4331-a614-f7446b0f8dcc,Filter Type,,,,,,DISPOSABLE,,Filter Section,Type
+2a02d610-f06a-4349-81d2-2dcc3dd26c2b,24708ffa-a41a-4f0b-b568-d6cd38741938,ce1d6df2-55ae-4331-a614-f7446b0f8dcc,Filter Type,828c1e07-635d-480c-b0f7-bf107c53c118,MERV 13,,,,13,,Filter Section,MERV
+60446c8c-e463-4ee1-a3f1-3990bc3ba7e7,24708ffa-a41a-4f0b-b568-d6cd38741938,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,460,,Electrical Data,Volt
+152c33e2-88da-4abb-a97a-027c92db229a,24708ffa-a41a-4f0b-b568-d6cd38741938,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,dda99289-4130-4af0-b6c3-1e1b68254bc8,3Ø,,,,3,,Electrical Data,Phase
+1f17fd64-af48-4f3c-9d26-1573e89ab510,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,GREENHECK,,,Manufacturer
+5b3331ea-53f8-4f05-b302-946e96f80668,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,RVE-150-81D-30I-O-A2,,,Model
+6d983744-d5db-40c5-aa8f-9f2b56662974,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,SERVICE SHOP,,,Service
+f8047ff6-e74e-44e9-bea5-430e0a229034,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,1497,,Supply Fan Section,RPM
+33504d7c-b3ca-4fd3-85ec-2d6edb19fc14,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,2166,,Return / Exhaust Fan Section,RPM
+c738222f-67bf-4e02-b398-542c48687eea,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,16:01,,Heating Coil Section (Gas),# of Stages
+2f0752ab-f6cd-4ff9-bc67-14354529183b,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,81,%,Heating Coil Section (Gas),AFUE
+839fbd47-80c2-4478-8c92-ff1b33b53dee,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,87.2,,Electrical Data,FLA
+1e6d127c-5187-45cf-8f91-f01728bea4fd,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,87.2,,Electrical Data,MCA
+51068b5c-b11b-45c1-9bed-4594ddd01cc8,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,110,,Electrical Data,MOCP
+21bd1017-182a-401d-aadf-9a601d327991,24708ffa-a41a-4f0b-b568-d6cd38741938,,,,,,,,7895,LBS,,Operating Weight

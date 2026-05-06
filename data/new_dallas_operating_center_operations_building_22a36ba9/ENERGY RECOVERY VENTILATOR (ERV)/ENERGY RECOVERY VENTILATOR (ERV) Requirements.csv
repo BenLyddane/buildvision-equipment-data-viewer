@@ -1,0 +1,28 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+4b68dc64-ac8f-4869-bc2d-a032a7ddebb0,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,LOCKER ROOMS,,,Service
+677a82d3-b2a7-4d16-863b-1ecc204f6661,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,GREENHECK,,,Manufacturer
+0184bad9-2bf4-4fe3-acce-3ebe7f2a21de,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,ECV-30H,,,Model
+23f99032-84ae-4113-b445-938c4eda7b95,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,1,,,Notes
+263866f0-b83b-4a7a-827e-fc53a4ef2037,6dbdd469-8054-4489-955f-ee0c6b54f72f,00409847-1a1a-41d9-97ed-785eeafa316d,Effectiveness,,,b50e82be-8884-60bd-1cd7-4378e71c41d6,Percent,,56.0,%,Operating Mode: Winter,Total Eff.
+d07cffe8-0138-4366-be25-f2272bd3bcf6,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,21.6,DEG F,Core Air Data,EDB
+185529d6-9dac-4364-836b-7b2a954df785,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,18.0,DEG F,Core Air Data,EWB
+f54efcbd-3dfc-45c1-bb22-adf5db479c94,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,55.6,DEG F,Core Air Data,LDB
+56186bb9-5745-4bbd-8b10-90eca82a8921,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,50.3,DEG F,Core Air Data,LWB
+e13c9ca1-0f1a-4852-b70c-195e211b95df,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,44.0,%,Operating Mode: Summer,Total Eff.
+54bec90b-391e-4d17-b686-4c37552b8ccd,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,100.3,DEG F,Core Air Data,EDB
+14ec93ba-2137-4aa9-a972-1db491d5c9f0,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,79.5,DEG F,Core Air Data,EWB
+0d59914c-4a15-4b77-b63b-77f4ed27122a,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,84.0,DEG F,Core Air Data,LDB
+557809a4-f1f1-4a56-b56e-5c53cac84f65,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,73.9,DEG F,Core Air Data,LWB
+dc3be329-81d7-4560-a690-42ca58d19d77,6dbdd469-8054-4489-955f-ee0c6b54f72f,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,3170,CFM,Supply Fan Data,CFM
+1b04ff24-b4aa-479f-88c5-f8b4e75d581d,6dbdd469-8054-4489-955f-ee0c6b54f72f,31e4dac6-cc6f-4b4b-8a24-e82d62c2d3a6,Wheel Speed,,,d28ed2e4-e9d5-c574-3acf-378597aac527,Refreshes per Minute,,"1,284",RPM,Supply Fan Data,RPM
+89ebbde5-378b-4828-be00-bb0f8b85a1aa,6dbdd469-8054-4489-955f-ee0c6b54f72f,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,,1.0,IN,Supply Fan Data,ESP
+e04b0a74-a7ac-4d1b-8e46-a994fdd68bc2,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,3.0,HP,Supply Fan Data,HP
+4c1592eb-1216-421e-ab3e-b0449ecb81de,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,NO,,Supply Fan Data,VFD
+11352501-7997-4569-aa37-a81419bb0533,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,3170,CFM,Exhaust Fan Data,CFM
+aa700781-6f84-45e3-a03e-ceeaf5de15ae,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,"1,425",RPM,Exhaust Fan Data,RPM
+36af94af-8f8d-4155-be66-33e759e6bdfd,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,1.0,IN,Exhaust Fan Data,ESP
+19450545-cddc-401b-a6bd-da8d51cd7555,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,5.0,HP,Exhaust Fan Data,HP
+4141dcca-6afc-48bc-895e-c36793c623f2,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,NO,,Exhaust Fan Data,VFD
+b30df97f-6652-4bfb-ba37-8eb76e0f7dd0,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,460/3,,Electrical Data,VOLTS/PH
+96ef7f5d-1415-4e00-8319-03122fc8f8f1,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,14,,Electrical Data,MCA
+44a7f74c-1a20-4354-a672-3ae51656fe96,6dbdd469-8054-4489-955f-ee0c6b54f72f,,,,,,,,20,,Electrical Data,MOCP

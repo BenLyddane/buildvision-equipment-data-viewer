@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+8e3f97ab-d712-47a2-8748-5774fd1d7c66,EF-8,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,36180788-2fc2-4d79-aaac-0c856ee178e6,CW-099-VG,CW-099-VG,Greenheck,Greenheck
+9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,EF-9,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,3d637cef-7344-4dea-b1f1-3a1ac45b6ca7,CW-141-VG,CW-141-VG,Greenheck,Greenheck
+a25d8bf1-cace-459d-82d5-812cab69800e,RF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,cfef8f2d-aca8-422b-b857-5a7df13b428b,QEI-20,QEI-20,Greenheck,Greenheck

@@ -1,0 +1,9 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+d6ac4ac0-fd62-407a-a3f5-77d5a0f7939b,007e1c28-42db-494c-9e8e-78eea5fa0de3,9f6ca6a5-25e9-4e99-82bb-48689827b16d,Location,,,,,"{"kind":"flat","type":"Location","unit":null,"value":"MECHANICAL ROOM 134","category":null}",MECHANICAL ROOM 134,,,Location
+0706fa83-b6f8-4e01-b0f0-072f3f2c8ea3,007e1c28-42db-494c-9e8e-78eea5fa0de3,,,,,,,"{"kind":"flat","type":"Service","unit":null,"value":"DOMESTIC HOT WATER","category":null}",DOMESTIC HOT WATER,,,Service
+c2d27d83-0ce9-47cf-80c1-bc76ff515b7b,007e1c28-42db-494c-9e8e-78eea5fa0de3,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,"{"kind":"flat","type":"Manufacturer","unit":null,"value":"AMTROL","category":null}",AMTROL,,,Manufacturer
+e6dbd09f-7281-4276-b9fc-ae528d7c5b86,007e1c28-42db-494c-9e8e-78eea5fa0de3,,,,,,,"{"kind":"flat","type":"Model","unit":null,"value":"ST-5C-DD","category":null}",ST-5C-DD,,,Model
+84e39c01-e5c9-4a42-b08f-eda9fa4c97a5,007e1c28-42db-494c-9e8e-78eea5fa0de3,,,,,,,"{"kind":"flat","type":"Total Volume","unit":"GAL.","value":"2","category":null}",2,GAL.,,Total Volume
+946f7f71-ea63-4863-8924-478f360c8023,007e1c28-42db-494c-9e8e-78eea5fa0de3,,,,,,,"{"kind":"flat","type":"Acceptance Volume","unit":"GAL.","value":"1.8","category":null}",1.8,GAL.,,Acceptance Volume
+b02cd156-df1c-4c3a-ba2e-fadba2b057d7,007e1c28-42db-494c-9e8e-78eea5fa0de3,8f849a97-11fb-48e5-86d7-de5a5abacc0c,Length,,,,,"{"kind":"flat","type":"Length","unit":"IN.","value":"14","category":null}",14,IN.,,Length
+d2abb2d3-e243-440d-ac27-0e9c30de2a26,007e1c28-42db-494c-9e8e-78eea5fa0de3,5252c708-bf8e-4736-a585-fa14072449ec,Pipe Size,,,,,"{"kind":"flat","type":"Diameter","unit":"IN.","value":"8","category":null}",8,IN.,,Diameter

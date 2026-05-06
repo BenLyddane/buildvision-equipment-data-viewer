@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+b06d43a3-3096-4c9a-b481-ef48b69ce139,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,d3412f21-86d0-4460-98af-f2a232a6a342,SP-B200,SP-B200,Greenheck,Greenheck
+2f9a7f5d-0010-4939-b3cf-3046d2c871f1,HVLS-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,75d46685-cdd6-426c-9f08-a16a06d57fee,DC-5-7-3MV,DC-5-7-3MV,Greenheck,Greenheck
+a23fed8c-e2c9-4163-9a7c-a950c6d86b2c,EF-3,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,,,,,Greenheck
+7ef07057-b913-4517-a479-efa9d573af37,HVLS-1,1c412dc5-6765-4654-a353-096dc543d8a7,"High-Volume, Low-Speed Fans",0,3a86315d-4e59-4b9b-8594-abf2d04feb84,DC-5-14-13LV,DC-5-14-13LV,Greenheck,Greenheck
+c88bb8c5-b183-4207-9463-d6b3493af5fd,EF-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,,,,,Greenheck

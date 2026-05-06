@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+595a90e5-a548-46ab-80f6-d615ed648ddd,SR-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,0a78a0e9-6d98-4321-81b9-5d1d2b6a6476,51DV,51DV,Nailor,Nailor
+9bc3cc9a-de9e-4098-a463-114a204a7100,SR-2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,4408af59-3717-434c-9d64-948d4d4d9288,51DVC,51DVC,Nailor,Nailor
+3a235780-fa6c-40de-b8a0-74b8d5255a92,RR-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,281ddb4b-43c9-4f2c-8fd8-ce4ef63cdcd6,6145H-O,6145H-O,Nailor,Nailor
+b6c349b5-67ce-4454-b785-489e4ce77e42,EX-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,281ddb4b-43c9-4f2c-8fd8-ce4ef63cdcd6,6145H-O,6145H-O,Nailor,Nailor
+d58ba74b-3490-4239-a550-277fd6fba349,RR-3,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,281ddb4b-43c9-4f2c-8fd8-ce4ef63cdcd6,6145H-O,6145H-O,Nailor,Nailor
+154944a0-86eb-4f7d-aa2d-e2642cd14dfd,RR-2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,281ddb4b-43c9-4f2c-8fd8-ce4ef63cdcd6,6145H-O,6145H-O,Nailor,Nailor

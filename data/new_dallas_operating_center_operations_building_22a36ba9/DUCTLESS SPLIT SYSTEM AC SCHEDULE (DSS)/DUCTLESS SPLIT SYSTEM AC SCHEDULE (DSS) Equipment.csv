@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+670aa450-ee5c-44a1-b1f6-ea591a4377f6,DSS-1,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,2a64610d-0643-4d20-92e3-7bbdbdb0fe70,"Indoor: PKA-A18HA, Outdoor: PUY-A18NKA7","Indoor: PKA-A18HA, Outdoor: PUY-A18NKA7",,

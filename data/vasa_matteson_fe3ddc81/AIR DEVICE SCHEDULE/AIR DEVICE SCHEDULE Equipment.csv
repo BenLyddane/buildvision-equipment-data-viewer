@@ -1,0 +1,16 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+894ff1e5-86a6-4292-85bb-53418184f283,S1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",33,023227c6-367e-41f2-8a0f-281090687ca9,OMNI,OMNI,Titus,Titus
+9bb0de5a-3dd9-4c3a-a4e9-971578853cd2,R1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",29,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+93b51dec-bee4-498e-92da-dd04a6809293,E1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",26,e7763758-944e-4fd0-8876-0f1007026d1d,PAR,PAR,Titus,Titus
+6e47af47-6dc7-48ff-864f-d8dd50ca57f6,S2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",33,10aa1871-c48a-4b99-af18-ce7c71f8d2f6,TMR,TMR,Titus,Titus
+83f6e8e6-ede7-4ed8-8334-3b3f56ad77e0,R2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",16,cacb4ea0-9bff-4a69-9e9f-b226b8b01d66,55F,55F,Titus,Titus
+6f73ed3a-ae27-4d09-805e-6092f9443f70,S3,196e4ade-4a74-4933-b50e-dce66ce5b51c,Wall Registers and Grilles,3,7b8f79fe-ad68-44b4-a875-ac714f8cbcd7,250-AA,250-AA,Titus,Titus
+b6d07b76-083f-4919-87cf-b1c98df75088,S5,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",9,6c7a2f94-424e-4ff9-8090-a2607d0ae029,DL,DL,Titus,Titus
+a4e10b8b-ab12-4acb-8d51-92f15e1f634e,S6,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",6,023227c6-367e-41f2-8a0f-281090687ca9,OMNI,OMNI,Titus,Titus
+276b7a69-0749-4d9f-b2bf-257af972c26d,TG1,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus
+cc60d0cf-4786-4006-91a1-76b8c58471ed,E2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,e7763758-944e-4fd0-8876-0f1007026d1d,PAR,PAR,Titus,Titus
+d8a620f9-16e4-4043-9458-1de4923245cd,TG3,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus
+87045764-5e92-4fa5-9284-d44d54fd6cfd,S7,9fb8e41e-88b6-4e5e-b67f-65f08c71b070,Uninterruptible Power Supply,0,f9a565f3-8892-4d4e-a3ac-528bd6476173,Riello Sentinel Dual UPS,S-DL,Titus,Titus
+68ca3930-d333-4d4e-b688-3dc069d28d1a,TG2,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus
+e9fb042c-2429-4ef2-bd2d-c7005372c821,S4,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,2a617738-0dce-4077-af52-fbff8d78b542,TBD(I) - 80,TBD(I) - 80,Titus,Titus
+8ad3fc91-bc99-40e0-b450-76398a6cd467,TG4,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus

@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+e4357901-1b31-41b2-9a09-e8700bca01e1,L-2,dec3a91e-f422-4b12-9c05-8b118c8d1057,Louvers,0,5e2c10da-e5cf-4fa3-bcf1-c87a9db17625,ESD-635,ESD-635,Greenheck,Greenheck
+86748813-8d92-4cae-bf45-0f58c89ecc8a,L-1,dec3a91e-f422-4b12-9c05-8b118c8d1057,Louvers,0,5e2c10da-e5cf-4fa3-bcf1-c87a9db17625,ESD-635,ESD-635,Greenheck,Greenheck
+f5ebf50a-24b0-4a3a-b690-779f8edaca67,L-4,dec3a91e-f422-4b12-9c05-8b118c8d1057,Louvers,0,5e2c10da-e5cf-4fa3-bcf1-c87a9db17625,ESD-635,ESD-635,Greenheck,Greenheck
+ca52ac55-a9c7-452f-b619-28c915a3bfaf,L-3,dec3a91e-f422-4b12-9c05-8b118c8d1057,Louvers,0,5e2c10da-e5cf-4fa3-bcf1-c87a9db17625,ESD-635,ESD-635,Greenheck,Greenheck

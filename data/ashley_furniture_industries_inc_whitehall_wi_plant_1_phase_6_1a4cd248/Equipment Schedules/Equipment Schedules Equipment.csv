@@ -1,0 +1,20 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+1eca8e45-0d47-48fc-9851-1467bac73276,RTU 1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,2e197347-00c5-44f7-aaec-65e4063ae061,210C17D (VF2),210C17D (VF2),Loren Cook,Loren Cook
+5dd1cb1a-fb7c-41b4-9b12-75801bcf688b,EF 8,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+a47b11c1-8626-427e-9d79-a83e4bf562d6,EF 9,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+c9d3a41c-e313-4709-9070-d956b9df75c8,UH 1,efd99c1f-ada6-4413-b7d9-b6cffcc72338,Louvers and Vents,0,5ce0b8b2-70fe-4010-92ba-70145e9871c3,PTX150,PTX150,Modine,Modine
+eb507a9f-1fbd-4728-b1f5-25e6c7f1cdd0,RTU 3,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,95993fe7-f39b-4641-b6a6-52a63dcd142d,150C17D (VF),150C17D (VF),Loren Cook,Loren Cook
+67b4309b-4217-4618-b366-c29f4ced4174,L-1,dec3a91e-f422-4b12-9c05-8b118c8d1057,Louvers,0,5e2c10da-e5cf-4fa3-bcf1-c87a9db17625,ESD-635,ESD-635,Greenheck,Greenheck
+ca74650f-1b6a-4c43-b1dd-78df40543ae2,EF 3,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,2e197347-00c5-44f7-aaec-65e4063ae061,210C17D (VF2),210C17D (VF2),Loren Cook,Loren Cook
+f6e5b44a-01a5-4eab-992a-5d5f6e85e8b4,EF 11,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,c23d888c-9d04-44fa-bf0c-de3d9598ed98,101C17D (VF),101C17D (VF),Loren Cook,Loren Cook
+f6a59ae5-5901-4574-bf44-571c57ae99f0,EF 7,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+d8d8432c-3eb8-4e74-bea5-d6a1326e2606,EF 5,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+5a8d4398-c035-4f16-bfad-f9dba455675e,RTU 2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,95993fe7-f39b-4641-b6a6-52a63dcd142d,150C17D (VF),150C17D (VF),Loren Cook,Loren Cook
+96f6f675-578f-4df3-9f58-6238349dcdd7,EF 1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,74226f8e-ab1b-4539-91f1-7cdfa34d25e6,245CPS-A (VF2),245CPS-A (VF2),Loren Cook,Loren Cook
+ad0e05bc-6088-4952-959a-51e9387fcfd8,L-2,dec3a91e-f422-4b12-9c05-8b118c8d1057,Louvers,0,5e2c10da-e5cf-4fa3-bcf1-c87a9db17625,ESD-635,ESD-635,Greenheck,Greenheck
+94510e7e-be51-4dc7-8ae7-78d3a6afae85,EF 6,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+8a6fde0f-294c-46cc-b659-b36548bae69c,EF 2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,977c5d4b-f1cc-45d0-a7f9-953a7d091e1d,300CPS-A (VF2),300CPS-A (VF2),Loren Cook,Loren Cook
+77ae35a6-abe1-438a-bf4e-f3fb4d0a03c4,EF 10,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook
+95fc5b45-82ca-4d54-abf4-3253c0d7dbe5,SD-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,10b47348-36a4-4592-bfdb-4b33035c7c0f,DL-SV,DL-SV,Titus,Titus
+83e58bdb-aa89-4b95-971a-c067ae69e27f,L-3,dec3a91e-f422-4b12-9c05-8b118c8d1057,Louvers,0,5e2c10da-e5cf-4fa3-bcf1-c87a9db17625,ESD-635,ESD-635,Greenheck,Greenheck
+b48342bb-7eee-4136-b09c-78a4667ba07f,EF 4,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,197e3c99-e5ea-4f42-ae35-48c950a5faf5,42A8D8,42A8D8,Loren Cook,Loren Cook

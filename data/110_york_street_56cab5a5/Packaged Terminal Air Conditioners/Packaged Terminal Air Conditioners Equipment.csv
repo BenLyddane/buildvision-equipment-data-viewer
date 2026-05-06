@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+407bf64d-3b79-4d17-aee8-b5680c198d49,VTAC-A,c66170da-bafe-43d0-b161-f98870e0f1af,Packaged Terminal Air Conditioners,0,0045ef9a-48cc-4dec-8b8d-e4f01d301fd1,GE AZ9V - AZ9VH12DBM,GE AZ9V - AZ9VH12DBM,GE Appliances Air & Water Solutions,

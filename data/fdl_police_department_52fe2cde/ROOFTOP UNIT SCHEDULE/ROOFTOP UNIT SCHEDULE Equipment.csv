@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+fdecf977-928a-4451-aed4-7fcb88f87eb5,RTU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,23f30646-58c7-4686-8723-a5ad7f10128a,RNA-016,RNA-016,AAON,AAON
+cb2cdba1-ec1a-47d1-b1b1-caf438b7233f,RTU-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,7ad6a5c2-8d2f-47e1-96a5-7bc5eaa0478b,RNA-015,RNA-015,AAON,AAON

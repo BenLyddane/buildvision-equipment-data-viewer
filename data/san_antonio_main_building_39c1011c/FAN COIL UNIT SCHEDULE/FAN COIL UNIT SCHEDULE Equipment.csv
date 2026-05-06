@@ -1,0 +1,9 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d029d5b5-b26e-4033-9a0b-66a70a90fd59,FCU-5,0c0a63f0-a978-49cd-8866-d4689c6519b1,Horizontal Fan Coil Units,0,f56e72a0-967f-432b-9664-79a44cccc532,BCHD,BCHD,Daikin Applied,Daikin Applied
+45881aae-2084-4d36-aa44-b1af863a5932,FCU-7,a08a70f9-5010-4e72-b96c-3916f4072e32,Fan Coil Units,0,c617db4c-a575-45e6-bc2f-db115f5e1da0,BCHV,BCHV,Daikin AC,Daikin AC
+c4fd0385-e170-4dbe-ba29-3f4319a92de6,FCU-6,0c0a63f0-a978-49cd-8866-d4689c6519b1,Horizontal Fan Coil Units,0,f56e72a0-967f-432b-9664-79a44cccc532,BCHD,BCHD,Daikin Applied,Daikin Applied
+8140fb6a-f8bf-44ef-a90e-dfa26293014e,FCU-8,0c0a63f0-a978-49cd-8866-d4689c6519b1,Horizontal Fan Coil Units,0,f56e72a0-967f-432b-9664-79a44cccc532,BCHD,BCHD,Daikin Applied,Daikin Applied
+62884525-6f47-4532-9821-9f7adfa8f69c,FCU-1,0c0a63f0-a978-49cd-8866-d4689c6519b1,Horizontal Fan Coil Units,0,f56e72a0-967f-432b-9664-79a44cccc532,BCHD,BCHD,Daikin Applied,Daikin Applied
+654ec31c-74ee-4f02-9122-35dcc2e38c8d,FCU-3,0c0a63f0-a978-49cd-8866-d4689c6519b1,Horizontal Fan Coil Units,0,f56e72a0-967f-432b-9664-79a44cccc532,BCHD,BCHD,Daikin Applied,Daikin Applied
+12130f5a-787f-4adb-9aaf-9d8ac068a5a5,FCU-4,0c0a63f0-a978-49cd-8866-d4689c6519b1,Horizontal Fan Coil Units,0,f56e72a0-967f-432b-9664-79a44cccc532,BCHD,BCHD,Daikin Applied,Daikin Applied
+26567f44-6a33-41a9-987b-b484f6ec9fcc,FCU-2,0c0a63f0-a978-49cd-8866-d4689c6519b1,Horizontal Fan Coil Units,0,f56e72a0-967f-432b-9664-79a44cccc532,BCHD,BCHD,Daikin Applied,Daikin Applied

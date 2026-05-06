@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+ca252fb3-12de-4e1b-a8aa-53f4c2b8f121,RTU2-XXY-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,0eaaa75d-7ba7-4bca-aaa2-2c2bc33f7baf,RNA-020-C,RNA-020-C,AAON,AAON
+1df7a898-12cb-41e6-b996-385e3c36ddd0,RTU2-XXY-03,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,0eaaa75d-7ba7-4bca-aaa2-2c2bc33f7baf,RNA-020-C,RNA-020-C,AAON,AAON
+407504f0-2095-4703-a43d-9be0e6aadff8,RTU2-XXY-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,be947086-c0cf-44b7-82f4-d854d1039e4a,RNA-016-C,RNA-016-C,AAON,AAON
+dd2f8684-0c5b-4d5c-af36-e553f09cc844,RTU2-XXY-04,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,0eaaa75d-7ba7-4bca-aaa2-2c2bc33f7baf,RNA-020-C,RNA-020-C,AAON,AAON
+9e3c4770-2abe-4cac-88f4-f23ffc407a8a,RTU2-A100/200-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,bd861631-bc77-4942-be51-659baf15f9c1,RNA-060-D,RNA-060-D,AAON,AAON

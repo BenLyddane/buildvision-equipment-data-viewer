@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+e317ecea-1c03-4901-95b9-4d7384b4e547,WE-1,,,0,,,,,CLARK AIR
+0cbb0721-68f1-41d6-ad89-262464c5edf7,WE-2,,,0,,,,,CLARK AIR

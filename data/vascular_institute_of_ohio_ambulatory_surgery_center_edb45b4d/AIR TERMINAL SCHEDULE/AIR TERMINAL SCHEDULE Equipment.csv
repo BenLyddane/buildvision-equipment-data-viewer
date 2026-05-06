@@ -1,0 +1,19 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+005e9c05-9890-4614-94fd-20f8d874e179,EG-2,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,851d1045-27a3-433d-9293-382867aa0295,T70,T70,Tuttle & Bailey,Tuttle & Bailey
+54fc0006-49cb-459f-bc5c-ac3c582de01d,E,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,e944076f-25f4-4131-9607-845b5250ee68,T1100-06-SF,T1100-06-SF,Tuttle & Bailey,Tuttle & Bailey
+50c00cf0-0838-43db-9858-82394eb38423,RG-4,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,80a63aa2-5968-4cd1-aeda-cc690e748154,CRE500,CRE500,Tuttle & Bailey,Tuttle & Bailey
+92518a43-5b0a-45be-8f18-1875e405ff95,EG-3,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,851d1045-27a3-433d-9293-382867aa0295,T70,T70,Tuttle & Bailey,Tuttle & Bailey
+6f1624b0-2e87-43c0-a45d-e8380c82b34e,H,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,84344054-8f13-4454-a21c-ec07caf2ffd8,6000-S,6000-S,Tuttle & Bailey,Tuttle & Bailey
+4c7107d5-b4eb-41b6-8656-703af8ef0a6d,G,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,84344054-8f13-4454-a21c-ec07caf2ffd8,6000-S,6000-S,Tuttle & Bailey,Tuttle & Bailey
+f64afdbd-b2a9-497c-9452-e9d177218614,F,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,84344054-8f13-4454-a21c-ec07caf2ffd8,6000-S,6000-S,Tuttle & Bailey,Tuttle & Bailey
+93056b4d-1984-4e72-ac5d-4f7d35e9ed0a,EG-1,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,80a63aa2-5968-4cd1-aeda-cc690e748154,CRE500,CRE500,Tuttle & Bailey,Tuttle & Bailey
+2e49f74b-fffe-4e0b-a6c7-45ecec859b25,RG-5,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,851d1045-27a3-433d-9293-382867aa0295,T70,T70,Tuttle & Bailey,Tuttle & Bailey
+3b22ce7c-997e-4738-9982-d6739d0c1fbf,B,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,36695a32-fe10-4c95-98bd-4676b6ef27a1,T1100-06-LT,T1100-06-LT,Tuttle & Bailey,Tuttle & Bailey
+fc63d4d3-3657-4d2c-ab99-800bff490c86,RG-8,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,8af08e56-9d33-4d08-977a-b6c45bd2d4c5,CAA,CAA,Tuttle & Bailey,Tuttle & Bailey
+959c475e-ae58-4f48-a139-2528eec966c9,J,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,84344054-8f13-4454-a21c-ec07caf2ffd8,6000-S,6000-S,Tuttle & Bailey,Tuttle & Bailey
+7405be7f-c7a8-4f42-b67d-f042ce775a10,C,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,86fff0a0-54ec-42b8-acd6-1f49cd3f99c4,T1100-08-LT,T1100-08-LT,Tuttle & Bailey,Tuttle & Bailey
+af60a384-cd88-49f7-bf74-35384c69976f,RG-1,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,80a63aa2-5968-4cd1-aeda-cc690e748154,CRE500,CRE500,Tuttle & Bailey,Tuttle & Bailey
+8f977434-d21d-4a92-aa20-c46fe58bc031,D,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,484a73c9-111d-4468-b444-9cbafe3fd099,T1100-10-LT,T1100-10-LT,Tuttle & Bailey,Tuttle & Bailey
+c01a2432-e6a1-4932-8b8c-90ec8adf2938,RG-2,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,80a63aa2-5968-4cd1-aeda-cc690e748154,CRE500,CRE500,Tuttle & Bailey,Tuttle & Bailey
+86e9739c-8751-41b3-86c4-20cae5768b43,RG-3,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,80a63aa2-5968-4cd1-aeda-cc690e748154,CRE500,CRE500,Tuttle & Bailey,Tuttle & Bailey
+a1114db2-bec0-498e-8073-656a19a6743a,A,f84d88fe-33b6-4035-b0a2-4a5b5e4dbaf0,Air Terminal Units,0,e944076f-25f4-4131-9607-845b5250ee68,T1100-06-SF,T1100-06-SF,Tuttle & Bailey,Tuttle & Bailey

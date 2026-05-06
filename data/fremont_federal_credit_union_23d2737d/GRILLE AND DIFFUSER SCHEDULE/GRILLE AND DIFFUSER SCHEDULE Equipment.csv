@@ -1,0 +1,11 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+566f9d86-b791-461c-b378-c21d67f7a62f,S6,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,17,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+ce056864-395b-493b-b1c0-00563f0f62c6,S8,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,9,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+0b3550e2-f60f-49c5-9aa6-bde924e1f1ba,S10,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,87,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+285aef39-98d2-4dec-8a13-352c06f8dbbe,R22,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",98,e6b4c914-8e7e-4b11-a0cc-6e86f7f96b18,PDDR,PDDR,Price Industries,Price Industries
+b18f612e-d4aa-426a-9d7f-2bf5967762d0,E6,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",19,e6b4c914-8e7e-4b11-a0cc-6e86f7f96b18,PDDR,PDDR,Price Industries,Price Industries
+1f8a15dd-db90-4598-b6e7-d2889ed23956,S12,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,34,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+675467d9-4544-4207-9bd8-d5d74388d842,S14,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,12,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+017c9f3e-61e6-419f-a35d-3264fd82959d,SG12,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",11,2e9dcdf8-ac05-4dac-8ce5-8c558ac2dac8,520D,520D,Price Industries,Price Industries
+5c72f790-d733-497c-944c-77888d8556c2,SG24,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",4,2e9dcdf8-ac05-4dac-8ce5-8c558ac2dac8,520D,520D,Price Industries,Price Industries
+f3e0cbce-bc9f-409d-ac9a-071c526ba86e,S48,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",10,325233f0-7a18-4754-ad73-ce79a480b72c,TBD4100,TBD4100,Price Industries,Price Industries

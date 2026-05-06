@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+54c812d2-28e8-4cdb-94c0-01a954f5cffd,MAU-3,62be95ab-b661-4cfb-bc6a-ed10d82fb0ac,Custom Heating and Cooling Makeup Air-Conditioners,0,6908db01-3e44-460f-b2af-facce9040297,DGX-109-H12,DGX-109-H12,Greenheck,Greenheck

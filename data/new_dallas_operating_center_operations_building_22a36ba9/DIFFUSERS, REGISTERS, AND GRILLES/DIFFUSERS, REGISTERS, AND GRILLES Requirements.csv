@@ -1,0 +1,93 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+30e91a88-a287-4bfe-868b-ecea53e719bb,102c6497-f8e5-466c-b71e-e91f062133fa,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+2051717a-54fb-486c-880e-0adc819ea7be,102c6497-f8e5-466c-b71e-e91f062133fa,,,,,,,,SPD,,,Model
+fb63e378-4655-41ad-95e5-0d9332343f29,102c6497-f8e5-466c-b71e-e91f062133fa,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+94800873-042e-418b-bac8-0590fffcc6f2,102c6497-f8e5-466c-b71e-e91f062133fa,,,,,,,,STANDARD WHITE,,,Finish
+d7e68d16-d9e0-4852-b3c8-6566d90ef105,102c6497-f8e5-466c-b71e-e91f062133fa,,,,,,,,24X24,,Size,Grille Face Size
+f5b75901-b9c5-43b3-b697-cfc871cae878,102c6497-f8e5-466c-b71e-e91f062133fa,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,,10,",Size,Grille Neck Size
+1d1d1b8b-af65-4f6d-a70d-8aaf431d1de5,102c6497-f8e5-466c-b71e-e91f062133fa,,,,,,,,SQUARE PLAQUE,,,Style
+ebdeba02-43e7-4989-8fa6-a3b962b61855,102c6497-f8e5-466c-b71e-e91f062133fa,,,,,,,,1,,,Notes
+6ab5d03f-c46c-4aa9-ae9b-9db4f3179cca,8e757400-92c1-4648-98ab-a906a1da185a,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+3b32ff22-8e87-4484-b3fb-96832295cf89,8e757400-92c1-4648-98ab-a906a1da185a,,,,,,,,530,,,Model
+5f4711ae-769d-433d-a093-7a4627428dc6,8e757400-92c1-4648-98ab-a906a1da185a,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+af4e9f08-45a4-4683-9f9d-3eaffccae64e,8e757400-92c1-4648-98ab-a906a1da185a,,,,,,,,STANDARD WHITE,,,Finish
+8ca80169-e029-4810-9360-5da0a100ecfd,8e757400-92c1-4648-98ab-a906a1da185a,,,,,,,,24X24,,Size,Grille Face Size
+92f36d27-7c4c-410a-a2a9-74d7ba3dc84b,8e757400-92c1-4648-98ab-a906a1da185a,,,,,,,,22X22,,Size,Grille Neck Size
+ac76a742-2271-4ef6-9271-aee6675aff86,8e757400-92c1-4648-98ab-a906a1da185a,,,,,,,,LOUVERED,,,Style
+040229a9-e6da-4e59-9597-8e017e9acf4d,8e757400-92c1-4648-98ab-a906a1da185a,,,,,,,,"1, 2",,,Notes
+eb56ee6a-fdb3-4f2f-ac70-e16c89d2a07c,8e757400-92c1-4648-98ab-a906a1da185a,,,,,,,,3/4,",,Blade Spacing
+8021a242-08f6-4d73-b1fd-d2831a6ba525,8e757400-92c1-4648-98ab-a906a1da185a,ab67e377-a0b1-4759-b9f8-e5004d3ac711,Spread Angle,,,73fa41c3-e92f-ca80-602c-933f63149d52,Degrees,,45,°,,Fixed Blade Pattern
+69768162-02e1-4744-82cb-839c7e84286c,eab0be70-0e58-4032-a9d5-9f092eb8c9d6,,,,,,,,1,,,Notes
+6bb5c6c8-4f82-40c0-97f6-846b8d165718,eab0be70-0e58-4032-a9d5-9f092eb8c9d6,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+ae10f5fd-fb37-4a55-8e96-b70a358de7ce,eab0be70-0e58-4032-a9d5-9f092eb8c9d6,,,,,,,,SPD,,,Model
+4206df34-dc5d-4957-a7a1-3fbade7d29b2,eab0be70-0e58-4032-a9d5-9f092eb8c9d6,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+80f21213-7400-40ff-bbab-857ef806657e,eab0be70-0e58-4032-a9d5-9f092eb8c9d6,,,,,,,,STANDARD WHITE,,,Finish
+1875b984-d13c-4908-9f14-bf071a7de7f2,eab0be70-0e58-4032-a9d5-9f092eb8c9d6,,,,,,,,24X24,,Size,Grille Face Size
+b716054c-1715-4da3-9903-fe2d621b61a8,eab0be70-0e58-4032-a9d5-9f092eb8c9d6,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,,12,",Size,Grille Neck Size
+a8fe1d1b-f687-4229-84bd-77834ebbdd4e,eab0be70-0e58-4032-a9d5-9f092eb8c9d6,,,,,,,,SQUARE PLAQUE,,,Style
+b003f81a-a65b-4a1d-8fdd-d8d973661879,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,,,,,,,,"1, 2",,,Notes
+b7b32ea7-da98-4da5-945f-6d4318c01745,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+7b382692-06d4-4373-b212-6e1535f914b0,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,,,,,,,,530,,,Model
+16742b29-a0f5-4b09-b68b-6ff9caeca2b5,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+f55fb331-d42f-4d5a-b677-a5e81c331388,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,,,,,,,,STANDARD WHITE,,,Finish
+58caa2a5-5444-4986-935a-ed2536c6fa14,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,,,,,,,,24X24,,Size,Grille Face Size
+9879372e-2cff-4679-ad98-07c19af9c955,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,,,,,,,,22X22,,Size,Grille Neck Size
+44ca7f02-aba9-4061-b6fb-e36165c3f91c,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,efd848e4-a010-467e-b40a-a15dafef0aef,Blade Type,,,,,,LOUVERED,,,Style
+a82049ac-ec4f-474c-b0f0-106b958256a5,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,,,,,,,,3/4,",,Blade Spacing
+63b8a665-b5cc-429c-b641-b4416648c7e1,fa009c50-4571-45fe-ae30-9cf7d47d1e8d,ab67e377-a0b1-4759-b9f8-e5004d3ac711,Spread Angle,,,73fa41c3-e92f-ca80-602c-933f63149d52,Degrees,,45,°,,Fixed Blade Pattern
+d519257c-d42c-4e1c-a2a7-55404706bf2a,890e9775-b24f-4b9c-b789-334cecd4f8a5,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+dca49ac0-efa4-4268-8c2f-e622bf1dab91,890e9775-b24f-4b9c-b789-334cecd4f8a5,,,,,,,,SPD,,,Model
+9441d9f8-5085-4192-a117-f7a10cdb1397,890e9775-b24f-4b9c-b789-334cecd4f8a5,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+4caf1d59-ac07-48ef-9c7c-a8f951c1b7a9,890e9775-b24f-4b9c-b789-334cecd4f8a5,,,,,,,,STANDARD WHITE,,,Finish
+807e650e-8c24-4dfa-9da6-6aeb54951d6f,890e9775-b24f-4b9c-b789-334cecd4f8a5,,,,,,,,24X24,,Size,Grille Face Size
+bdbc4139-356b-429c-b01d-3b035286dcd8,890e9775-b24f-4b9c-b789-334cecd4f8a5,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,,8,",Size,Grille Neck Size
+4f90204f-1d9f-4618-81bc-4a56fdf1800a,890e9775-b24f-4b9c-b789-334cecd4f8a5,,,,,,,,SQUARE PLAQUE,,,Style
+3c94216b-15e3-40e5-bc0d-33bfc0828c0a,890e9775-b24f-4b9c-b789-334cecd4f8a5,,,,,,,,1,,,Notes
+2b68ac94-b46d-41c0-9112-7fe46f44cfcb,8f4231f9-68c5-476b-9299-71129db9d475,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+cc65284a-7e76-4c6f-bd2a-16e99728f233,8f4231f9-68c5-476b-9299-71129db9d475,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+5b2686cf-9827-4c70-af5a-5648ca226fbe,8f4231f9-68c5-476b-9299-71129db9d475,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,10X10,,Size,Grille Neck Size
+802a4b0d-7d95-4842-9028-4202a905e62b,8f4231f9-68c5-476b-9299-71129db9d475,,,,,,,,530,,,Model
+96798772-0f20-4299-8818-42122ae98fbd,8f4231f9-68c5-476b-9299-71129db9d475,,,,,,,,STANDARD WHITE,,,Finish
+0086fa71-a6a7-4858-a5d7-4a9fc73a0556,8f4231f9-68c5-476b-9299-71129db9d475,,,,,,,,12X12,,Size,Grille Face Size
+71fbefec-2aea-4efc-af13-54b14c85b2f0,8f4231f9-68c5-476b-9299-71129db9d475,,,,,,,,LOUVERED,,,Style
+7256b45e-c8bc-4a00-8e83-12a12179816b,8f4231f9-68c5-476b-9299-71129db9d475,,,,,,,,"1, 2",,,Notes
+06e1a944-39f3-4a70-abe1-29865b803e82,8f4231f9-68c5-476b-9299-71129db9d475,,,,,,,,3/4,",,Blade Spacing
+309eb724-84da-45e5-a48a-a305afebccd0,8f4231f9-68c5-476b-9299-71129db9d475,,,,,,,,45,°,,Fixed Blade Pattern
+8c96c337-2de5-4f32-98fe-8d050e8ab77b,f4ada81d-5a44-4fd9-a854-61e8fc60770f,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+f539e6f8-7bb0-4524-ab22-80c6ebc1bb0c,f4ada81d-5a44-4fd9-a854-61e8fc60770f,,,,,,,,530,,,Model
+f2599f13-5903-4859-b7b8-76621e348b2f,f4ada81d-5a44-4fd9-a854-61e8fc60770f,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+8f06edf7-33fa-4c29-9247-d50704bfb974,f4ada81d-5a44-4fd9-a854-61e8fc60770f,,,,,,,,STANDARD WHITE,,,Finish
+6a72fecb-7154-47a5-837a-05d2c4477790,f4ada81d-5a44-4fd9-a854-61e8fc60770f,,,,,,,,24X24,,Size,Grille Face Size
+0dae0786-efed-414c-8a68-0eba66caa27c,f4ada81d-5a44-4fd9-a854-61e8fc60770f,,,,,,,,22X22,,Size,Grille Neck Size
+16923456-a9d6-4dbb-bce2-24401949f404,f4ada81d-5a44-4fd9-a854-61e8fc60770f,efd848e4-a010-467e-b40a-a15dafef0aef,Blade Type,,,,,,LOUVERED,,,Style
+7faf5902-46df-49e7-94a2-cbeb0133232d,f4ada81d-5a44-4fd9-a854-61e8fc60770f,,,,,,,,"1, 2",,,Notes
+b249ae92-0760-434b-a28b-164b279a45b7,f4ada81d-5a44-4fd9-a854-61e8fc60770f,,,,,,,,3/4,",,Blade Spacing
+1d3d25d4-a775-49d7-a096-22aa6913ba6e,f4ada81d-5a44-4fd9-a854-61e8fc60770f,,,,,,,,45,°,,Fixed Blade Pattern
+905278ac-8e38-4be4-ab9a-03219ce95b79,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+78c641cc-42ab-4153-a8c8-79bad1e9ad38,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,,,,,,,,530,,,Model
+9d50cdda-7c4a-44ca-9f4d-3d8b8cf2b4ae,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+fa4958e8-ebfb-491e-8afd-bf0f8fcd8c8c,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,,,,,,,,STANDARD WHITE,,,Finish
+16f7091b-bf4b-4216-88e6-338335a426ee,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,,,,,,,,12X12,,Size,Grille Face Size
+ea0db81a-ef53-4475-9ac4-6bd57b2b84fb,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,10X10,,Size,Grille Neck Size
+f3da65ec-5074-4f09-b2e9-f296249b32cf,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,efd848e4-a010-467e-b40a-a15dafef0aef,Blade Type,,,,,,LOUVERED,,,Style
+2b720140-ef5f-4c9b-b170-6dd4c26bd25e,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,,,,,,,,"1, 2",,,Notes
+b6314d04-0a17-45f4-ad8a-deec1bc804c8,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,,,,,,,,3/4,",,Blade Spacing
+a56ba5ec-4af4-411d-a276-f55d822bf7c1,fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,ab67e377-a0b1-4759-b9f8-e5004d3ac711,Spread Angle,,,73fa41c3-e92f-ca80-602c-933f63149d52,Degrees,,45,°,,Fixed Blade Pattern
+dcc6647f-0a7e-4d28-9a5e-11e72c34f1f7,aa4d3866-8049-4c8d-afc9-e27b1970ef3e,,,,,,,,SPD,,,Model
+37f92231-8da9-4268-b03e-98d953e8aad0,aa4d3866-8049-4c8d-afc9-e27b1970ef3e,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+77c10357-b30f-45ac-b1f7-e2403a518fff,aa4d3866-8049-4c8d-afc9-e27b1970ef3e,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+08b09b92-e624-4194-acc8-9b300c55c149,aa4d3866-8049-4c8d-afc9-e27b1970ef3e,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,,6,",Size,Grille Neck Size
+a2c2219c-ce59-4904-80ab-effabc8b18d6,aa4d3866-8049-4c8d-afc9-e27b1970ef3e,,,,,,,,STANDARD WHITE,,,Finish
+e5ac783f-da88-4d86-8904-1844e22fa450,aa4d3866-8049-4c8d-afc9-e27b1970ef3e,,,,,,,,24X24,,Size,Grille Face Size
+2cc1ccad-5809-4129-8035-3bcd43499302,aa4d3866-8049-4c8d-afc9-e27b1970ef3e,,,,,,,,SQUARE PLAQUE,,,Style
+66d5a76e-7c8f-4669-9e61-00698100f207,aa4d3866-8049-4c8d-afc9-e27b1970ef3e,,,,,,,,1,,,Notes
+cf25c1fd-4841-466c-a87b-8a562569ad4a,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+265fd4d4-973b-4ee4-9e15-a01f7f029df4,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,,,,,,STEEL,,,Material
+fca76931-724c-4076-a6b6-dad7b0530af8,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,,,,,,,,530,,,Model
+3ea5465f-36ac-4bd6-985c-267e9526278a,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,,,,,,,,STANDARD WHITE,,,Finish
+9a62efd0-bf11-4cc9-9ad6-446925fbf83d,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,,,,,,,,24X12,,Size,Grille Face Size
+ed3e5cf3-76d8-4261-aeb5-f4c760351a44,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,,,,,,,,22X10,,Size,Grille Neck Size
+d6e9aff4-1c04-4206-a643-9629a8283182,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,,,,,,,,LOUVERED,,,Style
+7f40dfc9-daa9-4686-9320-e7b409584268,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,,,,,,,,"1, 2",,,Notes
+f1379f07-c5c9-4d2a-8aa3-517e1764975d,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,,,,,,,,3/4,",,Blade Spacing
+8c093899-eca9-45c2-a728-ca2298e4d4f3,e2fff5ac-53ff-4f2e-ab94-350be614a5b5,,,,,,,,45,°,,Fixed Blade Pattern

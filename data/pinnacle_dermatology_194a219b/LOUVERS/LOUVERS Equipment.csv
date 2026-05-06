@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+67e507a2-a134-4148-a250-11459e6bf1bc,LV-1,dec3a91e-f422-4b12-9c05-8b118c8d1057,Louvers,0,5e2c10da-e5cf-4fa3-bcf1-c87a9db17625,ESD-635,ESD-635,Greenheck,Greenheck

@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+e8fb1273-2b5c-447e-abe3-036e4d2f043c,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,70465df7-8e16-448b-b062-d7aab2165042,DR12HFA,DR12HFA,CaptiveAire,CaptiveAire
+e5b83357-1f8b-40b7-895f-e2f778f83686,KEF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,2a496aa3-c4e1-48b1-942a-547642eb7756,DU85HFA,DU85HFA,Greenheck,Greenheck

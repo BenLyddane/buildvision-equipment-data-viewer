@@ -1,0 +1,19 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+3760c459-873a-4f2e-8c15-860bd3253c52,EB,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,29d54f25-dd0a-458a-94e8-35c3fe5f20a9,350 FL,350 FL,Titus,Titus
+1b789e73-51ab-48f3-8e3a-8d635c8069c6,SL,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,8aa64a6d-4468-4c71-8951-97c729f792e7,PAS-AA,PAS-AA,Titus,Titus
+fc27f434-2af9-4eea-aa96-c0e4198ad218,RB,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+36070086-8049-4b02-931b-459e419392a9,SF,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,b5d5d6b6-aa75-444b-8b86-e58b14444dd3,TBD-10,TBD-10,Titus,Titus
+2deef093-3bfe-4a53-965f-3057ff23938b,RC,196e4ade-4a74-4933-b50e-dce66ce5b51c,Wall Registers and Grilles,0,41a6160e-3c68-4e0b-8a64-ef5634bac1cb,350FL,350FL,Titus,Titus
+57817600-978c-4853-8b60-6a57621d36b7,SK,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,10b47348-36a4-4592-bfdb-4b33035c7c0f,DL-SV,DL-SV,Titus,Titus
+7fdbb82e-5310-4659-b29a-56d46c153866,RA,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+defbce19-a170-4f50-95cb-6bbb9ffe23c2,SD,a0983310-d16e-4542-ab0a-009ff55c8c9c,Air-to-Air Energy Recovery Equipment,0,270dee93-65c3-420c-bd76-9ff7f84e7f71,TBD-30,TBD-30,Titus,Titus
+40167f7b-2f92-4469-8755-42b18e429cb9,SH,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,eb0f1ba9-9cb5-4a43-9ba7-58082f2a8e79,301 FL,301 FL,Titus,Titus
+bee30bc6-e68f-4f39-bde8-723a22d9b7ed,SA,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,6578b009-088c-4141-b55d-4e875f69bf7b,TMS-AA,TMS-AA,Titus,Titus
+31504491-833f-4913-884f-908768825d22,SE,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,eb0f1ba9-9cb5-4a43-9ba7-58082f2a8e79,301 FL,301 FL,Titus,Titus
+f76dcb72-683c-4c8e-b353-417a02621e81,SG,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,2a3cd1c8-99a3-4df0-92ba-81c6d7df9a07,XC-310,XC-310,Titus,Titus
+f3273f33-c3df-4b64-b6e1-f3af56d8b5b9,SJ,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,eb0f1ba9-9cb5-4a43-9ba7-58082f2a8e79,301 FL,301 FL,Titus,Titus
+fa39a866-2e90-40d5-9ceb-c2737d95461a,RD,196e4ade-4a74-4933-b50e-dce66ce5b51c,Wall Registers and Grilles,0,41a6160e-3c68-4e0b-8a64-ef5634bac1cb,350FL,350FL,Titus,Titus
+4d15b36f-588d-4a27-a3b6-bd27cbf50a2d,EA,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+b17f63dc-7887-4f52-88c7-168bb9ffca6c,RE,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+29ea715b-5341-4eed-b17a-0507c359aefa,SC,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,6578b009-088c-4141-b55d-4e875f69bf7b,TMS-AA,TMS-AA,Titus,Titus
+026337f9-08c6-4fdb-bb22-222f00bfd1b5,SB,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,6578b009-088c-4141-b55d-4e875f69bf7b,TMS-AA,TMS-AA,Titus,Titus

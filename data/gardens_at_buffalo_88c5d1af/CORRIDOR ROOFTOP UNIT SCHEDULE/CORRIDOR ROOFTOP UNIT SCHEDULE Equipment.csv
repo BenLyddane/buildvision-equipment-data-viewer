@@ -1,0 +1,9 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+72d335d7-8bad-4282-848a-51a587639674,RTU-C2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,d5a9a8ec-3660-4843-bc3e-086fd333b37c,ARDR-112-10A-1-J2,ARDR-112-10A-1-J2,LG,LG
+fff2d48a-e376-4576-b708-4d53f564cc84,RTU-C5,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,0ca6874b-907a-444d-9aca-f21f2d34f224,ARDR-112-12.5A-1-J2,ARDR-112-12.5A-1-J2,LG,LG
+f8521db9-f638-48bf-8f7d-9e613755cd1c,RTU-C3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,d5a9a8ec-3660-4843-bc3e-086fd333b37c,ARDR-112-10A-1-J2,ARDR-112-10A-1-J2,LG,LG
+dff8a218-51e5-4a11-ac44-eb4088d26e09,RTU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,51e29b61-6152-43f0-9a62-29c246ffbf17,KJ120E36R2BFBCE3E1,KJ120E36R2BFBCE3E1,Tempmaster,Tempmaster
+aae92dec-47fc-4814-b13f-f368bdb65b23,RTU-C1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,d5a9a8ec-3660-4843-bc3e-086fd333b37c,ARDR-112-10A-1-J2,ARDR-112-10A-1-J2,LG,LG
+d3ba8b3f-4c02-4fce-b528-fcfc7f9d104e,RTU-C6,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,d5a9a8ec-3660-4843-bc3e-086fd333b37c,ARDR-112-10A-1-J2,ARDR-112-10A-1-J2,LG,LG
+b51fe922-2b36-4153-91bc-35fc5f8815be,RTU-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,11ce90e7-ae24-4bbc-a88a-d59bac012013,KJ090E36R2BFBCE3E1,KJ090E36R2BFBCE3E1,Tempmaster,Tempmaster
+2d79cadb-4064-4cbd-bc7f-c4adbd4f75f8,RTU-C4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,d5a9a8ec-3660-4843-bc3e-086fd333b37c,ARDR-112-10A-1-J2,ARDR-112-10A-1-J2,LG,LG

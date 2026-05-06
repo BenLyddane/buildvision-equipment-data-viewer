@@ -1,0 +1,10 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+8ba6bd2a-23b1-447d-9059-3a79b54db629,EUH-8,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,2,0eb8e490-9962-4501-87f4-a59521b4a6a9,HF4320T2RPW,HF4320T2RPW,Markel Products,Markel Products
+6cad23bb-629c-434a-bcd2-8a5c043d6eac,EUH-9,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,1,0eb8e490-9962-4501-87f4-a59521b4a6a9,HF4320T2RPW,HF4320T2RPW,Markel Products,Markel Products
+ff35f2f0-5d4c-4676-beb7-170da517607f,EUH-6,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,e68b3e08-9f1c-450d-80dd-5205b1108ffb,HF3032DWBW,HF3032DWBW,Markel Products,Markel Products
+d772afdc-08ce-48f2-9a4e-799185326d99,EUH-2,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,0eb8e490-9962-4501-87f4-a59521b4a6a9,HF4320T2RPW,HF4320T2RPW,Markel Products,Markel Products
+774cb6bf-d60b-45b1-bcbe-71e4cc4b8a8a,EUH-1,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,0eb8e490-9962-4501-87f4-a59521b4a6a9,HF4320T2RPW,HF4320T2RPW,Markel Products,Markel Products
+db9bf1f9-c56a-4556-b949-dee771fbeca0,EUH-4,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,0eb8e490-9962-4501-87f4-a59521b4a6a9,HF4320T2RPW,HF4320T2RPW,Markel Products,Markel Products
+482b0a0d-93a9-428d-8a43-1f88aebd7ad2,EUH-3,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,0eb8e490-9962-4501-87f4-a59521b4a6a9,HF4320T2RPW,HF4320T2RPW,Markel Products,Markel Products
+e7f89089-90ba-4c34-8c75-1c7585bc99a1,EUH-7,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,e68b3e08-9f1c-450d-80dd-5205b1108ffb,HF3032DWBW,HF3032DWBW,Markel Products,Markel Products
+e2d5d5f2-eb57-4906-a0fe-5c3c77fc8c6a,EUH-5,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,0eb8e490-9962-4501-87f4-a59521b4a6a9,HF4320T2RPW,HF4320T2RPW,Markel Products,Markel Products

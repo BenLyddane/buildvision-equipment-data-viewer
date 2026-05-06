@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+c80dae58-b21b-4a73-bee2-c6ab600ce72a,S-2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,c23ba39b-e584-423b-a212-32539aa84e0d,SDS R,SDS R,Price Industries,Price Industries
+af389f15-f0ca-46cc-9825-b936d0f4a449,C-1,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,85fa7f19-431f-4504-8809-8a934a41778d,PDMC,PDMC,Price Industries,Price Industries
+c6905606-18be-4c71-8ce9-898f24c930a7,C-2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,e6b4c914-8e7e-4b11-a0cc-6e86f7f96b18,PDDR,PDDR,Price Industries,Price Industries
+46301de9-a894-4d24-8452-06b7e9be24b7,S-4,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,098ad928-f262-4010-9be0-c2ca5ea00570,SDS,SDS,Price Industries,Price Industries
+566ebedd-9496-45ca-8c1f-6a5db2e7f9b2,S-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,36e199d4-bcbe-4d9c-be7b-922f8d3e65fe,"TBD2 - T-Bar Diffuser, Curved Pattern Controller",TBD2,Price Industries,Price Industries
+59fa03be-7dcd-41ab-ae2a-19e922c0b382,S-3,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,606e602a-c0c0-44b6-8c6d-56d307dadb37,"TBD3 - T-Bar Diffuser, Ice-Tong Pattern Controller",TBD3,Price Industries,Price Industries

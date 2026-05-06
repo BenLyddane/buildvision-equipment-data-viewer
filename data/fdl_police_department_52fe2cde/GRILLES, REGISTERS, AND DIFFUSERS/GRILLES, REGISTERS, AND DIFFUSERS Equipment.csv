@@ -1,0 +1,8 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+79a154ad-b41f-4fe2-8b30-22173654a05f,SD-2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,6578b009-088c-4141-b55d-4e875f69bf7b,TMS-AA,TMS-AA,Titus,Titus
+6ae625c0-e815-4877-a40e-2d5180eb7da3,EG-1,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus
+f9a15a19-a2f1-48d7-9e4c-e9ae31c4f18c,SD-3,a0983310-d16e-4542-ab0a-009ff55c8c9c,Air-to-Air Energy Recovery Equipment,0,270dee93-65c3-420c-bd76-9ff7f84e7f71,TBD-30,TBD-30,Titus,Titus
+8082ba30-bc98-42c3-9ce2-3370c38b2691,RG-1,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus
+e5cf9a5b-c471-4ada-84f7-e4730274e0e0,SG-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,28e0b099-fcde-4017-96bd-c9372c09811b,300FL,300FL,Titus,Titus
+b053fe27-55c2-4a92-b2aa-9201bc119e64,SD-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,4c5418f9-c25a-41d7-977f-022cb347fe07,TMS,TMS,Titus,Titus
+640e0cf7-df28-43fd-9aaf-aa5011a30385,EG-2,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus

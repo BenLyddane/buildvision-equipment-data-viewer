@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+cc0e7c27-e076-4dcf-9cc3-4355e69ae3fd,MODULE 2,cd1a5c14-fba1-4e2e-a5ab-6946d4519cd7,HVAC Air Cleaning Devices,0,,,,,
+88762d9e-f09d-48e3-9cc3-0684abb780b3,MODULE 1,cd1a5c14-fba1-4e2e-a5ab-6946d4519cd7,HVAC Air Cleaning Devices,0,,,,,
+aa15863f-4160-45ec-95e1-52fa925fa393,MODULE 4,cd1a5c14-fba1-4e2e-a5ab-6946d4519cd7,HVAC Air Cleaning Devices,0,,,,,
+1adbf19d-c622-4cf4-a2bc-4beacf736571,MODULE 3,cd1a5c14-fba1-4e2e-a5ab-6946d4519cd7,HVAC Air Cleaning Devices,0,,,,,

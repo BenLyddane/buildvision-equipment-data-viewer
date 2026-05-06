@@ -1,0 +1,61 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+68106ffd-f555-4d5d-95d0-a089212d9dae,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,ADVANCED RADIANT,,,Manufacturer
+3c50ccf6-3a04-46d7-8723-6f97b40c3bff,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,DU80-S40,,,Model
+356dfc25-9f5f-45bb-8ad0-09b660a959b5,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,dad18d76-1ac5-4a23-a4b5-ef09d3580618,Mounting Height,,,,,,18,FT,,Mounting Height
+4036c6a3-0398-47aa-a9a8-984a7e153402,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,40,FT,,Tube Length
+9d3571ec-4eb7-4f36-be57-a031abb03511,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,4b097d14-31d4-45cb-b4df-2671909c6585,Fuel Type,fd67c7a4-cba2-43c4-80a4-a4e6ab705713,Natural Gas,,,,NAT. GAS,,Heating Data,Fuel Type
+45fb540a-c237-474f-a2c8-2a295043231b,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,80,MBH,Heating Data,Input
+4b6472a5-0798-4cc1-8c37-9e298d2784ba,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,-,MBH,Heating Data,Output
+add99bd4-7899-4778-9263-bb223dddda0a,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,2,,Heating Data,# of Stages
+8cfa9c62-bfbb-4910-86e2-1f0e5e6fed11,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,N/A,%,Heating Data,AFUE
+8b1c2320-f2be-4bd7-8b2b-dc7dd79f824c,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,b0822647-9a15-4d4e-8196-230203593e69,120,,,,120,,Electrical Data,Volt
+ca3a9fec-e7c6-447a-a49a-b51169e3e836,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,1,,Electrical Data,Phase
+13bdfd25-fedf-4d6d-9e46-2e9990f631ab,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,1,,Electrical Data,FLA
+eaeaa846-cf06-44c3-893e-889603d35748,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,15,,Electrical Data,MOCP
+d4561400-4c81-461c-b1e9-aefbb3f8052e,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,67977518-2945-4371-9e21-5ddf65b6bc75,Panel Weight,,,fe46f69d-dd77-9a0f-5dc4-1ce604c97ea9,Pound,,215,LBS,,Operating Weight
+c59ff68a-2a75-404b-9ae8-e325a6ef7b31,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,ALL,,,Remarks
+6f9f39bb-ff95-467e-a598-2fe2f85e30ed,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,ADVANCED RADIANT,,,Manufacturer
+91a5adbb-c6dc-4d78-8a45-94aad5a0a292,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,DU80-S40,,,Model
+a722fdc6-c54c-4d54-8500-90680c3702cf,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,dad18d76-1ac5-4a23-a4b5-ef09d3580618,Mounting Height,,,,,,18,FT,,Mounting Height
+fe663709-2a41-45a2-8a26-f97647cc4318,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,40,FT,,Tube Length
+223031ac-4365-4b8d-8071-3d4a7221c864,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,4b097d14-31d4-45cb-b4df-2671909c6585,Fuel Type,,,,,,NAT. GAS,,Heating Data,Fuel Type
+f06d3183-9b0b-4706-b646-ad314ed30b51,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,80,MBH,Heating Data,Input
+9d198294-bb76-4c19-846c-213cb22bf9a3,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,-,MBH,Heating Data,Output
+3ecab088-f566-4a5a-9366-52faab429499,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,2,,Heating Data,# of Stages
+d6c7a4f1-7df8-4b97-b59b-bbd6bfa4e540,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,N/A,%,Heating Data,AFUE
+4bc16eb1-b02c-4628-acdf-e2d179e535d8,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,120,,Electrical Data,Volt
+9072930d-59e6-4987-88f9-d1a8929bdd99,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+38103353-c31c-4238-8591-a6bb08522027,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,1,,Electrical Data,FLA
+08125717-ce10-4a76-adcd-d4af5d70121e,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,15,,Electrical Data,MOCP
+51344e31-808e-4a40-a000-90dfc22db594,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,215,LBS,,Operating Weight
+11183c0a-f25b-4142-9dc8-5ae4d16e1d4f,5e2dcc76-b9b2-4e62-94bc-e7c6c1724748,,,,,,,,ALL,,,Remarks
+3c0f4684-6f90-4e1d-ac62-d9913aa68f22,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,ADVANCED RADIANT,,,Manufacturer
+717965b4-3e41-4b1b-854d-d4b8cc37a4f8,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,BH-80,,,Model
+63fd0a77-3827-4012-b0e9-5c4cacc9e3bb,a7031458-bd46-4f4d-a5a7-d9adb892ed74,dad18d76-1ac5-4a23-a4b5-ef09d3580618,Mounting Height,,,,,,18,FT,,Mounting Height
+1dd3abda-fb63-4980-b680-30a126fc7ce9,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,20,FT,,Tube Length
+32146e7e-1bf2-4656-b2c6-a4daeb944c0d,a7031458-bd46-4f4d-a5a7-d9adb892ed74,4b097d14-31d4-45cb-b4df-2671909c6585,Fuel Type,,,,,,NAT. GAS,,Heating Data,Fuel Type
+cb64045f-c371-4d8f-b0cd-d5b4d67d519d,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,80,MBH,Heating Data,Input
+b0b3041f-88b2-4e7c-af55-0208e343a143,a7031458-bd46-4f4d-a5a7-d9adb892ed74,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,-,MBH,Heating Data,Output
+cb7e7a3a-4d52-4d3c-a452-1cfea43b0983,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,2,,Heating Data,# of Stages
+70b035e1-bcea-4c92-8912-7f1dea20c16b,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,N/A,%,Heating Data,AFUE
+bb815047-b1c3-4c4c-9ead-4205c329bdd5,a7031458-bd46-4f4d-a5a7-d9adb892ed74,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,120,,Electrical Data,Volt
+f552c6dd-f910-42d7-8481-84dfa0d799e2,a7031458-bd46-4f4d-a5a7-d9adb892ed74,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+ba64c921-7c23-45dd-a6c9-4ffede9cb16b,a7031458-bd46-4f4d-a5a7-d9adb892ed74,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,1,,Electrical Data,FLA
+5b183901-46be-4ae2-ba03-342f08fbf07c,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,15,,Electrical Data,MOCP
+f6a42fb2-8061-499a-92f6-10698a955bd5,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,125,LBS,,Operating Weight
+c98a81d6-cb3a-4ddc-bdc2-766560da710e,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,1-8,,,Remarks
+7c47d022-f625-41a7-b0e3-3e654de47845,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,ADVANCED RADIANT,,,Manufacturer
+1522c78e-a5d0-4774-9e79-37f963a62470,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,BH-80,,,Model
+46a4733c-3e3a-4617-b2b7-c9e35baa6746,a7031458-bd46-4f4d-a5a7-d9adb892ed74,dad18d76-1ac5-4a23-a4b5-ef09d3580618,Mounting Height,,,,,,18,FT,,Mounting Height
+e3944a23-9893-430e-919d-decb7f3c06de,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,20,FT,,Tube Length
+bd5cafe5-5328-4c83-8073-f94ef7eece75,a7031458-bd46-4f4d-a5a7-d9adb892ed74,4b097d14-31d4-45cb-b4df-2671909c6585,Fuel Type,,,,,,NAT. GAS,,Heating Data,Fuel Type
+1a64f893-bb7d-408d-81ac-59519e2e0b57,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,80,MBH,Heating Data,Input
+844cdee7-0f77-492c-b899-8e20a018910b,a7031458-bd46-4f4d-a5a7-d9adb892ed74,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,-,MBH,Heating Data,Output
+b3b397f7-c77d-4b6c-a21f-1c84bfe92d02,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,2,,Heating Data,# of Stages
+9924212d-58e0-40b5-9a09-b7397007569f,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,N/A,%,Heating Data,AFUE
+f4b24719-281d-41a1-a804-f73a3d31b1e2,a7031458-bd46-4f4d-a5a7-d9adb892ed74,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,120,,Electrical Data,Volt
+baa1ec65-cd97-4cef-8316-779b4ebddeb8,a7031458-bd46-4f4d-a5a7-d9adb892ed74,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+73d2f1aa-f7ed-45fd-a004-600d1a1b8481,a7031458-bd46-4f4d-a5a7-d9adb892ed74,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,1,,Electrical Data,FLA
+af1985c6-1ec5-454c-9b92-848264ea4197,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,15,,Electrical Data,MOCP
+e712bd77-d69d-48ec-9076-6f97bad4858c,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,125,LBS,,Operating Weight
+546db129-b031-42ec-a359-a4887cf77ef0,a7031458-bd46-4f4d-a5a7-d9adb892ed74,,,,,,,,1-8,,,Remarks

@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+6f64c5c1-5114-4ab4-807c-5ebd3b2735da,AHU-14,e2c6a92a-d155-49c2-9344-099111825947,Indoor Central-Station Air-Handling Units,0,,,,,
+a49961aa-dfb1-4fbd-b609-292cee343de5,AHU-13,e2c6a92a-d155-49c2-9344-099111825947,Indoor Central-Station Air-Handling Units,0,,,,,
+ff9dba64-ed15-4693-84ea-a093625dbc80,AHU-2,e2c6a92a-d155-49c2-9344-099111825947,Indoor Central-Station Air-Handling Units,0,,,,,
+fc71afc8-bbc7-4779-bc1f-9b85dce1c1a7,AHU-1,e2c6a92a-d155-49c2-9344-099111825947,Indoor Central-Station Air-Handling Units,0,,,,,

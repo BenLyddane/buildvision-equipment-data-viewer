@@ -1,0 +1,4 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+20eca5bd-83da-4e30-a22b-cd29957d130e,25e53149-7ace-4668-aaef-f94557374b3e,,,,,,,"{"kind":"flat","type":"Description","unit":null,"value":"Throw, High Capacity supply grille","category":null}","Throw, High Capacity supply grille",,,Description
+b5d3bb10-6bb4-460e-b4fe-01f4d3c3b59a,25e53149-7ace-4668-aaef-f94557374b3e,,,,,,,"{"kind":"flat","type":"Component Name","unit":null,"value":"DL-SV","category":null}",DL-SV,,,Component Name
+07cee122-bf3e-4041-a58d-1511e7d95154,25e53149-7ace-4668-aaef-f94557374b3e,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,74df1e98-d237-4dac-a7c1-024d504d41ab,Titus,,,"{"kind":"flat","type":"Manufacturer","unit":null,"value":"Titus+HVAC","category":null}",Titus+HVAC,,,Manufacturer

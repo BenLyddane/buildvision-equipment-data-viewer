@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+cff897f4-4506-43d7-83b6-b5f77419c169,CP-2,cc5b56fc-44c3-44b0-900e-1d2194d4a15f,Automatic Condensate Pump Units,0,be4a4954-9d7b-4472-897c-43db62e2ede9,VCL-45ULS,VCL-45ULS,Little Giant,Little Giant
+4503e663-db2d-4e95-bd94-5258ef0817cf,CP-3,cc5b56fc-44c3-44b0-900e-1d2194d4a15f,Automatic Condensate Pump Units,0,be4a4954-9d7b-4472-897c-43db62e2ede9,VCL-45ULS,VCL-45ULS,Little Giant,Little Giant
+20d5e997-f6fb-48cd-81de-468112fce947,CP-1,cc5b56fc-44c3-44b0-900e-1d2194d4a15f,Automatic Condensate Pump Units,0,be4a4954-9d7b-4472-897c-43db62e2ede9,VCL-45ULS,VCL-45ULS,Little Giant,Little Giant
+074f5bff-41e7-4b56-afe7-99d1c799b735,CP-4,cc5b56fc-44c3-44b0-900e-1d2194d4a15f,Automatic Condensate Pump Units,0,be4a4954-9d7b-4472-897c-43db62e2ede9,VCL-45ULS,VCL-45ULS,Little Giant,Little Giant

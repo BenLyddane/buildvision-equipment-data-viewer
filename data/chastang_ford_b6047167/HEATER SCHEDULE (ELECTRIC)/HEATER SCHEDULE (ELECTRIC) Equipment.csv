@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+27c7ab9b-d106-49bf-adcf-8984acaaf469,EH-3,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,b099451b-59b7-4ec6-9c0e-32b8ac540076,6300 SERIES,6300 SERIES,Markel Products,Markel Products
+278e83b7-37b1-4208-802b-036aa7331df2,EH-1,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,151507be-09e5-408a-af2b-c7122b6f24be,EWHB,EWHB,Reznor,Reznor
+73bab013-ab13-4804-ab58-2e787429b993,EH-2,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,d1dabd62-68ef-479d-884f-dff235d8def3,5100 SERIES,5100 SERIES,Markel Products,Markel Products
+e58ae977-bfcb-4177-80da-990bcc8eed86,EH-4,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,1fcb2c75-c70a-440e-8cb8-7d9f99e8b113,3320 SERIES,3320 SERIES,Markel Products,Markel Products

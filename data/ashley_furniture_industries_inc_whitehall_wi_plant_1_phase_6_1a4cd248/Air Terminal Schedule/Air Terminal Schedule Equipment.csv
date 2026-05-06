@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+25e53149-7ace-4668-aaef-f94557374b3e,SD-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,10b47348-36a4-4592-bfdb-4b33035c7c0f,DL-SV,DL-SV,Titus,Titus

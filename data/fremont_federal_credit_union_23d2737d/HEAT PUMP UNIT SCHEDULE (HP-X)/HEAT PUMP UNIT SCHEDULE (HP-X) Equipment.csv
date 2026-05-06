@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+9b60252e-3faf-4aff-bb86-a5f887a87d9c,HP-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,467b3a76-7460-4343-a2a2-8d80e56fa354,PUZ-AK 12NL,PUZ-AK 12NL,MITSUBISHI ELECTRIC TRANE,MITSUBISHI ELECTRIC TRANE

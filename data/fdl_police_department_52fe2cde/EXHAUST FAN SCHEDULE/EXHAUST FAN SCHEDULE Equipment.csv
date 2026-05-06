@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+649c50e8-2f54-43f6-afe0-19ca7adb9641,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,8df4abc8-a653-4976-8086-296d78771750,CUE-099-VG,CUE-099-VG,Greenheck,Greenheck
+21b462a2-33f7-45ca-b891-d594c02be668,EF-4,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,bee1026e-de50-4360-b892-9de6427cbd3e,CUE-140HP-VG,CUE-140HP-VG,Greenheck,Greenheck
+e3dd4a7b-5a0a-4f94-8b9b-ab021fc6ef87,EF-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,22a0a67d-8640-47b0-a54a-a520d7b05a69,VEKTOR-H-12,VEKTOR-H-12,Greenheck,Greenheck
+4d391554-06e7-40ea-837a-c67355d50688,EF-3,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,df7be27c-8df5-4623-9973-de31e35fda52,CUE-090-VG,CUE-090-VG,Greenheck,Greenheck

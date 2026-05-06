@@ -1,0 +1,8 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+58dff9c1-a29e-4d30-aeaa-9cf7611667c1,KEF-3,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,b49d7127-ec11-4033-8774-3d33a2965f1b,XCUBE Belt Drive Upblast Exhaust Fan ,XCUBE,Accurex,Accurex
+055b3d85-d935-447c-827a-ab18050ce427,KEF-2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,e7be1bbb-f7a2-405b-ad96-ca12373d888e,XRUBS Series,XRUBS,Accurex,Accurex
+287c6b95-f6cb-41fb-969e-36b6b64740f1,DEF-1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,17b601d4-ab1c-46af-bb24-1599a41731e9,XCUE Direct Drive Upblast Exhaust Fan ,XCUE,Accurex,Accurex
+8ccf8fd8-19f2-4f43-b533-ca300368c81b,EF-2,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,a2ff7d15-e7ed-40f7-9c94-9661cc1b659b,SQ Centrifugal Inline Fan,SQ,Greenheck,Greenheck
+37a95bfd-1bce-4b4c-beb4-639a5a51c3bc,KEF-4,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,b49d7127-ec11-4033-8774-3d33a2965f1b,XCUBE Belt Drive Upblast Exhaust Fan ,XCUBE,Accurex,Accurex
+ffdfa9ae-646b-4b9a-be71-a27ac033b886,KEF-1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,b49d7127-ec11-4033-8774-3d33a2965f1b,XCUBE Belt Drive Upblast Exhaust Fan ,XCUBE,Accurex,Accurex
+1f99ce20-5e72-48e7-8239-9716502a4b66,EF-1,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,a2ff7d15-e7ed-40f7-9c94-9661cc1b659b,SQ Centrifugal Inline Fan,SQ,Greenheck,Greenheck

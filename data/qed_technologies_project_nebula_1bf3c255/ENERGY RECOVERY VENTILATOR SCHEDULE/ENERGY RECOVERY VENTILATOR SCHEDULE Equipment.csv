@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+c247eb2a-31c4-42be-aff5-70d80e8b038e,ERV-1,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,c8838a9b-bad6-4924-9844-030e95184a84,HE4XRT,HE4XRT,RenewAire,RenewAire

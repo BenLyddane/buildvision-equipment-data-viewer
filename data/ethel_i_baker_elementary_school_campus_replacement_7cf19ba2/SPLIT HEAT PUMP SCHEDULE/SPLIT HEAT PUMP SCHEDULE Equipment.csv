@@ -1,0 +1,89 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+47c47b12-2585-4e17-a15f-8adb20ea9a64,SHP C-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,2,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+66a11f18-48da-4c30-a940-52c5381cb53f,SHP E-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+4a2cf8f2-234b-4c19-b91a-610355031999,SHP E-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+6faa7f58-c4cb-44ed-ab6e-b022ec299c5c,SHP E-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+3f4aedbc-d41f-4574-a8fc-ee77e11e8501,SHP E-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+652f92ac-7423-42d5-b135-4352eb520841,SHP E-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+6eaf7ba6-6dc9-4f0e-ae14-2525a4415dbc,SHP E-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+af45bee6-fb90-4f30-950b-46ee93834754,SHP E-7,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+7909e683-0b1f-43d8-af6e-3639c47c47f4,SHP E-8,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+340e3874-3287-477f-9d3f-0f67d4224bf4,SHP-D-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+9a46e842-ee7b-4bdf-88b9-fd3dae266f24,SHP-D-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+ed684e7e-11e6-490b-a322-0bfd2029654b,SHP-D-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+bcc4b242-ba48-4aa2-b21d-b615fa5ce792,SHP-D-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+594c7176-55be-488c-abb8-5df4e10df3e7,SHP-D-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+eab0a7bc-902e-4736-800c-deca20cff31a,SHP-D-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+8d6dc88a-fcf0-4c52-873b-0d9e189f3937,SHP-D-7,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+851e7487-5f6f-4fd4-8644-5ed57476cc41,SHP-D-8,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+f14a4067-b1bb-4925-acbc-b66aeb4874d1,SHP D-8,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+159c1d31-3051-42e8-bcc6-9a5f3f314df6,SHP D-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+b2bf03c4-be27-4a47-8938-0e521bf5e4ae,SHP D-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+f1da9814-1750-4493-a4c4-9ac2ff6abfa7,SHP D-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+d101b580-c189-4305-9905-9c073519e6b3,SHP D-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+0523f3fa-4c6c-4ea9-907b-c966e7920e4b,SHP D-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+b1ada437-91be-4f75-843a-e99edcd04546,SHP D-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+f618c680-b9e6-4fc8-82a1-2ef764fe44dd,SHP D-7,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+030b4e86-f5fe-4cca-8562-7db2dff85a9e,SHP C-7,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+be6e0655-bf4e-449e-be1a-0794fdf77f57,SHP C-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+6391d355-00af-4bf9-bcc4-bab2fc32b49f,SHP C-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+efd3a031-287a-46f5-853e-4d35b683db35,SHP C-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,2,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+03accee5-9775-456e-950f-24c9974ee7d1,SHP C-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+5d9fa56b-e5c5-487c-ade2-2082829099e3,SHP C-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+877ecde8-b84d-4089-9b7c-77e8547c933a,SHP A-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+6377e13e-a931-4fec-8b82-1a5051f5e8eb,SHP A-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,26040ec4-0753-4947-af44-76a334b91820,HH836E2,HH836E2,Tempmaster,Tempmaster
+99f1c7a9-4187-4c7c-98e8-06817bb20464,SHP A-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,51e47c13-20cf-47ad-ab91-a5634c8b3b47,HH824E2,HH824E2,Tempmaster,Tempmaster
+cf7a6d3b-20ac-47fe-88c3-b0fe770c45f5,SHP A-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+0eecb7fa-51be-4f84-b9e1-af3389318547,SHP A-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+b2fe064e-e56d-427f-b41a-be4c4d6c04f7,SHP B-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+b5eb678e-c67a-47b5-947c-a6f6669f486e,SHP-B-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+51f57976-a19f-4d9a-8e88-8b3180fa04a0,SHP-A-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+5ade6394-4ae4-4fdc-b432-a5479510ccd2,SHP-A-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+34a78fc3-46ff-4d77-b3ad-625797f20132,SHP-A-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,26040ec4-0753-4947-af44-76a334b91820,HH836E2,HH836E2,Tempmaster,Tempmaster
+de7e1040-0c70-4b5a-94fa-6a6ba74d55e5,SHP-A-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,51e47c13-20cf-47ad-ab91-a5634c8b3b47,HH824E2,HH824E2,Tempmaster,Tempmaster
+6c21e41b-9763-4b4c-b18b-3ea8ab7c966b,SHP-A-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+4ff6e420-c786-4a5d-83f9-0e3f90752540,SHP-K-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+82b64785-8978-4165-83ca-ccb54ece16e8,SHP-K-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+52ef8571-3dbd-4a53-97e2-1547f93b2ba3,SHP-K-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+4326ac0a-fc05-4334-8b61-ee1f580ced9a,SHP-K-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+408bb1a5-1f21-4058-bb0e-c3759b0c1f24,SHP-K-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+499cf5f8-7788-48a2-b7ab-4c0fb4632d72,SHP-K-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+4c9ef2a6-1eb6-435e-9aea-da9b81cc41ec,SHP K-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+1e30f9f9-d3dc-4f2b-ae60-27a3c79cdaa1,SHP K-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+77ce4469-db22-458e-9a2d-e8dda160e8e3,SHP K-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+8d715dc7-e16d-4768-b53c-39ac389daac7,SHP K-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+585ec645-4d3c-4d8b-b26c-906883839013,SHP K-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+c0cb8771-7974-4b49-8261-a96070f9e17a,SHP K-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+ad7cae95-9d2b-4ede-9d30-5a13e6a7a168,SHP F-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+125cb97a-c29d-4d9a-ad4a-d90e4280db56,SHP F-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+a38d7299-65d9-4e92-acdf-a525cb826791,SHP F-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+6ba83df1-c338-4a6a-bf7e-ec9ba8b7e44a,SHP F-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+93758b76-3d07-4d1d-ae85-3b90f54aa6bd,SHP F-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+8898da8a-7ee5-4ec7-8e47-51f672e256b4,SHP F-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+69148589-54da-4510-b1ba-d1a64bf27236,SHP F-7,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+5fca370c-76ad-4223-8014-463e58e133cc,SHP F-8,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,0a70615c-26ea-4faa-ad4f-2b261029edba,37MARAQ18,37MARAQ18,Carrier,Carrier
+633369e9-2bf3-4505-bd1e-4c8df5bdc44d,SHP F-9,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,0a70615c-26ea-4faa-ad4f-2b261029edba,37MARAQ18,37MARAQ18,Carrier,Carrier
+60911279-7ed3-41e2-9bb7-588ae5a15145,SHP-E-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+237f3139-0841-4887-a7f1-ce4d82bf98c9,SHP-E-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+db5d1488-46d5-4e79-8999-02e350f1744e,SHP-F-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+9dcb4b3b-2f54-437f-b45d-e41ab46388bc,SHP-F-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+0c38b070-31cb-48db-b8c1-87e8793a11da,SHP-E-7,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+d00ad693-fcae-4318-a632-369e0e6d014c,SHP-C-7,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+b04db4c0-2c82-44e8-9be5-5e7e2d0e2da8,SHP-E-8,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+0d0d5207-27fe-4f88-95fb-adee84e1e612,SHP-F-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+a4a23de8-b9c9-44e9-bc12-2a9783f369b0,SHP-E-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+ef76e025-eb5c-431a-82fc-3624b9c21835,SHP-C-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+535ca5d5-ad71-474a-8fc3-8cd7043af234,SHP-F-7,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+73420fee-1267-420f-894d-2d38c114e145,SHP-E-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+03bbbdcf-9c4b-40e3-a264-a302fbb102ce,SHP-C-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+efd5a331-448d-4c98-a91f-972a38c7a732,SHP-C-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+44c97091-db78-4436-9037-dfc80992dd6e,SHP-F-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+2a964238-c6f8-48bc-b00c-71bc458dc964,SHP-E-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+2d356b1d-f1e0-476c-9b3b-d7a60afa2b5d,SHP-F-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+3b314e50-dcfa-43d3-ac75-de3dd2ef593b,SHP-C-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+e71f5aa8-5ea7-42fe-8b00-bba0b1b50537,SHP-F-8,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,0a70615c-26ea-4faa-ad4f-2b261029edba,37MARAQ18,37MARAQ18,Carrier,Carrier
+9fed853e-2e1c-4379-be9e-09411e0d2ff0,SHP-F-9,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,0a70615c-26ea-4faa-ad4f-2b261029edba,37MARAQ18,37MARAQ18,Carrier,Carrier
+b1ccb0c8-b434-4641-ad18-02b7ff01cfa8,SHP-F-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+1df8e913-de77-4a22-8220-b18f79e0858b,SHP-C-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+62bffe51-8581-44c1-ae58-57e1fecd87a9,SHP-C-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster
+dbc61e85-099f-4ee5-977b-42757049dc80,SHP-E-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,97c72add-125e-4a9d-80a9-47501484a40e,HH860E2,HH860E2,Tempmaster,Tempmaster

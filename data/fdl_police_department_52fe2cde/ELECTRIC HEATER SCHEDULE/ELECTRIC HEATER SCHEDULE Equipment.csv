@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a3e7912f-00aa-4686-8baa-bcb43ed9b861,CUH-3,d3400b97-d382-47e1-8d2e-b54524e40d4d,Cabinet Unit Heaters,0,0226dccf-3c9b-4a44-8424-71fcb297a549,CUH935 Custom Cabinet Heater,CUH935,Berko,Berko
+cd93a105-7ab8-4fc8-9cf4-83c4534d3e0e,CUH-2,d3400b97-d382-47e1-8d2e-b54524e40d4d,Cabinet Unit Heaters,0,0226dccf-3c9b-4a44-8424-71fcb297a549,CUH935 Custom Cabinet Heater,CUH935,Berko,Berko
+23af932c-a1bc-4b56-922e-059c62db7cec,CUH-1,d3400b97-d382-47e1-8d2e-b54524e40d4d,Cabinet Unit Heaters,0,0226dccf-3c9b-4a44-8424-71fcb297a549,CUH935 Custom Cabinet Heater,CUH935,Berko,Berko
+a267b16d-9ea9-4811-bfa8-94ab43afce99,EUH-1,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,3522f331-3f89-44d9-b1b1-919523b5b7af,HUHAA1520,HUHAA1520,Berko,Berko
+d2df7657-24cf-4e9d-bc82-9c724f3917fb,EWH-1,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,c7003081-3d57-48c8-bbcf-4f5973bcdfd3,SRA1012,SRA1012,Berko,Berko
+91188cfa-f222-440d-91a5-20468c3245e6,EUH-2,fb6a9dd9-82dd-43b5-9a82-e46575bc8d64,Propeller Unit Heaters,0,d364117c-69dc-4bce-b86b-aef19fb15126,HUHAA320,HUHAA320,Berko,Berko

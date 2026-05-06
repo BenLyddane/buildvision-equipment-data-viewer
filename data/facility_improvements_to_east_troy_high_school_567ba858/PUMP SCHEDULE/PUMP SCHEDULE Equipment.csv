@@ -1,0 +1,11 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+cbcbf7c6-d305-40cd-bb74-e8345ef6e13d,P-RTU-14,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,37e39c4c-bdbc-4a7d-a95c-22d8c79a40bd,e-90 Series,e-90 Series,Bell & Gossett,Bell & Gossett
+9a99e53f-cc64-4e5d-948a-1f22e17d83f2,P-RTU-7,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,75f52eef-5365-4f7e-9230-b97051fa64d8,e-90 1.5AAB,e-90 1.5AAB,Bell & Gossett,ABB
+d944ffa4-5461-4390-8975-8401d5557b01,P-AHU-4,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,a43f1bb0-1e5a-460d-99dc-87ae9dea1140,PL-45,PL-45,Bell & Gossett,Bell & Gossett
+0843db30-7450-43a6-96c7-98f8ec02db1c,P-FCU-2,d3ae6a49-ca2b-47a8-ace8-353607db579f,In-Line Centrifugal Hydronic Pumps,0,51e17ea0-7250-4c47-9315-548416e9d71f,PL-36,PL-36,Bell & Gossett,Bell & Gossett
+172e52c7-6860-4dfe-ad9f-b5a6389949b9,P-RTU-19,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,37e39c4c-bdbc-4a7d-a95c-22d8c79a40bd,e-90 Series,e-90 Series,Bell & Gossett,Bell & Gossett
+fe97d861-6711-48be-a112-13c179b2fb56,P-FCU-3,d3ae6a49-ca2b-47a8-ace8-353607db579f,In-Line Centrifugal Hydronic Pumps,0,51e17ea0-7250-4c47-9315-548416e9d71f,PL-36,PL-36,Bell & Gossett,Bell & Gossett
+d5b893ca-c167-43be-9160-bdb08b7dbf78,P-RTU-4,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,37e39c4c-bdbc-4a7d-a95c-22d8c79a40bd,e-90 Series,e-90 Series,Bell & Gossett,ABB
+56dc1345-e36c-4bed-a6e5-440ac88104e4,P-AHU-3,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,a43f1bb0-1e5a-460d-99dc-87ae9dea1140,PL-45,PL-45,Bell & Gossett,Bell & Gossett
+b0da368c-e321-4a96-8b3d-10707b095bb5,P-RTU-13,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,37e39c4c-bdbc-4a7d-a95c-22d8c79a40bd,e-90 Series,e-90 Series,Bell & Gossett,ABB
+bd3c0bce-c405-4294-9528-393b3bf72194,P-RTU-15,bf2d73e0-a13f-421a-b9d5-6c6c52a59ba9,Hydronic Pumps,0,37e39c4c-bdbc-4a7d-a95c-22d8c79a40bd,e-90 Series,e-90 Series,Bell & Gossett,Bell & Gossett

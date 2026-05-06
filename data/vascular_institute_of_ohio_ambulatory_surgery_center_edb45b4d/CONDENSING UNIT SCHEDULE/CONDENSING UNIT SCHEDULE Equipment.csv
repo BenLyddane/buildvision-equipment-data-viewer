@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+9a692412-00e1-4ef1-bb90-93db5f5f9f4a,ACC-118,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,184a48a5-b80e-4360-85c7-94608f89dff9,RXS-36UMB,RXS-36UMB,Samsung LED,Samsung LED
+845aa20f-57a6-449e-afde-d65e0f644573,ACC-125,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,7bdefdc3-de8d-4a89-925a-35deaa4437b8,RXS-12ABT,RXS-12ABT,Samsung LED,Samsung LED
+7005950c-1c6c-404d-ad5c-315819bfc837,DS-125,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,20ea62d0-fe83-405d-8cb9-22873452840c,RNS-12ABT,RNS-12ABT,Samsung LED,Samsung LED
+bd424f27-0c85-4c5b-81d1-4e2d3fe2ecc6,DS-118,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,b78f1917-c45b-48ce-b9c3-3b3bcc9358bf,RNS-36UMB,RNS-36UMB,Samsung LED,Samsung LED
+cb12c4e9-62ec-40ae-be47-9f229cb74496,DS-139,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,ba16e161-473b-431d-a8b8-6745d0e5aac7,RNS-24ABT,RNS-24ABT,Samsung LED,Samsung LED
+8a1a2f85-441f-4f43-918a-9be5c877a38c,ACC-139,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,55ee24a8-2ed1-4c09-9de4-911df755b1f1,RXS-24ABT,RXS-24ABT,Samsung LED,Samsung LED

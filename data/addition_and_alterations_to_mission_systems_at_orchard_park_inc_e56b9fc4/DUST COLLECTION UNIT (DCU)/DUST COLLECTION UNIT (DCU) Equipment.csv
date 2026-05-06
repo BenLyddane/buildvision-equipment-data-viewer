@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+46206eb9-a481-4b8c-843b-f8efa15c6cd4,DCU-1,cd1a5c14-fba1-4e2e-a5ab-6946d4519cd7,HVAC Air Cleaning Devices,0,d217645d-f259-4a20-8f10-0aaf25a1716a,DMC-01-TEK315,DMC-01-TEK315,AQC Industries,AQC Industries

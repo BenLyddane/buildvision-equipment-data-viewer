@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+fa45d237-d2d3-4fca-9483-08a13d4c9d49,S1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,4fa92a59-7273-4db1-bc93-c3afa7f7809f,SPD STEEL SQUARE PLAQUE DIFFUSER,SPD STEEL SQUARE PLAQUE DIFFUSER,Price Industries,Price Industries
+e613f188-a9c8-4d34-b19e-7f75bc487dc1,E1,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,f79f7785-23f8-4047-8321-37597ae8045c,530,530,Price Industries,Price Industries
+68030135-f423-4acb-bb32-2be0b3cf3c72,S2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15e96650-ec86-47e2-b98e-8612a6524fa3,520L,520L,Price Industries,Price Industries
+e59689ab-34ac-42b1-bf72-499bc7181046,R1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,c37731be-d036-4c23-8ce6-9202e1462fba,80 SERIES,80 SERIES,Price Industries,Price Industries

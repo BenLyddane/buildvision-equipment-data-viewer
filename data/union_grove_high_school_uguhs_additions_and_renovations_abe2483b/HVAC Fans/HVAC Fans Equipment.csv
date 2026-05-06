@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+34c84510-0d75-4468-820d-d2233125074b,CF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,4c4a41cc-15e9-48e4-a568-63181df543e8,GOLD LINE 260F-7,GOLD LINE 260F-7,ENVIRO-FAN,ENVIRO-FAN

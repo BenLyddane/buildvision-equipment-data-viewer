@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+688051a5-c29f-4d7b-a516-104b0e02aedd,CU-C,6e8977c7-aa28-4436-9fa4-2e23e0d5d07e,VRF Outdoor Units,0,507d223b-28e2-4884-a622-8c8eb4b1630d,ZRUM048GSSO,ZRUM048GSSO,LG,LG
+cf88b900-4620-4fd4-b038-c6e22aa375c4,CU-B,6e8977c7-aa28-4436-9fa4-2e23e0d5d07e,VRF Outdoor Units,0,24d707d7-24eb-42f3-8893-1faf2050581b,ZRUM036GSSO,ZRUM036GSSO,LG,LG
+b83e1092-00dc-4771-a1e6-44e1d3c6fab6,CU-A,6e8977c7-aa28-4436-9fa4-2e23e0d5d07e,VRF Outdoor Units,0,776d838b-ce90-41c8-8eda-3fea944af331,ZRUN024GSSO,ZRUN024GSSO,LG,LG

@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+db93f818-9f85-45db-8e2f-686ad6ab7b97,GDS-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,1,f35d86fc-afee-4625-af8a-e92e598701c0,AMC-1BZ SERIES,AMC-1BZ SERIES,Armstrong Monitoring,
+c63b2ae5-0b8d-4070-907a-4f6e1ddbe2cd,GDS-1-2,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,5c6ab12f-cfa7-4d8e-935e-a63c96849608,AMC-1220 SERIES,AMC-1220 SERIES,Armstrong Monitoring,
+a7d870a5-7f59-4e94-a51b-f18d7fdf2fc2,GDS-1-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,5c6ab12f-cfa7-4d8e-935e-a63c96849608,AMC-1220 SERIES,AMC-1220 SERIES,Armstrong Monitoring,

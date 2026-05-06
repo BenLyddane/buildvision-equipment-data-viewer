@@ -1,0 +1,16 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+0a607cf0-02ea-41fc-a615-0bf47e62dc7d,GUH-14,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+2333d5a1-57b4-4f22-9989-e1dc881f5a9d,GUH-10,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+50eca08e-f285-4bc7-b275-52675c02472c,GUH-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+4edf1a27-0363-4bb6-b973-b14853575f6a,GUH-12,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+5c66e23f-6251-4aff-8268-2a341a5b20b2,GUH-9,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+0448dcba-961a-447a-8da4-f19c217711f6,GUH-3,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+fc2af26f-c0f7-46d1-a707-ab308c7ab728,GUH-6,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+b39ef86b-9fa9-4b91-8371-19d97d46994c,GUH-15,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,7bfba7bf-4432-4792-9616-017932783829,UDZ-75,UDZ-75,Reznor,Reznor
+3c0cae5c-f0d8-4ac8-bb2d-66ec2b204c75,GUH-8,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+5acf7c7b-f0d6-4040-8736-a2f107685aab,GUH-7,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+b44cef48-b114-4663-8e7d-04100a8b2651,GUH-5,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+4191654e-abb1-45b4-a22b-b0c5b3715400,GUH-11,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+93de041d-ee72-4c3f-bb9d-286f002f614d,GUH-13,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+75b6b3d6-01ad-4b2f-b5b4-5e50125fcb26,GUH-2,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor
+5f71e76a-6873-4c43-8fe7-d7f6c8a68f7f,GUH-4,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,17f6b183-6ff7-4925-9d0c-e8c35606ca15,UDZ-400,UDZ-400,Reznor,Reznor

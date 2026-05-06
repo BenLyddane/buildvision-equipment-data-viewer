@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+c15900b5-1cf4-4537-9fdf-837a51fe435d,AC-L-1.5-02,a08a70f9-5010-4e72-b96c-3916f4072e32,Fan Coil Units,0,cf3da0ba-cb9d-4bb4-b81f-5a6e6b71797a,BCHE036,BCHE036,Johnson Controls,
+713baeff-9962-46a8-be49-164dca50e182,CU-RF-01,f5f15013-f094-4ee0-8435-70d145807388,Variable Refrigerant Flow Systems,0,d63e5e94-e8fe-41b1-be6d-976db34fbf4b,RXTA24AAVJU,RXTA24AAVJU,Daikin AC,
+9707d51e-4e48-47af-8de7-554a20846437,CU-L-1.5-02,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,1ceedd8e-30b0-415f-b743-c5f0ca3da0d6,5TTR4030A1000A/B,5TTR4030A1000A/B,Trane,
+ec551c25-7ffd-4b28-891e-ab6fa9436f83,CU-L-1.5-01,f5f15013-f094-4ee0-8435-70d145807388,Variable Refrigerant Flow Systems,0,d63e5e94-e8fe-41b1-be6d-976db34fbf4b,RXTA24AAVJU,RXTA24AAVJU,Daikin AC,
+a1ba16a2-3101-451d-8492-f5600c517995,CU-L2-01,f5f15013-f094-4ee0-8435-70d145807388,Variable Refrigerant Flow Systems,0,d63e5e94-e8fe-41b1-be6d-976db34fbf4b,RXTA24AAVJU,RXTA24AAVJU,Daikin AC,

@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+8fe56a0b-a3ae-4ada-969f-09d53abb34c7,RTU-1,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,1bb563cc-1d25-4126-80b9-5a3686f383fc,CAS-HVAC-1-I.124-18-6T,CAS-HVAC-1-I.124-18-6T,CaptiveAire,CaptiveAire
+46cdf92d-9a8b-408f-b004-b8a628e6b89e,RTU-2,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,1bb563cc-1d25-4126-80b9-5a3686f383fc,CAS-HVAC-1-I.124-18-6T,CAS-HVAC-1-I.124-18-6T,CaptiveAire,CaptiveAire
+61d026b0-d896-4965-973e-f6821cd66cc0,RTU-3,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,2c3c6baa-ceb6-4e35-9e64-d9b1c4e47f0b,48FE*M09,48FE*M09,Carrier,Carrier

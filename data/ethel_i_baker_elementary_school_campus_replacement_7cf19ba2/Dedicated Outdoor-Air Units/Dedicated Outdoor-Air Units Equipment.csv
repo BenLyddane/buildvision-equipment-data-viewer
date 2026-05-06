@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+e76e4263-c21d-4dc0-a667-5534ef987c4e,DOAS-M-1,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,,,,,CAPTIVAIRE

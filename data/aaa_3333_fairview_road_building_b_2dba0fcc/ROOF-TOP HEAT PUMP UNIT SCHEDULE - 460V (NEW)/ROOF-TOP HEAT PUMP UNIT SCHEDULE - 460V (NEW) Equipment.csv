@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+3c3043b4-af2a-4331-89c3-cfa90f22a096,RTU-1,8f0a3c4a-455a-4598-8294-0b49f76e5658,Air-Source Unitary Heat Pumps,0,e70a81ff-025a-4b39-a2dc-1954a03cc3e8,WSK180A4S00**D0C,WSK180A4S00**D0C,Trane,Trane
+908e21b9-bf08-4110-b7df-4220c97444d7,RTU-2,8f0a3c4a-455a-4598-8294-0b49f76e5658,Air-Source Unitary Heat Pumps,0,bf3f765d-6eaa-45e4-aab7-a86fe50780de,WSK180A4S00**D4C,WSK180A4S00**D4C,Trane,Trane

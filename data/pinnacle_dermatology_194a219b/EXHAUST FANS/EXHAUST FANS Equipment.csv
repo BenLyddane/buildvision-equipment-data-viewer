@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+5b8aaa49-224b-42fe-9a6d-275b8674573a,EF-3,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,1,e9cea24b-a393-4d19-880a-f1191e4245a7,G-095-VG,G-095-VG,Greenheck,Greenheck
+2c24ece7-9566-4a89-9556-509ed60b2684,EF-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,89fbac14-fc57-4dc8-bc2c-3c03525c34bb,G-090-VG,G-090-VG,Greenheck,Greenheck
+09f206ca-1a09-4de9-a889-32939691d6d3,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,89fbac14-fc57-4dc8-bc2c-3c03525c34bb,G-090-VG,G-090-VG,Greenheck,Greenheck

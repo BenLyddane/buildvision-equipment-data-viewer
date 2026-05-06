@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+33851612-4291-453e-a697-11555d904f93,HVLS-1,1c412dc5-6765-4654-a353-096dc543d8a7,"High-Volume, Low-Speed Fans",0,9765024a-7ac2-450a-a954-2a67b0ef5337,PF X4,PF X4,Big Ass Fans,Big Ass Fans

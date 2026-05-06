@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+007e1c28-42db-494c-9e8e-78eea5fa0de3,DWET-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,ba374cff-d374-4bf6-911c-2108f273d060,ST-5C-DD,ST-5C-DD,Amtrol,Amtrol

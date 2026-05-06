@@ -1,0 +1,41 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+13b96e90-c1d8-4a4c-9155-b8045bdab6a4,EF-P-4,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+76b9ca02-6e8c-48d3-a782-6b273006fff3,EF-P-3,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+7032aba5-77b2-42b1-b950-7651d7120a0d,AHU-13,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+7f5646ea-7d56-4a74-ac35-a4f7987807e8,AHU-20,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+6544b52e-0b63-4719-8d58-f36a5a242c61,AHU-26,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+24c175b9-16c5-40fb-b090-eb13b4a67059,ARU-2,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Johnson Air Rotation
+7bd14a51-89ba-44a3-a11f-ea8d0b5e6aa3,AHU-03,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+f6241f06-ee52-442b-9eb9-a8fcffa62b7d,AHU-17,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+fc3974d4-f0de-45ea-b9fd-31c467f7b9e7,AHU-19,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+d522ff0f-ac32-490c-9c93-9acd921dc0ff,AHU-11,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+4d6fff50-2857-4272-bf12-2abd0faa7fe3,EF-P-2,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+486f61b1-cd0e-411b-b3ba-ca787b3bdd64,AHU-15,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+8381d5e6-6195-49ba-9794-8d146b549b04,AHU-16,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+67439100-27c5-4eb9-b3bd-a00b2e7243f0,ARU-1,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Johnson Air Rotation
+1cfcf97e-d07f-4df0-a067-6cabf97a1173,AHU-09,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+89887982-ef07-4e96-86ea-b40c3fc24409,AHU-21,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+d9c9fdaf-6f9c-475f-a2bf-40f90a5553d3,AHU-12,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+e3ca96ea-5191-49fb-819f-72ff2708a5ba,AHU-22,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+2608e5ed-310b-4792-9d44-d404c94e2528,ARU-4,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Johnson Air Rotation
+86447e48-d333-4121-a7a4-7bb4e87c3553,AHU-07,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+3727d81e-23aa-431c-af04-f8a2dde4751e,AHU-08,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+f7428019-ddd8-4655-8ab6-c8cc00b18a81,EF-P-3,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+bdbff76b-db55-49d9-863b-2fb91d84e8d8,EF-P-4,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+0d0f7f82-9518-4ec1-bff7-54a7cf1a1a81,EF-P-1,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+7f60bc25-71ff-4473-8470-00b1fb7e14d3,AHU-24,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+7ac26ff5-6af6-4c3d-abe1-f13f68d7cde0,EF-P-2,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+91e3cce7-87d2-41da-9e9c-d964baff9c07,AHU-02,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+d8bddfaa-c0d7-49aa-b85f-fc62b03ab70a,AHU-18,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+e7fe1d40-04bd-4b2c-87c4-ff36f1a99215,AHU-01,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+686e3142-9255-4c24-963f-9825abbeb78e,AHU-25,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+f81a1854-5c89-4c9d-ad93-497deec500de,ARU-3,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Johnson Air Rotation
+75ff6afb-7565-482f-89c6-1bf04f6bbffc,AHU-27,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+74fb8e49-ab20-420f-9ee1-4f56f5b7198c,AHU-05,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+be64e01f-1162-4f57-9eac-536149161575,AHU-14,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+78259b69-ddec-4a51-b802-4ba3746b4f7a,AHU-23,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+9013892d-d2d8-46cc-aeda-29b3c5e3319c,ARU-5,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Johnson Air Rotation
+efad109b-8854-4ac2-b186-d51a22c8c936,AHU-04,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+329c59c8-61f0-45a6-a91f-d3518ce776ee,AHU-10,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC
+0fe9fd82-04dd-42e5-8f02-f19fb374f0bc,ARU-6,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Johnson Air Rotation
+a4337c3d-99c5-4653-bcf9-f03fe8915fbd,AHU-06,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,Daikin AC

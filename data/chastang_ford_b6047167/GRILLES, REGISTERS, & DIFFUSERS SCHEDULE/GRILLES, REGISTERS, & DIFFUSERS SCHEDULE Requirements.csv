@@ -1,0 +1,200 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+0c1014d9-c986-45e5-9a2b-f94fd40592d3,8359172a-b5ec-48a8-b48b-79bf76718160,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+00735b0b-df29-4ca4-a6c1-5d2f399a2675,8359172a-b5ec-48a8-b48b-79bf76718160,,,,,,,,PDDR,,,Model
+fb398056-1d7f-4036-be94-37dfac68f4f6,8359172a-b5ec-48a8-b48b-79bf76718160,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,57aeb21f-d927-4064-962b-67452f64f868,Return,,,,RETURN,,,Type
+4f5c2f8d-5a65-4d2e-be9e-a8f217af68f3,8359172a-b5ec-48a8-b48b-79bf76718160,2d33b0ad-3035-440f-bfb2-65854c669ad3,Modular Grid Compatibility,966aac7d-aea6-4d29-bb7d-ba70eddddab4,24,,,,24x24,,,Module Size
+1e53b087-96b4-4d07-98f8-c0dedd9ba07f,8359172a-b5ec-48a8-b48b-79bf76718160,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+44ab905b-c3ce-4b7a-96d9-0b9ed75a0b6d,8359172a-b5ec-48a8-b48b-79bf76718160,,,,,,,,N/A,,,Damper Type
+5194c45c-f2f3-4a5e-a877-2e42a227ca87,8359172a-b5ec-48a8-b48b-79bf76718160,,,,,,,,"1,2,3",,,Remarks
+ddb05485-a5ff-4ffb-9334-a65c6ee288b5,8359172a-b5ec-48a8-b48b-79bf76718160,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+cfc21729-de88-4f62-b072-dbab7bda7a3e,8359172a-b5ec-48a8-b48b-79bf76718160,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+3f83db21-15f0-4331-9e94-19387473d488,8359172a-b5ec-48a8-b48b-79bf76718160,,,,,,,,REFER TO DRAWINGS,,,Neck Size
+cbec7d7f-57ee-4877-bc9d-8bab2051be3f,8359172a-b5ec-48a8-b48b-79bf76718160,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+54a0c32c-f949-43ac-a417-42d9503d17a4,d5c91576-1659-4a47-9118-5712ab1dac25,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+b4040280-ce55-4692-a822-98ab2708e1fa,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,535,,,Model
+42199f08-9c48-4ad8-8d2e-a94728137179,d5c91576-1659-4a47-9118-5712ab1dac25,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,57aeb21f-d927-4064-962b-67452f64f868,Return,,,,RETURN,,,Type
+a898e20f-f5ce-4b86-9d80-71e6faa3cfe3,d5c91576-1659-4a47-9118-5712ab1dac25,2d33b0ad-3035-440f-bfb2-65854c669ad3,Modular Grid Compatibility,966aac7d-aea6-4d29-bb7d-ba70eddddab4,24,,,,24x24,,,Module Size
+d192f0f4-cdf9-4f92-92cc-349a3ca1a6e7,d5c91576-1659-4a47-9118-5712ab1dac25,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+ab81c672-6df4-4319-a7c3-ce6d28b05017,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,N/A,,,Damper Type
+b36c7bfd-631e-46d1-bc8a-914aaad4748d,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,"1,2,3,5",,,Remarks
+228249bc-086e-498b-a46f-0cdfd0e2d153,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+c56e2e7f-f90d-4c19-a698-0fdb8ffeb50f,d5c91576-1659-4a47-9118-5712ab1dac25,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+0f5d5c4a-4b96-4ea5-b326-b85adbc65ee4,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,REFER TO DRAWINGS,,,Neck Size
+44c5cae6-b626-475d-b7e8-cba26d24980c,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+a3df8f70-5f2c-42eb-bfa3-c1c1879f76f0,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,1/2,in,,Blade Spacing
+41dd9b72-bba5-47c2-b5a3-28f0f2e97d19,d5c91576-1659-4a47-9118-5712ab1dac25,efd848e4-a010-467e-b40a-a15dafef0aef,Blade Type,1aef336a-2d08-4d99-849b-a477a9ce3789,Single Deflection,,,,45° SINGLE,,,Deflection
+ceff6d8f-355f-4a2e-9408-c2758dca2d9e,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,FIXED,,,Control
+d06ddc12-79fa-460c-bc69-f8474b56a760,d5c91576-1659-4a47-9118-5712ab1dac25,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+3f3cc77b-1e82-4aeb-a73f-666c6cbaca18,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,535,,,Model
+2853d58f-d43b-4773-877c-c995457628b6,d5c91576-1659-4a47-9118-5712ab1dac25,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,57aeb21f-d927-4064-962b-67452f64f868,Return,,,,RETURN,,,Type
+bbafbe8a-539b-4c2e-8d59-2bb6af2c0ec3,d5c91576-1659-4a47-9118-5712ab1dac25,2d33b0ad-3035-440f-bfb2-65854c669ad3,Modular Grid Compatibility,966aac7d-aea6-4d29-bb7d-ba70eddddab4,24,,,,24x24,,,Module Size
+54a49eb8-6c30-4233-ad30-022dd32f2f14,d5c91576-1659-4a47-9118-5712ab1dac25,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+9b02c4f1-4103-42d1-90c0-d6feae1c1228,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,N/A,,,Damper Type
+a5e4af47-c7bd-4b80-a14f-e3ba3d201389,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,"1,2,3,5",,,Remarks
+ad6f3c3b-b44d-41c4-a413-ff56f09bac6e,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+4d476a57-483f-4f68-8d43-5e83a39ad55d,d5c91576-1659-4a47-9118-5712ab1dac25,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+a308453d-d693-4517-b6e4-54c7d15078b3,d5c91576-1659-4a47-9118-5712ab1dac25,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,REFER TO DRAWINGS,,,Neck Size
+d06355b4-a22b-465f-af97-9b5a6cb23b1b,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+f16f4fd8-8310-4546-9af9-9831c4ea2bf7,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,1/2,in,,Blade Spacing
+02e714ec-398a-4068-9323-4d60ed08beb4,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,45° SINGLE,,,Deflection
+3b82ee30-3bf3-41f6-8e45-c12f97dbb6c0,d5c91576-1659-4a47-9118-5712ab1dac25,,,,,,,,FIXED,,,Control
+9d0fd78b-202f-4e8c-b6b2-8a08986be0f9,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+4a0ca2b6-e247-40ec-a595-27952f2e38e6,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,,,,,,,,PDDR,,,Model
+6c26e3d4-58a8-4ff6-a24e-408f53938fc4,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,57aeb21f-d927-4064-962b-67452f64f868,Return,,,,RETURN,,,Type
+a2a627ed-5905-435b-afbd-76d0bfda48f5,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,,,,,,,,24x12,,,Module Size
+fdfae566-7773-42b9-9955-c66475d5e502,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+eed29af4-0ac9-48b3-a8a8-cad26ae19e98,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,,,,,,,,N/A,,,Damper Type
+f3e7c2d0-a238-4922-9148-8e81166a520b,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,,,,,,,,"1,2,3",,,Remarks
+2dc594fb-00b7-485c-870f-079b1ea2e018,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+5221ecd3-08b6-47ff-9fe1-16c332825c6f,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+25d13ffa-5797-458a-9da4-30104106c8c6,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,REFER TO DRAWINGS,,,Neck Size
+b1ea7f61-93ae-4f5d-9e6d-1fbd9645d339,ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+14fba7eb-a9c2-46cb-8f70-3fbbc7ad8fae,5c2c2979-9a95-4f28-9c20-f3e3877febf9,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+6690d4a5-9844-4d5e-8eec-f505634716d3,5c2c2979-9a95-4f28-9c20-f3e3877febf9,,,,,,,,SDS75,,,Model
+58aba8ab-ef93-4ac9-8c21-a208f362acf7,5c2c2979-9a95-4f28-9c20-f3e3877febf9,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,5bb59d7e-8883-4d05-bc90-92a22a857b51,Supply,,,,SUPPLY,,,Type
+72cf126e-56e8-4a9f-b5cb-299f5c6af818,5c2c2979-9a95-4f28-9c20-f3e3877febf9,,,,,,,,(2) 3/4" SLOTx4',,,Module Size
+77580152-60fe-4481-8497-73b2450b0f06,5c2c2979-9a95-4f28-9c20-f3e3877febf9,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN (NOTE CEILING TYPE),,,Mounting (Frame)
+7fb09714-c58d-474e-a114-0db3be20ef82,5c2c2979-9a95-4f28-9c20-f3e3877febf9,,,,,,,,N/A,,,Damper Type
+77df1d98-325a-4796-81da-be6eeb66b26a,5c2c2979-9a95-4f28-9c20-f3e3877febf9,,,,,,,,"1,2,3,6,7",,,Remarks
+a6f106a6-c31c-477e-89d5-04c5f8e033b4,5c2c2979-9a95-4f28-9c20-f3e3877febf9,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+248dfc09-18bf-4d04-b9bf-cef43b94f06b,5c2c2979-9a95-4f28-9c20-f3e3877febf9,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+eabf2df5-babc-4dc9-a8a2-04d3cf257489,5c2c2979-9a95-4f28-9c20-f3e3877febf9,,,,,,,,REFER TO DRAWINGS,,,Neck Size
+2bc40a2f-a9fc-429f-999b-0d5acb56f35e,5c2c2979-9a95-4f28-9c20-f3e3877febf9,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+717da898-eed3-42a4-85e7-029aa6b3e382,5c2c2979-9a95-4f28-9c20-f3e3877febf9,,,,,,,,"PROVIDE WITH 'SDB' INSULATED PLENUM BOX, BLACK ADJUSTABLE PATTERN CONTROLLER, END CAP, AND CONNECTOR CLIP (IF REQ'D) FOR CONCEALED FLANGE FASTENING. VERIFY SPACE AVAILABLE FOR INSULATED PLENUM BOX PRIOR TO ORDERING. FIELD FABRICATE INSULATED PLENUM BOX IF REQUIRED DUE TO SPATIAL CONSTRAINTS",,,Accessories
+3867b102-8f3c-41f3-8466-a4128f7a72e1,5c2c2979-9a95-4f28-9c20-f3e3877febf9,,,,,,,,"WHITE FINISH WHERE LOCATED IN PNT-3 CEILINGS, BLACK WHERE LOCATED IN WOOD CEILINGS",,,Finish
+b6618088-edbe-4ba4-b5f7-149487f75758,ae5554a2-2133-486a-9113-d2507cea11a1,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+a1cef494-f146-440d-91b4-81cee388e7ea,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,535,,,Model
+bbac89a5-25bb-443a-a802-9bf10ee52349,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,RETURN,,,Type
+70c15e9d-580f-48d8-937e-71161fe485f7,ae5554a2-2133-486a-9113-d2507cea11a1,2d33b0ad-3035-440f-bfb2-65854c669ad3,Modular Grid Compatibility,,,,,,SEE PLANS,,,Module Size
+77c10995-8b73-44df-8dd0-b9d98359c61a,ae5554a2-2133-486a-9113-d2507cea11a1,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+1063bd5b-6bf2-4353-867b-f5c503dec250,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,N/A,,,Damper Type
+da96632f-18e1-418b-9c27-d19d433a6136,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,"1,2,3,5",,,Remarks
+9db6ade0-8f85-4356-a9fa-2f07a369e7f5,ae5554a2-2133-486a-9113-d2507cea11a1,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+c4af344e-7fd4-4d7b-91c5-e22cc3b499e2,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,535,,,Model
+0bd7f88f-108f-492b-89bf-dd2d6f6c783d,ae5554a2-2133-486a-9113-d2507cea11a1,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,57aeb21f-d927-4064-962b-67452f64f868,Return,,,,RETURN,,,Type
+3abe3b8b-6fa5-4b36-bf05-f7311b1954db,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,SEE PLANS,,,Module Size
+287ccc66-84b1-43ff-9751-1355f832c392,ae5554a2-2133-486a-9113-d2507cea11a1,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+3469d267-a2fc-4968-9c0a-6d6fa0c7d430,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,N/A,,,Damper Type
+7433ecd3-c196-474e-b4bb-2ebf33deb0a9,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,"1,2,3,5",,,Remarks
+6a057123-35a4-48a7-a254-3de3d9d4ce45,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+46203ab2-dc41-4f2a-a3b0-ed587c04f2c8,ae5554a2-2133-486a-9113-d2507cea11a1,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+09ac249f-e80c-44ac-9f9e-58ed8ffa5941,ae5554a2-2133-486a-9113-d2507cea11a1,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,REFER TO DRAWINGS,,,Neck Size
+3dd6987d-aa2d-4572-851e-fe405b797bf5,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+60d794cb-02e3-4c6b-88b6-583431f681a6,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,1/2,in,,Blade Spacing
+786317fc-d1db-4811-b189-872d8f8a4be3,ae5554a2-2133-486a-9113-d2507cea11a1,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+fb020267-4ae1-4fc4-a07b-6270fcff11b7,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,535,,,Model
+7bdbb22c-67cb-40e7-a483-f3b515d65202,ae5554a2-2133-486a-9113-d2507cea11a1,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,57aeb21f-d927-4064-962b-67452f64f868,Return,,,,RETURN,,,Type
+739f061e-01b3-4c57-8bce-ae232c653104,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,SEE PLANS,,,Module Size
+63383002-eb18-42f8-9158-1ccff9749860,ae5554a2-2133-486a-9113-d2507cea11a1,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+e42873a6-2ead-4bd6-a837-dc4b20a9e1ab,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,N/A,,,Damper Type
+e0fe9466-096e-442b-a375-5fe5853f9b56,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,"1,2,3,5",,,Remarks
+98bd44b6-6bcd-4d59-89e1-6b93d4759c36,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+6a9f7e71-0072-4426-85f5-a8286b599b84,ae5554a2-2133-486a-9113-d2507cea11a1,efd848e4-a010-467e-b40a-a15dafef0aef,Blade Type,1aef336a-2d08-4d99-849b-a477a9ce3789,Single Deflection,,,,45° SINGLE,,,Deflection
+707b6fe0-b885-4b9b-940c-22bf2c918693,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,FIXED,,,Control
+50a8cd05-1af5-44f1-b081-7984b504f9b1,ae5554a2-2133-486a-9113-d2507cea11a1,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+1d5b6d8b-9822-4ab5-820f-4c15d72fa159,ae5554a2-2133-486a-9113-d2507cea11a1,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+c0b5f4c9-131c-4270-b3e0-7f502c147129,ae5554a2-2133-486a-9113-d2507cea11a1,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,REFER TO DRAWINGS,,,Neck Size
+072baf98-2a7f-4156-bd62-fa2fc1b6e9d6,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+9eb7468b-45bc-472d-8b9f-a7c0479d7aad,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,1/2,in,,Blade Spacing
+851695e5-488e-4539-a5e3-f9c6bfb781f7,ae5554a2-2133-486a-9113-d2507cea11a1,efd848e4-a010-467e-b40a-a15dafef0aef,Blade Type,1aef336a-2d08-4d99-849b-a477a9ce3789,Single Deflection,,,,45° SINGLE,,,Deflection
+1625521e-7d10-4cd4-9063-b02156a4d396,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,FIXED,,,Control
+8d8c83cb-782a-4a7c-94c1-a4f3ecea1c72,ae5554a2-2133-486a-9113-d2507cea11a1,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+c62a753d-715c-4f9e-9c82-7d491cd7a2be,ae5554a2-2133-486a-9113-d2507cea11a1,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,REFER TO DRAWINGS,,,Neck Size
+263371bb-c1a1-4df9-9aee-70627110700d,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+e17a566c-8728-4c01-aca6-66a8da57e797,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,1/2,in,,Blade Spacing
+15702cb7-34ac-4ac0-a116-47b0f8900514,ae5554a2-2133-486a-9113-d2507cea11a1,efd848e4-a010-467e-b40a-a15dafef0aef,Blade Type,1aef336a-2d08-4d99-849b-a477a9ce3789,Single Deflection,,,,45° SINGLE,,,Deflection
+74f393da-81ad-4a4a-a0b3-56901a51a3bc,ae5554a2-2133-486a-9113-d2507cea11a1,,,,,,,,FIXED,,,Control
+ed5d8a93-ef05-437b-94fb-6e1ef5109b2f,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,PRICE,,,Manufacturer
+90ba8b2c-8a28-457b-b8a1-ee1c703b52f0,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,520,,,Model
+ed3857a9-4be3-43b7-be7e-47b82a102b51,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,SUPPLY,,,Type
+d4f1adac-be3a-4fba-a8ce-a8263fd03c69,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,SEE PLANS,,,Module Size
+c850cb62-2f99-46ae-a375-8d77477de6bd,16d045fd-5e9c-49b8-a3cb-ff287fe18168,74769e27-7b59-4ee2-a2a8-a9132bf14dae,Installation Location,,,,,,DUCT,,,Mounting (Frame)
+95f1c443-6c2e-42cc-8d6a-ce48635f1143,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,N/A,,,Damper Type
+1a18fc31-0f81-4581-9a32-0cd4d29f66be,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,"1,2,3,4",,,Remarks
+d97ca682-b278-4330-b5b1-850c211152e3,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+8dee80aa-d770-4330-9df5-617eb0e12452,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,<25,,,Noise Criteria
+1a670121-766a-44d8-b512-56fd266b9a44,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,REFER TO DRAWINGS,,,Neck Size
+deb17fc3-6866-4373-9179-cf151536ca70,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+319dd071-f21f-4db4-b1c5-cafe093862d8,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,3/4,in,,Blade Spacing
+d70056b5-d1d3-410c-afa6-642cae9238c1,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,22.5° DOUBLE,,,Deflection
+8d7089c6-fbcd-47e2-ab36-89a27a218ec8,16d045fd-5e9c-49b8-a3cb-ff287fe18168,,,,,,,,ADJUSTABLE,,,Control
+f66ea887-db1b-4c43-a80a-bf248398c71d,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+2617ecc7-fc6c-4279-a575-68d72bea035d,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,SDR75,,,Model
+31dd4720-ff24-4c9c-8ae6-fbc528787ecc,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,57aeb21f-d927-4064-962b-67452f64f868,Return,,,,RETURN,,,Type
+51997e11-1b3c-4601-b77d-031e1062770f,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,(2) 3/4" SLOTx4',,,Module Size
+5ba522cc-2527-4fd1-b36e-bb2b7917ecf8,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN (NOTE CEILING TYPE),,,Mounting (Frame)
+3f2cc77a-d337-44bf-bb39-3b6591536f2f,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,N/A,,,Damper Type
+b2cbd5d6-d029-47b0-aecb-b663af6d9667,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,"1,2,3,7",,,Remarks
+f6460e06-aca4-421d-bd4d-36bad06384b6,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+d471e023-3c70-4a00-bab1-91df56836a91,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+f4e42bdb-14bb-4ae7-8849-41d7f731b12b,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,REFER TO DRAWINGS,,,Neck Size
+585effb4-bc56-4c80-8dd0-804f7d6082a4,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+ff3c9f13-fc7f-41fd-ac9c-22ac8a90b3d9,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,"WHITE FINISH WHERE LOCATED IN PNT-3 CEILINGS, BLACK WHERE LOCATED IN WOOD CEILINGS",,,Finish
+7e53ad7d-3847-4022-bed1-f4ef343b5f39,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+0b6732f5-be81-45d7-b49c-412f4089d7a0,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,SDR75,,,Model
+20de09a2-44fa-4084-872c-c95f459f1056,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,RETURN,,,Type
+33dcb5ac-a1ef-4f83-9c14-f2f9f4fb4d0c,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,(2) 3/4" SLOTx4',,,Module Size
+60a40fe7-124b-4d4a-ba26-19f8d55c3bc8,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN (NOTE CEILING TYPE),,,Mounting (Frame)
+86565e2b-43c4-4e1e-b054-aca976dd570b,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,N/A,,,Damper Type
+46aa904d-5aa9-4495-b092-a48fdcd75d4b,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,"1,2,3,7",,,Remarks
+e2f2c243-91ed-4f2c-b99f-760b4bb9067c,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+6b9091ff-8b3a-4b03-b59a-83a7a544d9a6,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,<25,,,Noise Criteria
+64cbe2a3-f925-4855-b5ab-d7f34b7b4ff0,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,REFER TO DRAWINGS,,,Neck Size
+aeaf7bb6-1984-4408-a406-3980e96e3f71,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+ec4ca0b7-0204-4537-85aa-bdf6a1012545,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,"WHITE FINISH WHERE LOCATED IN PNT-3 CEILINGS, BLACK WHERE LOCATED IN WOOD CEILINGS",,,Finish
+23672c76-9e49-4c26-bc08-a46dfc67d425,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+8a3d818f-eaff-4e82-bb91-5167cbb183c0,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,SDR75,,,Model
+60ea8670-0717-4ea5-bd90-fe92d9259f01,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,57aeb21f-d927-4064-962b-67452f64f868,Return,,,,RETURN,,,Type
+30fd88bc-44ac-429a-b83a-e6c95bf0126d,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,(2) 3/4" SLOTx4',,,Module Size
+15d9dfec-7ce3-48cd-b00f-73022f484c1e,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN (NOTE CEILING TYPE),,,Mounting (Frame)
+54690423-f222-4fb9-bf5c-ac19250651ec,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,N/A,,,Damper Type
+56266e33-d22c-473e-9bf9-0975bd195af2,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,"1,2,3,7",,,Remarks
+c36b8153-5878-4699-ac1c-12c724e5ab08,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+e476bcf7-b011-4f3a-9869-7934c68fbb44,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+704d5034-a298-449f-bb32-f306d76b3739,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,REFER TO DRAWINGS,,,Neck Size
+19d1a195-0906-44c2-b6f6-b301c32de748,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+5eef4794-b55a-4227-ae59-1b8008693023,a21a3ad5-2e78-41f2-929c-0c4d9658dfee,,,,,,,,"WHITE FINISH WHERE LOCATED IN PNT-3 CEILINGS, BLACK WHERE LOCATED IN WOOD CEILINGS",,,Finish
+63974f3e-c556-4b60-8cb6-be6fa1db6b66,d106578e-15f0-4bf6-a921-09b70ea192cd,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+aa40700a-9e95-4fde-97a1-8a1cc702fbef,d106578e-15f0-4bf6-a921-09b70ea192cd,,,,,,,,RCD,,,Model
+2ee8b44b-0a33-4df9-97cd-aae4daacc9a7,d106578e-15f0-4bf6-a921-09b70ea192cd,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,5bb59d7e-8883-4d05-bc90-92a22a857b51,Supply,,,,SUPPLY,,,Type
+aaaac10f-963c-4128-b6e8-d461939cc627,d106578e-15f0-4bf6-a921-09b70ea192cd,,,,,,,,SEE PLANS,,,Module Size
+b843181e-1667-496d-9a97-1c41ae8dfd7a,d106578e-15f0-4bf6-a921-09b70ea192cd,,,,,,,,SPIRAL DUCT,,,Mounting (Frame)
+b0e4fca8-7220-4dbf-b20f-9d0270f36924,d106578e-15f0-4bf6-a921-09b70ea192cd,,,,,,,,N/A,,,Damper Type
+9fbbd3e6-f910-4502-a70f-66dec1ad48b4,d106578e-15f0-4bf6-a921-09b70ea192cd,,,,,,,,"1,2,3",,,Remarks
+0c018dc4-e009-4de9-aea1-3c15e97727b3,d106578e-15f0-4bf6-a921-09b70ea192cd,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+f2e17b3a-e896-4dc1-9caa-db8e62eacce1,d106578e-15f0-4bf6-a921-09b70ea192cd,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+323c34c7-8bb9-447b-af32-4094699df8e0,d106578e-15f0-4bf6-a921-09b70ea192cd,,,,,,,,REFER TO DRAWINGS,,,Neck Size
+34d0d505-dc44-47c7-9af3-b7861b57af10,d106578e-15f0-4bf6-a921-09b70ea192cd,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+38be27b1-df25-4331-b390-47d5f6e259e4,81bd8921-db19-4fb2-8417-7fcfd1f1d214,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+7c99a067-5b86-4b0b-9d17-b69ab933155f,81bd8921-db19-4fb2-8417-7fcfd1f1d214,2d33b0ad-3035-440f-bfb2-65854c669ad3,Modular Grid Compatibility,966aac7d-aea6-4d29-bb7d-ba70eddddab4,24,,,,24x24,,,Module Size
+d4165ede-768b-4e82-909b-a775f13e501c,81bd8921-db19-4fb2-8417-7fcfd1f1d214,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+29ae7421-cc8a-46cf-853f-ca0df044de56,81bd8921-db19-4fb2-8417-7fcfd1f1d214,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+498b1ad9-c27a-40ef-91ac-ce2b5d6cd2d6,81bd8921-db19-4fb2-8417-7fcfd1f1d214,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,REFER TO DRAWINGS,,,Neck Size
+299e4d26-184f-4073-8fff-e77a45dbf5ad,81bd8921-db19-4fb2-8417-7fcfd1f1d214,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+cc6b7118-78c6-4ab0-b385-b6286bedc0bf,81bd8921-db19-4fb2-8417-7fcfd1f1d214,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,5bb59d7e-8883-4d05-bc90-92a22a857b51,Supply,,,,SUPPLY,,,Type
+29b6fba3-c259-423c-9955-2227d4308745,81bd8921-db19-4fb2-8417-7fcfd1f1d214,2d33b0ad-3035-440f-bfb2-65854c669ad3,Modular Grid Compatibility,,,,,,24x24,,,Module Size
+0e9b8159-fac6-4a4e-9c37-ebdb93f031dd,81bd8921-db19-4fb2-8417-7fcfd1f1d214,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+cb38cb48-a956-4cce-b1c8-41ae6addaf94,81bd8921-db19-4fb2-8417-7fcfd1f1d214,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+e5c40ab7-dd6b-4537-97d3-eccd01305861,81bd8921-db19-4fb2-8417-7fcfd1f1d214,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,REFER TO DRAWINGS,,,Neck Size
+35d2e3f6-76b2-482c-8a54-078ae5fc28a5,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,SPD,,,Model
+ad1ef5aa-dffb-4bb4-a32a-7735e9c36e05,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,SUPPLY,,,Type
+3e18ac11-ee18-4c82-8978-7dfc4371ed57,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,N/A,,,Damper Type
+25f2c0ed-7874-4953-a662-9636f5f9d773,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,"1,2,3",,,Remarks
+4c85d1c7-a454-4aae-a7ba-d5cc945a79e5,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+37f8b972-39e8-46e4-b9f1-c82e3b539055,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+a6fee31b-b32e-4fa5-98d9-a4a1e70f2b9c,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,SPD,,,Model
+14ab183c-9850-499d-8fb7-2dd9788b3c91,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,N/A,,,Damper Type
+e99912cd-fab3-4d55-89a2-df890e9cd9f7,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,"1,2,3",,,Remarks
+a4c0cc5c-82eb-4e8e-bae3-a5576afc7388,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+ba368fe0-3299-4833-81ce-7ad1357f35ac,81bd8921-db19-4fb2-8417-7fcfd1f1d214,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note
+8ef95ca7-39d3-4598-a1c8-b51d4e08582d,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+371e1bd8-9a7c-4c47-874c-7fdfc5f2b301,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,,,,,,,,SPD,,,Model
+79e82bb7-2034-421d-95d7-84c9bed3a026,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,e20b16cd-69dd-4b9f-af9a-64e3d801b205,Supply or Return,5bb59d7e-8883-4d05-bc90-92a22a857b51,Supply,,,,SUPPLY,,,Type
+482c62ae-c5dd-43a0-a8c5-06bb0c4bff53,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,2d33b0ad-3035-440f-bfb2-65854c669ad3,Modular Grid Compatibility,,,,,,12x12,,,Module Size
+1667051a-21ca-494d-93a1-d28d7c4f74c4,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,8e55b532-2515-4da6-932c-30e3598a6c6c,Surface Mounted,,,,SURFACE/LAY IN,,,Mounting (Frame)
+0ae8be91-5bdd-4d9d-bb0e-25a4fcfe99d7,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,,,,,,,,N/A,,,Damper Type
+d1e7c9bc-8e68-404b-bdb3-7fb9785ebb19,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,,,,,,,,"1,2,3",,,Remarks
+110e4849-dc9c-4f0e-b4b4-c5fbcf5fd0de,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,,,,,,,,"ANEMOSTAT, KRUEGER, NAILOR, PRICE, TITUS",,,Acceptable Manufacturers
+18efd09c-fb1b-4c41-8d41-7e8649c66f3f,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,671253fd-d096-4dee-ba55-b9a9cc344ccb,Noise Level,,,,,,<25,,,Noise Criteria
+375b42b0-d8eb-45fc-bdc2-ac84e8090499,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,e816f855-ea53-447e-8384-fd46868b4133,Neck Size,,,,,,REFER TO DRAWINGS,,,Neck Size
+b28d5be3-5b98-471c-902f-6d8b5ed4d211,70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,,,,,,,,COORDINATE FINISHES WITH ARCHITECT,,,Finish Note

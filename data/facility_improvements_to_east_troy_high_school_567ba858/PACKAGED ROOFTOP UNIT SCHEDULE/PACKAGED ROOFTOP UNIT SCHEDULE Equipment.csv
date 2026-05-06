@@ -1,0 +1,16 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+51c21f4a-3621-46e0-a060-2edf00be4db5,RTU-13,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+f1759471-d973-43dd-846c-65fd99e010eb,RTU-14,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+7d1482cf-e9bb-4766-96c4-4e0d562512ff,RTU-5,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+ec708162-1f4d-4804-91d7-672cecef105b,RTU-3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+1c92b88f-dd73-4ae7-aff5-c1874e542dde,RTU-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+4a1eb71d-0a72-43f2-b292-472d2680529b,RTU-19,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+000ea357-7795-4a9b-95ab-3dc3ed536685,RTU-9,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+41bd6b61-0392-4e67-9a0a-9be6e327c20a,RTU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+84313878-2265-4467-b5e2-baa8410e039b,RTU-4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+7255f158-bf5a-4285-9def-aa4131893060,RTU-7,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+c8c9f85e-10c8-408b-9ac6-35dcf7e9248e,RTU-12,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+06b40979-74bb-475d-88ac-37fe0de29cd5,RTU-15,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+904f9258-5b63-4191-b886-880260354677,RTU-8,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+c72dae5e-cae9-464f-9b44-23100bb6d63e,RTU-6,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane
+339994ba-d8fe-43a4-8042-daaff2ab5c48,RTU-10,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,,,,,Trane

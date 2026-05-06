@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+9e88758b-4706-4fba-a49d-a7c2e7f15b7e,MAU-1,05edafda-804f-4ad2-9e95-c541ad1bef26,"Packaged, Direct-Fired, Outdoor, Heating-Only Makeup-Air Units",0,f9433349-b831-4f10-9e11-b7c506bc4679,CAS-HVAC3-1.500-20-12.5T-MPU,CAS-HVAC3-1.500-20-12.5T-MPU,CAPTIVAIRE,CAPTIVAIRE

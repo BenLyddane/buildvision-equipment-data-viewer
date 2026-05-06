@@ -1,0 +1,12 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+84e62d1b-e612-4178-b533-7417a5224d22,a0775654-a78d-42fa-ae0c-a0c16846d008,,,,,,,"{"kind":"flat","type":"Model","unit":null,"value":"ASKS1001","category":"Manufacturer"}",ASKS1001,,Manufacturer,Model
+d1e1c7bf-30a5-4358-a153-ceeee31d90b4,a0775654-a78d-42fa-ae0c-a0c16846d008,,,,,,,"{"kind":"flat","type":"Service","unit":null,"value":"PRIMARY BATHROOM","category":null}",PRIMARY BATHROOM,,,Service
+03dea1af-1a19-4332-a738-bb8be8d27f86,a0775654-a78d-42fa-ae0c-a0c16846d008,,,,,,,"{"kind":"flat","type":"Voltage/Phase","unit":null,"value":"120","category":null}",120,,,Voltage/Phase
+362450fe-1490-425b-a512-34a95a0e1000,a0775654-a78d-42fa-ae0c-a0c16846d008,,,,,,,"{"kind":"flat","type":"BTUH Output","unit":null,"value":"3413","category":null}",3413,,,BTUH Output
+11f2eee4-a91e-4d2d-a6cd-dbcc728090a2,a0775654-a78d-42fa-ae0c-a0c16846d008,,,,,,,"{"kind":"flat","type":"Watt Output","unit":null,"value":"1000","category":null}",1000,,,Watt Output
+040990b4-46bd-46c0-ab4f-8f77b7a890a5,a0775654-a78d-42fa-ae0c-a0c16846d008,,,,,34173008-4512-2b9a-97aa-e869c832dc42,Feet,"{"kind":"flat","type":"Throw","unit":"FT","value":"4","category":null}",4,FT,,Throw
+ab8b8395-d971-4f4d-9216-66b67da54e3b,a0775654-a78d-42fa-ae0c-a0c16846d008,2da9ea27-8c84-4868-809b-002ec08f6315,Weight,,,fe46f69d-dd77-9a0f-5dc4-1ce604c97ea9,Pound,"{"kind":"flat","type":"Weight","unit":"LBS","value":"10","category":"Physical"}",10,LBS,Physical,Weight
+acda2058-332e-4c69-83ef-43e17860dc0c,a0775654-a78d-42fa-ae0c-a0c16846d008,8f849a97-11fb-48e5-86d7-de5a5abacc0c,Length,,,,,"{"kind":"flat","type":"Length","unit":"IN.","value":"22","category":"Approx. Dimensions (LxWxH)"}",22,IN.,Approx. Dimensions (LxWxH),Length
+27bb420c-5594-4c61-8a53-5204b62010ca,a0775654-a78d-42fa-ae0c-a0c16846d008,cc4503ac-3761-46ad-8235-325191dea98f,Width,,,,,"{"kind":"flat","type":"Width","unit":"IN.","value":"10","category":"Approx. Dimensions (LxWxH)"}",10,IN.,Approx. Dimensions (LxWxH),Width
+5f802aa9-0e15-4e5b-97eb-3ff53e7abb49,a0775654-a78d-42fa-ae0c-a0c16846d008,778e1224-58f6-4cb6-af6f-7227bc5c219a,Height,,,,,"{"kind":"flat","type":"Height","unit":"IN.","value":"4","category":"Approx. Dimensions (LxWxH)"}",4,IN.,Approx. Dimensions (LxWxH),Height
+6399efab-b850-4f57-ad2b-ac141c8339fd,a0775654-a78d-42fa-ae0c-a0c16846d008,,,,,,,"{"kind":"flat","type":"Make","unit":null,"value":"STELPRO","category":"Manufacturer"}",STELPRO,,Manufacturer,Make

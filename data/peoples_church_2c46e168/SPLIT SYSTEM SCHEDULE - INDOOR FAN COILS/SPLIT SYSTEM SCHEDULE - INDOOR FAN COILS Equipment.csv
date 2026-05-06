@@ -1,0 +1,15 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+33f504c8-bc3b-4ad8-95a9-0dc1ac1aacd8,HP1,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,1,f1234025-5962-425b-beab-2da2030da966,KUSXB091A,KUSXB091A,LG,LG
+1062cb1f-c8e7-47b1-9aa6-4d610cfc57a6,HP2,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,2,f1234025-5962-425b-beab-2da2030da966,KUSXB091A,KUSXB091A,LG,LG
+fa476048-26a5-43d6-a0e9-74dfc5dd6835,HP3,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,2,4bb6bcd5-54dc-4010-8ae0-10cc28d47aef,KUSAB121A,KUSAB121A,LG,LG
+62a354b2-18f6-4229-bc9e-581c83465a82,HP4,b63f9ac5-8a07-4c9f-aa66-8f0f9326f5ff,Small-Capacity Self-Contained Air-Conditioners,1,1d2f5191-fdac-4290-8c28-31e9a61087f6,KNUAB121A,KNUAB121A,LG,LG
+cd2b5e01-38d8-4840-b716-57e3677cdebd,HP5,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,1,6f0b3295-f0c6-48f7-b368-4245f891d69c,KUSXB121A,KUSXB121A,LG,LG
+b1ff99e4-e486-4d45-8ae6-b2055fd99102,HP6,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,1,f1234025-5962-425b-beab-2da2030da966,KUSXB091A,KUSXB091A,LG,LG
+c693500d-f3ad-4c61-8456-12ebf3b0b8ad,HP7,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,1,91b06043-1919-4bca-b5a3-314c3845f0b5,KUSXB181A,KUSXB181A,LG,LG
+5e13fb2f-ab26-4408-af05-b99758033893,FC1,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,0,e043f194-c1a6-4438-9e68-7b3408071e27,KNUJB091A,KNUJB091A,LG,LG
+add31357-50b3-44ca-9543-ba7f70ebcfc5,FC2,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,0,e043f194-c1a6-4438-9e68-7b3408071e27,KNUJB091A,KNUJB091A,LG,LG
+682a08ec-7207-4f9f-a522-f39b2433561a,FC3,b63f9ac5-8a07-4c9f-aa66-8f0f9326f5ff,Small-Capacity Self-Contained Air-Conditioners,0,1d2f5191-fdac-4290-8c28-31e9a61087f6,KNUAB121A,KNUAB121A,LG,LG
+6442901e-7ee6-43f7-8b63-9c41663d6252,FC4,b63f9ac5-8a07-4c9f-aa66-8f0f9326f5ff,Small-Capacity Self-Contained Air-Conditioners,0,1d2f5191-fdac-4290-8c28-31e9a61087f6,KNUAB121A,KNUAB121A,LG,LG
+93c25906-96b8-493c-b4af-fc4d04be0444,FC5,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,0,86409fc2-ffc7-4908-9af8-e3c090a49404,KNUJB121A,KNUJB121A,LG,LG
+e47ff2ac-5afd-49c6-9240-698d5f102aa2,FC6,cc54fa6e-5a9b-4e3b-8b32-4c1714ae6ec1,Small-Capacity Split-System Air-Conditioners,0,e043f194-c1a6-4438-9e68-7b3408071e27,KNUJB091A,KNUJB091A,LG,LG
+3cc4aa57-e744-41b0-85a4-26439f70a26f,FC7,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,a35bb9a2-4076-453b-b258-fa062c23501b,KNUJB181A,KNUJB181A,LG,LG

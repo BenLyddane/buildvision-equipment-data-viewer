@@ -1,0 +1,17 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+6d27ec2d-a8fa-407d-91fb-c8cc8eb24bfd,VAV-112,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,7fcd299a-b29b-44cc-8a5d-c8b0988cf9e6,DESV-05,DESV-05,Titus,Titus
+ab62530d-4e27-402c-8279-c3eb8a668482,VAV-120,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,8864f7f1-41af-4d6b-8688-0686f3c7cca4,DESV-08,DESV-08,Titus,Titus
+62b7452a-007a-40bd-927c-d38d5e11f951,VAV-121,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,1eaaa93c-3c24-47ab-b82a-285386007394,DESV-14,DESV-14,Titus,Titus
+bb9ed2cf-9ed4-4e93-8eda-91cb69fe1126,VAV-119,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,1eaaa93c-3c24-47ab-b82a-285386007394,DESV-14,DESV-14,Titus,Titus
+645c4f8b-a55f-4ca2-9751-0a8625dccd00,VAV-123,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,431ea095-5170-43fc-8a9c-99a26fdc0d61,DESV-12,DESV-12,Titus,Titus
+8a77cb5f-bc39-4988-b1af-cac0b625ae9d,VAV-110,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,3024033b-15d0-4fd7-bc6b-c755152fd95e,DESV-06,DESV-06,Titus,Titus
+8192d6d8-6489-4a71-96dc-da30100afe62,VAV-104,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,2c4b46a6-00bb-41e8-b87b-32fe7b5fa9ba,DESV-10,DESV-10,Titus,Titus
+cdae2217-5f7d-4aef-ba1f-c2d8babe9e38,VAV-144,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,8864f7f1-41af-4d6b-8688-0686f3c7cca4,DESV-08,DESV-08,Titus,Titus
+40265980-cca5-4e8d-a079-2bdaeebc19df,VAV-130,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,3024033b-15d0-4fd7-bc6b-c755152fd95e,DESV-06,DESV-06,Titus,Titus
+c876850f-e9d9-436a-9085-646148ce707c,VAV-108,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,3024033b-15d0-4fd7-bc6b-c755152fd95e,DESV-06,DESV-06,Titus,Titus
+874ca3fd-3053-4d92-960c-2d826ef1b70f,VAV-102,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,e6c484c7-995d-447a-8b33-cb5226a5e0ea,DESV-16,DESV-16,Titus,Titus
+2f7f6ab6-dc78-43ab-a466-02e2066b2034,VAV-109,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,3024033b-15d0-4fd7-bc6b-c755152fd95e,DESV-06,DESV-06,Titus,Titus
+a7c5808a-58fa-4ad5-8225-afe0b8bcbd1e,VAV-116,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,1eaaa93c-3c24-47ab-b82a-285386007394,DESV-14,DESV-14,Titus,Titus
+74f46f80-37ab-4e61-9ace-da0a4ee8ab21,VAV-145,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,3024033b-15d0-4fd7-bc6b-c755152fd95e,DESV-06,DESV-06,Titus,Titus
+4142e4f7-142c-469b-a590-8524dc7628e0,VAV-138,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,b099973f-0833-4b71-8749-f1c33f032d1d,DESV-04,DESV-04,Titus,Titus
+aa1a0c0f-c05e-4a3e-9356-c826c302c4e1,VAV-127,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,431ea095-5170-43fc-8a9c-99a26fdc0d61,DESV-12,DESV-12,Titus,Titus

@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+79182c5c-0f9f-4669-971d-fcfa8a023bec,ECU-1,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,60f1f5fa-c673-4f06-b4a9-70573d0e3f83,KES30-20-IH-OS-DW,KES30-20-IH-OS-DW,SPRING AIR,

@@ -1,0 +1,47 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+1fe242d7-2e96-4e41-9ad3-562df474ed34,8e3f97ab-d712-47a2-8748-5774fd1d7c66,,,,,,,,139,,,Service
+67067329-eca9-478c-82f6-07f6ebd9cf6e,8e3f97ab-d712-47a2-8748-5774fd1d7c66,,,,,,,,SIDEWALL,,,Type
+38319389-0460-49a0-a501-b4fc33e51c71,8e3f97ab-d712-47a2-8748-5774fd1d7c66,04acb553-3deb-415b-a14b-4f96ac64c580,Air Flow Rate,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,600,CFM,,CFM
+aa598992-e13d-48ec-ada1-13cb04ffa1d3,8e3f97ab-d712-47a2-8748-5774fd1d7c66,a9db1636-760c-4cbe-9af6-8dbc455a98bd,Speed,,,d28ed2e4-e9d5-c574-3acf-378597aac527,Refreshes per Minute,,1425,RPM,,RPM
+5b228743-93a4-41ad-b8dd-e2b0af229484,8e3f97ab-d712-47a2-8748-5774fd1d7c66,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,,0.75,IN,,PD
+1672cbd1-f554-443a-9c36-4e9e4288ee80,8e3f97ab-d712-47a2-8748-5774fd1d7c66,2da9ea27-8c84-4868-809b-002ec08f6315,Weight,,,,,,42,,,Weight
+f0982b31-03c0-498f-bff7-da23820bc58c,8e3f97ab-d712-47a2-8748-5774fd1d7c66,,,,,,,,GREENHECK,,,Manufacturer
+2aede27e-98bf-40b0-a8b8-1e0002a43a84,8e3f97ab-d712-47a2-8748-5774fd1d7c66,,,,,,,,CW-099-VG,,,Model
+66e13cc5-acf4-436b-8ba5-c3c90efef426,8e3f97ab-d712-47a2-8748-5774fd1d7c66,7e98a04a-47ea-4c07-811b-f7589ddac738,Motor HP,,,70284fc6-f347-49e1-b657-567b4a3bb6a9,Horsepower,,1/4,HP,Motor & Electrical,HP
+d3b386a8-a712-4d23-a3b1-73c26187e8bd,8e3f97ab-d712-47a2-8748-5774fd1d7c66,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,115,V,Motor & Electrical,Voltage
+7b24f881-b878-495b-8b2c-cdfa41c51023,8e3f97ab-d712-47a2-8748-5774fd1d7c66,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,48448411-f919-5e27-f453-70f4ef41c6be,pH,,1,PH,Motor & Electrical,Phase
+672fda08-3d35-4c7f-8114-571acf676912,8e3f97ab-d712-47a2-8748-5774fd1d7c66,ef35e614-98fa-4c9d-8559-d7516401caa5,VFD,,,,,,NO,,Motor & Electrical,VFD
+2f0bfa73-473c-47f7-8714-3d9fe7024bf0,8e3f97ab-d712-47a2-8748-5774fd1d7c66,,,,,,,,PROVIDE FACTORY MOUNTED DISCONNECT,,Notes,Note
+f9536f87-1068-4f38-a8de-828911e6008b,8e3f97ab-d712-47a2-8748-5774fd1d7c66,,,,,,,,ALL ALUMINUM CONSTRUCTION,,Notes,Note
+6c13c85b-4a37-4b0f-ba26-88f1d11821e7,8e3f97ab-d712-47a2-8748-5774fd1d7c66,,,,,,,,EC MOTOR WITH POTENTIOMETER FOR BALANCING,,Notes,Note
+5c2e16be-c206-4dff-aded-de125eb967bc,8e3f97ab-d712-47a2-8748-5774fd1d7c66,,,,,,,,"PROVIDE WITH MOTORIZED DISCHARGE AIR DAMPER, ACTUATOR BY TCC",,Notes,Note
+c85cf32f-d73e-4dfc-984d-5b05a74d0f46,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,,,,,,,,138,,,Service
+8739b520-74fa-4596-ad03-8e3c5fd2234b,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,,,,,,,,SIDEWALL,,,Type
+0bb73441-f9ab-44cb-b4cf-6f71414290d3,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,04acb553-3deb-415b-a14b-4f96ac64c580,Air Flow Rate,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,2130,CFM,,CFM
+724e1389-3327-45f7-b129-47694383e5bb,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,a9db1636-760c-4cbe-9af6-8dbc455a98bd,Speed,,,d28ed2e4-e9d5-c574-3acf-378597aac527,Refreshes per Minute,,1636,RPM,,RPM
+a6e79491-a74c-4b2c-9a0f-082da7e40b8b,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,,1.20,IN,,PD
+01524ebd-baf4-428f-b1ab-d43814a390c5,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,2da9ea27-8c84-4868-809b-002ec08f6315,Weight,,,,,,80,,,Weight
+b5944b27-5ae1-4999-9e28-28fb2f8c70d5,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,,,,,,,,GREENHECK,,,Manufacturer
+0b5e4085-5751-4d50-b929-bf34126fd5d3,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,,,,,,,,CW-141-VG,,,Model
+94fc32fc-ebad-4316-a58d-68413459eae3,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,7e98a04a-47ea-4c07-811b-f7589ddac738,Motor HP,,,70284fc6-f347-49e1-b657-567b4a3bb6a9,Horsepower,,1,HP,Motor & Electrical,HP
+383b57d1-9357-4fa4-b65f-558110863655,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,115,V,Motor & Electrical,Voltage
+d2b1e868-9369-4843-9b16-4e3cc81a179d,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,48448411-f919-5e27-f453-70f4ef41c6be,pH,,1,PH,Motor & Electrical,Phase
+d38ef0b3-1f95-4bc2-9fa9-a068b4c6b114,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,ef35e614-98fa-4c9d-8559-d7516401caa5,VFD,,,,,,NO,,Motor & Electrical,VFD
+5ca66665-ed93-41f7-abd2-89fd5cb91d95,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,,,,,,,,PROVIDE FACTORY MOUNTED DISCONNECT,,Notes,Note
+84a7708e-6780-4fb9-a6a5-ef591b98602d,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,523740af-9ca7-455c-ab51-4ad1918ab54a,Material,8faa789d-f22f-4dd4-b51a-444530991b81,Aluminum,,,,ALL ALUMINUM CONSTRUCTION,,Notes,Note
+0dbf9997-3a63-4ebe-be0b-f498e7b56a50,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,a499294b-383e-4f0b-9c95-56b83390a353,Motor Efficiency,7a24c1dd-4163-4a5a-b732-140bdc4844ef,EC Motor,,,,EC MOTOR WITH POTENTIOMETER FOR BALANCING,,Notes,Note
+0d3bc76b-e725-4d38-a9fb-508ad2dc5f74,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,,,,,,,,"PROVIDE WITH MOTORIZED DISCHARGE AIR DAMPER, ACTUATOR BY TCC",,Notes,Note
+ff523ead-7271-4901-b017-6e21687d9515,9f26a60b-c5d2-41a2-bf9d-c5d1b10f04d0,4c217348-14b2-46bf-99e1-1c11a7a83307,Certifications,b3236b45-f934-48b9-acc2-065a055c1f61,UL Listed,,,,UL-762 LISTED,,Notes,Note
+c976a576-cba2-469d-8d07-487352d345cb,a25d8bf1-cace-459d-82d5-812cab69800e,,,,,,,,AHU-2,,,Service
+2314ab3b-0625-4242-b6ca-4d84d207e4ba,a25d8bf1-cace-459d-82d5-812cab69800e,,,,,,,,INLINE,,,Type
+be443dbf-4a07-4b6a-8254-d07d85080d96,a25d8bf1-cace-459d-82d5-812cab69800e,04acb553-3deb-415b-a14b-4f96ac64c580,Air Flow Rate,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,"10,330",CFM,,CFM
+a18bde74-8a28-459a-8db2-7c795f3ba5a3,a25d8bf1-cace-459d-82d5-812cab69800e,a9db1636-760c-4cbe-9af6-8dbc455a98bd,Speed,,,d28ed2e4-e9d5-c574-3acf-378597aac527,Refreshes per Minute,,"1,802",RPM,,RPM
+54c81cc5-aea6-47e5-bd5e-9a33c5f91a54,a25d8bf1-cace-459d-82d5-812cab69800e,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,9b4bcff0-c98a-4b1a-9716-ca97df2009c5,inch,,0.63,in,,PD
+24022d97-7655-40c3-8bd8-e7fe94d635d9,a25d8bf1-cace-459d-82d5-812cab69800e,7e98a04a-47ea-4c07-811b-f7589ddac738,Motor HP,,,70284fc6-f347-49e1-b657-567b4a3bb6a9,Horsepower,,5,HP,,HP
+2cf6aabf-8db6-4fab-b90f-138f3fac828e,a25d8bf1-cace-459d-82d5-812cab69800e,ef35e614-98fa-4c9d-8559-d7516401caa5,VFD,,,,,,YES,,,VFD
+24b3c474-2444-4f93-acb6-94b3e43b6a8f,a25d8bf1-cace-459d-82d5-812cab69800e,,,,,,,,GREENHECK,,,Manufacturer
+79d670fc-1622-42ec-acc4-84974125a575,a25d8bf1-cace-459d-82d5-812cab69800e,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,460,V,Electrical,Voltage
+24423a37-f498-4fb5-84cb-c37c33cd9f50,a25d8bf1-cace-459d-82d5-812cab69800e,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,3,,Electrical,Phase
+27266faa-02b2-4724-811b-c4e2bde8686e,a25d8bf1-cace-459d-82d5-812cab69800e,2da9ea27-8c84-4868-809b-002ec08f6315,Weight,,,,,,546,,,Weight
+4527118d-f325-448d-921c-081296dc347a,a25d8bf1-cace-459d-82d5-812cab69800e,,,,,,,,QEI-20,,,Model
+e2cd3e25-27bc-4e5f-8114-1ff7db0fc0e6,a25d8bf1-cace-459d-82d5-812cab69800e,,,,,,,,"PROVIDE FACTORY MOUNTED DISCONNECT, BOLTED ACCESS DOOR, TOTALLY ENCLOSED STEEL BELT GUARD, INLET SILENCER PERMATECTOR COATING, CEILING HUNG, MOTOR ON BOTTOM OF FAN",,,Notes

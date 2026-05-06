@@ -1,0 +1,124 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+a363d8d9-0138-4b77-8748-2dd5da3cf132,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,MITSUBISHI,,,Manufacturer
+4fb323ed-5005-4f6e-81bb-2ca3b600f0fa,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,PUZ-AK36NLHZ,,,Model
+bdfbfd9b-74b3-41f1-90ab-e218dfcf73c9,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,DS-1,,,Service
+ab239bd5-aa63-466d-98c2-86c0408dbfae,77c40c2e-a784-4769-bf33-d42f443ff9c5,6b991434-66c8-4d7d-929d-ff34a7df9384,Refrigerant Type,,,,,,R454B,,,Refrig. Type
+6ccbd7dd-2f81-4985-9c72-f90e680910fc,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,1,,,# of Circuits
+6d02c2a8-003b-4799-9214-0d4578c4c3c0,77c40c2e-a784-4769-bf33-d42f443ff9c5,ee42cdfe-bea4-4963-aa29-7170ed419a8a,Cooling Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,36,MBH,Coil Section,Total Cooling Capacity
+eeda7a99-cb16-4e67-8510-20961786898c,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,21.6,MBH,Coil Section,Sensible Cooling Capacity
+e5775ffe-52ed-4b71-8cb5-53b4de8e09e8,77c40c2e-a784-4769-bf33-d42f443ff9c5,ba99f98a-81e4-4199-b573-47caa776ed66,Operating Range Cooling,,,,,,95,°F,Coil Section,Cooling Ambient Temp
+79d34aad-18b8-4869-83b5-7e8e01cf7182,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,22.1,,Coil Section,Efficiency (SEER2)
+311e3572-d1a4-4d61-a801-37fa0b61aff5,77c40c2e-a784-4769-bf33-d42f443ff9c5,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,40,MBH,Coil Section,Heat. Capacity
+d6db1d8d-60c8-4bcb-b685-e52ea54561c8,77c40c2e-a784-4769-bf33-d42f443ff9c5,31d26ceb-7e58-4418-9c63-1e2da3758797,Operating Range Heating,,,,,,47,°F,Coil Section,Heating Ambient Temp
+2626bb0d-6022-40cc-8c78-31676a77472d,77c40c2e-a784-4769-bf33-d42f443ff9c5,d9ac8a9b-b0f8-4bdb-88cc-c3792d3ab530,COP Heating,,,,,,4.1,,Coil Section,Efficiency (COP)
+96162bed-63a7-460c-9e85-400e9a98dc7c,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,1,,Compressor Data,Quantity
+96dbe25a-b331-4a6a-b999-4d8822b10c41,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,-,,Compressor Data,RLA
+8c29212b-b62a-4353-af7a-2db259615069,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,1,,Condenser Fan Data,Qty
+d7a5cf99-dcdd-4f36-9826-039f01b2417a,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,-,,Condenser Fan Data,Power
+9f73164c-d73c-42e4-a49c-2d35e387a2a5,77c40c2e-a784-4769-bf33-d42f443ff9c5,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,208,,Electrical Data,Volt
+256b819c-35b3-483f-a44b-3c388c22b281,77c40c2e-a784-4769-bf33-d42f443ff9c5,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+1b3b1123-ba1f-4852-8476-e2e464af81ac,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,29,,Electrical Data,MCA
+743ec59c-79df-4934-8e54-565f526bd288,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,48,,Electrical Data,MOCP
+07e4a7b4-7574-41e0-9750-712976f19156,77c40c2e-a784-4769-bf33-d42f443ff9c5,,,,,,,,231,LBS,,Operating Weight
+44865dcc-6df6-480e-9c41-1742d72ff54c,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,MITSUBISHI,,,Manufacturer
+0e632cc0-7ca0-4065-b9a9-afdd10d9ade6,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,PUZ-AK12NL,,,Model
+d9eed427-4a56-41f3-976f-d172c6b5a1c1,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,DS-2,,,Service
+eb801fd3-936d-4906-b715-a5db05cd8076,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,6b991434-66c8-4d7d-929d-ff34a7df9384,Refrigerant Type,,,,,,R454B,,,Refrig. Type
+73c7c041-75af-4073-8007-65e2631e6ad0,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,1,,,# of Circuits
+29c74fa2-8e7a-4366-9178-e94d0c7ad74a,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,ee42cdfe-bea4-4963-aa29-7170ed419a8a,Cooling Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,12,MBH,Coil Section,Total Cooling Capacity
+543396e5-37fc-4994-8e8b-da18ded6dee1,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,8.76,MBH,Coil Section,Sensible Cooling Capacity
+3c1a510c-b663-4fea-8f39-5a1042989043,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,95,°F,Coil Section,Cooling Ambient Temp
+9c481473-1627-42d8-8875-a41563bf4dce,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,af87ad6c-0dee-4c7b-bf5c-13781178261a,SEER Rating,,,,,,21.1,,Coil Section,Efficiency (SEER2)
+9ae5dd80-43b5-4ea6-b2a1-a748ca30aca0,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,18,MBH,Coil Section,Heat. Capacity
+63b85fca-7099-4a39-8781-aae5c8a56535,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,47,°F,Coil Section,Heating Ambient Temp
+3f535e53-e636-4d62-b341-9ccc1ac12b87,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,3.1,,Coil Section,Efficiency (COP)
+43119f09-6ba1-49da-92f1-60e96cbe8ae5,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,1,,Compressor Data,Quantity
+b4657a4d-4f4e-45ff-b2be-dcc6cd2e18f4,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,-,,Compressor Data,RLA
+eae1b2bb-6ee1-4038-a3c0-3f64c80e9bf7,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,1,,Condenser Fan Data,Qty
+8ad4dc21-1939-4f69-bc76-363d382cef4a,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,-,,Condenser Fan Data,Power
+681f54a7-9da8-4df0-902b-a97e55e904e8,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,208,,Electrical Data,Volt
+ff13eefc-1df6-4c26-825a-056b609ffa74,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+981351a4-98ae-427a-aaef-41c171e02fc1,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,16,,Electrical Data,MCA
+033cd3bf-e93c-47c8-a5a5-00d564f0cbc5,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,27,,Electrical Data,MOCP
+143660ff-cf20-4771-bd5a-37fd4c0b53d7,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,112,LBS,,Operating Weight
+cb430ba2-5914-4004-97e4-26190fb6f99c,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,MITSUBISHI,,,Manufacturer
+951a8bb7-56f0-4d8e-a1fa-2e2f3027354d,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,PUZ-AK12NL,,,Model
+0331adeb-6a55-4282-b545-2a3dce91a3a8,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,DS-2,,,Service
+99acc4d1-29a1-45d0-b3f2-7935dd96ab19,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,6b991434-66c8-4d7d-929d-ff34a7df9384,Refrigerant Type,,,,,,R454B,,,Refrig. Type
+cee097a6-1c66-465f-83ad-f01e9797dd82,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,1,,,# of Circuits
+dfb53481-3f54-4c97-9ba9-343d68377570,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,ee42cdfe-bea4-4963-aa29-7170ed419a8a,Cooling Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,12,MBH,Coil Section,Total Cooling Capacity
+a6234489-ce17-410e-8505-fb3ec9a2f35d,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,8.76,MBH,Coil Section,Sensible Cooling Capacity
+e0b92a85-18c2-4dd1-ae9d-e6bcb56ee567,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,2f416bba-8803-4d4c-b813-0ff009feab88,Operating Temperature Range,,,,,,95,°F,Coil Section,Cooling Ambient Temp
+cfaadfbf-d31b-4e14-8f2f-9af8fc69e080,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,af87ad6c-0dee-4c7b-bf5c-13781178261a,SEER Rating,,,,,,21.1,,Coil Section,Efficiency (SEER2)
+ae79f049-a325-43e5-905d-26cd85ca3840,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,18,MBH,Coil Section,Heat. Capacity
+d7ad8100-fbcb-4d82-8e6b-f4874977938c,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,47,°F,Coil Section,Heating Ambient Temp
+48b3f123-a26e-4f3c-a6de-bb40e3cbf70c,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,3.1,,Coil Section,Efficiency (COP)
+8d362dce-ccf0-481b-aa2c-742c99e37ced,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,1,,Compressor Data,Quantity
+e10bfa9b-b508-4396-afbf-4449f33d04f2,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,-,,Compressor Data,RLA
+be7a1e51-6b93-47be-9476-fb0daf98e9c3,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,1,,Condenser Fan Data,Qty
+874ac952-4d1b-44a9-9308-1081102919d6,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,-,,Condenser Fan Data,Power
+6414de42-5af4-4ba0-87cc-87b3816667d8,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,208,,Electrical Data,Volt
+b52b3b9f-bd26-4357-a388-34b9ca9f8f2d,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+b9e96712-db71-41a7-827b-9bd754277714,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,16,,Electrical Data,MCA
+dff20942-067b-47c5-aedc-3856e52ac6c1,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,27,,Electrical Data,MOCP
+00204701-d479-4446-85be-922e74c9b303,e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,,,,,,,,112,LBS,,Operating Weight
+e9b1585a-edf8-40fb-bf8f-824c76ff5a0f,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,MITSUBISHI,,,Manufacturer
+403fcd25-c3ef-4d99-a17c-4490054df9e7,60033f0f-99d4-4784-94fb-337b0b9712bc,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,30,W,Fan Section,Power
+a37c6a67-8bc8-4b9b-80b1-89d79a19d31e,60033f0f-99d4-4784-94fb-337b0b9712bc,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,208,,Electrical Data,Volt
+9c792672-0e78-4cdc-9542-163eaa13d41e,60033f0f-99d4-4784-94fb-337b0b9712bc,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+7ba12663-a22f-420e-9af1-aed6770def34,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,PKA-AL12NL,,,Model
+8c635753-6aa8-4d45-bda3-e5e884d5ab4a,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,LOUNGE,,,Service
+f2d95d4f-3c33-44e6-8186-37ccb74a5ede,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,375,CFM,Fan Section,Airflow (High)
+36cf7e29-e720-4560-97e8-d8893b38ca0a,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,255,CFM,Fan Section,Airflow (Medium)
+9a32affb-ead1-4ddf-84af-6af161ea1eb4,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,215,CFM,Fan Section,Airflow (Low)
+a9f4f2a4-52aa-4e51-b230-15820e1d7cb8,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,N/A,"W.C.",Fan Section,ESP / TSP
+126e8633-f9dc-4c71-ab1f-9c050ba4c3d7,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,WASHABLE,,Filter Section,Type
+c423f316-3e78-459f-9d10-95883df5becf,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,8,,Filter Section,MERV
+e97d0496-755e-4958-80cf-b06c3ae01108,60033f0f-99d4-4784-94fb-337b0b9712bc,,,,,,,,28,LBS,,Operating Weight
+9f3ed82a-16cd-42b7-b90a-b9b705ad8d07,9967c4ab-b6a0-4c9d-ad48-5315238f2738,,,,,,,,MITSUBISHI,,,Manufacturer
+5bf11135-7cd4-424c-8894-30f42889429b,9967c4ab-b6a0-4c9d-ad48-5315238f2738,,,,,,,,PKA-AL18NL,,,Model
+d3fb7e4a-c418-4af7-ac72-d59da1e88d6e,9967c4ab-b6a0-4c9d-ad48-5315238f2738,,,,,,,,IT RM,,,Service
+91a252e8-4f5e-4ddc-978e-0adcd90866f9,9967c4ab-b6a0-4c9d-ad48-5315238f2738,17b0d394-6162-44b8-adc5-e44902b29d50,Indoor Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,375,CFM,Fan Section,Airflow (High)
+f957e902-f5b7-435f-bb36-06959ceb3d75,9967c4ab-b6a0-4c9d-ad48-5315238f2738,,,,,,,,255,CFM,Fan Section,Airflow (Medium)
+440fe901-616e-4bd0-a880-5896c7d497e8,9967c4ab-b6a0-4c9d-ad48-5315238f2738,,,,,,,,215,CFM,Fan Section,Airflow (Low)
+b34c9b81-7133-41be-aaa1-40b738ae087e,9967c4ab-b6a0-4c9d-ad48-5315238f2738,,,,,,,,N/A,"W.C.",Fan Section,ESP / TSP
+6d55a77e-5800-4d9a-bed2-2c68ff228543,9967c4ab-b6a0-4c9d-ad48-5315238f2738,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,30,W,Fan Section,Power
+1bda7888-bbd2-40d0-8d15-55a8dae28c93,9967c4ab-b6a0-4c9d-ad48-5315238f2738,,,,,,,,WASHABLE,,Filter Section,Type
+a84f1e27-4e87-4736-be97-d5e78d2074f6,9967c4ab-b6a0-4c9d-ad48-5315238f2738,,,,,,,,8,,Filter Section,MERV
+bf3ea028-729c-4bd8-8070-97fc2494709d,9967c4ab-b6a0-4c9d-ad48-5315238f2738,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,208,,Electrical Data,Volt
+5e0874a6-faef-4ee3-9c05-4b8ac8ca4e87,9967c4ab-b6a0-4c9d-ad48-5315238f2738,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+c2c6f5f8-e555-40f7-87d1-7a32a57ba4e3,9967c4ab-b6a0-4c9d-ad48-5315238f2738,,,,,,,,28,LBS,,Operating Weight
+65b50fea-36bd-49fa-b682-0820991a4965,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,902cf26a-d640-46a2-a522-4b65af519a19,Mitsubishi Electric,,,,MITSUBISHI,,,Manufacturer
+8bb18f98-07a9-4078-9877-aabfcc539be7,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,,,,,,,,PKA-AK36NL,,,Model
+7e332f9b-77cc-4af0-a279-d84fb93d2dc5,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,,,,,,,,EQ RM,,,Service
+c3387c4b-cbbe-4d9d-8877-a4fdcf4ddd1c,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,920,CFM,Fan Section,Airflow (High)
+85c90e1a-020c-4abd-8c70-1a8c1f56f660,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,,,,,,,,810,CFM,Fan Section,Airflow (Medium)
+5a8bc46b-e8e9-497d-9675-c6499f94317c,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,,,,,,,,705,CFM,Fan Section,Airflow (Low)
+26816742-b7a4-400f-91db-07bf3171fbd1,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,,,,,,,,N/A,"W.C.",Fan Section,ESP / TSP
+cce1f88f-bf82-4800-a711-6f851603cf12,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,69,W,Fan Section,Power
+3e74468b-83f7-4c89-8d7e-85be80f186ad,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,,,,,,,,WASHABLE,,Filter Section,Type
+72b560d6-7c16-4d5c-ac06-590ccca75c60,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,208,,Electrical Data,Volt
+05fdef23-aa45-464b-9342-7ba2ff179a37,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+9a3dafaa-181e-466c-a661-f18606445b40,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,2da9ea27-8c84-4868-809b-002ec08f6315,Weight,,,fe46f69d-dd77-9a0f-5dc4-1ce604c97ea9,Pound,,46,LBS,,Operating Weight
+22c41cfc-3caa-40ec-a916-0c3dc6229f60,a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,,,,,,,,8,,Filter Section,MERV
+fbb28ae2-661e-49d2-9504-113151bba5a0,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,MITSUBISHI,,,Manufacturer
+2b0b5a68-35a9-4158-9f2a-fed48c073829,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,PUY-AK18NL,,,Model
+1f6dd31d-be3c-4c08-bde4-38a87a140d27,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,DS-3,,,Service
+4bc2833d-8fcf-4be8-b696-f5868ef1fa74,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,6b991434-66c8-4d7d-929d-ff34a7df9384,Refrigerant Type,,,,,,R454B,,,Refrig. Type
+b856010c-eda7-4283-a028-60455055b779,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,1,,,# of Circuits
+ac2992a8-de15-4127-9b8d-08d03b644d7b,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,ee42cdfe-bea4-4963-aa29-7170ed419a8a,Cooling Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,18,MBH,Coil Section,Total Cooling Capacity
+1d1d67f1-45bd-43f0-b052-36114438979b,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,10.8,MBH,Coil Section,Sensible Cooling Capacity
+c1b8be21-aeb6-472e-be43-001b6de4942c,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,95,°F,Coil Section,Cooling Ambient Temp
+d67f9dc5-0d12-4663-a7b5-27b1a1ef694f,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,af87ad6c-0dee-4c7b-bf5c-13781178261a,SEER Rating,,,,,,19.5,,Coil Section,Efficiency (SEER2)
+36905bd3-674c-4302-8fb2-1095b2345d77,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,N/A,MBH,Coil Section,Heat. Capacity
+5e8386db-cb68-44d8-84ca-559a8f6821fa,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,N/A,°F,Coil Section,Heating Ambient Temp
+78803ec6-35c1-4a8f-b17e-47909001947a,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,N/A,,Coil Section,Efficiency (COP)
+822606f1-8ebd-4a34-a056-dc7c01e11694,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,1,,Compressor Data,Quantity
+8ed18e12-4090-4122-a1b3-5fa030f479e5,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,-,,Compressor Data,RLA
+7271413c-fd53-4b90-b135-c263fe742b14,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,1,,Condenser Fan Data,Qty
+d2ff735c-f05d-4064-9017-565f118d4ab2,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,-,,Condenser Fan Data,Power
+f922f1b7-78a5-4141-b69a-3d11548e680b,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,208,,Electrical Data,Volt
+899631ee-44c7-4882-9adf-8aca4fd6e1ed,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+5a69eff8-1ede-4a95-9c6d-1a8de5832763,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,16,,Electrical Data,MCA
+0ef375d9-995e-4552-9645-ad3fd15122d6,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,27,,Electrical Data,MOCP
+bd20967e-c47d-481a-bb58-70963271d737,b01a2c8c-3a86-4e34-a60f-4b9df22f0293,,,,,,,,99,LBS,,Operating Weight

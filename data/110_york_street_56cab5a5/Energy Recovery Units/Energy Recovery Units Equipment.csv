@@ -1,0 +1,8 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+14fdf55a-2c97-4889-b4fe-611e402c0c7b,ERV-L3-02,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,f79e7b04-f08f-48e0-95c7-06bbb5801dd4,HE07 IN (Standard EC),HE07 IN (Standard EC),RenewAire,
+deb18510-1341-4320-9f4d-0aa11af3fe97,ERV-L4-02,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,696263de-0bcd-43b7-acaa-5b623dddacb8,HE 3XRT (Standard),HE 3XRT (Standard),RenewAire,
+137ac505-56b9-4bb7-afe5-d0aace51ee62,ERV-L4-01,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,696263de-0bcd-43b7-acaa-5b623dddacb8,HE 3XRT (Standard),HE 3XRT (Standard),RenewAire,
+7b3bc622-4961-42df-b320-88bcf696afec,ERV-GF-02,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,1d6e51f6-66cd-4586-bd3d-8c54a76a1a67,HE10 IN (Standard EC),HE10 IN (Standard EC),RenewAire,
+42b05639-6aa4-4f9e-8817-a08c9892e22a,ERV-GF-01,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,1d6e51f6-66cd-4586-bd3d-8c54a76a1a67,HE10 IN (Standard EC),HE10 IN (Standard EC),RenewAire,
+89cb9915-2312-4189-90d2-45b15867307d,ERV-L-1.5-01,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,d53e16ef-dafb-4df5-a599-9d1c7c4165a3,HE10 IN (Advanced EC),HE10 IN (Advanced EC),RenewAire,
+482f3415-7d28-435e-a702-dedb0d13fa30,ERV-L3-01,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,1d6e51f6-66cd-4586-bd3d-8c54a76a1a67,HE10 IN (Standard EC),HE10 IN (Standard EC),RenewAire,

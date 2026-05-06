@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+cc137cce-9e9b-4c4f-b14a-9392fe178d1d,EF-3,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,e358c448-5771-42c8-9377-29a617eea49d,ACED 120,ACED 120,Loren Cook,Loren Cook
+6a41384e-44e2-4565-871b-b616b4b45ec8,EF-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,0fbb39a0-5d8b-4b16-ab61-7cbde9192f3f,ACED 90,ACED 90,Loren Cook,Loren Cook
+6e1a95f3-cdcc-45b5-9f13-fb0e407645dd,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,0fbb39a0-5d8b-4b16-ab61-7cbde9192f3f,ACED 90,ACED 90,Loren Cook,Loren Cook

@@ -1,0 +1,10 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+0effecc5-d28d-4044-84c3-d6955a592b75,ERU-6,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,facab6ae-3266-437a-b1d2-5fc4933e8d1c,RN-031-3-0-HABY-V0-21-000-A,RN-031-3-0-HABY-V0-21-000-A,AAON,AAON
+1a89c0c1-9288-4e45-9a49-73699e34a1c9,ERU-5,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,34c9fc4d-61d8-4112-b88a-8f4af8c97082,RN-007-3-0-HABY-V0-21-000-A,RN-007-3-0-HABY-V0-21-000-A,AAON,AAON
+b197ab36-a08f-4f52-9704-a0c345667610,ERU-9,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,0d605261-1276-489c-a9f5-2e4058770684,RN-011-3-0-HABY-V0-21-000-A,RN-011-3-0-HABY-V0-21-000-A,AAON,AAON
+cc2c858d-fc0c-4f91-9245-850cb5b398ec,ERU-2,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,26d140a4-9c05-4aeb-ad4a-ef9eae821517,RN-014-3-0-HABY-V0-21-000-A,RN-014-3-0-HABY-V0-21-000-A,AAON,AAON
+54e7ceff-a1b1-49c0-a5b6-b5681e2d4bc2,ERU-4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,b4d20d59-c0eb-4d99-bed5-d918bd18fc02,RN-026-3-0-HABY-V0-21-000-A,RN-026-3-0-HABY-V0-21-000-A,AAON,AAON
+17d82929-a10e-48a4-a2f3-eb0f29d84f85,ERU-3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,b4d20d59-c0eb-4d99-bed5-d918bd18fc02,RN-026-3-0-HABY-V0-21-000-A,RN-026-3-0-HABY-V0-21-000-A,AAON,AAON
+419274a1-40e3-476d-a612-2a800ba9d919,ERU-8,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,0,0f402167-10ae-4b76-88ca-0bcce2428bcb,RN-020-3-0-HABY-V0-21-000-A,RN-020-3-0-HABY-V0-21-000-A,AAON,AAON
+e5e3e434-6925-4434-b3d5-c9a53b67db9e,ERU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,b4d20d59-c0eb-4d99-bed5-d918bd18fc02,RN-026-3-0-HABY-V0-21-000-A,RN-026-3-0-HABY-V0-21-000-A,AAON,AAON
+11a00680-fb35-4e9f-aea1-43312d88b98b,ERU-7,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,0d605261-1276-489c-a9f5-2e4058770684,RN-011-3-0-HABY-V0-21-000-A,RN-011-3-0-HABY-V0-21-000-A,AAON,AAON

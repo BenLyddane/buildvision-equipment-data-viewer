@@ -1,0 +1,9 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+8065a375-3710-4dcd-ac26-83d6356db234,EF-3,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,1,7fcb01e3-a2f3-49b6-93ac-87ae2140ce67,G-098-VG,G-098-VG,Greenheck,Greenheck
+339aca7e-bdad-4322-ad9c-e9de17803540,EF-5,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,2,7fcb01e3-a2f3-49b6-93ac-87ae2140ce67,G-098-VG,G-098-VG,Greenheck,Greenheck
+2dfac19a-2041-4220-9fc2-a778ef2803b1,EF-6,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,3,acc4a958-9c51-4005-8aca-b6b3dc636c0c,CUE-200HP-VG,CUE-200HP-VG,Greenheck,Greenheck
+8d288166-c899-4e3b-aa6c-e820e9e78c0a,EF-7,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,2,acc4a958-9c51-4005-8aca-b6b3dc636c0c,CUE-200HP-VG,CUE-200HP-VG,Greenheck,Greenheck
+b3273464-9525-44c2-bba9-3838526c6eac,EF-8,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,8df4abc8-a653-4976-8086-296d78771750,CUE-099-VG,CUE-099-VG,Greenheck,Greenheck
+0f159567-6631-4cb0-ae13-0b385c011c95,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,2,338b81a3-e7dd-4d78-8dbc-7692602d088a,G-160-VG,G-160-VG,Greenheck,Greenheck
+ca87e628-01e7-46eb-8ca8-2c33df164218,EF-9,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,1,1cf02e07-b8d5-4c75-ad17-62bae183b50a,G-070-VG,G-070-VG,Greenheck,Greenheck
+35799efc-42c7-4406-8e82-fbe8ba3b549f,EF-2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,7fcb01e3-a2f3-49b6-93ac-87ae2140ce67,G-098-VG,G-098-VG,Greenheck,Greenheck

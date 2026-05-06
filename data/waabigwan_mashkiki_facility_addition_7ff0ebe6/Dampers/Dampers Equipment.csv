@@ -1,0 +1,31 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+e13cd99b-630c-47ea-8d59-0ebf942dbe31,MOD-4,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+545af27f-506d-490a-af8e-0c0c04441582,CD-14,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+c8297965-2ece-4352-9187-f621913f1e33,CD-5,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+0c47c7f1-8ba3-4f58-a560-d5f74b82d101,CD-4,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+2a1a40f6-23f0-41ac-8067-fee7c6ecc27d,MOD-2,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+9a240baa-8305-4867-9631-8801e2bcc6fc,CD-12,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+d182512f-97e2-4e88-a6db-425c8fbbab16,CD-9,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+c13e6c50-c277-49e9-957e-06cace6ca994,MOD-6,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+d1cbc120-3516-4356-8fef-41ed3f64c93b,MOD-5,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+732ff7ed-38d7-403b-90a7-b397a35434a5,CD-13,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+5beefef0-a0d3-4346-a3aa-dbf4ab27faac,CD-6,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+9f00c79d-4929-434a-bae2-61f81b750dbd,CD-1,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+a45a4fb8-cf7e-4dfa-a9fb-47a46fe0ff45,CD-7,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+ec2ad635-04e3-4c4e-bf6d-6bac909982f2,MOD-1,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+9aa7d0cf-2b86-4361-a3a6-639783d36b83,CD-10,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+a2fc1b73-6257-4911-93ee-c2b9926ca948,CD-3,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+510a4182-46f8-4ba4-a2d7-50ba120d0ba3,MOD-12,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,Ruskin
+c3104b8a-6b4d-4878-aec4-4bf9b768ec4b,MOD-11,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+cd186b15-269d-4ce7-a6ca-8b511f6fc9ef,CD-15,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+2552cd88-ac31-4528-8bf8-0d365ed729ee,MOD-3,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+3c3bd8f0-f41e-41bb-91ae-e3ece7e29118,MOD-9,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+be90a1a0-9804-4e78-a1c7-35d98e0ff26c,MOD-8,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+df56db48-a401-4c43-9266-4b91068528ec,MOD-10,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+3d7e6e66-493a-4b28-a8e6-a0028b52abb3,MOD-14,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,Ruskin
+080cfe87-de36-4818-862c-8a3708eab1e2,MOD-7,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,
+1aa3a489-0eff-4ced-a61f-a7c40a8426c6,CD-11,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+ba318d05-ddf5-42df-b93b-a5b42edf087b,CD-2,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+c9dccf36-9807-4801-af1e-d13de34455c0,CD-8,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,,,,,Belimo
+fc45bfcb-f81b-411b-92ef-e4ea8ba5c029,MOD-13,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,Ruskin
+a8bf1b56-30e9-41ed-999b-9f600dc214e1,MOD-15,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,Ruskin

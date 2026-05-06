@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+79ec4824-bd24-4d10-a26b-691d12d16ba3,DSS-1,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,1,2a1bcb69-22d9-43ec-a6d0-b41cf4cf7a25,MSZ-GX12NL,MSZ-GX12NL,MITSUBISHI ELECTRIC TRANE,MITSUBISHI ELECTRIC TRANE
+c62a1197-6fd5-44fc-8fe0-ff6083c92de0,DSS-2,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,2,2a1bcb69-22d9-43ec-a6d0-b41cf4cf7a25,MSZ-GX12NL,MSZ-GX12NL,MITSUBISHI ELECTRIC TRANE,MITSUBISHI ELECTRIC TRANE
+ccc4e39e-6a43-4b0f-b91b-94646546a116,DSHP-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,9fef3798-f1f0-4f12-9ecf-989c1395e880,NTXSPB09B112AA,NTXSPB09B112AA,Trane,Trane
+771e53ff-5ef1-4d6d-be75-d86fba55728b,DSHP-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,22da8e19-a706-4f34-9855-f9a07298e695,MXZ-3D24NL,MXZ-3D24NL,Trane,Trane
+727bc311-9965-41fa-9836-cc5cf6e5ae3e,DSS-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,ea1c7e90-a867-4b09-8c67-061d467a2620,NTXWPH09B112AA,NTXWPH09B112AA,Trane,Trane

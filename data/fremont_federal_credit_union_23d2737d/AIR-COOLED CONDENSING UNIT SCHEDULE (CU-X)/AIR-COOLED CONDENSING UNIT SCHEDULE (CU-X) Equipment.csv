@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a3daee0e-380f-4f80-9f2b-635c7e10d7b4,CU-2,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,1,bcc3f49c-cf16-4c0a-9f7d-0f6ebb562023,PUY-AK12NL,PUY-AK12NL,MITSUBISHI ELECTRIC TRANE,MITSUBISHI ELECTRIC TRANE
+66e52ddb-7535-4bbe-b7df-6b68686d9cc9,DFS-1,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,1,3ab8d9aa-4217-4ee0-87b3-7f00122610bd,PKA-AL18NL,PKA-AL18NL,Mitsubishi Electric (Including Trane Products),Mitsubishi Electric (Including Trane Products)
+80f61996-1d10-4301-9022-281de986f7eb,DFS-2,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,1,3c611cee-f116-4e0b-9222-978be98e61c5,PLA-A18BA4,PLA-A18BA4,MITSUBISHI ELECTRIC TRANE,MITSUBISHI ELECTRIC TRANE
+10c423f1-a794-4f3e-a90a-7559cc4279d3,DFS-3,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,1,4dc0be49-9c3d-454b-ba4f-4fc88f6a7907,PLA-A12BA4,PLA-A12BA4,MITSUBISHI ELECTRIC TRANE,MITSUBISHI ELECTRIC TRANE
+08f01ac4-9210-474f-9e29-7b8001ffa1cf,CU-1,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,1,d6f922c5-01e8-4f25-9e56-f46748fc4a24,PUY-AK 18NL,PUY-AK 18NL,MITSUBISHI ELECTRIC TRANE,MITSUBISHI ELECTRIC TRANE

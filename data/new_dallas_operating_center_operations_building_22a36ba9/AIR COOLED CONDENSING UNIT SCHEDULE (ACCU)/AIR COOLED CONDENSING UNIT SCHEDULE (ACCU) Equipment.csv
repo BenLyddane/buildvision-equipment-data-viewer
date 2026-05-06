@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+2e182953-922b-4ef5-87e5-9c49c17f4f72,ACCU-1,fd11bf76-fb96-4d01-8fdf-875daf6d638e,Air-Cooled Refrigerant Condensers,0,815bc034-cb67-4957-96b8-c2d167e21c92,RAUJ-40,RAUJ-40,Trane,Trane

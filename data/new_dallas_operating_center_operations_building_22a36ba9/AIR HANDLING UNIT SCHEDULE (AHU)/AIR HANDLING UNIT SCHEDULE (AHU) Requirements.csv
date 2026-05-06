@@ -1,0 +1,24 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+d0a04df3-13ed-41b6-a15f-7ab759613399,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,MECHANICAL 129,,,Location
+f4d4f3f9-908d-4260-a978-33dca70db8ba,8b4230e8-9bd1-4ed8-9834-80520b801c92,ae7301a4-c7c6-41b3-bb5f-f19d2d1437df,Airflow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,"14,000",CFM,,Total
+50d952d5-4d50-45a5-ae08-c3c7bfe2b1a5,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,"3,170",CFM,,Min. OA
+a31fab85-1614-4bbd-81fe-b9f1c08fcfdc,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,2,,Supply Fan,Fan Qty
+da560776-83be-4b81-a28a-0bf00dabf313,8b4230e8-9bd1-4ed8-9834-80520b801c92,819972ad-cacc-4643-8e07-735f11561534,Fan Power,,,,,,15,,Supply Fan,HP
+e2c60217-9bf3-4df5-9924-0cf8a460b623,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,2322,,Supply Fan,RPM
+f14e91e4-ad10-4d5c-a665-ee77c0d4c0a8,8b4230e8-9bd1-4ed8-9834-80520b801c92,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,2.00,"WG,Supply Fan,E.S.P.
+fcaaee47-6aaa-4d62-9ca7-28ad9ead4001,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,81.8,,EAT,DB
+e7d830b5-6842-447b-a7a6-7aa4d349f1ce,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,66.3,,EAT,WB
+0b3674a6-d85c-4d3f-8f67-613b59c4abe5,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,55.0,,LAT,DB
+a044f13b-3171-45d5-aa1e-588a3408dd3e,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,55.0,,LAT,WB
+2b0df302-f450-4b87-a2bc-7615e3a5511d,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,6,,Cooling Coil,No. Rows
+c7503635-aadb-4cf8-b5f3-f71b3a082635,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,560.0,FPM,Cooling Coil,Vel
+03ea5dd4-6f04-4d26-8440-4c7e734404c6,8b4230e8-9bd1-4ed8-9834-80520b801c92,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,80,KW,Electric Heat,Output
+af51c1e3-8e19-4335-8524-295feefdae0b,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,40.0,,Electric Heat,EAT DB
+4e04e88e-5353-492d-bcfa-e528f82098f2,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,75.0,,Electric Heat,LAT DB
+ba405dd1-84c1-4bb3-9200-f7783f65d801,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,SSR,,Electric Heat,Control
+98c0d1b2-cf07-4398-b177-9fefa4c9f24e,8b4230e8-9bd1-4ed8-9834-80520b801c92,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,460,,Electrical,Voltage
+c6223078-957b-437a-8c12-a3bc5b50988f,8b4230e8-9bd1-4ed8-9834-80520b801c92,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,3,,Electrical,Phase
+858ea9cb-f739-46f8-9257-29f43796a134,8b4230e8-9bd1-4ed8-9834-80520b801c92,9aae5376-ca52-4e0d-8853-822740d0973b,Frequency,,,,,,60,,Electrical,Frequency
+bb0dee72-cdab-4737-8167-d18899839ebf,8b4230e8-9bd1-4ed8-9834-80520b801c92,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,54cb2237-98ba-4dae-8fe6-9334ff890bf9,Trane,,,,TRANE,,,Manufacturer
+7fc58927-9ff3-44e3-b199-dfda30ec8011,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,CSAA,,,Model
+76fd3b90-a765-4c23-aa9e-138cfdfdcf38,8b4230e8-9bd1-4ed8-9834-80520b801c92,,,,,,,,1,,,Notes

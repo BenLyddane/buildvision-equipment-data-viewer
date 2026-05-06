@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+5add7f5d-fb5c-4160-bab8-659b71d31a97,HWP-1,d3ae6a49-ca2b-47a8-ace8-353607db579f,In-Line Centrifugal Hydronic Pumps,0,f97f0607-176b-4074-be9c-f7d76fc97c9d,ECOCIRC 55-45,ECOCIRC 55-45,Bell & Gossett,Bell & Gossett
+76a0ac17-ecbc-45ef-a3d6-8cb22c26391b,BP-1,2938b867-1034-4ff6-b7f1-d980200e680a,Electric-Resistance Air Coils,0,,,,,Lochinvar
+e8b51b83-2ee4-412c-a675-c82fd52e6507,BP-2,2938b867-1034-4ff6-b7f1-d980200e680a,Electric-Resistance Air Coils,0,,,,,Lochinvar
+0fcf47c4-12df-495b-b401-5a13e2302bc2,HWP-2,d3ae6a49-ca2b-47a8-ace8-353607db579f,In-Line Centrifugal Hydronic Pumps,0,f97f0607-176b-4074-be9c-f7d76fc97c9d,ECOCIRC 55-45,ECOCIRC 55-45,Bell & Gossett,Bell & Gossett

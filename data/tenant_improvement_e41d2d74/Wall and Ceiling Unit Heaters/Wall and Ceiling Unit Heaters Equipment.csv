@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+4fab6eda-44b2-4071-8f46-1038133c735d,ECH-A (A1-A4),88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,67dd1d21-127e-4b7c-a373-333edc792e10,RCH,RCH,Raywall,

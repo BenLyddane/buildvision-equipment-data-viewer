@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+f0ba1de5-30d0-4431-9fb9-8752441dbd89,EUH-2,fb6a9dd9-82dd-43b5-9a82-e46575bc8d64,Propeller Unit Heaters,0,3619effd-82e4-4af8-8f14-130ca1179e3d,MUH05,MUH05,QMark,QMark
+f89c0a3f-d364-4a39-b888-0f1bb076cb5c,EUH-1,fb6a9dd9-82dd-43b5-9a82-e46575bc8d64,Propeller Unit Heaters,0,0cf4ed9f-4c7f-4a0f-8bcb-f39deb08ed59,MUH07,MUH07,QMark,QMark
+8201c00b-4019-464f-ad04-4ea678ddf387,EUH-3,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,a68c2d97-29ce-47a1-8cd9-6fbfb774c913,GUX30,GUX30,QMark,QMark

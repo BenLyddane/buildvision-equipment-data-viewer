@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+41f836a1-1031-420d-990b-492a6a54173e,DH-1,c277ac7c-ca6a-4eec-9ba7-5ba6ef144aa3,Dehumidifiers,0,803773ab-374c-4d70-8ea9-231f9a60db0c,Dry-O-Tron DS Series,DS,Dectron,

@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+396c788b-214f-4a78-9e8b-7010817950b4,HT-3,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,da803a9c-3f9b-4baa-91f9-3cdff3d1039d,SRL5-1CT,SRL5-1CT,Chromalox,Chromalox
+07dfaf46-7aaa-4593-8dd8-4cd719626114,HT-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,da803a9c-3f9b-4baa-91f9-3cdff3d1039d,SRL5-1CT,SRL5-1CT,Chromalox,Chromalox
+52a8c888-4ad6-4be5-a34a-3764f9161a63,HT-2,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,da803a9c-3f9b-4baa-91f9-3cdff3d1039d,SRL5-1CT,SRL5-1CT,Chromalox,Chromalox

@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+4c17004e-6791-4681-a988-fac5576919fd,S1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",8,6578b009-088c-4141-b55d-4e875f69bf7b,TMS-AA,TMS-AA,Titus,
+c3953eea-c078-4345-b37a-60a289943395,S2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",1,0dee40ea-143f-40e1-b73d-81c490132df4,TDC-AA,TDC-AA,Titus,
+8c5d40a1-b88b-4dfa-8524-3caa71ac9f5b,S3,196e4ade-4a74-4933-b50e-dce66ce5b51c,Wall Registers and Grilles,3,d3378d81-8244-4a0a-8603-48bf2e334388,272FS,272FS,Titus,
+1e805756-45b2-4548-8ec7-79562af20588,R1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",2,e7763758-944e-4fd0-8876-0f1007026d1d,PAR,PAR,Titus,

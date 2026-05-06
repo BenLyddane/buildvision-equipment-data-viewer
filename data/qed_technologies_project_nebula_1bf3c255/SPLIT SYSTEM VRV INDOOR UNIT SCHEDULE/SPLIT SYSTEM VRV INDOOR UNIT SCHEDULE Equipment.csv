@@ -1,0 +1,8 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+c17db562-594c-4383-ade0-30f14a0b8ca0,VRV-2-1,40dcc588-efa0-4d9c-a28a-a81c042a18ce,VRF Indoor Units - Ductless,0,1036c50d-28b5-4fe0-bb57-d630ae20136a,FXZQ18TBVJU,FXZQ18TBVJU,Daikin AC,Daikin AC
+a90de397-d1b5-440e-b61e-b0662e773852,VRV-4-1,f5f15013-f094-4ee0-8435-70d145807388,Variable Refrigerant Flow Systems,0,bb54791c-f46b-4602-a286-6ee8a1fa1b60,FTKF09AXVJU,FTKF09AXVJU,Daikin AC,Daikin AC
+7fd04a8a-cc09-4b14-a23d-175ca16792a9,VRV-1-2,f5f15013-f094-4ee0-8435-70d145807388,Variable Refrigerant Flow Systems,0,cb1adff6-5032-4cb4-a072-3e5addcafcc1,FXSA30AAVJU,FXSA30AAVJU,Daikin AC,Daikin AC
+d43bab04-051f-4dbc-9dda-91dc0894b382,VRV-2-2,40dcc588-efa0-4d9c-a28a-a81c042a18ce,VRF Indoor Units - Ductless,0,1036c50d-28b5-4fe0-bb57-d630ae20136a,FXZQ18TBVJU,FXZQ18TBVJU,Daikin AC,Daikin AC
+e69b0a39-8bdc-4361-a497-0ac98018c681,VRV-3-1,f5f15013-f094-4ee0-8435-70d145807388,Variable Refrigerant Flow Systems,0,8d6932b9-c93d-4d29-b033-8c6819d9f30a,FBA30AAVJU,FBA30AAVJU,Daikin AC,Daikin AC
+47711517-5c88-47af-aa4f-88253dafa93c,VRV-1-1,f5f15013-f094-4ee0-8435-70d145807388,Variable Refrigerant Flow Systems,0,cb1adff6-5032-4cb4-a072-3e5addcafcc1,FXSA30AAVJU,FXSA30AAVJU,Daikin AC,Daikin AC
+bca87b74-e722-449c-82d9-ffbc1b4b479c,VRV-2-3,40dcc588-efa0-4d9c-a28a-a81c042a18ce,VRF Indoor Units - Ductless,0,1036c50d-28b5-4fe0-bb57-d630ae20136a,FXZQ18TBVJU,FXZQ18TBVJU,Daikin AC,Daikin AC

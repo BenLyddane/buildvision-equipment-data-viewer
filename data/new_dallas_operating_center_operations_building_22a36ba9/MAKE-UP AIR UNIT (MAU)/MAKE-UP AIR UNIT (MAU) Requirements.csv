@@ -1,0 +1,24 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+5fab612c-370e-4e3b-a9b6-a6e32c1421e5,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,138,,,Service
+23ce57cf-6cf2-4163-8038-28c3bfa8c0f4,54c812d2-28e8-4cdb-94c0-01a954f5cffd,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,"2,000",CFM,Supply Fan,Total
+814fdf70-1ccd-4731-ac87-4cad27c737f1,54c812d2-28e8-4cdb-94c0-01a954f5cffd,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,"2,000",CFM,Supply Fan,Min OA
+37f569cb-4627-41b6-8ba8-5d6a0049a1ce,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,2,HP,Supply Fan,HP
+27ff3824-0ee5-4c3e-aa88-bf994a876622,54c812d2-28e8-4cdb-94c0-01a954f5cffd,137a3897-e753-49fa-93ec-c79a7797249b,Static Pressure,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.0,"WG,Supply Fan,E.S.P.
+b26572cc-4ee7-4ee5-8dbb-a764e77aac18,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,161,MBH,Heating,Input
+8079fcc6-bd3b-47b2-a8a7-910c4cfa8261,54c812d2-28e8-4cdb-94c0-01a954f5cffd,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,ebda520d-e31a-0838-4289-80ae9982b006,Thousand BTU per Hour,,148,MBH,Heating,Output
+e2e57739-251b-4030-9e62-f48051d7f5a2,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,22.0,°F DB,Heating,EAT
+c70ec34b-193b-4727-952e-090cceed4f9c,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,90.0,°F DB,Heating,LAT
+b3a55d92-29df-407e-8495-a92b3b1f9d21,54c812d2-28e8-4cdb-94c0-01a954f5cffd,4b097d14-31d4-45cb-b4df-2671909c6585,Fuel Type,b1339cf8-535a-4170-9bfa-36278d09254f,Propane,,,,LP,,Heating,Fuel Type
+2a03c7a6-647b-4d36-88fe-cfb651011721,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,94,MBH,Cooling,Total
+d1f39ffa-145b-42b6-ae41-fd031965df65,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,56,MBH,Cooling,Sensible
+38241c54-d380-4afb-bbf5-b90476848483,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,100.0,°F DB,Cooling,EAT
+1fdc4722-c13f-467b-8c16-5b5d5acd9b95,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,79.5,°F WB,Cooling,EAT
+78aac171-fd26-4f3c-8359-25ca86a19951,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,74.7,°F DB,Cooling,LAT
+a45aa1ef-dd3f-4db0-802b-89accbfd231d,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,68.2,°F WB,Cooling,LAT
+5f1c98a5-d408-4e69-bc2d-c901020435fa,54c812d2-28e8-4cdb-94c0-01a954f5cffd,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,460/3,,Unit Electrical,Volts
+087fe334-c64c-4469-9055-b1d14321c79a,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,21.2,AMPS,Unit Electrical,MCA
+6a36b437-0971-48ce-9272-9ff01bdcd6ec,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,30,AMPS,Unit Electrical,MOCP
+e762ee4b-cad2-4555-9290-b25c9a6dc21a,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,"1,676",LBS,,Weight
+2a9aa365-96d4-4965-bace-1632ee482f70,54c812d2-28e8-4cdb-94c0-01a954f5cffd,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,adcf9796-b4e4-4354-bac0-977aae9882fc,Greenheck,,,,GREENHECK,,,Manufacturer
+6775bea5-cd67-4591-a417-53291500badc,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,DGX-109-H12,,,Model
+049cf672-54fb-4cad-ac35-15125cbddf0f,54c812d2-28e8-4cdb-94c0-01a954f5cffd,,,,,,,,1,,,Notes

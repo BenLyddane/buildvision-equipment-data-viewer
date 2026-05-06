@@ -1,0 +1,16 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a8006c1b-543c-4fbd-b2f3-054e60894691,E2,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,1,876b0680-3359-4a6c-a692-4da8e5932d5c,530,530,Titus,Titus
+536219e4-5800-426c-bfce-3f5f2d9be80a,E1,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,876b0680-3359-4a6c-a692-4da8e5932d5c,530,530,Titus,Titus
+c5ee7300-1852-48af-ace2-9cc6997c3319,R1,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,876b0680-3359-4a6c-a692-4da8e5932d5c,530,530,Titus,Titus
+0d2ff51f-72cb-49fa-b107-1d0a79f352d4,R2,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,876b0680-3359-4a6c-a692-4da8e5932d5c,530,530,Titus,Titus
+03b9c7ea-cea7-4139-bd47-12865597c807,S2,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,9937cb60-e70e-40df-ba05-08f70af0f2a8,SPD,SPD,Square D,Square D
+5ad0b60d-8fda-4d7d-b3f0-5497c10e09f6,S3,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,9937cb60-e70e-40df-ba05-08f70af0f2a8,SPD,SPD,Square D,Square D
+6d36a36d-0d44-4e87-aaa1-0ed81ed10d9d,S4,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,9937cb60-e70e-40df-ba05-08f70af0f2a8,SPD,SPD,Square D,Square D
+10b90e91-111b-4cd2-9b6d-fd131ad752bb,S5,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,9937cb60-e70e-40df-ba05-08f70af0f2a8,SPD,SPD,Square D,Square D
+bcadafe4-6e6c-4544-977d-037979842d93,S6,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,086ffc40-6801-44a4-9d10-3fe51dd662c5,RPD,RPD,Price Industries,Price Industries
+452ddb63-63e3-4469-87dc-07213413ffd9,R3,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,1ed2f949-440b-4d19-bea4-e25cf7610833,60,60,Price Industries,Price Industries
+615b2427-48d0-4df2-9ae5-b3192f84f07f,R4,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,13387eee-8dbc-4c49-ab37-3e3c205a98be,SDS,SDS,Titus,Titus
+e0619612-5946-44f4-8338-23fd32f337d4,S1,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,9937cb60-e70e-40df-ba05-08f70af0f2a8,SPD,SPD,Square D,Square D
+4e9a07d5-927b-4713-aa03-3daf698cbfee,S8,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,13387eee-8dbc-4c49-ab37-3e3c205a98be,SDS,SDS,Titus,Titus
+f0609b29-7380-470e-9565-011f8a009470,S9,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,13387eee-8dbc-4c49-ab37-3e3c205a98be,SDS,SDS,Titus,Titus
+9cc80e1f-1eac-42c6-90e6-bacf4ff1879f,S7,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,01e5e9ee-39ab-432e-8782-5d0c77aa6d7d,ND,ND,Price Industries,Price Industries

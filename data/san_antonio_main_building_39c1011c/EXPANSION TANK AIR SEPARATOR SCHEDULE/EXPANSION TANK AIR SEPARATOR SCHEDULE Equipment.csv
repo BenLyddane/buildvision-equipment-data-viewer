@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+32bc7ff5-f235-47a7-822f-547465192312,AS-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,,,,,
+25c1325f-634b-47b1-a33a-75396fbbef2f,ET-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,,,,,

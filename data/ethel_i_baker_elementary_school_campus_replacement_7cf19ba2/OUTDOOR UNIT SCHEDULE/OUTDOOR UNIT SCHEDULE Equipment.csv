@@ -1,0 +1,16 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d906098b-4fdc-49ab-ba6e-0819a466802e,ODU-D-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,2,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+f9a27154-7857-48ee-b33d-6a6e953b51e1,ODU-D-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+9047bf64-f6f8-47a0-9f81-eb88d2c43ece,ODU-M-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+6f367eea-c786-475d-b5f6-7293351c75d7,ODU-M-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+b3e24f92-834c-4efc-bcbd-a65244550c18,ODU-A-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+fd7b3eea-e5c6-483b-85db-cd77d15cadd8,ODU-A-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+69560555-42ab-42ce-bb94-dff44535d819,ODU-A-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+c4d9919b-6539-44b5-aeff-8457164e9a06,ODU-K-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+dfa84cbf-683e-4391-8c7a-1740d2ccca71,ODU-K-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,1,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+af081c15-41d3-4d92-afee-fd6d4ac3b139,ODU-E-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+b1db42ef-d773-43fa-a6ad-7ed69fa347d8,ODU-E-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+cbda5154-92bc-4736-b834-8697b7beb744,ODU-C-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+2847db23-7535-4a29-973c-4dcbcda8403f,ODU-C-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+b9e2ced0-9fd4-45b2-804c-ecd37d3cc3f8,ODU-F-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier
+7be8d4ee-21ab-444e-8de0-4bc19a8e6b29,ODU-F-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,bb63cdaa-b7bb-4f25-a269-14e117a07561,37MARAQ24,37MARAQ24,Carrier,Carrier

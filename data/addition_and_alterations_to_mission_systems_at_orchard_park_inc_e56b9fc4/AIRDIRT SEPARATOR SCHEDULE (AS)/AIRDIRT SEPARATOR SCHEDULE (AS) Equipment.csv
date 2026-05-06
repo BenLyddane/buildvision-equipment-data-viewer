@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d51927c8-999e-4067-b5ee-8c50fd84fea2,ET-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,6b600cae-e152-4056-bb90-c1df923e56cd,JAER-23-603,JAER-23-603,The John Wood Company,The John Wood Company
+30d40890-79ce-47d2-a34e-b8a3b166255b,AS-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,b7285132-f335-4dbf-a8e7-2c120d3c8270,VDX200FAM,VDX200FAM,Spirotherm,Spirotherm
+c6ca47dc-0d2e-4f1e-a65d-f75c0991530f,GF-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,d78c4047-aa7c-4c7b-8047-d052d408ff42,GMP6,GMP6,Grundfos,Grundfos
+323af4a8-1100-4a86-a416-0ee733c4805d,GF-2,46d5f3ef-ad9d-4600-b6f2-3ce509a80f8e,Process Heating Units,0,d5e8a927-c5bf-4240-a812-234dc62a3cb9,GMP-18,GMP-18,Grundfos,Grundfos

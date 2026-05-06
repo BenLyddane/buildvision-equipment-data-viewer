@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+221b7765-21a4-4037-83a3-faa98e866f5a,RTU-1,8f0a3c4a-455a-4598-8294-0b49f76e5658,Air-Source Unitary Heat Pumps,2,c503428d-a445-42c0-bf18-a07e22049397,WHK300AS00,WHK300AS00,Trane,Trane
+8660546f-bcd3-4ad4-83c1-69580908f73a,RTU-2,8f0a3c4a-455a-4598-8294-0b49f76e5658,Air-Source Unitary Heat Pumps,2,c503428d-a445-42c0-bf18-a07e22049397,WHK300AS00,WHK300AS00,Trane,Trane
+a2631b2f-54f9-4ccf-85ae-2b68b353b609,RTU-3,8f0a3c4a-455a-4598-8294-0b49f76e5658,Air-Source Unitary Heat Pumps,2,c503428d-a445-42c0-bf18-a07e22049397,WHK300AS00,WHK300AS00,Trane,Trane

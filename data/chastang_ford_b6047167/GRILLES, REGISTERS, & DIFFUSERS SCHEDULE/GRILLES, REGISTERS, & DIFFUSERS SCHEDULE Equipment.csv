@@ -1,0 +1,11 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d106578e-15f0-4bf6-a921-09b70ea192cd,S5,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,d7a1a82c-3b9e-42f4-9610-61416833ea04,RCD,RCD,Price Industries,Price Industries
+a21a3ad5-2e78-41f2-929c-0c4d9658dfee,R4,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,ca880e06-b44d-4342-9439-41eb758b9493,SDR 75,SDR 75,Price Industries,Price Industries
+ccefbe42-1bfb-4f65-8d1d-8ddaeb28be2a,R2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,e6b4c914-8e7e-4b11-a0cc-6e86f7f96b18,PDDR,PDDR,Price Industries,Price Industries
+16d045fd-5e9c-49b8-a3cb-ff287fe18168,S4,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,e5eee331-f154-49b7-9a60-644d71b88a4d,520 SERIES,520 SERIES,Price Industries,Price Industries
+ae5554a2-2133-486a-9113-d2507cea11a1,R3,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,544191ae-616b-4f4f-91e1-5a4dd594e07d,535,535,Price Industries,Price Industries
+81bd8921-db19-4fb2-8417-7fcfd1f1d214,S1,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+8359172a-b5ec-48a8-b48b-79bf76718160,R1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,e6b4c914-8e7e-4b11-a0cc-6e86f7f96b18,PDDR,PDDR,Price Industries,Price Industries
+d5c91576-1659-4a47-9118-5712ab1dac25,E1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,544191ae-616b-4f4f-91e1-5a4dd594e07d,535,535,Price Industries,Price Industries
+5c2c2979-9a95-4f28-9c20-f3e3877febf9,S3,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,6d93fa56-8699-4482-b1af-02beb50379aa,'SDS75','SDS75',Price Industries,Price Industries
+70485cfd-b7ee-4425-ace6-8c4bcc29ca2a,S2,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries

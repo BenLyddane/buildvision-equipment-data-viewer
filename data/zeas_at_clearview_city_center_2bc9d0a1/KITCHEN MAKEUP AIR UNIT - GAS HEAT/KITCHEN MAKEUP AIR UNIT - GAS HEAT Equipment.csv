@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+6c118e1b-4dbf-4e7d-b0e4-98089f5b852e,KSF-4,05edafda-804f-4ad2-9e95-c541ad1bef26,"Packaged, Direct-Fired, Outdoor, Heating-Only Makeup-Air Units",0,4dd5e69a-ab6b-4d66-b798-a963a897c5bb,Direct Gas Heated Makeup Air XDGX,XDGX,Accurex,Accurex
+7f04fbdb-5f84-487f-aea7-b8bd05011d48,KSF-3,05edafda-804f-4ad2-9e95-c541ad1bef26,"Packaged, Direct-Fired, Outdoor, Heating-Only Makeup-Air Units",0,4dd5e69a-ab6b-4d66-b798-a963a897c5bb,Direct Gas Heated Makeup Air XDGX,XDGX,Accurex,Accurex
+a7c196b0-7ead-4890-adda-eccf9efd5d74,KSF-1,4bc17faf-7c15-41f7-86b0-76e2f7c5c64d,"Packaged, Outdoor, Heating-Only Makeup-Air Units",0,0f9f3d97-7127-4025-ae83-f1de765cbd70,XMSX Series,XMSX,Accurex,Accurex
+a44026e8-03dd-4f17-89a5-bd90ec64dde4,KSF-2,05edafda-804f-4ad2-9e95-c541ad1bef26,"Packaged, Direct-Fired, Outdoor, Heating-Only Makeup-Air Units",0,4dd5e69a-ab6b-4d66-b798-a963a897c5bb,Direct Gas Heated Makeup Air XDGX,XDGX,Accurex,Accurex

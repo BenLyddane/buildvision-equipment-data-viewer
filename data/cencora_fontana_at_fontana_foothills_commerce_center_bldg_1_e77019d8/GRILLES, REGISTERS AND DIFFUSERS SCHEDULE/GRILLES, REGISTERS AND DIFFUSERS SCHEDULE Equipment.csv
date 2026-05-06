@@ -1,0 +1,10 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+49179ce8-e73e-4f79-b4f8-586c1777537d,G,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,8db74e91-ed51-469a-9c81-3fb504c3a2b9,350RL,350RL,Titus,Titus
+caa2b995-bc97-4e8c-9e5b-b7a9a2d2d581,F,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,6c7a2f94-424e-4ff9-8090-a2607d0ae029,DL,DL,Titus,Titus
+a747f770-24c5-4514-a698-058ec334ec46,E,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+f9b421f9-96a8-4a16-a657-a6d810f4860a,A,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,4c5418f9-c25a-41d7-977f-022cb347fe07,TMS,TMS,Titus,Titus
+8022d97b-1dd9-4dcb-9953-8f26061098b3,C,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+7117c3c2-5274-4130-94b9-d72d6e953075,B,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,6578b009-088c-4141-b55d-4e875f69bf7b,TMS-AA,TMS-AA,Titus,Titus
+8ae20ddf-608f-4783-935c-246bb2a18cb7,D,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,15191566-6dcf-4a3c-bfca-b2fa5d44a1d2,50-F,50-F,Titus,Titus
+261c11a4-0e9e-489f-ad3a-cf307b7758e5,J,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,6cb48ba0-26f2-4ef0-adb3-ec7911d6d5d0,DPD,DPD,United Enertech,United Enertech
+f5fda12d-24f2-4f56-8762-784b2d1fb185,H,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,6cb48ba0-26f2-4ef0-adb3-ec7911d6d5d0,DPD,DPD,United Enertech,United Enertech

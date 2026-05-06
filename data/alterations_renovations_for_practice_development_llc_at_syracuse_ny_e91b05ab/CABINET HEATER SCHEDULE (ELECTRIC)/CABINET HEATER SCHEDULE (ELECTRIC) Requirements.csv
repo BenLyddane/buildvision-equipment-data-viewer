@@ -1,0 +1,29 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+eff41592-e813-4272-bea7-00d2a63011e8,19928288-1708-4ee0-a60b-6341dbc18dac,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,"{"kind":"flat","type":"MANUFACTURER","unit":null,"value":"MARLEY","category":null}",MARLEY,,,MANUFACTURER
+8acff869-3838-485e-b599-861748bb668d,19928288-1708-4ee0-a60b-6341dbc18dac,,,,,,,"{"kind":"flat","type":"MODEL","unit":null,"value":"FRA1512F","category":null}",FRA1512F,,,MODEL
+0c8ba282-c11c-4fe4-af16-41f2e7d4c818,19928288-1708-4ee0-a60b-6341dbc18dac,,,,,,,"{"kind":"flat","type":"ARRANG.","unit":null,"value":"RECESSED WALL HEATER","category":null}",RECESSED WALL HEATER,,,ARRANG.
+cacf7bd4-5721-4a99-b360-1d856865c06f,19928288-1708-4ee0-a60b-6341dbc18dac,,,,,,,"{"kind":"flat","type":"WATTS","unit":null,"value":"1.5","category":"Electrical"}",1.5,,Electrical,WATTS
+43bba8a0-c886-4da1-8ed9-675426df3d6b,19928288-1708-4ee0-a60b-6341dbc18dac,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,"{"kind":"flat","type":"Voltage","unit":null,"value":"120","category":"Electrical"}",120,,Electrical,Voltage
+8e64362e-1e62-42d5-99d7-9a7efddcc26d,19928288-1708-4ee0-a60b-6341dbc18dac,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,"{"kind":"flat","type":"Phase","unit":null,"value":"1","category":"Electrical"}",1,,Electrical,Phase
+9a2b44fc-ba4b-4557-8860-867bc548bbc6,19928288-1708-4ee0-a60b-6341dbc18dac,,,,,,,"{"kind":"flat","type":"AMPS","unit":null,"value":"12.50","category":"Electrical"}",12.50,,Electrical,AMPS
+ad4b463e-20f4-4f2b-8d1a-7ba7543302c1,a1d0d0e6-f238-4205-9d3b-b822ec4d3594,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,"{"kind":"flat","type":"MANUFACTURER","unit":null,"value":"MARLEY","category":null}",MARLEY,,,MANUFACTURER
+4dfb2767-2e96-4ffa-9313-35662acaf774,a1d0d0e6-f238-4205-9d3b-b822ec4d3594,,,,,,,"{"kind":"flat","type":"MODEL","unit":null,"value":"FRA1512F","category":null}",FRA1512F,,,MODEL
+8a277f77-766a-495b-959d-46a55802dc35,a1d0d0e6-f238-4205-9d3b-b822ec4d3594,,,,,,,"{"kind":"flat","type":"ARRANG.","unit":null,"value":"RECESSED WALL HEATER","category":null}",RECESSED WALL HEATER,,,ARRANG.
+073b9116-1084-4655-b730-3b74aaabd7ea,a1d0d0e6-f238-4205-9d3b-b822ec4d3594,,,,,,,"{"kind":"flat","type":"WATTS","unit":null,"value":"1.5","category":"Electrical"}",1.5,,Electrical,WATTS
+26aa1a3f-bc5f-4256-9df9-54cc4b03ae6e,a1d0d0e6-f238-4205-9d3b-b822ec4d3594,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,"{"kind":"flat","type":"Voltage","unit":null,"value":"120","category":"Electrical"}",120,,Electrical,Voltage
+146c4a6e-efee-4c67-86e3-0e3ba864106c,a1d0d0e6-f238-4205-9d3b-b822ec4d3594,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,"{"kind":"flat","type":"Phase","unit":null,"value":"1","category":"Electrical"}",1,,Electrical,Phase
+d76a983b-b860-40a1-91ee-99a9801324ae,a1d0d0e6-f238-4205-9d3b-b822ec4d3594,,,,,,,"{"kind":"flat","type":"AMPS","unit":null,"value":"12.50","category":"Electrical"}",12.50,,Electrical,AMPS
+48deedab-b6f4-4a57-b071-2b6580fb086b,51b19f6d-10b5-4865-b796-ccd2d84e9834,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,"{"kind":"flat","type":"MANUFACTURER","unit":null,"value":"MARLEY","category":null}",MARLEY,,,MANUFACTURER
+86c848d7-c1b6-45fc-9f25-6b00edb3a3fd,51b19f6d-10b5-4865-b796-ccd2d84e9834,,,,,,,"{"kind":"flat","type":"MODEL","unit":null,"value":"FRA1512F","category":null}",FRA1512F,,,MODEL
+dcf675d4-3e26-4820-a726-6be670fe008c,51b19f6d-10b5-4865-b796-ccd2d84e9834,,,,,,,"{"kind":"flat","type":"ARRANG.","unit":null,"value":"RECESSED WALL HEATER","category":null}",RECESSED WALL HEATER,,,ARRANG.
+c5a7ab5f-d303-47ab-8ebc-684bac1e07dc,51b19f6d-10b5-4865-b796-ccd2d84e9834,,,,,,,"{"kind":"flat","type":"WATTS","unit":null,"value":"1.5","category":"Electrical"}",1.5,,Electrical,WATTS
+3a754e0e-afbb-4236-b44d-a426ea046ff6,51b19f6d-10b5-4865-b796-ccd2d84e9834,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,"{"kind":"flat","type":"Voltage","unit":null,"value":"120","category":"Electrical"}",120,,Electrical,Voltage
+40f4b3f6-075a-471c-a371-cd0ac231ec05,51b19f6d-10b5-4865-b796-ccd2d84e9834,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,"{"kind":"flat","type":"Phase","unit":null,"value":"1","category":"Electrical"}",1,,Electrical,Phase
+3a99b698-fb72-4547-ab4c-2ff0979c557f,51b19f6d-10b5-4865-b796-ccd2d84e9834,,,,,,,"{"kind":"flat","type":"AMPS","unit":null,"value":"12.50","category":"Electrical"}",12.50,,Electrical,AMPS
+b8cc45bd-39aa-4915-bd9a-fd7b2120100f,81204d26-312f-4c50-81e7-f96b42a23c28,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,"{"kind":"flat","type":"MANUFACTURER","unit":null,"value":"MARLEY","category":null}",MARLEY,,,MANUFACTURER
+b2c8b0bb-d65c-40ff-96bf-204e64d19a00,81204d26-312f-4c50-81e7-f96b42a23c28,,,,,,,"{"kind":"flat","type":"MODEL","unit":null,"value":"FRA1512F","category":null}",FRA1512F,,,MODEL
+885100d1-a4a0-450c-b1a2-2f1482126f23,81204d26-312f-4c50-81e7-f96b42a23c28,,,,,,,"{"kind":"flat","type":"ARRANG.","unit":null,"value":"RECESSED WALL HEATER","category":null}",RECESSED WALL HEATER,,,ARRANG.
+e35ce723-ac39-49bb-8423-99c46aa3a112,81204d26-312f-4c50-81e7-f96b42a23c28,,,,,,,"{"kind":"flat","type":"WATTS","unit":null,"value":"1.5","category":"Electrical"}",1.5,,Electrical,WATTS
+98033e43-3427-448f-b5e4-dada22fa6e74,81204d26-312f-4c50-81e7-f96b42a23c28,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,"{"kind":"flat","type":"Voltage","unit":null,"value":"120","category":"Electrical"}",120,,Electrical,Voltage
+fce33714-ac5e-4b94-8fad-285bd0d64665,81204d26-312f-4c50-81e7-f96b42a23c28,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,"{"kind":"flat","type":"Phase","unit":null,"value":"1","category":"Electrical"}",1,,Electrical,Phase
+23b2bd71-9df5-4f4a-8f4b-d931b493f6a5,81204d26-312f-4c50-81e7-f96b42a23c28,,,,,,,"{"kind":"flat","type":"AMPS","unit":null,"value":"12.50","category":"Electrical"}",12.50,,Electrical,AMPS

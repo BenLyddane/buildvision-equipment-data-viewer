@@ -1,0 +1,811 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+693f64ab-f29e-49d2-8b0d-ca456aa44e1c,329a78f4-4913-4f8e-a4ad-225d5f64c721,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+cd2848dd-6ca6-461d-8f4f-1ee6dc3ba147,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,SDV,,,Model
+d588f4c0-5a9f-48ef-88ff-e9870574d878,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,10,,,Unit Size
+b8875263-959b-4dd0-a0ff-56cb77d9ae6f,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,830,CFM,Airflow,Cooling Max
+6dae1ea3-90f7-4aa3-bd22-4fcbc59bc290,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,426,CFM,Airflow,Cooling Min
+802bda61-5ec8-4d01-9e6d-a4b47fc79a0d,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,430,CFM,Airflow,Reheat
+50588967-c065-454f-ae8a-4c37e6d2d9d4,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,0.5,IN WG,Air Pressure,Inlet Static Pressure
+7f19729b-e06c-4426-b2b3-03931b02f00a,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+e19fe58e-6c9d-4571-b997-aa96b2bd2781,329a78f4-4913-4f8e-a4ad-225d5f64c721,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+46ca7abe-0807-4227-b708-6bc8577b5b38,329a78f4-4913-4f8e-a4ad-225d5f64c721,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3.4,KW,,Heating Capacity
+ba1eda0b-0126-49fe-8c0b-3ecc53d61277,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,80,°F,Electric Reheat,LAT
+88426ad2-28cb-4834-84eb-9e6ac98d3817,329a78f4-4913-4f8e-a4ad-225d5f64c721,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,277-1,,Electric Reheat,Voltage / Phase
+26ea19ef-a686-4894-ac87-d4aa80b253c5,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,SCR,,Electric Reheat,EC Type
+ddbc44d6-3082-449f-b02d-bbef223e9674,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,20,,Electric Reheat,MOP
+7f812724-ecfd-4b8d-b6ce-c25a6a6181e8,329a78f4-4913-4f8e-a4ad-225d5f64c721,,,,,,,,16.7,,Electric Reheat,MCA
+70bd614c-d81f-43fc-9dd0-724c836d39ac,cb583396-0f39-4600-8f13-c019028f0f4a,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+dc22e285-006a-4a80-950d-1c67bf5b64cc,cb583396-0f39-4600-8f13-c019028f0f4a,,,,,,,,SDV,,,Model
+170ef649-7aac-4bb8-bfc0-3a5b7c5eeb4f,cb583396-0f39-4600-8f13-c019028f0f4a,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,10,,,Unit Size
+a3712fa8-9488-4964-b782-61ee9ba83165,cb583396-0f39-4600-8f13-c019028f0f4a,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,740,CFM,Airflow,Cooling Max
+20381a00-fac6-4e51-a004-7107ddc25324,cb583396-0f39-4600-8f13-c019028f0f4a,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,370,CFM,Airflow,Cooling Min
+c48e6c38-d193-4eef-b399-dbbfe6ebadcd,cb583396-0f39-4600-8f13-c019028f0f4a,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,370,CFM,Airflow,Reheat
+7ded860e-4283-49df-b8f8-6848c41d8411,cb583396-0f39-4600-8f13-c019028f0f4a,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+83f03c99-8ba3-4c49-b26c-c3bd386ec40a,cb583396-0f39-4600-8f13-c019028f0f4a,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+ff2ac762-cff7-4961-997c-a6f1a0536a12,cb583396-0f39-4600-8f13-c019028f0f4a,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+4ba3bd20-4c00-4fd8-a2c0-42572dd5f154,cb583396-0f39-4600-8f13-c019028f0f4a,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,2.9,KW,,Heating Capacity
+dfada505-837e-48de-a62d-8aabbdb4742a,cb583396-0f39-4600-8f13-c019028f0f4a,,,,,,,,80,°F,Electric Reheat,LAT
+3131db50-f7eb-4d43-8762-a64d1866e8ef,cb583396-0f39-4600-8f13-c019028f0f4a,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277-1,,Electric Reheat,Voltage / Phase
+3c6ab76f-85b8-499e-829b-221520ab900c,cb583396-0f39-4600-8f13-c019028f0f4a,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+e4a57447-b302-48d5-9440-600175a7b5f6,cb583396-0f39-4600-8f13-c019028f0f4a,,,,,,,,15,,Electric Reheat,MOP
+24d9d99e-6d0d-49ab-b441-7ffe429e0648,cb583396-0f39-4600-8f13-c019028f0f4a,,,,,,,,14.3,,Electric Reheat,MCA
+ae66dadc-6d71-4392-88ef-853a7f809589,4b7cdd02-decf-4443-8262-d4582646bcc6,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+29282b14-6b04-430c-ac1c-0872cc1a1177,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,SDV,,,Model
+cb3a3620-7f1a-4979-93b6-505499016b10,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,10,,,Unit Size
+822937b6-dc1e-4336-961f-39908794e136,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,800,CFM,Airflow,Cooling Max
+b9e7dbc0-7d1e-4db1-a40c-8645372aa0c0,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,533,CFM,Airflow,Cooling Min
+c52500d5-48d9-4dae-9cbd-d8978ce08cb0,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,535,CFM,Airflow,Reheat
+c367ddf0-6c63-4d6b-a393-ee2553790d8c,4b7cdd02-decf-4443-8262-d4582646bcc6,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+377f48a9-106a-40fe-9c87-aad5acc81e5a,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+1b2cb144-1ac2-44ea-96a1-e4caff9ef792,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,0.01,IN WG,Air Pressure,OP PD
+3f7354d1-69a6-4bb2-90d5-bcdb194b2397,4b7cdd02-decf-4443-8262-d4582646bcc6,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,4.6,KW,,Heating Capacity
+2d90e892-d803-4d64-86c6-782290070d8b,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,82.1,°F,Electric Reheat,LAT
+dc2d78a2-04f0-46a5-a736-0ab967070236,4b7cdd02-decf-4443-8262-d4582646bcc6,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,480-3,,Electric Reheat,Voltage / Phase
+caede429-328f-4bfc-bcfd-1a788d2f097d,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,SCR,,Electric Reheat,EC Type
+08154c84-6056-4a7a-8683-b036b7f8a457,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,15,,Electric Reheat,MOP
+280b5152-d264-4ddf-a12d-67348c3d1610,4b7cdd02-decf-4443-8262-d4582646bcc6,,,,,,,,7.5,,Electric Reheat,MCA
+fd7752d4-51c1-485b-b113-e0dde5ac1046,a6e57231-55f5-4bf2-a145-dab0f2fbf140,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+1465e747-4062-47d9-9e40-f9b946cb393a,a6e57231-55f5-4bf2-a145-dab0f2fbf140,,,,,,,,SDV,,,Model
+3aa853f3-6296-486f-ac4a-964a1a6f09b5,a6e57231-55f5-4bf2-a145-dab0f2fbf140,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+30f76c2b-64d9-4cb0-9faf-684a864b27d0,a6e57231-55f5-4bf2-a145-dab0f2fbf140,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,340,CFM,Airflow,Cooling Max
+50f914e0-7d47-463a-96bf-08e29e34eee5,a6e57231-55f5-4bf2-a145-dab0f2fbf140,,,,,,,,170,CFM,Airflow,Cooling Min
+6bcede61-d133-4b68-8ef6-b59c85d86462,a6e57231-55f5-4bf2-a145-dab0f2fbf140,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,170,CFM,Airflow,Reheat
+60339c04-ea3e-45ed-b917-9fbdc578f36b,a6e57231-55f5-4bf2-a145-dab0f2fbf140,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+866c004c-fd3c-473e-afdb-3464ebcc2935,a6e57231-55f5-4bf2-a145-dab0f2fbf140,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+6b3dbbec-4416-4c62-a038-629eec2a923d,a6e57231-55f5-4bf2-a145-dab0f2fbf140,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.104,IN WG,Air Pressure,OP PD
+20b99917-7ef0-4fb4-9797-6689a77bebc3,a6e57231-55f5-4bf2-a145-dab0f2fbf140,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,2.9,KW,,Heating Capacity
+9d3a5659-ed6c-41fd-8fde-ddc7b996ec89,a6e57231-55f5-4bf2-a145-dab0f2fbf140,,,,,,,,#N/A,°F,Electric Reheat,LAT
+594252d6-7555-4174-9bc6-a03896c58ab8,a6e57231-55f5-4bf2-a145-dab0f2fbf140,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277-1,,Electric Reheat,Voltage / Phase
+6c322c61-54e8-430f-8168-4e5dac43e0f5,a6e57231-55f5-4bf2-a145-dab0f2fbf140,,,,,,,,SCR,,Electric Reheat,EC Type
+6fc82d5a-f094-4246-ab26-74d44953b3e7,a6e57231-55f5-4bf2-a145-dab0f2fbf140,,,,,,,,15,,Electric Reheat,MOP
+3b1cc7a9-08d3-415c-9ab8-5d07dc89561a,a6e57231-55f5-4bf2-a145-dab0f2fbf140,,,,,,,,14.3,,Electric Reheat,MCA
+064841f9-de15-4f8f-96c1-8aea5e1fe938,13a1f08a-5621-43db-8bb3-4fb9b19baced,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+2ed04aa6-53c4-4c2f-ab8f-5e8b2ed392bd,13a1f08a-5621-43db-8bb3-4fb9b19baced,,,,,,,,SDV,,,Model
+968925bd-80f8-4d3a-aca3-debc796ee756,13a1f08a-5621-43db-8bb3-4fb9b19baced,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+142213fb-2d29-45a9-b667-4171f003464b,13a1f08a-5621-43db-8bb3-4fb9b19baced,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,280,CFM,Airflow,Cooling Max
+7d2270c1-4427-4d82-9b8f-51dbbbe9cfa0,13a1f08a-5621-43db-8bb3-4fb9b19baced,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,149,CFM,Airflow,Cooling Min
+31d822a7-5b93-49dc-bc41-631e12f4d160,13a1f08a-5621-43db-8bb3-4fb9b19baced,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,150,CFM,Airflow,Reheat
+34d9284e-af6b-4114-a84b-018ce3c6ebc3,13a1f08a-5621-43db-8bb3-4fb9b19baced,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+0f305b76-0735-45cd-8610-c660e3aedc14,13a1f08a-5621-43db-8bb3-4fb9b19baced,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+425eec07-170e-45ef-be02-bf82cbb820c9,13a1f08a-5621-43db-8bb3-4fb9b19baced,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.07,IN WG,Air Pressure,OP PD
+ddb18376-3ef3-48b4-a831-6e3507df695e,13a1f08a-5621-43db-8bb3-4fb9b19baced,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.3,KW,,Heating Capacity
+352a575a-fac9-4548-94fc-d6d159eb5f61,13a1f08a-5621-43db-8bb3-4fb9b19baced,,,,,,,,83,°F,Electric Reheat,LAT
+1547f10f-6d71-478b-9634-cf63ffebb8d4,13a1f08a-5621-43db-8bb3-4fb9b19baced,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,de72b72e-4c75-438b-ad2d-059e4a275ded,277,,,,277-1,,Electric Reheat,Voltage / Phase
+b246feed-a3ae-4d3a-87d2-27beef2957e2,13a1f08a-5621-43db-8bb3-4fb9b19baced,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+193f2e25-d4b3-47f5-979e-8cd1e3401783,13a1f08a-5621-43db-8bb3-4fb9b19baced,,,,,,,,15,,Electric Reheat,MOP
+dc0efd18-aafe-4c44-a75c-78f003fc0e95,13a1f08a-5621-43db-8bb3-4fb9b19baced,,,,,,,,6.4,,Electric Reheat,MCA
+66eebb7d-7bc5-41eb-a6f8-c5fe41f3c0fb,0b0ae26f-c451-4ef4-af48-7169bb205667,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+70bf1973-676b-4c1f-aaa8-9aa2550993e1,0b0ae26f-c451-4ef4-af48-7169bb205667,,,,,,,,SDV,,,Model
+42697076-d0ae-47b8-81b2-4abe68551e83,0b0ae26f-c451-4ef4-af48-7169bb205667,,,,,,,,15,,Electric Reheat,MOP
+0a37e6ae-5c65-44b0-8b75-10160e41f8a3,0b0ae26f-c451-4ef4-af48-7169bb205667,,,,,,,,3.4,,Electric Reheat,MCA
+9f4b1754-0a11-4ec5-8f5e-d9d7af6d9814,0b0ae26f-c451-4ef4-af48-7169bb205667,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+3d7a25f9-379e-4a1c-a6b5-016284394961,0b0ae26f-c451-4ef4-af48-7169bb205667,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,140,CFM,Airflow,Cooling Max
+66261028-0946-4d58-a8c3-9da771aa62f2,0b0ae26f-c451-4ef4-af48-7169bb205667,,,,,,,,85,CFM,Airflow,Cooling Min
+8b42a9f7-0182-4300-93be-26b280205bbe,0b0ae26f-c451-4ef4-af48-7169bb205667,,,,,,,,85,CFM,Airflow,Reheat
+db254583-4c2c-4a5c-8108-fb72cbd07c11,0b0ae26f-c451-4ef4-af48-7169bb205667,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+ef9e6c2c-d2c4-4220-90a7-f2cbfc23c957,0b0ae26f-c451-4ef4-af48-7169bb205667,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+b2e47a64-f3c6-4b69-b16f-edb4ba18e46a,0b0ae26f-c451-4ef4-af48-7169bb205667,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.018,IN WG,Air Pressure,OP PD
+429fcf5a-a327-4385-824f-c82b518d193d,0b0ae26f-c451-4ef4-af48-7169bb205667,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+b6170ddf-16c1-4413-ad1f-910bbe371be1,0b0ae26f-c451-4ef4-af48-7169bb205667,,,,,,,,80,°F,Electric Reheat,LAT
+67b22533-d3f5-4b81-9c43-65e20693fa6a,0b0ae26f-c451-4ef4-af48-7169bb205667,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,277-1,,Electric Reheat,Voltage / Phase
+183a3131-e578-46f9-956a-347a53e6d6d0,0b0ae26f-c451-4ef4-af48-7169bb205667,,,,,,,,SCR,,Electric Reheat,EC Type
+0112763b-1896-4428-957e-72c176f35f06,66f56ae9-9398-4380-91bb-e408c7ce6693,,,,,,,,SDV,,,Model
+ebcd4e89-3c62-4a48-b033-184c0f54d1b9,66f56ae9-9398-4380-91bb-e408c7ce6693,,,,,,,,164,CFM,Airflow,Cooling Min
+390246ba-8e5d-444c-86d5-e0fd03c82c6f,66f56ae9-9398-4380-91bb-e408c7ce6693,,,,,,,,165,CFM,Airflow,Reheat
+36dfb900-c901-47a3-afdd-1804d58e109d,66f56ae9-9398-4380-91bb-e408c7ce6693,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+d95ba9d5-6bb4-4614-97ef-1bcc6cb4fb6a,66f56ae9-9398-4380-91bb-e408c7ce6693,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+ced7ce53-7543-4d79-b982-70931252be40,66f56ae9-9398-4380-91bb-e408c7ce6693,,,,,,,,80,°F,Electric Reheat,LAT
+1b89e3ee-40f2-4f2a-b5fb-d29a1fce7ab5,66f56ae9-9398-4380-91bb-e408c7ce6693,,,,,,,,SCR,,Electric Reheat,EC Type
+7aa9b2d6-d77f-4d30-9ccb-50a03639b9be,66f56ae9-9398-4380-91bb-e408c7ce6693,,,,,,,,15,,Electric Reheat,MOP
+01c7b497-7425-436b-896a-ee256e14806d,66f56ae9-9398-4380-91bb-e408c7ce6693,,,,,,,,6.4,,Electric Reheat,MCA
+7aba9d93-e9b0-4f9b-9a89-89e07735e94f,66f56ae9-9398-4380-91bb-e408c7ce6693,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+ad6d4809-745a-4c6d-93af-a3d6a3bed4ee,66f56ae9-9398-4380-91bb-e408c7ce6693,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+dd4e3c08-1d0b-48f6-9b0d-82ad359886dd,66f56ae9-9398-4380-91bb-e408c7ce6693,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,310,CFM,Airflow,Cooling Max
+c5af1248-cdd3-458c-8970-72af2ce5777b,66f56ae9-9398-4380-91bb-e408c7ce6693,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.086,IN WG,Air Pressure,OP PD
+0c083823-35bb-4725-ada5-8fc40133195f,66f56ae9-9398-4380-91bb-e408c7ce6693,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.3,KW,,Heating Capacity
+69a945a4-6aa4-4df6-af53-d11f6592b1e6,66f56ae9-9398-4380-91bb-e408c7ce6693,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,277-1,,Electric Reheat,Voltage / Phase
+4aa3466a-17cb-43c0-ae82-9441e95fd13f,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+14a9e995-cc17-4b9b-9a76-d8804722458f,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,,,,,,,,SDV,,,Model
+23dbe27a-50c5-48fa-ad60-a48c71a27f84,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,,,,,,,,10,,,Unit Size
+b11dc554-4350-4a65-a4db-41eee4b05632,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,1040,CFM,Airflow,Cooling Max
+61e313bb-d2ee-43f8-85d1-2d9bc9f51369,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,545,CFM,Airflow,Cooling Min
+48cbca5c-0d58-4d08-85b2-bfad1c99736d,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,545,CFM,Airflow,Reheat
+0a431f3e-2154-4d0b-aeaa-20b7b6dba97d,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+1f50ceb3-bcc5-4285-840d-d01d206f95c9,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+a2a45408-cd12-412c-8b88-b9974eb8273d,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+2bec6022-e3cc-4c24-9344-480cf3561184,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,6.8,KW,,Heating Capacity
+b82393ea-c5eb-451a-9421-02c74d93c521,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,,,,,,,,94.5,°F,Electric Reheat,LAT
+a957afb6-b728-4d10-af69-51bea0af8a02,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,,,,,,,,480-3,,Electric Reheat,Voltage / Phase
+d1798e77-4386-4549-9989-8c3b7b1474c8,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,,,,,,,,SCR,,Electric Reheat,EC Type
+3afd2cb2-d1bb-4155-927f-ddcca2ef2975,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,,,,,,,,15,,Electric Reheat,MOP
+ae7523e9-cafe-491f-be70-121e1de558d1,1351c7c2-0ee2-4ba6-9206-def20db6e6a3,,,,,,,,11.1,,Electric Reheat,MCA
+6742169b-e293-490e-a724-da949a568212,b6d111b9-f87f-418d-87af-5f889d8dc765,,,,,,,,SDV,,,Model
+560b529e-cd42-41c9-a280-5db5d8931779,b6d111b9-f87f-418d-87af-5f889d8dc765,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+5de776ff-b082-4134-9ff5-c22959aef11d,b6d111b9-f87f-418d-87af-5f889d8dc765,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+0746b6bd-2c8b-4969-865f-48b9b090e717,b6d111b9-f87f-418d-87af-5f889d8dc765,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,120,CFM,Airflow,Cooling Max
+9d115e02-1ae5-4a01-9638-35188b5ee0ae,b6d111b9-f87f-418d-87af-5f889d8dc765,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Cooling Min
+c169b344-44ae-462d-884d-b6240e8312a6,b6d111b9-f87f-418d-87af-5f889d8dc765,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Reheat
+2f0967a9-d801-4c03-8b08-17584503861c,b6d111b9-f87f-418d-87af-5f889d8dc765,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+29eac38b-7be2-4c30-b542-5710f2bf933f,b6d111b9-f87f-418d-87af-5f889d8dc765,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+fa7ac93c-9b55-40c3-9c2e-728047518691,b6d111b9-f87f-418d-87af-5f889d8dc765,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.013,IN WG,Air Pressure,OP PD
+1a486fd5-3b03-41e0-b9b6-05747d86caad,b6d111b9-f87f-418d-87af-5f889d8dc765,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+29969f20-7b1b-421e-8eb7-070cf36a2b8a,b6d111b9-f87f-418d-87af-5f889d8dc765,,,,,,,,81.5,°F,Electric Reheat,LAT
+264c0d6f-9fa5-4867-9305-40beacd6e94b,b6d111b9-f87f-418d-87af-5f889d8dc765,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277-1,,Electric Reheat,Voltage / Phase
+57a0c0c0-448b-43f1-9cab-130c819e830b,b6d111b9-f87f-418d-87af-5f889d8dc765,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+1ada4603-e43c-4124-a0de-54d561b8b17f,b6d111b9-f87f-418d-87af-5f889d8dc765,,,,,,,,15,,Electric Reheat,MOP
+10bd135f-2f6b-4850-a6be-edb4ebf9cf6d,b6d111b9-f87f-418d-87af-5f889d8dc765,,,,,,,,3.4,,Electric Reheat,MCA
+d95f91a3-e276-45cc-8c62-25e1630078e6,42c1c233-f173-408e-926c-97ca9f1f2bf0,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+7d4583ba-4d93-45fc-94e5-56e5a2767254,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,SDV,,,Model
+69d144ec-c008-4e93-9ce5-89e19c291cdc,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,10,,,Unit Size
+b54c2b63-1e05-4cfe-9d3e-f30f9ab21667,42c1c233-f173-408e-926c-97ca9f1f2bf0,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,1075,CFM,Airflow,Cooling Max
+d39c2f68-2b4c-4c6b-b007-f3abc0f2ef28,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,540,CFM,Airflow,Cooling Min
+7c6703ff-0b24-4d2e-8ff6-0eb5d0ba6445,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,540,CFM,Airflow,Reheat
+2c3ec07a-d737-46e5-89c9-1863dcad2a18,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+1c1502ae-1f7d-4fc6-ad83-c62e8bd79ded,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+2a7e7d33-a0bc-491d-8f21-b693866b898a,42c1c233-f173-408e-926c-97ca9f1f2bf0,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+b4f994dd-a071-4c19-9c09-dc8025d75614,42c1c233-f173-408e-926c-97ca9f1f2bf0,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,8.6,KW,,Heating Capacity
+e7f2c0ed-c359-438a-abc8-63e571d09af1,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,#N/A,°F,Electric Reheat,LAT
+bd37266b-e7ef-4cc4-9a25-f773b8efa333,42c1c233-f173-408e-926c-97ca9f1f2bf0,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,480-3,,Electric Reheat,Voltage / Phase
+57ad1254-05c9-4dcb-bd3a-b99625a4087a,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,SCR,,Electric Reheat,EC Type
+d25a81dc-f120-4c33-885b-59761182351f,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,15,,Electric Reheat,MOP
+a4fd0c80-9ab4-45f9-a257-d1c14cc403ab,42c1c233-f173-408e-926c-97ca9f1f2bf0,,,,,,,,14.1,,Electric Reheat,MCA
+71c4a505-5614-40ea-a510-5ff981f0b97b,e8e24309-7aa0-4282-9774-25fa85260765,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+0e1e3a84-c6bb-498f-b66b-028b23e678be,e8e24309-7aa0-4282-9774-25fa85260765,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,16,,,Unit Size
+07345e1a-c93c-497e-875d-450c693ee08b,e8e24309-7aa0-4282-9774-25fa85260765,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,1770,CFM,Airflow,Cooling Max
+d3df81f0-c698-4b1d-8b77-90027e965ad8,e8e24309-7aa0-4282-9774-25fa85260765,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,944,CFM,Airflow,Cooling Min
+bdc605bc-8ac2-4f91-80ad-c394595d28c2,e8e24309-7aa0-4282-9774-25fa85260765,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,945,CFM,Airflow,Reheat
+e6a58271-4196-46f9-8f76-0631c21086ef,e8e24309-7aa0-4282-9774-25fa85260765,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+a253200d-a99f-4cfb-9c68-1886d6851ba2,e8e24309-7aa0-4282-9774-25fa85260765,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+cca286bd-5e33-4528-96f8-0a7549bcf011,e8e24309-7aa0-4282-9774-25fa85260765,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+ac5dad9b-1281-403a-b0d4-a19878245f02,e8e24309-7aa0-4282-9774-25fa85260765,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,13.4,KW,,Heating Capacity
+b67ae233-f09f-47ac-9317-ab94749f2617,e8e24309-7aa0-4282-9774-25fa85260765,,,,,,,,SDV,,,Model
+a96ff474-6988-46b4-9d66-289c4a5242b1,e8e24309-7aa0-4282-9774-25fa85260765,,,,,,,,99.9,°F,Electric Reheat,LAT
+6e98f34e-5f1f-4977-9eea-3aa0bab4a875,e8e24309-7aa0-4282-9774-25fa85260765,,,,,,,,480-3,,Electric Reheat,Voltage / Phase
+24fafd89-d696-45c5-a9a8-2c710ced286c,e8e24309-7aa0-4282-9774-25fa85260765,,,,,,,,SCR,,Electric Reheat,EC Type
+4c06d972-8e91-496f-8520-817e02403390,e8e24309-7aa0-4282-9774-25fa85260765,,,,,,,,25,,Electric Reheat,MOP
+62188082-795a-4788-a4ad-e76b344d7bbc,e8e24309-7aa0-4282-9774-25fa85260765,,,,,,,,22,,Electric Reheat,MCA
+bc34b16d-d335-4c82-b3bd-27d40eec1832,eea35eac-1513-423c-b7dc-ad96cd967fed,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+4c65478d-4d34-455b-b964-95ab1c5fb5d6,eea35eac-1513-423c-b7dc-ad96cd967fed,,,,,,,,SDV,,,Model
+0d5d802f-e898-479f-b0a2-37ec2e12dadf,eea35eac-1513-423c-b7dc-ad96cd967fed,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+c6710c65-2fb2-4681-8ee5-6a5b59b0ecef,eea35eac-1513-423c-b7dc-ad96cd967fed,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,140,CFM,Airflow,Cooling Max
+f90ca239-3021-4a71-912c-2a3be882f811,eea35eac-1513-423c-b7dc-ad96cd967fed,,,,,,,,85,CFM,Airflow,Cooling Min
+daec4820-8e9e-49b9-b9d1-c9012b02fb62,eea35eac-1513-423c-b7dc-ad96cd967fed,,,,,,,,85,CFM,Airflow,Reheat
+d468235b-0cb4-4bf0-8f27-bb0fb7212385,eea35eac-1513-423c-b7dc-ad96cd967fed,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+79affb8b-f205-436c-b5ea-ec2a9d54b359,eea35eac-1513-423c-b7dc-ad96cd967fed,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+3caf1021-a3da-4a05-86d0-d2d7fde2f1c5,eea35eac-1513-423c-b7dc-ad96cd967fed,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.018,IN WG,Air Pressure,OP PD
+84083d43-7930-427b-a58e-e197461e1ae4,eea35eac-1513-423c-b7dc-ad96cd967fed,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+661fdc6b-bcdb-4840-a6c2-f0978ac88df6,eea35eac-1513-423c-b7dc-ad96cd967fed,,,,,,,,81.5,°F,Electric Reheat,LAT
+55759532-6772-46a1-81d9-1ceab5e5dd6e,eea35eac-1513-423c-b7dc-ad96cd967fed,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,277-1,,Electric Reheat,Voltage / Phase
+8dc66f4f-1122-45a5-bc13-06c8d2dcf7c9,eea35eac-1513-423c-b7dc-ad96cd967fed,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+683e805e-7274-47dd-a057-debe5eaf7949,eea35eac-1513-423c-b7dc-ad96cd967fed,,,,,,,,15,,Electric Reheat,MOP
+9ae23e0f-0347-4b6c-a709-f2c89f81c22f,eea35eac-1513-423c-b7dc-ad96cd967fed,,,,,,,,3.4,,Electric Reheat,MCA
+947b2ff5-a6b2-45de-85f5-ef001d98312b,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+d324e117-f1d3-4b3e-9b2d-20ebf08274e9,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,SDV,,,Model
+cd2496cf-b290-4b6a-9f6a-41381938b3ab,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,12,,,Unit Size
+20ef7ed9-20cd-42f1-8641-08a50d2e7ebc,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,1170,CFM,Airflow,Cooling Max
+c33049a6-262b-4f32-b4c9-76a9fc6448c9,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,585,CFM,Airflow,Cooling Min
+29df7037-d5f9-44b7-b424-302812a09a46,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,585,CFM,Airflow,Reheat
+bb0efa4b-73de-40ab-b1b7-42552bf69892,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+cc1b29b2-c9fd-4cbc-a884-2c24ae60bf2f,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+37031a40-95eb-49b5-993a-e0f84d435168,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+4c6101aa-83b1-4875-9576-bf0a205f3b0d,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,7.2,KW,,Heating Capacity
+3f1df3c5-722e-4851-99fa-f34719f2f07f,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,93.8,°F,Electric Reheat,LAT
+0a566882-68a9-448a-8042-3126d5f238d9,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,dda99289-4130-4af0-b6c3-1e1b68254bc8,3Ø,,,,480-3,,Electric Reheat,Voltage / Phase
+42f49e4c-957c-49fc-8e86-5c64964760d7,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,SCR,,Electric Reheat,EC Type
+4b8ce6ef-8f3a-46e7-ab88-a37e9756cf9c,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,15,,Electric Reheat,MOP
+b49c2b1c-1fab-4469-a28c-a04883385848,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,11.8,,Electric Reheat,MCA
+558b24f6-afa7-4e4e-b57f-8f44874257a8,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,SCR,,Electric Reheat,EC Type
+c1d177a4-97c6-4e28-998e-9224fb0417d3,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,15,,Electric Reheat,MOP
+2b72442b-7e8f-4b16-a58a-63fcf371c6e0,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,11.8,,Electric Reheat,MCA
+83aed1b6-a61c-471a-bded-6cda664ed4e6,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+45473b44-f6b5-419a-80b6-d43aad6290d8,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,SDV,,,Model
+e959df34-4be2-45ac-84e2-ef7782ac59b1,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,12,,,Unit Size
+109adf37-c4fd-4197-9fee-ad067514888d,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,1170,CFM,Airflow,Cooling Max
+adf9cda9-6d27-43a6-b212-2eb98016ab50,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,585,CFM,Airflow,Cooling Min
+1dbb378a-8f41-431c-905b-88db4cd4ba20,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+a0501598-023f-4102-b278-a238f3a875f1,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,SDV,,,Model
+6538d948-1799-43c3-be1e-0b5b606f956f,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,12,,,Unit Size
+07e0464a-d434-4271-8ab5-1319ea0566d2,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,1170,CFM,Airflow,Cooling Max
+ed255816-7752-45d9-a213-67a0d9c74ed6,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,585,CFM,Airflow,Cooling Min
+70ead804-c388-4169-bc1a-0e69de450b09,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,585,CFM,Airflow,Reheat
+3354a279-43f9-428c-a976-f3c0653907cd,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+5758e9f8-801b-4f1a-a410-928763ab53fc,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+ae5dece8-a50d-4aa1-97e2-c40e5f869da3,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+94f32874-2951-4426-8565-07a5277a3f57,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,7.2,KW,,Heating Capacity
+88507aa6-4366-4987-90eb-dfa6f72fa571,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,93.8,°F,Electric Reheat,LAT
+bd5ec072-50b3-4926-9de5-045175675b86,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,480-3,,Electric Reheat,Voltage / Phase
+64f49f13-2ffe-4b31-b0d5-e57bc3db8e15,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+dd15c931-02d8-459d-a3a1-60e8a1f33769,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,15,,Electric Reheat,MOP
+86d11a3f-ce7e-4915-812d-5216bba17e02,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,11.8,,Electric Reheat,MCA
+255ec60a-8b0d-4726-8ee5-9db83f7515fe,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,585,CFM,Airflow,Reheat
+4ba2efd3-180e-4317-b073-7c65b7a676d9,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+b747d424-f436-4724-b7ac-54cce0f31a37,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+d1327e1e-21a1-4229-bdf4-770339440c43,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+09bf5b48-cb29-405d-9100-6b526d5947f0,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,7.2,KW,,Heating Capacity
+f5dc4e01-27c8-42f4-ad83-9e6c3b528d4a,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,93.8,°F,Electric Reheat,LAT
+d0079bac-e736-4b31-a8a8-a9db75eed267,ab7dfdef-09fd-4f98-8cb4-92ff6c8657fa,,,,,,,,480-3,,Electric Reheat,Voltage / Phase
+f211d5f1-63f7-4809-8942-6f3cbdaddf2c,28f33dde-06e1-422a-9492-c19244a46071,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+45921697-8ff6-42af-a144-73c4932ac0c6,28f33dde-06e1-422a-9492-c19244a46071,,,,,,,,SDV,,,Model
+b1a4c4c2-45aa-4a95-b320-0d578fd142f8,28f33dde-06e1-422a-9492-c19244a46071,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+51a657ab-ffc5-4603-aedd-55585fdbabbe,28f33dde-06e1-422a-9492-c19244a46071,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,110,CFM,Airflow,Cooling Max
+79842e92-13e7-4ec4-90e7-af2c36468afd,28f33dde-06e1-422a-9492-c19244a46071,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Cooling Min
+802c4826-1068-402a-a066-8f9f7e4a5cfb,28f33dde-06e1-422a-9492-c19244a46071,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Reheat
+97cb7aae-0a36-418b-b5ec-7099c8ede9c5,28f33dde-06e1-422a-9492-c19244a46071,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+022b9fb5-587c-4471-a25c-88e430ec7f2d,28f33dde-06e1-422a-9492-c19244a46071,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+9758cf7b-2149-469b-affa-b8f7d90ef28f,28f33dde-06e1-422a-9492-c19244a46071,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.011,IN WG,Air Pressure,OP PD
+6b8ad6e8-d5df-4bc4-bd18-99601c6b2d11,28f33dde-06e1-422a-9492-c19244a46071,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+eaded03b-328c-4b55-9574-85d6c2b0b53d,28f33dde-06e1-422a-9492-c19244a46071,,,,,,,,80,°F,Electric Reheat,LAT
+0495b11d-e710-4ad3-9891-b667c63f6006,28f33dde-06e1-422a-9492-c19244a46071,,,,,,,,208-1,,Electric Reheat,Voltage / Phase
+e1513040-c5ad-4e37-8f23-433089d0db57,28f33dde-06e1-422a-9492-c19244a46071,,,,,,,,SCR,,Electric Reheat,EC Type
+7c6209d0-80f6-4901-8c4b-e87702981f91,28f33dde-06e1-422a-9492-c19244a46071,,,,,,,,15,,Electric Reheat,MOP
+9115204c-deaf-426a-8798-0b5ec220be2d,28f33dde-06e1-422a-9492-c19244a46071,,,,,,,,3.4,,Electric Reheat,MCA
+a147189d-7e4b-42e2-9292-6bf9b24941ba,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,PRICE,,,Manufacturer
+1071a57d-a82d-496a-a7e3-6997c2139ded,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,SDV,,,Model
+e9b38457-1ac8-403c-8f4f-f8c672c5e242,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,16,,,Unit Size
+3a9d7c91-d8b4-46fc-95cb-160d4e737ea8,16333aea-af66-4e3b-b7db-afbb9ca13871,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,1955,CFM,Airflow,Cooling Max
+e8422cf4-b3ae-43b0-aa7e-00e7a6105a40,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,978,CFM,Airflow,Cooling Min
+0d15b9aa-967a-45fd-adce-b7012d9fee80,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,980,CFM,Airflow,Reheat
+a1cb0ae8-9c07-4f1f-a0ad-8989b0a66668,16333aea-af66-4e3b-b7db-afbb9ca13871,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+e1d42307-9e11-44b7-ad23-a8a3ecf70f40,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+b8bcac32-e488-43b3-b177-744ffb4e9d17,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,0.01,IN WG,Air Pressure,OP PD
+f1093ccc-59c5-43a3-a28b-d7180df3f58b,16333aea-af66-4e3b-b7db-afbb9ca13871,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,12.2,KW,,Heating Capacity
+a6355b00-eb3f-4be0-b5a7-a2affa32c154,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,94.3,°F,Electric Reheat,LAT
+6eae5ffc-c8d5-409f-afa2-cb006aa19bbe,16333aea-af66-4e3b-b7db-afbb9ca13871,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,480-3,,Electric Reheat,Voltage / Phase
+b097a8c4-1465-42aa-970a-c35297bcd7ae,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,SCR,,Electric Reheat,EC Type
+bb6f7588-3567-4bc0-ac2a-1f72ab431518,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,20,,Electric Reheat,MOP
+db4d61e6-8efe-4e05-b4fd-3bda903b71cc,16333aea-af66-4e3b-b7db-afbb9ca13871,,,,,,,,20,,Electric Reheat,MCA
+9c904a2c-8f20-48e2-8b36-aa13187ca869,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+f29b15bd-568d-4a12-a451-bd78268b09d6,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,,,,,,,,SDV,,,Model
+8cdc7e76-c90f-49e7-a675-e8caad0e508f,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+90d8f878-ee12-4229-99e0-3a502b94a256,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,210,CFM,Airflow,Cooling Max
+f5e3e3c6-6648-48da-94c1-9b0e3b2af1c9,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,,,,,,,,105,CFM,Airflow,Cooling Min
+56b01d0e-3683-4829-b4ab-e921ef9904ff,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,,,,,,,,105,CFM,Airflow,Reheat
+7402a4ea-7221-4610-baad-cc23ad1876bb,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+921a804c-b36b-4c30-8bf4-9756d79b78f9,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+7b1bcd5b-d10a-44a2-865f-3e644a02c06d,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.04,IN WG,Air Pressure,OP PD
+b31f247e-a8d9-4fa5-a9b6-cd3a572ce497,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.8,KW,,Heating Capacity
+bc9af8b0-5033-440a-9891-d009258f3c12,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,,,,,,,,80,°F,Electric Reheat,LAT
+b0e91b48-0e10-4e97-83ee-34bd012d75e8,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,277-1,,Electric Reheat,Voltage / Phase
+e868e5b4-8778-45cc-a599-54988b3f589b,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+5c7d57db-8ad2-465d-a8f8-d3c481315da1,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,,,,,,,,15,,Electric Reheat,MOP
+e66a9764-f1a7-4218-aab8-5799563fc23f,e7a647f4-89f7-419e-9a3a-7dc102a3cfdb,,,,,,,,3.9,,Electric Reheat,MCA
+fc926790-18d6-4d24-b65f-8d547064020e,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+b9fda107-0376-4f99-8778-67991b92c5c1,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,SDV,,,Model
+cdea9072-a60e-45a0-8cbf-74c11a50247f,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,8,,,Unit Size
+2fb05cf3-bd04-466d-9585-e8e8fab3d7e4,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,405,CFM,Airflow,Cooling Max
+30681f92-2df3-4db2-bb02-caff1a90cf02,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,207,CFM,Airflow,Cooling Min
+827fa804-8f84-48cb-b363-ccb6d9d8496c,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,210,CFM,Airflow,Reheat
+7505fa7b-e12a-426e-8e42-99a8b0f9cc44,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+5a65a530-fc6c-4a6f-b0a3-432dcf172831,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+3d2b06f0-c2d6-4121-a81a-168be627bbd0,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+d120927f-6181-45a2-a4f7-4f30d2cb27d9,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3.2,KW,,Heating Capacity
+f1a80ba8-d421-4d2a-ab8e-52828ff6f94e,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,#N/A,°F,Electric Reheat,LAT
+18aed732-603e-44df-a36d-11e327e10b34,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+d4f319d5-38d9-46e5-8851-a2bea1318425,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,SCR,,Electric Reheat,EC Type
+cf6a924f-7a5d-4a81-bf5a-8522473fbe0d,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,20,,Electric Reheat,MOP
+671d4670-e3b8-4a0a-b891-30fc2caa221f,a64a4075-4404-4dad-b5b0-3fa7e8e4e52b,,,,,,,,15.7,,Electric Reheat,MCA
+709884ff-87da-4e87-bb26-4486a7dfe4d2,8ec7d858-b251-4640-b424-099cb7caf1b9,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+25f1f9dd-3338-445c-b6d6-878b05689c92,8ec7d858-b251-4640-b424-099cb7caf1b9,,,,,,,,SDV,,,Model
+1a4e031d-d663-4473-8a41-a1bbcdf3f1b5,8ec7d858-b251-4640-b424-099cb7caf1b9,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+f705e8af-231f-4648-9723-cfc8b8ebc472,8ec7d858-b251-4640-b424-099cb7caf1b9,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,200,CFM,Airflow,Cooling Max
+2c96b932-b783-4357-8472-747c16b12cbc,8ec7d858-b251-4640-b424-099cb7caf1b9,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,100,CFM,Airflow,Cooling Min
+8ce1f517-398b-4013-81fc-eea0f50e290f,8ec7d858-b251-4640-b424-099cb7caf1b9,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,100,CFM,Airflow,Reheat
+d68e4f17-c9d1-482f-92c6-27bd120a15f5,8ec7d858-b251-4640-b424-099cb7caf1b9,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+5b3efe28-e2f4-4a03-a652-eb880a1bd077,8ec7d858-b251-4640-b424-099cb7caf1b9,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+5c9a3d0e-1403-48be-85a7-3c396b9fefb8,8ec7d858-b251-4640-b424-099cb7caf1b9,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.036,IN WG,Air Pressure,OP PD
+c0b7e2fb-5ae1-4297-8597-f395d8f8202a,8ec7d858-b251-4640-b424-099cb7caf1b9,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.0,KW,,Heating Capacity
+aa138d4a-77f4-412e-8ab6-bbf26ce70905,8ec7d858-b251-4640-b424-099cb7caf1b9,,,,,,,,86.1,°F,Electric Reheat,LAT
+b6e0d8c8-e5e1-49c7-8abf-256cd05f0752,8ec7d858-b251-4640-b424-099cb7caf1b9,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277-1,,Electric Reheat,Voltage / Phase
+8983fad4-983b-4d1b-831b-7f162263527a,8ec7d858-b251-4640-b424-099cb7caf1b9,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+45bf1396-82c1-413a-a257-dbf85529185e,8ec7d858-b251-4640-b424-099cb7caf1b9,,,,,,,,15,,Electric Reheat,MOP
+53c46584-898e-4f39-a0f8-94d46a98aaa9,8ec7d858-b251-4640-b424-099cb7caf1b9,,,,,,,,4.9,,Electric Reheat,MCA
+de9a1991-00e7-4385-8305-e7bf1612d971,cc079aab-d21b-4052-8326-f51d5f60cdab,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+5a1c1f0f-5939-4cf2-ad56-f4213308cfac,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,SDV,,,Model
+4843c955-35f8-4d51-bdde-2ad11b5e998d,cc079aab-d21b-4052-8326-f51d5f60cdab,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+f5a56efe-8db2-4252-bd25-a06cf47c0c64,cc079aab-d21b-4052-8326-f51d5f60cdab,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,140,CFM,Airflow,Cooling Max
+42221ec1-9316-4da1-8672-ad50d446c2d0,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,85,CFM,Airflow,Cooling Min
+d644b63d-c79f-450e-8ad5-e21c3b3a13d0,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,85,CFM,Airflow,Reheat
+c5553c37-9580-4a94-9e1b-8c8d5be08820,cc079aab-d21b-4052-8326-f51d5f60cdab,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+ce145c94-a80a-429c-96a7-4f5961f4c983,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+aeec1bd0-0419-46bd-b3a6-e861fcb94606,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,0.018,IN WG,Air Pressure,OP PD
+522ffeb9-c6a3-419c-8216-7717fc79f4a7,cc079aab-d21b-4052-8326-f51d5f60cdab,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+a611d39d-9b4f-4bd8-8b45-6fdc1cc6e63c,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,80,°F,Electric Reheat,LAT
+c8cc6582-2c4f-4f50-9602-a1975f475186,cc079aab-d21b-4052-8326-f51d5f60cdab,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,208-1,,Electric Reheat,Voltage / Phase
+8b029ec4-a2e6-45bf-b409-6a9a806d4b3e,cc079aab-d21b-4052-8326-f51d5f60cdab,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+c04037d7-3c21-407d-b367-f5c21af8984d,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,15,,Electric Reheat,MOP
+e7c6abe7-6d29-4385-aab8-7ecdd05d4c0f,cc079aab-d21b-4052-8326-f51d5f60cdab,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+32cf7636-9cc7-4f68-91d1-26a52e758e1c,cc079aab-d21b-4052-8326-f51d5f60cdab,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+fce0bff5-5b44-426e-8dc9-53fd313fb7ac,cc079aab-d21b-4052-8326-f51d5f60cdab,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,140,CFM,Airflow,Cooling Max
+d59c8bed-269f-40d0-869d-fd5788aa7a93,cc079aab-d21b-4052-8326-f51d5f60cdab,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+d7c45b3a-16d3-4752-914f-b741e6f8b080,cc079aab-d21b-4052-8326-f51d5f60cdab,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+7eb76d29-7b86-40f6-aa98-f50b635abc0e,cc079aab-d21b-4052-8326-f51d5f60cdab,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,9672d5c0-ffa5-4956-a00c-c8c5fb360054,208,,,,208-1,,Electric Reheat,Voltage / Phase
+0865fdc0-e0c7-4484-a86a-ed6ebe83ac5b,cc079aab-d21b-4052-8326-f51d5f60cdab,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+d85e1b72-70d0-4524-b429-bb3a443afb9e,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,3.4,,Electric Reheat,MCA
+16672d99-c6d4-4a1c-b6a6-51455e62293b,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,SDV,,,Model
+acfa29fb-f64e-4b94-95e3-9f31b1a59230,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,85,CFM,Airflow,Cooling Min
+d78979c1-db17-4fa2-8097-7c1c5317cd84,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,85,CFM,Airflow,Reheat
+24f43c82-6d51-418a-a59f-3942b583964a,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+e83d7730-8d45-49b3-8a28-d9a8ce839edc,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,0.018,IN WG,Air Pressure,OP PD
+1703fb0c-dbd2-4de0-a35b-6a60da57803a,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,80,°F,Electric Reheat,LAT
+49b5bdde-f81d-4dfd-b44f-c21a3d6053a0,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,15,,Electric Reheat,MOP
+54455513-6591-4236-8171-d0d2b2bc2900,cc079aab-d21b-4052-8326-f51d5f60cdab,,,,,,,,3.4,,Electric Reheat,MCA
+19fae680-472c-471d-ae16-e8d3c8485947,f91c22af-47b5-4276-9d9c-5e21a7d55053,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+982c926e-bfe7-4562-8cc5-954d57ccedac,f91c22af-47b5-4276-9d9c-5e21a7d55053,,,,,,,,SDV,,,Model
+8925a206-eec4-447a-927a-2ee55c1bb1c8,f91c22af-47b5-4276-9d9c-5e21a7d55053,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,8,,,Unit Size
+67f54949-a9ad-4349-bbe0-3a87555b58b8,f91c22af-47b5-4276-9d9c-5e21a7d55053,,,,,,,,585,CFM,Airflow,Cooling Max
+c28e7ffa-987d-40d3-b3b4-0cd1240e25e8,f91c22af-47b5-4276-9d9c-5e21a7d55053,,,,,,,,310,CFM,Airflow,Cooling Min
+2d1b4c78-1bb5-4b0c-a04a-40aeb267909e,f91c22af-47b5-4276-9d9c-5e21a7d55053,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,310,CFM,Airflow,Reheat
+379aabf1-d3e1-4609-a3ec-a8dfdda1af96,f91c22af-47b5-4276-9d9c-5e21a7d55053,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+bb369073-1d8e-49b3-baab-535656ab8b03,f91c22af-47b5-4276-9d9c-5e21a7d55053,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+1cc41089-65b6-4cac-b040-5681d3bd06e8,f91c22af-47b5-4276-9d9c-5e21a7d55053,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+5873e576-c841-4c0a-a413-8072516749c5,f91c22af-47b5-4276-9d9c-5e21a7d55053,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3.1,KW,,Heating Capacity
+93bc875e-a798-45dc-96f5-e15cc41dd889,f91c22af-47b5-4276-9d9c-5e21a7d55053,,,,,,,,86.3,°F,Electric Reheat,LAT
+b84c6d11-1bde-4b6f-aebd-5f3d70334c77,f91c22af-47b5-4276-9d9c-5e21a7d55053,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+cda8ce74-6829-4cad-b74d-c3223085cacd,f91c22af-47b5-4276-9d9c-5e21a7d55053,,,,,,,,SCR,,Electric Reheat,EC Type
+e44fa0db-9a79-4da9-8cb4-2156225dcc6d,f91c22af-47b5-4276-9d9c-5e21a7d55053,,,,,,,,20,,Electric Reheat,MOP
+5a54b136-c7ec-48ff-8fec-fb47ed4705ff,f91c22af-47b5-4276-9d9c-5e21a7d55053,,,,,,,,15.2,,Electric Reheat,MCA
+81ca8fef-e4de-404c-a7e2-e77c962f95b8,341f8503-9eb7-44f6-bc57-19ef74020411,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+bbedfa6a-3ed3-4bdf-9416-934b47933a35,341f8503-9eb7-44f6-bc57-19ef74020411,,,,,,,,SDV,,,Model
+2987ba8d-7339-4e61-a8fb-557aa3500dc1,341f8503-9eb7-44f6-bc57-19ef74020411,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+f6cd70d0-2364-4651-8ee5-46213fac9ac0,341f8503-9eb7-44f6-bc57-19ef74020411,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,285,CFM,Airflow,Cooling Max
+47ab575a-37b5-4187-9c50-8d56749cf3db,341f8503-9eb7-44f6-bc57-19ef74020411,,,,,,,,155,CFM,Airflow,Cooling Min
+61a7badd-bb50-4328-9d14-21028d38557b,341f8503-9eb7-44f6-bc57-19ef74020411,,,,,,,,160,CFM,Airflow,Reheat
+39dabd5d-40b4-4f1e-bce1-48d9625956eb,341f8503-9eb7-44f6-bc57-19ef74020411,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+df062e19-e24a-4232-b9cb-34aa27503aa3,341f8503-9eb7-44f6-bc57-19ef74020411,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+dc8952c2-d76a-4b56-b17a-7b9a61ac546b,341f8503-9eb7-44f6-bc57-19ef74020411,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.073,IN WG,Air Pressure,OP PD
+a25b1f52-d104-449a-bc9e-e8ab9224cb0c,341f8503-9eb7-44f6-bc57-19ef74020411,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.3,KW,,Heating Capacity
+bab9030b-bff1-4bdb-b43b-d339c0a9694d,341f8503-9eb7-44f6-bc57-19ef74020411,,,,,,,,80,°F,Electric Reheat,LAT
+fe6a0d9f-8717-44f8-9ced-4c186a1ae053,341f8503-9eb7-44f6-bc57-19ef74020411,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277-1,,Electric Reheat,Voltage / Phase
+1b0dd91c-e770-49e9-8c43-41f0dc0d6edf,341f8503-9eb7-44f6-bc57-19ef74020411,,,,,,,,SCR,,Electric Reheat,EC Type
+91e164d6-345e-4e41-a092-83e9a49890cb,341f8503-9eb7-44f6-bc57-19ef74020411,,,,,,,,15,,Electric Reheat,MOP
+7e7c709d-2636-48a4-a54a-f6fb8322a8ca,341f8503-9eb7-44f6-bc57-19ef74020411,,,,,,,,6.4,,Electric Reheat,MCA
+db4dc831-3f8f-4f18-a833-49d341554a0d,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,15,,Electric Reheat,MOP
+0b24f4b5-ba58-4da0-a145-c04f330ef4d1,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,13.8,,Electric Reheat,MCA
+bbc3801d-69d4-451e-87fd-950fe15aacdd,f848c3eb-aeb6-471f-be6e-d015affc8351,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+a48ce751-766f-4db5-a6f6-22c30dc41061,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,SDV,,,Model
+99a60915-6b77-43ef-9e14-e8336c3ac857,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,12,,,Unit Size
+afaeb28f-6a26-434b-90d6-bc1e09421758,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,1365,CFM,Airflow,Cooling Max
+ef61d3b0-3363-4c17-b14e-cd202fbd1590,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,685,CFM,Airflow,Cooling Min
+ed439312-4d5d-4550-b96b-68f2a6341874,f848c3eb-aeb6-471f-be6e-d015affc8351,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,685,CFM,Airflow,Reheat
+41e7b062-93ed-42a7-98a7-ef106971d8b0,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+c0c2ad04-d33e-460d-a1ac-71687e876557,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+99880932-1212-4f96-a3e7-90a3d681dad0,f848c3eb-aeb6-471f-be6e-d015affc8351,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+684ca34c-7e1e-4a46-ab3e-54b9e1222a16,f848c3eb-aeb6-471f-be6e-d015affc8351,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,8.4,KW,,Heating Capacity
+a9cddc98-4677-4467-9df5-108f8b637587,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,93.8,°F,Electric Reheat,LAT
+336716e2-a68a-495b-ba24-416f36d2cbba,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,480-3,,Electric Reheat,Voltage / Phase
+2f571c04-c374-4764-a80e-51a3a885fc10,f848c3eb-aeb6-471f-be6e-d015affc8351,,,,,,,,SCR,,Electric Reheat,EC Type
+624c3af5-dc3e-48cf-a800-0458b796865a,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+74fccdf1-43a1-4abf-bdfb-8641a643b167,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,,,,,,,,SDV,,,Model
+d57b7316-85a4-4e8a-a34a-7a1b2380ee2f,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,,,,,,,,10,,,Unit Size
+2bee9a20-c807-40ac-9c3e-53bd9973706d,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,975,CFM,Airflow,Cooling Max
+a4ebbfe2-c068-4faf-b4e1-e2278619a652,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,491,CFM,Airflow,Cooling Min
+0b147f45-bcb0-4ed9-93f7-c8cf3a78c36d,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,495,CFM,Airflow,Reheat
+30beef74-947c-4731-82e8-35d008ff2fd1,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+dcc49b52-3fc1-447d-9eea-864c77cd3884,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+9b604db7-f2e1-4132-9be9-89671adbbbab,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+24229b45-f277-4d40-a062-87a6d93153ad,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,6.1,KW,,Heating Capacity
+c9a199f1-b3eb-4ef0-9ef2-41a7c21cfb87,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,,,,,,,,93.9,°F,Electric Reheat,LAT
+d200f051-32c1-448a-ba42-be0b7f1215a9,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,,,,,,,,480-3,,Electric Reheat,Voltage / Phase
+6aca7494-8bdc-4664-a644-947cbceb6147,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,,,,,,,,SCR,,Electric Reheat,EC Type
+b73c3b34-6f2b-4b1d-bfd6-86fc143752cc,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,,,,,,,,15,,Electric Reheat,MOP
+a618886e-9266-4054-bff6-c24759fdeb0f,f8848128-e7f5-4fb2-ac4f-17aac568c7d9,,,,,,,,10,,Electric Reheat,MCA
+1d4e9d55-d41d-4e8f-a16e-987c77557451,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,SCR,,Electric Reheat,EC Type
+a9178c8d-45a3-4a5c-85c9-71c13c68cce5,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,15,,Electric Reheat,MOP
+05e89e14-f3e9-4a26-8883-ee10adc0f8cf,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,5.9,,Electric Reheat,MCA
+57c69df1-23a1-429e-9836-080b9d8bbc97,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,SDV,,,Model
+e4414271-aa6c-417a-bf5b-63c60ac26889,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,95,CFM,Airflow,Cooling Min
+220c26f5-f6c8-4bfc-b2d1-6f2f757b2d26,e7517f22-e110-4f39-821f-c85cf327d42c,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+5bef0a3c-d2e5-4f0d-92f6-d20422ed8744,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,SDV,,,Model
+09c80305-da4f-4596-864b-827e270029c9,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,6,,,Unit Size
+5d56bbf0-eba2-4076-a720-cc314c28e685,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,175,CFM,Airflow,Cooling Max
+b41ed9e5-cefd-4d47-9ad1-734b3f5b50f9,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,95,CFM,Airflow,Cooling Min
+53bda5f0-0e6b-44d2-8698-60eac15940ef,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,100,CFM,Airflow,Reheat
+8cfe64de-c0f1-4ad8-9aab-c30f572a678b,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+24b8a38f-3a42-4711-b575-5567c46b0051,e7517f22-e110-4f39-821f-c85cf327d42c,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+fb5a1221-477f-4c11-b641-9458f030814f,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,SDV,,,Model
+09c21ade-8642-489a-8d9f-8e3b34d714d9,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,6,,,Unit Size
+b8d21409-1a72-4bc5-a651-3e0563985369,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,175,CFM,Airflow,Cooling Max
+ac758bee-1f1e-4d64-8eb6-bbdfc3585bf6,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,95,CFM,Airflow,Cooling Min
+4571fc8e-1749-4ddb-b8c1-b96c995f1bbd,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,100,CFM,Airflow,Reheat
+827a6bf0-fade-4bd6-8964-0569a5cda14d,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+a49b6eac-1dd1-45b1-bee9-816a14240b01,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+518aba27-3e9f-4023-81bc-e59c230009f8,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,0.027,IN WG,Air Pressure,OP PD
+483f6653-f0f1-4f40-bc27-cfcdb3b2a551,e7517f22-e110-4f39-821f-c85cf327d42c,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.2,KW,,Heating Capacity
+be815283-3bc1-405f-88fd-a85bd2932fe4,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,91.7,°F,Electric Reheat,LAT
+8af69181-de7b-4fde-afe7-315e332886a1,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+579673df-7a73-403e-9ff2-605804493d7c,e7517f22-e110-4f39-821f-c85cf327d42c,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+22eb7c90-3999-4869-aae2-c23a29376c5d,e7517f22-e110-4f39-821f-c85cf327d42c,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+729c5a4f-c46e-4132-aac0-ccdbc3a08657,e7517f22-e110-4f39-821f-c85cf327d42c,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,175,CFM,Airflow,Cooling Max
+a5d865eb-b87d-4c81-9a67-8dd19675e38c,e7517f22-e110-4f39-821f-c85cf327d42c,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.027,IN WG,Air Pressure,OP PD
+a6fadc25-015b-4209-9003-8caa29a4e560,e7517f22-e110-4f39-821f-c85cf327d42c,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.2,KW,,Heating Capacity
+50b28377-9242-4b5b-a47a-4894be79c5f9,e7517f22-e110-4f39-821f-c85cf327d42c,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,277-1,,Electric Reheat,Voltage / Phase
+c6e878fa-d9a6-4870-8920-40520e6c16eb,e7517f22-e110-4f39-821f-c85cf327d42c,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+b6b14bea-a4af-4483-93c3-8511e3df6077,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+0d876e0a-3da9-488c-a8b1-f37ea5a1769b,e7517f22-e110-4f39-821f-c85cf327d42c,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.027,IN WG,Air Pressure,OP PD
+8e757205-6c19-476f-9af9-479c1c02a864,e7517f22-e110-4f39-821f-c85cf327d42c,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.2,KW,,Heating Capacity
+8586b8fe-9e1d-444f-9ed6-4a1b1f13e089,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,91.7,°F,Electric Reheat,LAT
+983c5e47-0cb3-4fc4-9990-a4382bbbf82b,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+b882d652-49e2-466c-81e6-fc38096a5221,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,SCR,,Electric Reheat,EC Type
+3a2bbf95-56d9-4604-9c23-a30258364b73,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,15,,Electric Reheat,MOP
+e4b63762-f35e-4ce4-a6a4-c07f4627be4b,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,5.9,,Electric Reheat,MCA
+45f1bb6a-a9b3-48f8-890b-9bf7a2252ae1,e7517f22-e110-4f39-821f-c85cf327d42c,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+35657191-79d9-4d52-a3eb-5716ee3485a8,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,SDV,,,Model
+f2fb27c3-661e-4379-87f0-cd19382a269d,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,6,,,Unit Size
+3b628f6e-9866-46ca-8e1e-3689a2bfd1eb,e7517f22-e110-4f39-821f-c85cf327d42c,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,175,CFM,Airflow,Cooling Max
+121db762-15a9-4de6-8e10-722edefd82f4,e7517f22-e110-4f39-821f-c85cf327d42c,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,95,CFM,Airflow,Cooling Min
+fc6368f2-2094-4d70-b69f-e192f4e1b7d5,e7517f22-e110-4f39-821f-c85cf327d42c,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,100,CFM,Airflow,Reheat
+6149b62e-b210-43e7-8316-62940953773f,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+53a3f3da-20b4-49b3-82cc-2d7dc846cc1e,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+4e994e34-fcdd-4251-a7ca-2f11cac25147,e7517f22-e110-4f39-821f-c85cf327d42c,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.027,IN WG,Air Pressure,OP PD
+108d05b0-f62a-4d98-b819-af0b623104a8,e7517f22-e110-4f39-821f-c85cf327d42c,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.2,KW,,Heating Capacity
+0663df2c-fcf4-48f0-a7dd-ca2ee84c788b,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,91.7,°F,Electric Reheat,LAT
+6576f482-32ad-4673-b334-46acf1289c51,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+bab4b19c-4546-4b1a-9629-035a4c57c2f5,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,SCR,,Electric Reheat,EC Type
+c259e5bb-4967-4a5d-89c2-742844fd1f36,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,15,,Electric Reheat,MOP
+4993298e-d43e-44b7-bc7a-acd54934b673,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,5.9,,Electric Reheat,MCA
+95fdf754-6f4c-4dd9-a972-f4ac2cf2664d,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,100,CFM,Airflow,Reheat
+0412eff7-47eb-4da8-a8f2-8571c22a764b,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+794eae01-6c67-4e25-8f87-bd11d4d349d0,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+97c0b46a-3990-4c3f-9c0d-3172c4bb5b25,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,91.7,°F,Electric Reheat,LAT
+a992505a-789d-4e52-a4a3-76c75636976b,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,15,,Electric Reheat,MOP
+ea20fc78-9dde-49d5-abc6-9732b3f10937,e7517f22-e110-4f39-821f-c85cf327d42c,,,,,,,,5.9,,Electric Reheat,MCA
+e7737601-2773-46fc-a170-ac4a9def9ef9,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+5aabd615-06c8-41a7-a274-a882b4cf062e,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,,,,,,,,SDV,,,Model
+3f657162-d454-4e01-96ac-8eb57a6f3c94,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,,,,,,,,6,,,Unit Size
+c9b87bcd-28a8-4e72-b7cc-13f1e9f7fa69,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,140,CFM,Airflow,Cooling Max
+1a389bec-c789-4073-b936-de3c694aea80,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Cooling Min
+a10ecc32-33c0-40e0-b8c4-390e2d7d3cb5,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Reheat
+aece1aff-6a80-4cdf-8b87-fc5be1b36ad3,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+dc72965d-6d1e-4bcc-81f0-7ce42eeccec4,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+1586b6e0-068b-4fa9-98d1-56cdbf6df571,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.018,IN WG,Air Pressure,OP PD
+c9e9b707-34f5-4d4d-9a42-672ca9265254,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.0,KW,,Heating Capacity
+6a544425-0e87-40ef-b330-3550070e5a43,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,,,,,,,,92.4,°F,Electric Reheat,LAT
+4cf506fe-7d44-49e2-8f01-7422467cda15,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+4361db9b-8cf0-43c7-891a-fef8ba587243,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,,,,,,,,SCR,,Electric Reheat,EC Type
+91e86b1e-962a-4c66-a18a-113cf8c786e3,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,,,,,,,,15,,Electric Reheat,MOP
+65ce5e8a-a890-4875-9a6e-1e639f00e80c,2d1e5232-6b33-4a6c-9eb7-1c6fa2970fe9,,,,,,,,4.9,,Electric Reheat,MCA
+9c3040fe-6693-4e0d-9dac-04130416a970,296eb60a-7d0c-4e03-946f-833a04e2057c,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+414d095b-e291-4f3c-91f6-5d42daf6cb4e,296eb60a-7d0c-4e03-946f-833a04e2057c,,,,,,,,SDV,,,Model
+b980b7bc-005a-4c5a-9d58-221ef62776a2,296eb60a-7d0c-4e03-946f-833a04e2057c,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+7bd3c8d3-e41e-47a2-9e7c-9c73dfc56edb,296eb60a-7d0c-4e03-946f-833a04e2057c,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,300,CFM,Airflow,Cooling Max
+847fab20-7c04-4b75-95f4-1cd234271a14,296eb60a-7d0c-4e03-946f-833a04e2057c,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,156,CFM,Airflow,Cooling Min
+81fadf2b-4b82-4ff9-8ca4-28495cd16b41,296eb60a-7d0c-4e03-946f-833a04e2057c,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,160,CFM,Airflow,Reheat
+62c99c98-6e29-49df-9f45-941a0e4ddf53,296eb60a-7d0c-4e03-946f-833a04e2057c,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+42179b81-228b-4656-affe-30717cd712e0,296eb60a-7d0c-4e03-946f-833a04e2057c,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+d3c7c59f-2c19-43f5-bfe8-7ce4198538ad,296eb60a-7d0c-4e03-946f-833a04e2057c,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.081,IN WG,Air Pressure,OP PD
+a196bb58-2d4c-4b56-8acb-6fb256d8137e,296eb60a-7d0c-4e03-946f-833a04e2057c,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.6,KW,,Heating Capacity
+84e0267e-9b47-48da-a63a-696651058fba,296eb60a-7d0c-4e03-946f-833a04e2057c,,,,,,,,87.4,°F,Electric Reheat,LAT
+06bac8aa-0961-45e6-bdbf-2058d5bd0d4d,296eb60a-7d0c-4e03-946f-833a04e2057c,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+d2d7a2d1-18e7-48b2-8d5c-e6a19353b77f,296eb60a-7d0c-4e03-946f-833a04e2057c,,,,,,,,SCR,,Electric Reheat,EC Type
+c05e257b-097b-4725-8ae4-a3f1f535e843,296eb60a-7d0c-4e03-946f-833a04e2057c,,,,,,,,15,,Electric Reheat,MOP
+38c2e973-771e-4d0c-96f2-2d27676243e9,296eb60a-7d0c-4e03-946f-833a04e2057c,,,,,,,,7.9,,Electric Reheat,MCA
+fa05ce2e-c054-47df-a1d6-57d8b8d0de4a,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+286e1c4a-44d1-4c83-beed-597a8b071e23,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,97.5,°F,Electric Reheat,LAT
+13edf584-aa54-42d5-bffa-1c4fd75848f9,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+ff9f0adf-b92e-4bc2-a6d5-36e2b617e757,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,SCR,,Electric Reheat,EC Type
+72519d43-36d1-45d8-ae56-a2e1c7289e4a,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,15,,Electric Reheat,MOP
+f3e86ba5-008f-43a1-83c6-9d765cc24b9b,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,12.3,,Electric Reheat,MCA
+161133d1-3395-47c9-b013-2c8e1f82725c,d59c89df-9647-450c-aa6b-906b771e1bec,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+faadbee3-3609-4e59-824f-930f142a942d,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,SDV,,,Model
+0c75ab97-dcd7-4bc5-bd8f-0e08cc304cf6,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,8,,,Unit Size
+7cbab104-f26d-42b8-b9b5-c71dc9cec389,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,370,CFM,Airflow,Cooling Max
+2f5fe29f-a111-4d65-b730-4bf187196247,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,185,CFM,Airflow,Cooling Min
+22fd98f7-87a0-44b5-b34c-3ca461f01083,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,185,CFM,Airflow,Reheat
+df28ab5d-0b24-4040-a1a8-eab215d9bcf1,d59c89df-9647-450c-aa6b-906b771e1bec,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+7850fd34-1dc8-4328-bb07-35d232a85686,d59c89df-9647-450c-aa6b-906b771e1bec,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+ddaa2343-5099-4207-9eed-457ab4c396f7,d59c89df-9647-450c-aa6b-906b771e1bec,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,2.5,KW,,Heating Capacity
+55558e82-db38-4b45-a73d-f09af5626e6f,99b06508-81bd-407c-b7d8-10480c4140c7,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+c4bb94c8-536e-44df-86a9-4cbf2fb0c6b4,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,SDV,,,Model
+1af0cc3d-6555-4509-a572-f8f4c6f5a25f,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,10,,,Unit Size
+c9448fbd-404d-430d-a9d6-956237a4690b,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,840,CFM,Airflow,Cooling Max
+c6973e45-2d9f-485a-91d5-a0eb06f15b15,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,420,CFM,Airflow,Cooling Min
+a96d9fb3-5082-45b4-a2b8-aa4b16ff74bc,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,420,CFM,Airflow,Reheat
+5df6b315-73d6-42a3-8259-1410fd9cb9df,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+df215fbe-9e6c-41f4-a2fc-70141300e373,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+0f3bcdce-8ea4-4e7d-b702-1dd55cbde479,99b06508-81bd-407c-b7d8-10480c4140c7,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+629f18f2-ed46-4bc4-af48-10f95a1b19e1,99b06508-81bd-407c-b7d8-10480c4140c7,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,5.2,KW,,Heating Capacity
+9a3add5f-3614-4ee2-b30e-68d0948c57b8,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,94.3,°F,Electric Reheat,LAT
+63427fe1-165f-4790-aee8-3df6863b6118,99b06508-81bd-407c-b7d8-10480c4140c7,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,7e449664-8966-4bc3-a6ae-968de8013268,480,,,,480-3,,Electric Reheat,Voltage / Phase
+97a2c4e0-7b8a-49f0-beee-363dd36d04af,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,SCR,,Electric Reheat,EC Type
+a62edbc5-07a0-4b1a-8be8-fde3cd36ab0b,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,15,,Electric Reheat,MOP
+f88f92fb-0025-4ee6-8c1a-0ffb78b6930d,99b06508-81bd-407c-b7d8-10480c4140c7,,,,,,,,8.5,,Electric Reheat,MCA
+99f11698-8b05-4bdd-ba15-31a04d35789c,76b0498a-9b10-41a3-8179-cd4fa4526acb,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+d9d00077-4c4a-4f1e-a0cf-b89d3ad0a87d,76b0498a-9b10-41a3-8179-cd4fa4526acb,,,,,,,,SDV,,,Model
+63957ad4-a17d-4c5f-b881-c6e9254b1cd1,76b0498a-9b10-41a3-8179-cd4fa4526acb,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+ed7d5c2d-34b5-46a4-acc4-3dfb3b0d87eb,76b0498a-9b10-41a3-8179-cd4fa4526acb,,,,,,,,165,CFM,Airflow,Cooling Max
+8bd4252a-4f9c-4c3b-886e-8140b799544c,76b0498a-9b10-41a3-8179-cd4fa4526acb,,,,,,,,85,CFM,Airflow,Cooling Min
+96332cfa-358d-4e94-8266-55e77b502188,76b0498a-9b10-41a3-8179-cd4fa4526acb,,,,,,,,85,CFM,Airflow,Reheat
+c3b026cf-df99-434b-aa96-b2a29860cd9d,76b0498a-9b10-41a3-8179-cd4fa4526acb,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+157fa54f-e82a-4d87-95e0-1705c9c1c2cf,76b0498a-9b10-41a3-8179-cd4fa4526acb,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+6c73eb94-fc29-45d7-b0c9-e8e744927f45,76b0498a-9b10-41a3-8179-cd4fa4526acb,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.024,IN WG,Air Pressure,OP PD
+df3e8012-a4cb-46e8-9063-dd197422518b,76b0498a-9b10-41a3-8179-cd4fa4526acb,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+2bfd6b22-fecf-4bae-a4d8-c4b0686a1b46,76b0498a-9b10-41a3-8179-cd4fa4526acb,,,,,,,,82.6,°F,Electric Reheat,LAT
+a55ffee4-93ed-4a91-afd8-191a85e14a36,76b0498a-9b10-41a3-8179-cd4fa4526acb,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277-1,,Electric Reheat,Voltage / Phase
+c722abbe-31e0-4b55-ab00-b4fd4e345ae7,76b0498a-9b10-41a3-8179-cd4fa4526acb,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+e7e05801-d956-4cfe-8a93-f2f0fe79b06a,76b0498a-9b10-41a3-8179-cd4fa4526acb,,,,,,,,15,,Electric Reheat,MOP
+712dacd7-defc-481e-aa69-c82a9b754ab8,76b0498a-9b10-41a3-8179-cd4fa4526acb,,,,,,,,3.4,,Electric Reheat,MCA
+9d51abfe-a763-4ecc-9f39-9b3391415f98,b8b278aa-fb4b-4156-b70b-017001423c6b,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+6ac4f6d7-d593-49f2-8b40-7176bab23ab6,b8b278aa-fb4b-4156-b70b-017001423c6b,,,,,,,,SDV,,,Model
+beeb1435-c6f9-48d8-a664-9d0f0645b1a9,b8b278aa-fb4b-4156-b70b-017001423c6b,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,8,,,Unit Size
+73768a22-0aa4-4b5a-a481-d0e5850a8536,b8b278aa-fb4b-4156-b70b-017001423c6b,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,630,CFM,Airflow,Cooling Max
+dc30da24-fe70-4247-8a1e-74bf4f53ee35,b8b278aa-fb4b-4156-b70b-017001423c6b,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,315,CFM,Airflow,Cooling Min
+6a15c7eb-c522-4c93-b83e-b45b6d9a13f1,b8b278aa-fb4b-4156-b70b-017001423c6b,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,315,CFM,Airflow,Reheat
+160bcc0f-0a96-4123-befd-91dede5844ae,b8b278aa-fb4b-4156-b70b-017001423c6b,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+e8e3f26d-0718-466d-b6ed-24d3af224b3b,b8b278aa-fb4b-4156-b70b-017001423c6b,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+b8bfb1db-39cf-4045-9883-e6725c45e215,b8b278aa-fb4b-4156-b70b-017001423c6b,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+0864c120-4ba2-4db8-8c78-91eaa100461e,b8b278aa-fb4b-4156-b70b-017001423c6b,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,4.0,KW,,Heating Capacity
+57b61dd7-1d43-4a1a-be31-de34689a5f04,b8b278aa-fb4b-4156-b70b-017001423c6b,,,,,,,,95,°F,Electric Reheat,LAT
+a53b131f-8eb3-4e8f-abf1-83e7ce32942c,b8b278aa-fb4b-4156-b70b-017001423c6b,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277-1,,Electric Reheat,Voltage / Phase
+4ddf8d58-7572-47e8-9bb9-6c1a9e1877a1,b8b278aa-fb4b-4156-b70b-017001423c6b,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+32d61ef1-a874-4210-9e72-7a8cf1a54015,b8b278aa-fb4b-4156-b70b-017001423c6b,,,,,,,,20,,Electric Reheat,MOP
+e0298737-3efa-49f4-895e-f867d6baa553,b8b278aa-fb4b-4156-b70b-017001423c6b,,,,,,,,19.7,,Electric Reheat,MCA
+1ca0bb35-e5c0-4ca4-ab4f-cd1983830cbc,62092edc-c78b-4284-9a96-ebcf5119c43b,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+f492f1bd-d2b7-4cb0-87f2-85e511dfb4ec,62092edc-c78b-4284-9a96-ebcf5119c43b,,,,,,,,SDV,,,Model
+c305b0a0-9bbd-4d7f-961d-a8c0e56ad5c0,62092edc-c78b-4284-9a96-ebcf5119c43b,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+b6334a09-688b-4a17-b92a-3740058fc572,62092edc-c78b-4284-9a96-ebcf5119c43b,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,155,CFM,Airflow,Cooling Max
+8bf3672b-6250-4c21-b021-c315a2e3ed40,62092edc-c78b-4284-9a96-ebcf5119c43b,,,,,,,,85,CFM,Airflow,Cooling Min
+fe148391-98ef-4a40-b072-7eaf4df5eed0,62092edc-c78b-4284-9a96-ebcf5119c43b,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+68901107-2fc1-4b56-8dd5-a9d0fc3de05d,62092edc-c78b-4284-9a96-ebcf5119c43b,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.1,KW,,Heating Capacity
+5faf3dc3-a3d5-4d0a-bac1-1fa585e34b4e,62092edc-c78b-4284-9a96-ebcf5119c43b,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,277-1,,Electric Reheat,Voltage / Phase
+b5e64225-264f-4d87-9a91-616e39ce742a,62092edc-c78b-4284-9a96-ebcf5119c43b,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+2a8041c7-7a54-4853-bf9d-8b667b2fe9f4,62092edc-c78b-4284-9a96-ebcf5119c43b,,,,,,,,85,CFM,Airflow,Reheat
+ce4c7448-d7cb-45a6-96cc-5aa0a087d469,62092edc-c78b-4284-9a96-ebcf5119c43b,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+7df4c913-0bed-4561-859a-b60dce32dcf8,62092edc-c78b-4284-9a96-ebcf5119c43b,,,,,,,,0.022,IN WG,Air Pressure,OP PD
+bfbfa9da-24d2-48ee-9bc4-62752c092cf2,62092edc-c78b-4284-9a96-ebcf5119c43b,,,,,,,,94.6,°F,Electric Reheat,LAT
+4c5fa556-c9c1-427e-ae57-e7a25472cee5,62092edc-c78b-4284-9a96-ebcf5119c43b,,,,,,,,15,,Electric Reheat,MOP
+c58c0c60-76fa-45a4-a974-bff8826a1456,62092edc-c78b-4284-9a96-ebcf5119c43b,,,,,,,,5.4,,Electric Reheat,MCA
+bd981b7c-b891-4cfa-95b0-2ad686e6597b,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,15,,Electric Reheat,MOP
+dd078e51-827e-4c40-b0bb-91a90c4a89fd,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,3.9,,Electric Reheat,MCA
+1925240a-6f93-4d1b-bae8-5d090f8ebd60,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,SDV,,,Model
+878d6a9f-bb65-4154-aeb5-f547d241b271,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,165,CFM,Airflow,Cooling Max
+6c0a5c35-df6a-4446-b803-f1b3e5a40320,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,87,CFM,Airflow,Cooling Min
+020d1e47-4267-4eca-90b7-691125331f18,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,90,CFM,Airflow,Reheat
+15a9a08e-8cc5-4b2d-a687-f29fcb4c3190,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+f542a0de-17a3-497b-9852-7f14e1d48ffd,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+636e922d-a0d5-4265-ba08-039cd4457f99,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,83.2,°F,Electric Reheat,LAT
+40c12cb7-1af1-4911-8c0b-e7b4c0952e01,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+7cc936a4-2ba6-4e8a-8cdb-edb476b40992,56c3067f-9986-4ae7-8c43-0877bba70e02,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+404fef1a-5c37-40fc-91c8-01a6a185f149,56c3067f-9986-4ae7-8c43-0877bba70e02,31a216d3-732f-4b9e-941e-ce2a42d6ccba,Air Terminal Type,66313855-0de3-4cc3-a109-962f94d3328b,Single Duct VAV,,,,SDV,,,Model
+6b7ca437-3456-4180-91f3-7119e0a87806,56c3067f-9986-4ae7-8c43-0877bba70e02,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+136eff75-61e6-4121-a8ee-6c6161f9da2b,56c3067f-9986-4ae7-8c43-0877bba70e02,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,165,CFM,Airflow,Cooling Max
+80ec6a05-df79-4c64-81ca-56fec90d5279,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,87,CFM,Airflow,Cooling Min
+8ec782dc-cada-4ec1-ba8a-c8758329f4ac,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,90,CFM,Airflow,Reheat
+d33c12e5-5dcb-4041-804e-2f17e0db70fb,56c3067f-9986-4ae7-8c43-0877bba70e02,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+9ad6ac56-c21c-4f94-a61a-ae882383a835,56c3067f-9986-4ae7-8c43-0877bba70e02,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.8,KW,,Heating Capacity
+1570aff7-00e1-4ba9-8449-8faf1a21e8f0,56c3067f-9986-4ae7-8c43-0877bba70e02,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+768d4735-61cd-46a9-849d-ca01ba34afb9,56c3067f-9986-4ae7-8c43-0877bba70e02,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+2c93a76e-b6ec-41d0-b18a-5874156b7f10,56c3067f-9986-4ae7-8c43-0877bba70e02,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.024,IN WG,Air Pressure,OP PD
+12e7d377-709a-49e2-835b-6d22b58bf1e6,56c3067f-9986-4ae7-8c43-0877bba70e02,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.8,KW,,Heating Capacity
+ec3c5794-a7f5-43d2-98e1-1fc45b94c130,56c3067f-9986-4ae7-8c43-0877bba70e02,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+63e89bc6-90a7-48bc-b8bd-d6af5ce9b879,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+ac179d40-2f84-4197-829a-4b74aabf9811,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,0.024,IN WG,Air Pressure,OP PD
+1f4319b4-0171-4069-9049-9c9974993118,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,83.2,°F,Electric Reheat,LAT
+3712befd-9ed9-4743-9e2e-83d609db9a21,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+c4307240-4149-4c1f-b800-c9284f82d249,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,SCR,,Electric Reheat,EC Type
+b4fd1dc0-418c-4264-802a-ba29305cc1a3,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,15,,Electric Reheat,MOP
+5bf0674d-df6e-42ad-9769-b9b67961e748,56c3067f-9986-4ae7-8c43-0877bba70e02,,,,,,,,3.9,,Electric Reheat,MCA
+1f02a975-104b-4e9c-aba8-122df0003f4a,539b8b3d-47d9-4778-8775-86dd0968af6e,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+3152ef27-6396-4007-85bf-8d5ef202d767,539b8b3d-47d9-4778-8775-86dd0968af6e,,,,,,,,SDV,,,Model
+4aa12954-77a8-49a1-ab6b-a9642bbacc3f,539b8b3d-47d9-4778-8775-86dd0968af6e,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+fc0988fc-47f6-45f0-a3ba-01d355d16100,539b8b3d-47d9-4778-8775-86dd0968af6e,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,140,CFM,Airflow,Cooling Max
+956f52e3-a812-40a6-a0df-cb4ff36d3408,539b8b3d-47d9-4778-8775-86dd0968af6e,,,,,,,,85,CFM,Airflow,Cooling Min
+3a2650b6-1564-4184-86f8-90f309e1fa5f,539b8b3d-47d9-4778-8775-86dd0968af6e,,,,,,,,85,CFM,Airflow,Reheat
+ef952b15-b028-43e1-b278-63ad486bbfd9,539b8b3d-47d9-4778-8775-86dd0968af6e,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+56cba250-bc7a-452b-b8f2-90b5016f272e,539b8b3d-47d9-4778-8775-86dd0968af6e,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+8269d3c3-6d3e-4f0d-8cd5-b7ecb706e7b5,539b8b3d-47d9-4778-8775-86dd0968af6e,,,,,,,,0.018,IN WG,Air Pressure,OP PD
+bd463346-83e6-4bf5-ab86-010b72b70fdb,539b8b3d-47d9-4778-8775-86dd0968af6e,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+00ca400d-2dc5-4291-a3a0-2b07e15d5f7c,539b8b3d-47d9-4778-8775-86dd0968af6e,,,,,,,,80,°F,Electric Reheat,LAT
+4955afe5-d4d5-4e23-9054-b0257fa7f99a,539b8b3d-47d9-4778-8775-86dd0968af6e,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,277-1,,Electric Reheat,Voltage / Phase
+47b8df91-31c6-45ac-8c9e-e8217b1f9c70,539b8b3d-47d9-4778-8775-86dd0968af6e,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+374f4925-81de-4d5a-9ef5-dd00c7f390f5,539b8b3d-47d9-4778-8775-86dd0968af6e,,,,,,,,15,,Electric Reheat,MOP
+1e1cd4b3-df06-4112-8bff-93ec91d6a7ed,539b8b3d-47d9-4778-8775-86dd0968af6e,,,,,,,,3.4,,Electric Reheat,MCA
+64abcc48-7fc9-4139-a811-0af2f7b8ecda,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+439b77ec-b5d1-44ac-9e4b-8a9fbf906053,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,SDV,,,Model
+068b3538-d57b-4d64-9f3f-ee5dc993fb36,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,10,,,Unit Size
+2afd7a73-e1b6-4f17-8a23-72042adb5f6c,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,680,CFM,Airflow,Cooling Max
+ab889cf4-3fc3-4ecd-a41b-48993cd410a3,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,366,CFM,Airflow,Cooling Min
+95439c86-9eb3-4484-8a1b-9de0ef2ea884,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,370,CFM,Airflow,Reheat
+67809808-23b0-4763-ab07-f10fb95c2d97,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+8a365666-76a3-45bb-a8ba-23027abb0c62,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+f2b63fba-6bc5-4425-85c4-d56a2791cb60,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,2.9,KW,,Heating Capacity
+25a5f07b-20a1-458b-bd66-57d1f9ca2863,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+b8334450-b2e0-4af0-b1c8-4c9a3f9eecb4,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+e4ee9ac0-12c3-4a68-89a9-ec07dfce6ae2,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,80,°F,Electric Reheat,LAT
+c87fac55-4cab-41f5-b9cf-2d3fcb158a6d,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+0070b4fd-e9db-4f2f-92c7-3e1d079eec1a,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,15,,Electric Reheat,MOP
+6b3946f6-bd74-4030-8353-9976ebe43c49,2d2f8c6f-ead7-47ff-8413-8e0a169bb313,,,,,,,,14.3,,Electric Reheat,MCA
+3a0bc4ad-2059-4f56-bdb5-9f7c218c6c22,ade6ab00-b805-44ee-a114-7c922bc1e783,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+d1b14a4c-e266-48d1-ac51-98d1ad1a0289,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,SDV,,,Model
+5a657512-583a-4ec4-b6da-1c98147de255,ade6ab00-b805-44ee-a114-7c922bc1e783,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+d017e930-ad10-4a4b-bc15-63f4de6f0284,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,120,CFM,Airflow,Cooling Max
+42f73e29-d357-43dc-8ccf-d66ce9bff4be,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,85,CFM,Airflow,Cooling Min
+0fca7b05-c524-4f37-b234-7ef96c9af85a,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,85,CFM,Airflow,Reheat
+2c5e5ba3-2785-4983-8549-a7d9d4014310,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+fe5e69fe-bd5e-4f54-9eef-2d97af0ff77e,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+45ebf9b4-b629-4ef8-bb9f-a262b229e1ea,ade6ab00-b805-44ee-a114-7c922bc1e783,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.013,IN WG,Air Pressure,OP PD
+cfe34075-ab65-4af3-ac35-7b35e675a415,ade6ab00-b805-44ee-a114-7c922bc1e783,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+2041a657-ad73-4a8f-9b07-25118c0b2f75,ade6ab00-b805-44ee-a114-7c922bc1e783,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,277-1,,Electric Reheat,Voltage / Phase
+21e522de-ebc2-4c04-b31b-809d70b54105,ade6ab00-b805-44ee-a114-7c922bc1e783,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+9b21848d-0275-4e9b-88eb-b8eeda8b1baa,ade6ab00-b805-44ee-a114-7c922bc1e783,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+9c713179-804e-43b5-a934-499b36c7362f,ade6ab00-b805-44ee-a114-7c922bc1e783,31a216d3-732f-4b9e-941e-ce2a42d6ccba,Air Terminal Type,66313855-0de3-4cc3-a109-962f94d3328b,Single Duct VAV,,,,SDV,,,Model
+b8670de5-6db1-46a5-970f-debb59fdb991,ade6ab00-b805-44ee-a114-7c922bc1e783,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+ebcdd89b-32f0-487d-aa36-ce34a17038f9,ade6ab00-b805-44ee-a114-7c922bc1e783,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,120,CFM,Airflow,Cooling Max
+3056e966-60db-43d4-988a-4bb61f7e1c1a,ade6ab00-b805-44ee-a114-7c922bc1e783,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Cooling Min
+4501a868-351c-47eb-b6a2-910a89dd0d7b,ade6ab00-b805-44ee-a114-7c922bc1e783,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Reheat
+7a98e7b0-2f19-4086-ac3f-0f706d148915,ade6ab00-b805-44ee-a114-7c922bc1e783,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+cc95d59a-7649-444b-a50e-893b0c00013b,ade6ab00-b805-44ee-a114-7c922bc1e783,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+a93eed6f-9e66-4360-872f-21955e6f4003,ade6ab00-b805-44ee-a114-7c922bc1e783,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.013,IN WG,Air Pressure,OP PD
+9ae39dd2-bc8b-4ebe-9315-2d50b96f85f7,ade6ab00-b805-44ee-a114-7c922bc1e783,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+cb83ed91-db61-44cf-b9fa-acea47c89c33,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,81.5,°F,Electric Reheat,LAT
+784d754b-3343-4045-82e3-3b18fc153de2,ade6ab00-b805-44ee-a114-7c922bc1e783,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277-1,,Electric Reheat,Voltage / Phase
+785b5673-39ce-4181-ab67-f90bc6d64c7c,ade6ab00-b805-44ee-a114-7c922bc1e783,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+a4384c6a-0423-4530-ba7a-42db8aaae618,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,15,,Electric Reheat,MOP
+ec036bf5-a9d3-4735-a617-95277ecd5ff8,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,3.4,,Electric Reheat,MCA
+8b3fe8ce-01b2-4fca-a23d-734479f2ef70,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,81.5,°F,Electric Reheat,LAT
+4245c868-1e39-4c5b-bb1d-0e913d8e4291,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,15,,Electric Reheat,MOP
+30cd5583-1b89-4cb1-b39b-d75fbd8180d3,ade6ab00-b805-44ee-a114-7c922bc1e783,,,,,,,,3.4,,Electric Reheat,MCA
+60e10791-56bd-4c01-b43b-ff2297b4c9bc,32784066-e830-4412-8001-ad820a5faea8,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+65f89744-89b3-4011-920c-1064e2f02317,32784066-e830-4412-8001-ad820a5faea8,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,120,CFM,Airflow,Cooling Max
+393bc8ff-368a-4a8c-b5d0-1a3b8b184cc2,32784066-e830-4412-8001-ad820a5faea8,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Cooling Min
+aa0453dc-4690-4e5c-9fdc-7d96b5bb3b69,32784066-e830-4412-8001-ad820a5faea8,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Reheat
+e5ed0fed-3929-4d9d-8699-2e6d2efe65b0,32784066-e830-4412-8001-ad820a5faea8,,,,,,,,SDV,,,Model
+d186eb79-41d5-4864-b9c8-d3473e43a33d,32784066-e830-4412-8001-ad820a5faea8,,,,,,,,6,,,Unit Size
+6f9960b1-815b-44c1-a60e-2e1cd81fd026,32784066-e830-4412-8001-ad820a5faea8,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+8e38ce58-460d-4b96-830f-321fbd2f358d,32784066-e830-4412-8001-ad820a5faea8,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+4b8524df-4192-4383-8052-e7b38fe77a5f,32784066-e830-4412-8001-ad820a5faea8,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.013,IN WG,Air Pressure,OP PD
+e6471d83-b2fb-4052-ae2b-84d2250b4ab4,32784066-e830-4412-8001-ad820a5faea8,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+f98a483e-5954-44f9-a837-3d9c99298172,32784066-e830-4412-8001-ad820a5faea8,,,,,,,,81.5,°F,Electric Reheat,LAT
+f621f5d0-4218-4682-9194-0925cb626019,32784066-e830-4412-8001-ad820a5faea8,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+0f5b8698-2912-41d7-8cf7-f1cb825e0fcc,32784066-e830-4412-8001-ad820a5faea8,,,,,,,,SCR,,Electric Reheat,EC Type
+4306765c-06f2-46c8-a587-7e320050a0d4,32784066-e830-4412-8001-ad820a5faea8,,,,,,,,15,,Electric Reheat,MOP
+8c1314ca-6be5-43b6-ab6b-25890973df6d,32784066-e830-4412-8001-ad820a5faea8,,,,,,,,3.4,,Electric Reheat,MCA
+58965b3e-7439-41c7-b42a-dd80338be209,de46e919-6298-44cd-9315-889c428c69b6,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+4efaca0b-9204-4afc-b0ac-0cabd3b7d0ee,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,SDV,,,Model
+440b560b-92d6-46ff-85a6-b0d97a4c27b4,de46e919-6298-44cd-9315-889c428c69b6,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+993a5a51-4819-48e8-b804-2ac7529f312b,de46e919-6298-44cd-9315-889c428c69b6,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,115,CFM,Airflow,Cooling Max
+7e07ac43-a277-47f6-a128-353bb6590aa9,de46e919-6298-44cd-9315-889c428c69b6,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Cooling Min
+fcf29f7a-4dfb-4976-b093-c19bb0fa708e,de46e919-6298-44cd-9315-889c428c69b6,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Reheat
+99be84bb-825b-4347-9165-38b4d0408f7c,de46e919-6298-44cd-9315-889c428c69b6,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+8f6eaa73-b4c6-4166-a9d4-0ac71be8628a,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+f47f2a20-5173-43e2-abf5-b00a0843a15d,de46e919-6298-44cd-9315-889c428c69b6,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.012,IN WG,Air Pressure,OP PD
+7abf7457-0330-40ef-a083-6bf8a0903227,de46e919-6298-44cd-9315-889c428c69b6,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+62d38e4d-d1f9-4f86-96b2-6dcf9889f52d,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,80.4,°F,Electric Reheat,LAT
+2c627798-a73a-4fd2-a50d-b374e7d514fb,de46e919-6298-44cd-9315-889c428c69b6,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+814a13cf-f057-4ae5-a3f0-45037464f8ff,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,SDV,,,Model
+a6d22360-4528-4330-96ae-6a747b764066,de46e919-6298-44cd-9315-889c428c69b6,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+5337312d-3865-4b76-89ab-fd4c9b97addc,de46e919-6298-44cd-9315-889c428c69b6,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,115,CFM,Airflow,Cooling Max
+0c3ac256-ef34-47fd-b363-3ddb08b77fd3,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,85,CFM,Airflow,Cooling Min
+852f5b51-392a-476b-86b7-77230c84b95a,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,85,CFM,Airflow,Reheat
+9a56fcf1-5f3e-412e-bb0a-2a01588120ef,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+ca2fbff5-a672-4dad-a080-c35d89b04083,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+537cbd6a-76d9-4ba6-8385-0cfc35748772,de46e919-6298-44cd-9315-889c428c69b6,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.012,IN WG,Air Pressure,OP PD
+baacfd4e-04b5-4c9e-82ae-aaa267fb6b00,de46e919-6298-44cd-9315-889c428c69b6,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+ded3fc7f-0a54-456a-8ca2-def59d2e8d17,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,80.4,°F,Electric Reheat,LAT
+013118f3-7489-4842-97c1-efa5c718e545,de46e919-6298-44cd-9315-889c428c69b6,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+30cb5791-31b0-4067-8a79-3f57e7a7a3b8,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,SDV,,,Model
+7765c1d0-1837-440c-9af8-c620914c389f,de46e919-6298-44cd-9315-889c428c69b6,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+6ab6f8e2-06f5-4a79-8cbe-1e37a1c4297b,de46e919-6298-44cd-9315-889c428c69b6,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,115,CFM,Airflow,Cooling Max
+3a3b57a0-1558-44d6-923b-a8b4aa37e0f7,de46e919-6298-44cd-9315-889c428c69b6,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+5db3368c-7f82-4ef7-9e17-9bc16e2492fd,de46e919-6298-44cd-9315-889c428c69b6,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+94e71578-f9b4-413f-8888-8b99ed61b7da,de46e919-6298-44cd-9315-889c428c69b6,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+ffa763c8-6f36-4715-a5c5-93e41d01e1e1,de46e919-6298-44cd-9315-889c428c69b6,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+ecbf7840-7147-4ad3-8dac-1bc9c76cb1dc,de46e919-6298-44cd-9315-889c428c69b6,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,115,CFM,Airflow,Cooling Max
+20c8af74-9dfe-40c7-9a1d-c32647ccc794,de46e919-6298-44cd-9315-889c428c69b6,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Cooling Min
+530275a1-7d37-46a7-af76-efa4c50d0579,de46e919-6298-44cd-9315-889c428c69b6,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,85,CFM,Airflow,Reheat
+154fa414-7e07-4118-9462-7a2b32e9d9ab,de46e919-6298-44cd-9315-889c428c69b6,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+1d154580-2ddd-41af-be4a-5b561525af93,de46e919-6298-44cd-9315-889c428c69b6,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.25,IN WG,Air Pressure,Downstream
+ac8640be-7e56-43d2-9f31-b6b9a35bf28f,de46e919-6298-44cd-9315-889c428c69b6,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.012,IN WG,Air Pressure,OP PD
+8e364cdc-28f3-4fc1-be91-99c577b77b37,de46e919-6298-44cd-9315-889c428c69b6,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,0.7,KW,,Heating Capacity
+f8f1c240-b2be-4791-a770-9fe59b434951,de46e919-6298-44cd-9315-889c428c69b6,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,277-1,,Electric Reheat,Voltage / Phase
+a906c5eb-4273-4baa-bd58-2f0aff2ed1f2,de46e919-6298-44cd-9315-889c428c69b6,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+327e47b2-3742-489f-a1e8-b297fd815a0b,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+78b1d175-49fe-4f08-9848-50b69f90856d,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,SCR,,Electric Reheat,EC Type
+e64b8114-2537-432d-91e2-2cf17f881fd8,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,15,,Electric Reheat,MOP
+9ccd87f3-9289-43aa-9bed-5bf254dc3e72,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,3.4,,Electric Reheat,MCA
+8de24346-1d7c-46f4-9f56-606ecb6a093b,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,85,CFM,Airflow,Cooling Min
+4bf46ade-ef47-4056-a9aa-19e773367d79,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,85,CFM,Airflow,Reheat
+85e4a419-0a2f-4759-bec4-9495c7ff73e9,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+3be3806c-5fe3-456b-9822-1a89e1d7b555,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,0.012,IN WG,Air Pressure,OP PD
+c7f602ab-0075-416c-bd02-e11976cb5a8a,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,80.4,°F,Electric Reheat,LAT
+96d04742-827d-413d-badc-9344aafd6b53,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+e39b3693-316c-4f1c-9939-e1d866e65be2,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,SCR,,Electric Reheat,EC Type
+d61a9a51-796e-4324-9315-7184656070ad,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,15,,Electric Reheat,MOP
+3f4fe989-0495-4fa0-977e-cb09ac1af503,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,3.4,,Electric Reheat,MCA
+2a681f0f-5fe2-4e28-95bd-0194da1a318b,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,SDV,,,Model
+293a5ef6-a7af-4025-a535-ad3d9b273794,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,80.4,°F,Electric Reheat,LAT
+52d0646a-73fe-4261-a733-871c199d3351,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,15,,Electric Reheat,MOP
+63e1025f-98f5-4c8e-ab57-15df02aed582,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,3.4,,Electric Reheat,MCA
+11d63b65-f5b2-499c-ba02-35fa78d15d76,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+0807604a-ac5d-4d8d-b879-cb11ef2062e2,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,SCR,,Electric Reheat,EC Type
+b8589fb6-749e-495f-b631-9c3586b4bf62,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,15,,Electric Reheat,MOP
+703a1828-e717-4b1b-8106-8e0b0c4c392d,de46e919-6298-44cd-9315-889c428c69b6,,,,,,,,3.4,,Electric Reheat,MCA
+5c0c6dd5-e858-4896-b76f-a3b54938d8dd,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+98c321d0-1c19-4e68-bdff-bf88aa075af4,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,SDV,,,Model
+3983cb64-e886-4be4-8199-e40782b9b955,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,8,,,Unit Size
+15e05cea-6784-4c3a-81a4-c675f05920c0,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,570,CFM,Airflow,Cooling Max
+3ac562e7-b45c-42d1-931b-9093212b05f6,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,285,CFM,Airflow,Cooling Min
+4dbc6681-4f8f-45f4-8c15-c542993cff19,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,285,CFM,Airflow,Reheat
+09615ed1-4d66-4ac4-bac6-1b4da27048a9,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+e52f2c5a-c95f-4e8f-9647-0e5d3d953245,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+7b32b787-e25d-42cf-a507-732c364e4615,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+870cb94a-6e52-489f-b8c3-1fad92b541ad,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,SDV,,,Model
+0867a2ba-e872-4e89-9875-1f3322337e91,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,8,,,Unit Size
+77219f5b-a034-451c-a26b-a107844601c1,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,570,CFM,Airflow,Cooling Max
+8d020133-31f7-4d02-8bef-a95deab8307b,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,285,CFM,Airflow,Cooling Min
+10854415-73d9-4253-8384-3cab2e8dc3f4,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,285,CFM,Airflow,Reheat
+0559d602-b58c-43c2-a875-b8c7a33ddb37,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+b3fe8002-5077-4fcb-b788-073df3b00342,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+89293444-0ce0-4ed9-9e65-feb97e337c10,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+dab20494-91e0-4c21-93be-443e972c50aa,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3.3,KW,,Heating Capacity
+1147e02e-537a-44d1-94fd-87d5fc23a50a,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,91.6,°F,Electric Reheat,LAT
+6531b94c-618d-4be2-b583-51dc0c8f8631,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+163caef7-f2ff-4025-9af2-3ab609df05bd,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+c0174492-40a3-41b4-961d-40ac735b2c72,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,20,,Electric Reheat,MOP
+1f4a63bd-d33e-49ac-82a3-6c4ea2a22d86,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,16.2,,Electric Reheat,MCA
+df5a312a-ec5f-4778-8acf-f51d87f8404d,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+aac7851c-4924-49bb-9ad8-67c8f378b324,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3.3,KW,,Heating Capacity
+3f5e0e2d-17e8-403b-ac9e-60a40f28d215,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+9dfc27e8-b42b-472d-b387-758693351684,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,SDV,,,Model
+f29281f3-24e4-4ece-a541-d55e0132cde7,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,8,,,Unit Size
+839097d4-9f8c-4db7-baa6-f03ffee01ee6,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,570,CFM,Airflow,Cooling Max
+e643a357-f3f3-4648-8b3f-1633ddb9bb99,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,285,CFM,Airflow,Cooling Min
+238619c8-bce6-46b6-bff4-f1dee03d4dc3,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,285,CFM,Airflow,Reheat
+366fc8d0-6f5d-4b1d-a825-45468aaabd54,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+5aff070c-9e10-414e-b060-eb61099a2794,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.01,IN WG,Air Pressure,OP PD
+81d354c3-644c-4330-8a5c-ab013316208c,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3.3,KW,,Heating Capacity
+9145c519-cad2-48e7-b7e8-87f3d5086029,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,277-1,,Electric Reheat,Voltage / Phase
+5106f264-2471-4c62-9a6b-2f3df7564245,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+43b04a43-d598-4088-bcc8-80da39ec8445,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,20,,Electric Reheat,MOP
+e1d2e0e9-94d5-4bb5-9bf2-c515a37dd39b,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,16.2,,Electric Reheat,MCA
+ac764405-7fda-4be5-b3db-a0f6ed73379d,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,0.01,IN WG,Air Pressure,OP PD
+9355c2aa-3bb9-4ee1-948d-fccdef817f50,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3.3,KW,,Heating Capacity
+bfa5a7cf-e2e1-4bb5-a0b6-a608d85ca932,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,91.6,°F,Electric Reheat,LAT
+86c67377-1168-4b59-9412-10b6fe54708e,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,277-1,,Electric Reheat,Voltage / Phase
+6067e5b5-ba0b-4b62-9581-87495d0ca943,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,eec607aa-5539-4423-90cf-d0a1e6b7910a,Reheat Coil Type,78ff0a14-a8af-49b0-ba76-0973b1289755,SCR Electric,,,,SCR,,Electric Reheat,EC Type
+e00cfcc1-8903-48a6-b25d-397781c8df65,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,20,,Electric Reheat,MOP
+edd6fad4-45cb-4c3d-a2c6-018c62e2a71d,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,16.2,,Electric Reheat,MCA
+f9939198-58c0-454d-a24e-66539e337868,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,SDV,,,Model
+c753e614-b4f9-4e94-b28b-e881ffd9af68,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,8,,,Unit Size
+a059dc6a-8a23-4685-9ad6-2115dc5d9e0e,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,570,CFM,Airflow,Cooling Max
+ab7b9f0c-fc55-4352-8d53-047220821e6f,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,285,CFM,Airflow,Cooling Min
+9e557c52-4c07-458a-a709-bbd84376bc0e,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,285,CFM,Airflow,Reheat
+f6749c15-64d6-4f10-bf07-20edaeaa2102,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+d638b77b-3e29-4f23-9928-2effec109482,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+d7dba09b-d6ee-4066-bab1-a122e52b9cda,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,0.01,IN WG,Air Pressure,OP PD
+873858ab-b78b-44a4-ba06-eb5f986be36d,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,91.6,°F,Electric Reheat,LAT
+6b22b04f-6058-4830-ad28-566cf68f134a,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+2d7b83c0-68a1-407b-9c94-c2a744eb446b,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,SCR,,Electric Reheat,EC Type
+e878b864-96f1-4890-8fbf-5332bef7bd83,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+919ba33d-a9c3-4ff2-984d-b8e0d368e1cd,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,91.6,°F,Electric Reheat,LAT
+93dbb1b9-b83a-45f1-acfb-5168cb75b448,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,20,,Electric Reheat,MOP
+4c70ee3f-7936-482a-8d12-04e6671c43ed,83fada9a-1b8a-48f0-a9c3-6e8f9437afb1,,,,,,,,16.2,,Electric Reheat,MCA
+e93029c1-9050-4d56-ab7a-f0b9c01b6802,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+ae845e98-84d3-4e59-b7d8-3c463923d742,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+03611894-0b0e-4f43-bf28-b09060873950,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,265,CFM,Airflow,Cooling Max
+7b698549-0043-453b-a444-9950f1aa2f64,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.063,IN WG,Air Pressure,OP PD
+9f335b1b-82b1-43b7-bb36-9e8e19400406,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.4,KW,,Heating Capacity
+def42ad9-ced0-4fb0-8d72-57dc3a6aeff1,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,277-1,,Electric Reheat,Voltage / Phase
+9ed5b9ef-71e5-4ad6-827b-a5be09da3256,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,,,,,,,,SDV,,,Model
+5d3fb816-5e84-49dd-8d2d-7c21883ecf3e,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,,,,,,,,134,CFM,Airflow,Cooling Min
+1d6226ac-bb5c-41d3-b4cb-7d77773b200b,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,,,,,,,,135,CFM,Airflow,Reheat
+d49d784b-1855-4b37-93f2-4ed50d5448b4,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+1e34d563-cff8-4632-8e8c-e46deb8c4f28,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+781eb134-a577-4278-9281-e42c0a890703,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,,,,,,,,87.8,°F,Electric Reheat,LAT
+a90e4c6f-1d83-4a95-81ea-f897338810e7,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,,,,,,,,SCR,,Electric Reheat,EC Type
+fed11cbc-78a9-4f11-a397-91ccb8462926,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,,,,,,,,15,,Electric Reheat,MOP
+8168f504-aceb-48a2-89ed-f67e6b7c572a,c6d1f82b-c7d0-4dae-9986-ebb246896bfe,,,,,,,,6.9,,Electric Reheat,MCA
+ace9463b-b39a-4a13-9217-c40285a254f5,5537b3ed-64db-45cc-a7de-40744a2ce793,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,33964a1e-f61f-4dcc-a82c-8c06f42ebb91,Price Industries,,,,PRICE,,,Manufacturer
+23c6159d-fe04-407e-b521-d8fd474e3c3e,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,SDV,,,Model
+2d2f077a-acff-44cd-a1e0-44581ee9690f,5537b3ed-64db-45cc-a7de-40744a2ce793,325c8c53-9f6e-4c60-b9b8-031a198a562a,Inlet Size,,,,,,6,,,Unit Size
+9b119092-9b77-468e-9e77-ef75a5e34092,5537b3ed-64db-45cc-a7de-40744a2ce793,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,290,CFM,Airflow,Cooling Max
+cb29c17f-42bd-4eba-b63a-bf575f4fe56c,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,154,CFM,Airflow,Cooling Min
+3d15fb6b-b3d1-46aa-9485-adbbe4ec217e,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,155,CFM,Airflow,Reheat
+f620fea4-6888-45d2-af4f-93277ce1445a,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,1.25,IN WG,Air Pressure,Inlet Static Pressure
+bc83a9b6-2084-42ae-b0cb-c77f2adfaf52,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,0.25,IN WG,Air Pressure,Downstream
+22e54ac5-bd0c-4f32-8584-85a2d0e5de4c,5537b3ed-64db-45cc-a7de-40744a2ce793,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.075,IN WG,Air Pressure,OP PD
+5b519caa-06b1-41a7-8c14-83f4c81887c4,5537b3ed-64db-45cc-a7de-40744a2ce793,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,1.6,KW,,Heating Capacity
+2a1eae6c-d40f-48f8-a3ed-1bd70ad9eb33,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,86.9,°F,Electric Reheat,LAT
+252db8cf-55ef-4766-b39f-ec86dad3d0d3,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,277-1,,Electric Reheat,Voltage / Phase
+49f67394-989b-4e13-a4f0-c5d324620dd3,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,SCR,,Electric Reheat,EC Type
+d98fcf98-e931-485b-931e-9137b1f078dd,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,15,,Electric Reheat,MOP
+5b4d5164-d07c-49f6-92bd-5f8aa697772b,5537b3ed-64db-45cc-a7de-40744a2ce793,,,,,,,,7.9,,Electric Reheat,MCA

@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+51b19f6d-10b5-4865-b796-ccd2d84e9834,WH-3,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,7ee7e523-a5c7-4712-950b-844277a421fd,FRA1512F,FRA1512F,Berko,Berko
+81204d26-312f-4c50-81e7-f96b42a23c28,WH-4,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,7ee7e523-a5c7-4712-950b-844277a421fd,FRA1512F,FRA1512F,Berko,Berko
+19928288-1708-4ee0-a60b-6341dbc18dac,WH-1,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,7ee7e523-a5c7-4712-950b-844277a421fd,FRA1512F,FRA1512F,Berko,Berko
+a1d0d0e6-f238-4205-9d3b-b822ec4d3594,WH-2,88aa2ec8-10cf-4cbd-a46b-e1103e06d077,Wall and Ceiling Unit Heaters,0,7ee7e523-a5c7-4712-950b-844277a421fd,FRA1512F,FRA1512F,Berko,Berko

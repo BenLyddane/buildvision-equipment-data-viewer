@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+2008a8ed-c8d6-47d6-a3b5-9e30d4ca5a9b,IR-03,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,837044fb-499b-4a4d-9f79-16498777f3d6,CTH2V-80,CTH2V-80,Roberts Gordon,Roberts Gordon
+91576807-9e24-456d-8b53-a3f935cae4e2,IR-05,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,0ddaf37b-f9e7-42a7-9f37-e23e3e77d0db,HEV-80,HEV-80,Roberts Gordon,Roberts Gordon
+adcdf569-2eca-4714-9a73-98e1fdddfd32,IR-01,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,837044fb-499b-4a4d-9f79-16498777f3d6,CTH2V-80,CTH2V-80,Roberts Gordon,Roberts Gordon
+49d3e2e6-9cb6-4c09-9efc-3d1ab1cad7a3,IR-02,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,837044fb-499b-4a4d-9f79-16498777f3d6,CTH2V-80,CTH2V-80,Roberts Gordon,Roberts Gordon
+fa707e94-54f8-4a81-8c89-622f7b4c14b5,IR-04,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,837044fb-499b-4a4d-9f79-16498777f3d6,CTH2V-80,CTH2V-80,Roberts Gordon,Roberts Gordon

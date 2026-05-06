@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+9967c4ab-b6a0-4c9d-ad48-5315238f2738,DS-3,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,d13c815c-992e-41aa-9443-9911b1309efe,PKA-AL18NL,PKA-AL18NL,Trane,Trane
+e41de1a5-6223-4d0d-b04e-bee7b7a7fe36,CU-2,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,be1a9425-5b8f-44d6-a209-ad5013c56c65,PUZ-AK12NL,PUZ-AK12NL,,
+77c40c2e-a784-4769-bf33-d42f443ff9c5,CU-1,6e8977c7-aa28-4436-9fa4-2e23e0d5d07e,VRF Outdoor Units,0,5e010cb3-49df-498e-a1a5-2034e0d0e06f,PUZ-AK36NLHZ,PUZ-AK36NLHZ,,
+a50bfbc7-4bf5-46be-aee0-0ef1fcb9e938,DS-1,40dcc588-efa0-4d9c-a28a-a81c042a18ce,VRF Indoor Units - Ductless,0,8bb7562f-e0d2-4775-b972-2de4c39e610b,PKA-AK36NL,PKA-AK36NL,Trane,Trane
+60033f0f-99d4-4784-94fb-337b0b9712bc,DS-2,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,1e57b28f-4d21-4b5b-9e2b-7b5e42260523,PKA-AL12NL,PKA-AL12NL,,
+b01a2c8c-3a86-4e34-a60f-4b9df22f0293,CU-3,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,4e716516-f6fd-4e81-8c6d-58dd6512163e,PUY-AK18NL,PUY-AK18NL,Mitsubishi Electric (Including Trane Products),

@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+e89b4d48-dc49-4a20-8633-720ab9f4ef6a,WCC-3,e34279c3-9ba4-4468-ac00-5091bbcf804a,Water-Cooled Centrifugal Water Chillers,0,53d9de39-037b-48d3-a850-370f5542984c,WME092CDCSNA,WME092CDCSNA,Trane,Trane
+89acaee6-5c78-4686-8e3b-b62c46899bf4,WCC-1,e34279c3-9ba4-4468-ac00-5091bbcf804a,Water-Cooled Centrifugal Water Chillers,0,53d9de39-037b-48d3-a850-370f5542984c,WME092CDCSNA,WME092CDCSNA,Trane,Daikin AC
+e063b4dc-51dc-4c9e-a383-13961cbdcc1d,WCC-2,e34279c3-9ba4-4468-ac00-5091bbcf804a,Water-Cooled Centrifugal Water Chillers,0,53d9de39-037b-48d3-a850-370f5542984c,WME092CDCSNA,WME092CDCSNA,Trane,Trane
+b61b0c69-92a8-4e08-8820-3df2a71f2be9,WCC-4 (FUTURE),e34279c3-9ba4-4468-ac00-5091bbcf804a,Water-Cooled Centrifugal Water Chillers,0,53d9de39-037b-48d3-a850-370f5542984c,WME092CDCSNA,WME092CDCSNA,Trane,Trane

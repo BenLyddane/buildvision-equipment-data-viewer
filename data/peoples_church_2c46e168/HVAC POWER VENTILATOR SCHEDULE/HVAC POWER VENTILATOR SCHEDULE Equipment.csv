@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+f6f3f388-9861-4846-ba9e-a4af3b137019,EF1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,1,e9cea24b-a393-4d19-880a-f1191e4245a7,G-095-VG,G-095-VG,Greenheck,Greenheck
+f5ad8f1d-2afd-4fe5-acbf-2bd62e3ea915,EF2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,1,e9cea24b-a393-4d19-880a-f1191e4245a7,G-095-VG,G-095-VG,Greenheck,Greenheck
+81dde064-9029-489a-8ada-240b12fef05e,EF4,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,80afa989-45fb-439b-8f95-fc2111b78093,G-097-VG,G-097-VG,Greenheck,Greenheck
+26cb36fd-47ee-44ea-b946-3a6b4153ae18,EF5,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,f371634d-d1f4-41e7-9dbd-b922b01d0f13,SP-LP Series Low-Profile Ceiling Exhaust Fan,SP-LP,Greenheck,Greenheck
+0df6556e-4565-43e5-ab5e-fce2a8b5be60,EF3,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,8428dfc2-cff3-422d-a024-3dbd44c963d5,G-140-VG,G-140-VG,Greenheck,Greenheck

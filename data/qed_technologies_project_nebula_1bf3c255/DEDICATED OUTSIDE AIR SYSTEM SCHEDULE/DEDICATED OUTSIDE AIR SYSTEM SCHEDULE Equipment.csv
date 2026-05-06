@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+1799ea8c-4323-4c66-8427-55bff7d9609c,DOAS-2,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,0,a0cd1b75-11b8-408e-9d60-1c5a55db5857,RV-10,RV-10,Greenheck,Greenheck

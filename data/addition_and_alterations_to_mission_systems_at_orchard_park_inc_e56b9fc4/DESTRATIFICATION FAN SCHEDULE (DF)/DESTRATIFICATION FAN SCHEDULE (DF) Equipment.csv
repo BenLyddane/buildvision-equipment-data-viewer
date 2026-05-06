@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+4ea83124-401b-4677-926c-fba7e5f44727,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,47ad09fe-1eaa-4398-b950-09c2193fc5ba,G-099-A,G-099-A,Greenheck,Greenheck
+444752a5-f176-4d16-9540-2877440c00d4,DF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,af1f7b9c-264b-4631-8b2d-1b14aea585f3,A-15-SP-STD-120-X,A-15-SP-STD-120-X,AIR PEAR,AIR PEAR
+74e23b68-833a-4b14-96e9-2bce35d9ae33,EF-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,c2c373c3-2545-4d89-b0db-d8797d6c15a1,SP-B110-ES,SP-B110-ES,Greenheck,Greenheck

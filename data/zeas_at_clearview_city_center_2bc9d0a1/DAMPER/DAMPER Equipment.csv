@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+fb04a49e-bab0-4bd1-ae5b-9bc1d33b1693,D-1,24074cf0-d09f-4f23-b6e5-866c864d4844,Air Coils,0,,,,,Price Industries
+f329e10d-aaa6-45d7-a947-64fba94512ce,D-2,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,f6c36ec8-b84a-4469-833c-f9ce30f8d0c4,MD-35,MD-35,Ruskin,Ruskin
+c409ff2e-f450-44a9-a46e-26dd9c878569,D-3,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,375f0057-2cb9-4115-a354-058e9957d203,CD60 Control Damper,CD60,Ruskin,Ruskin

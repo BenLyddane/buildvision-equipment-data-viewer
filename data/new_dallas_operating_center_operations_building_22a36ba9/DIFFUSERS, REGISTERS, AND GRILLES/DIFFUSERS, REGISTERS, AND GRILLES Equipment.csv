@@ -1,0 +1,11 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+aa4d3866-8049-4c8d-afc9-e27b1970ef3e,CD-1,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+890e9775-b24f-4b9c-b789-334cecd4f8a5,CD-2,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+102c6497-f8e5-466c-b71e-e91f062133fa,CD-3,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+eab0be70-0e58-4032-a9d5-9f092eb8c9d6,CD-4,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,ebfe4abe-6910-403b-b4ba-cdb67927edea,SPD,SPD,Price Industries,Price Industries
+e2fff5ac-53ff-4f2e-ab94-350be614a5b5,EG-2,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,f79f7785-23f8-4047-8321-37597ae8045c,530,530,Price Industries,Price Industries
+f4ada81d-5a44-4fd9-a854-61e8fc60770f,EG-3,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,f79f7785-23f8-4047-8321-37597ae8045c,530,530,Price Industries,Price Industries
+fdd078d7-d8f5-44ae-b90c-cea3eae8d9da,RG-1,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,f79f7785-23f8-4047-8321-37597ae8045c,530,530,Price Industries,Price Industries
+8e757400-92c1-4648-98ab-a906a1da185a,RG-3,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,f79f7785-23f8-4047-8321-37597ae8045c,530,530,Price Industries,Price Industries
+fa009c50-4571-45fe-ae30-9cf7d47d1e8d,TG-3,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,f79f7785-23f8-4047-8321-37597ae8045c,530,530,Price Industries,Price Industries
+8f4231f9-68c5-476b-9299-71129db9d475,EG-1,96e3c67f-58e4-4b2e-acd4-884ab173b553,Ceiling Diffusers,0,f79f7785-23f8-4047-8321-37597ae8045c,530,530,Price Industries,Price Industries

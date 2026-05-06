@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+ba3bfcc8-a4d7-4c27-ba5e-72c5a0cc92b2,CRCU-2,fd11bf76-fb96-4d01-8fdf-875daf6d638e,Air-Cooled Refrigerant Condensers,0,1d17b2d5-a7f9-49a9-80f1-e677f4d9dae8,MCL055,MCL055,Liebert (Vertiv),Liebert (Vertiv)
+b0790993-05b8-4c0d-a2e5-1a7355adbb35,CRAH-1,9d09fa82-e372-4733-8c0a-141c5f5762b1,Computer-Room Air-Conditioners,0,0a7ab372-9e9e-4dce-a72c-dfa0f43d7e87,CR032RC,CR032RC,Vertiv Liebert,Vertiv Liebert
+f63ea23a-c542-4b11-953a-db1ffdf532f4,CRCU-1,fd11bf76-fb96-4d01-8fdf-875daf6d638e,Air-Cooled Refrigerant Condensers,0,1d17b2d5-a7f9-49a9-80f1-e677f4d9dae8,MCL055,MCL055,Liebert (Vertiv),Liebert (Vertiv)
+e143ec28-b842-4430-a52b-1e8c7e79af01,CRAC-2,9d09fa82-e372-4733-8c0a-141c5f5762b1,Computer-Room Air-Conditioners,0,f5e64f61-5421-46ed-843b-c5419307d7f7,CR035RA,CR035RA,Vertiv Liebert,Vertiv Liebert
+b54c3b15-ba00-4d23-be69-4def7d082e57,CRAC-1,9d09fa82-e372-4733-8c0a-141c5f5762b1,Computer-Room Air-Conditioners,0,f5e64f61-5421-46ed-843b-c5419307d7f7,CR035RA,CR035RA,Vertiv Liebert,Vertiv Liebert
+1dade2ab-819b-4a72-8d1c-c08a9187dcc0,CRAH-2,9d09fa82-e372-4733-8c0a-141c5f5762b1,Computer-Room Air-Conditioners,0,0a7ab372-9e9e-4dce-a72c-dfa0f43d7e87,CR032RC,CR032RC,Vertiv Liebert,Vertiv Liebert

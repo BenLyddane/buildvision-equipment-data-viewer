@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a91df4a7-2302-4e21-9023-f511b31aa933,Branch Panel: S2,3d0b80bf-1f43-46eb-8c0a-5e3f3e58b97a,Panelboards,0,,,,,
+642a8f27-5916-4094-acfa-c54ac0a341d3,Branch Panel: S1,3d0b80bf-1f43-46eb-8c0a-5e3f3e58b97a,Panelboards,0,,,,,
+66fd9287-1927-477c-b274-62925aa0a3bf,MDP1,3d0b80bf-1f43-46eb-8c0a-5e3f3e58b97a,Panelboards,0,,,,,
+f35e9e24-fd2e-4187-9eb1-c1b8afc79ff5,MDP2,3d0b80bf-1f43-46eb-8c0a-5e3f3e58b97a,Panelboards,0,,,,,
+77471793-ff6a-474e-b3b9-70975afab1fc,Branch Panel: MDP1,3d0b80bf-1f43-46eb-8c0a-5e3f3e58b97a,Panelboards,0,,,,,
+757f5b0f-af6e-454d-872b-b78bd4117be3,Branch Panel: MDP2,3d0b80bf-1f43-46eb-8c0a-5e3f3e58b97a,Panelboards,0,,,,,

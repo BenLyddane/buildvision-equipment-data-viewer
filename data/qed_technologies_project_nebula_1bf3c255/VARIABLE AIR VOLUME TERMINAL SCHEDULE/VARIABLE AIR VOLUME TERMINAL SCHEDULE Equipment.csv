@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+db323e00-092b-4fcd-a019-031dddcc2ef0,VAV-1,51041420-f0c5-41e5-80f6-77dd2cc0f08e,Variable-Air-Volume Terminal Units,0,2e2bf32c-b1f9-460d-9826-9ecaf17367ff,XG-TH-500,XG-TH-500,Greenheck,Greenheck
+28c829c8-a77e-4888-88ee-b7388f162cea,VAV-2,51041420-f0c5-41e5-80f6-77dd2cc0f08e,Variable-Air-Volume Terminal Units,0,2e2bf32c-b1f9-460d-9826-9ecaf17367ff,XG-TH-500,XG-TH-500,Greenheck,Greenheck
+fcc814bb-eb6c-4854-9147-2339df25f8af,VAV-4,51041420-f0c5-41e5-80f6-77dd2cc0f08e,Variable-Air-Volume Terminal Units,0,2e2bf32c-b1f9-460d-9826-9ecaf17367ff,XG-TH-500,XG-TH-500,Greenheck,Greenheck
+066d8b4e-6e4b-4b38-bd86-0b3604f4c456,VAV-3,51041420-f0c5-41e5-80f6-77dd2cc0f08e,Variable-Air-Volume Terminal Units,0,2e2bf32c-b1f9-460d-9826-9ecaf17367ff,XG-TH-500,XG-TH-500,Greenheck,Greenheck

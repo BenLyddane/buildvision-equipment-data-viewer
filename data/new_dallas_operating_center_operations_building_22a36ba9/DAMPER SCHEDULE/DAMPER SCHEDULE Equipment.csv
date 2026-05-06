@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+2b6bfc19-9c5c-4798-b96f-a86b965ff16e,MOD-1,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,393c79f7-03e9-478b-9d37-05e119f1fd23,VCD-23,VCD-23,Greenheck,Greenheck
+e92f8849-a1a5-4254-8745-b68973f220dd,MOD-2,67515ee4-d441-4497-a6d2-dea4c565341c,Dampers,0,393c79f7-03e9-478b-9d37-05e119f1fd23,VCD-23,VCD-23,Greenheck,Greenheck

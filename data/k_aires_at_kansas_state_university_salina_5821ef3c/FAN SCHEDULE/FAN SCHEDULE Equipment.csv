@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+e1437599-0d30-4d29-9ae4-b5dc63b22ab1,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,7de6f40c-fc95-41ea-9964-85d966d21506,CSP-A710,CSP-A710,Greenheck,Greenheck

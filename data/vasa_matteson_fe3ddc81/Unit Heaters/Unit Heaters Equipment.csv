@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+be9e4a88-0aa9-4134-b4bb-c923230b12df,GFUH-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,3,37bee68c-c466-406d-8f88-ddfae5c3c9a5,HD30,HD30,Modine,
+baf3a8bb-eaa8-4b30-a5dc-f99d1dd4e222,GFUH-2,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,37bee68c-c466-406d-8f88-ddfae5c3c9a5,HD30,HD30,Modine,
+acb58063-9e9a-48d5-b7eb-bca826368c14,GFUH-3,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,37bee68c-c466-406d-8f88-ddfae5c3c9a5,HD30,HD30,Modine,
+e712c84c-ebf4-40ec-87e9-7e0fdb6b9e7c,GFUH-4,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,37bee68c-c466-406d-8f88-ddfae5c3c9a5,HD30,HD30,Modine,
+ec7a5e91-e0d2-455e-8936-87b31c9be479,GFUH-5,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,1,37bee68c-c466-406d-8f88-ddfae5c3c9a5,HD30,HD30,Modine,

@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+e5de5e9f-88ef-40b1-ba52-83f9923764c4,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,3117f0c7-9b35-457d-9453-7285eed1c237,CUE-095-DGE119QXD,CUE-095-DGE119QXD,Greenheck,Greenheck
+a4680264-325f-4813-9fb9-2b2274bd46ee,EF-3,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,a05a098e-17f2-456a-8065-8ffdee55c5d5,SP-A90-QD,SP-A90-QD,Greenheck,Greenheck
+8e2cec59-7a24-4ccb-aa02-e233e83787e6,EF-4,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,a05a098e-17f2-456a-8065-8ffdee55c5d5,SP-A90-QD,SP-A90-QD,Greenheck,Greenheck
+5a7a8ba1-52e4-4843-89bd-5b4959561244,EF-5,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,dcbaf41a-7e00-4fd9-b293-e2364c082b59,SEY-12-DGEX-QD,SEY-12-DGEX-QD,Greenheck,Greenheck
+81a12fbf-2d2d-4989-abab-f3e582a24861,EF-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,3117f0c7-9b35-457d-9453-7285eed1c237,CUE-095-DGE119QXD,CUE-095-DGE119QXD,Greenheck,Greenheck

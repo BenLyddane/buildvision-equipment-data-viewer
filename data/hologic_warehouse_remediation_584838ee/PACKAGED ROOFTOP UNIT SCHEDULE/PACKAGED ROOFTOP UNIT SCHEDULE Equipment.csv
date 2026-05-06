@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+37b0823d-6bc6-43fa-ad7a-df4519e0347b,RTU-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,8,f0832150-91ff-4fad-8f59-85fabc8402ff,RT-70-10L-I-GO,RT-70-10L-I-GO,Greenheck,Greenheck
+90342c1d-85fd-4fd9-a9e5-c35f9b74160d,RTU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,6,80b0f508-3cbb-4bec-a20e-68aef2a8f72c,RT-120-20L-I-G0,RT-120-20L-I-G0,Greenheck,Greenheck

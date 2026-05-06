@@ -1,0 +1,421 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+8fdea855-51c6-4eb3-8c75-e952548daea6,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,FVI,,,Model
+71317047-95ec-441f-b725-530fc1224867,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,LEFT,,,Handing
+a38f1e16-7138-49d2-8d85-9101cb398bf3,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,10,,,Inlet Size
+fc213663-5c74-48da-9351-00ae5b9803fc,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,800,CFM,Cooling,Max CFM
+15c8bb87-ee51-400a-88dd-d4f564ab97d9,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,240,CFM,Cooling,Min CFM
+b91b98c2-eb40-4492-958f-97691e9152c7,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,240,CFM,,Heating Inlet CFM
+62c4c7c4-0408-4786-bf05-8a509017e18e,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,240,CFM,,Fan CFM
+b9ceb9a5-975c-41af-b717-3ed4ca7376b3,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+66441f56-c194-4b59-af68-48cd5e691305,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+d95c0055-8ec4-42c0-880b-e7dd8a44b67f,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,6,kW,Electric Reheat Coil Data,Coil Size
+0e61427b-a5f3-4991-ad66-4f63d714a5e4,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,2,,Electric Reheat Coil Data,# Steps
+38013111-45d4-45c1-bf32-6837a5d9e9ca,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+7d835979-c723-4451-9596-117fa0a8323c,cc3123d9-ab2a-46f1-969a-178f43ae86c8,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,460/3,,Single Point Power Info,Volt/PH
+6429aa32-2848-4f6c-817c-33338120d9f6,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,10,,Single Point Power Info,MCA
+d60f12d9-5475-4620-b207-7b7b5397fd68,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,15,,Single Point Power Info,MOCP
+4db82920-6bb1-4a8e-bab2-6a4de0e0c9db,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,MetalAire,,,Manufacturer
+210e3376-61ca-4f3a-8763-812f41c4bbfe,cc3123d9-ab2a-46f1-969a-178f43ae86c8,,,,,,,,"1,2",,,Notes
+9c572b0c-c0fa-41b5-a5d3-3bd4823e9b20,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,TH,,,Model
+f0860500-2261-46c5-b1a4-d1ff7e619c91,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,LEFT,,,Handing
+14d546dd-f8df-4ddc-bdf9-e00953889ece,9cb32947-bfde-40f6-9f2a-dbf12106e054,c730edbc-e1f3-4eac-ae25-f51282ab55aa,Gas Connection Size,,,,,,6,,,Inlet Size
+03534139-c7e7-45bd-b2f0-5762d5e87f44,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,225,CFM,Cooling,Max CFM
+d5b758bf-d33d-4d95-b766-f43eb4ac9eea,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,68,CFM,Cooling,Min CFM
+99d5b91f-e607-42d5-9e69-dde8218a4591,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,140,CFM,,Heating Inlet CFM
+83a4175d-14f9-4567-96a7-791d96fe536e,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,NA,CFM,,Fan CFM
+e79d222e-66df-458e-8e04-eeb55deab849,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+3d6851d2-613e-4e54-bbb8-64b8d7e05586,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+35094d30-ca8f-4d8c-8013-00c6dd72c0eb,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,2,kW,Electric Reheat Coil Data,Coil Size
+9092ddad-375f-4f47-8c1d-208efe71746d,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+00b45789-f6ed-45cd-ade4-7f553e3fb0dc,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+3a402298-0e37-4cb2-a991-6d33b1a88280,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+663dea0d-7b3c-4667-be1b-294363b3d25d,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,15,,Single Point Power Info,MOCP
+de9138aa-5d45-4e34-8f5a-5b0bb955bdd9,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,MetalAire,,,Manufacturer
+d800d583-092f-4f05-b5a6-163697214704,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,1,,,Notes
+37db07ac-618b-4c1c-b57f-9ba40ed03d6b,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,TH,,,Model
+641e17cc-3086-4327-9c9d-adb5b443df75,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,LEFT,,,Handing
+cd783422-762c-4a2a-b688-0466f24113eb,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,6,,,Inlet Size
+49e0b991-2959-4b0b-b1ba-dbeaafdd55cd,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,225,CFM,Cooling,Max CFM
+56c19fbd-2bf5-4aab-96d5-c5d10baeacdd,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,68,CFM,Cooling,Min CFM
+9cde4308-3c5f-450f-8af4-e36d33863bed,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,140,CFM,,Heating Inlet CFM
+1b628ae9-5460-4305-89ec-a7d1df13df34,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,NA,CFM,,Fan CFM
+adf60086-9915-46f8-a70c-d5677bece3b3,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+e10f80b4-062e-4631-a40f-6dac8efaf472,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+a4bf333f-d386-4297-a670-e0f2702f8616,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,2,kW,Electric Reheat Coil Data,Coil Size
+4415bb63-2352-492e-a00a-1387dba75ccd,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+482d5ce9-ad5b-41e6-99ed-6713e4e6bfe0,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+da2ad4ba-34f9-4c9c-9cbe-eb517f6cd23f,9cb32947-bfde-40f6-9f2a-dbf12106e054,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,460/3,,Single Point Power Info,Volt/PH
+c055b72e-b594-44c2-9843-0bc98f8f5374,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,15,,Single Point Power Info,MOCP
+d7477f70-3d76-4d49-92f3-6792dd721bd0,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,MetalAire,,,Manufacturer
+48e5855e-f2ac-40ea-9bd4-d59d554a8bcd,9cb32947-bfde-40f6-9f2a-dbf12106e054,,,,,,,,1,,,Notes
+11fb54dd-923c-4330-9c7f-873fa0e4f261,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,TH,,,Model
+47349a69-cdce-4711-b67f-f4bd0144e60b,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,LEFT,,,Handing
+d9bcad68-664d-4019-9dfd-55cd3a0afced,d06b64ca-2afe-4a28-9214-417b9738efdf,c730edbc-e1f3-4eac-ae25-f51282ab55aa,Gas Connection Size,,,,,,6,,,Inlet Size
+4dc7dd90-2045-40ae-9aac-cb3b3ab70834,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,225,CFM,Cooling,Max CFM
+ca0c00bb-c91f-4f76-a796-3b71bfe14548,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,68,CFM,Cooling,Min CFM
+76021002-60e7-46bb-80b8-b0ce1ddf3d47,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,140,CFM,,Heating Inlet CFM
+c9ef866d-35a1-48b3-b0d2-be096d09e9a7,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,NA,CFM,,Fan CFM
+8fa69d07-22d9-4385-85ee-dc200105efb0,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+6a41a223-d034-42ba-ab88-befacd1b5b93,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+d5a9a5c3-f66b-419d-9321-55b1c64fc671,d06b64ca-2afe-4a28-9214-417b9738efdf,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,2,kW,Electric Reheat Coil Data,Coil Size
+8e61b5bf-25cc-4f4c-a5ef-40cb5696ea58,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+9916b90e-b404-4458-bd51-35fc64bf1dd7,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+346086e8-5640-4749-82aa-5f27aea68787,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+a08d2c6c-4cac-45ff-8142-bcf3a296c39d,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,15,,Single Point Power Info,MOCP
+7d62ec91-7374-4b0a-ad0c-5d16c62f21fd,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,MetalAire,,,Manufacturer
+eb41ea79-0ebd-4248-ad60-aa38666e82f6,d06b64ca-2afe-4a28-9214-417b9738efdf,,,,,,,,1,,,Notes
+687f951c-b021-40d1-b402-fc7d0b248e36,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,TH,,,Model
+73fd2c60-4be9-41ee-ae21-f2b3a1b66491,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,TH,,,Model
+ebade579-89e7-48c3-9b38-89a352612ec2,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,LEFT,,,Handing
+25fba13c-b3bb-47c8-82e1-e0d99cccd9fd,c57c0a27-36e7-443d-bb94-dd2113334d2e,c730edbc-e1f3-4eac-ae25-f51282ab55aa,Gas Connection Size,,,,,,6,,,Inlet Size
+10be904c-d627-4af8-9251-a571746bcfd7,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,300,CFM,Cooling,Max CFM
+a15e54d7-dc01-4cbc-8d2a-e09f63bfa492,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,90,CFM,Cooling,Min CFM
+d07085ad-94db-4a5f-8792-67302259d616,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,210,CFM,,Heating Inlet CFM
+83ca83ee-e4c9-4a3b-b26c-e4c3c8314a8c,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,NA,CFM,,Fan CFM
+5c9c5d00-294c-46f8-bef8-4dfb52943ce1,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+1726c87e-eb75-4dc6-b5bf-c72a79222a84,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+516d62b6-e0ef-4b80-8a97-f5dd1a7dbfb8,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,3,kW,Electric Reheat Coil Data,Coil Size
+512f20b6-5d0e-4829-a55d-94bf58ab43f4,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+02275bbc-9468-442e-b1bf-3c6d08e4430e,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+513e6fc3-8a76-4aea-88f5-6108be367835,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+ef79ccb9-e106-499d-a91a-299deb47a78f,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,15,,Single Point Power Info,MOCP
+5e75083b-6be4-45c3-a624-aea53ca80499,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,MetalAire,,,Manufacturer
+4275cc8f-a59d-4cc6-931a-7f5e172d250a,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,1,,,Notes
+a2f4217c-0639-4fb3-8655-44d4d1fd3a5e,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,LEFT,,,Handing
+477fe8bd-de09-4467-9e12-27fcf503adfc,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,6,,,Inlet Size
+aa68d7d3-c14a-49e4-b174-f57fd076cd7d,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,300,CFM,Cooling,Max CFM
+b50b9013-57ae-40a9-927a-ccbc1645dcb3,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,90,CFM,Cooling,Min CFM
+4fa62dfb-c3c3-48a4-9218-58805a32d3da,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,210,CFM,,Heating Inlet CFM
+bebd32b0-46b0-4d91-aa3e-dac079ddb656,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,NA,CFM,,Fan CFM
+910abec9-650c-4c59-a1ee-0f6f00c03336,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+e4ab7c56-953e-4546-a7c7-aec02dd8c076,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+aa4594e2-6534-4ff3-9180-affaa594788b,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,3,kW,Electric Reheat Coil Data,Coil Size
+0e4fdb4e-59f1-48c3-9f60-664826a1be4b,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+bf21b5a9-e9e6-4448-b988-5764257e73f7,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+f8c2d37b-c6c9-4aaf-9efc-5d0517d02759,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+1de97fc1-29b1-44de-bfc8-7d00dc554965,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,15,,Single Point Power Info,MOCP
+1e728adc-91c6-4cf8-9506-72627219670b,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,MetalAire,,,Manufacturer
+12243981-9939-4e79-82fe-56ac86bb5af8,c57c0a27-36e7-443d-bb94-dd2113334d2e,,,,,,,,1,,,Notes
+0dbe2e02-f43d-47c8-8369-e4f68a7c6c7c,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,TH,,,Model
+c5e89773-ca2f-45c4-9606-ce0d7fa32d09,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,TH,,,Model
+b9d4b5c5-263e-4090-8f2e-41aa700ea9d8,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,LEFT,,,Handing
+a06b1744-3402-4667-82fa-5224d5df9aa0,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,6,,,Inlet Size
+7ff76949-9bf1-4cdb-a28b-2f4965655abe,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,300,CFM,Cooling,Max CFM
+1fe89605-e08e-46ce-aaa2-22c42135dc04,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,90,CFM,Cooling,Min CFM
+380e0399-a59f-46ad-8505-7e9e85218c04,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,210,CFM,,Heating Inlet CFM
+5c11e033-aac2-4bc9-a3a7-e082a5f9ecbc,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,NA,CFM,,Fan CFM
+2194dc5a-af2a-4d2c-aebf-8b59f7ba665f,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+ceab66d9-4435-4df8-a273-ddd3b29af916,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+bac9108c-5432-43a9-a130-55e16dcf3627,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,3,kW,Electric Reheat Coil Data,Coil Size
+423cfa0c-e664-4f6f-89bd-a01f7e6c68bc,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+bc4fbcd9-2b66-4f2c-8ab9-4c6fe5ba8579,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+e7960698-c567-4e74-9083-53ce92ce387b,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,dda99289-4130-4af0-b6c3-1e1b68254bc8,3Ø,,,,460/3,,Single Point Power Info,Volt/PH
+d3d40c99-24cd-455b-955b-04f78bf110a0,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,15,,Single Point Power Info,MOCP
+f9437a9f-25f7-48ae-ae8a-06e95a5453a7,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,MetalAire,,,Manufacturer
+d207b6cb-732a-450a-9776-a1d85edb1848,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,1,,,Notes
+6d244b10-a7a0-4fd7-81b4-1cac6feb06ee,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,LEFT,,,Handing
+86e8299f-50fe-467a-9ffb-08f660683f3d,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,6,,,Inlet Size
+3307e237-8619-4d10-9084-8ddde12c2d9f,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,300,CFM,Cooling,Max CFM
+f8153e43-7434-4f56-89c5-97126f6b46a1,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,90,CFM,Cooling,Min CFM
+b08ee330-9bff-4a05-b262-377fab500d13,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,210,CFM,,Heating Inlet CFM
+8cb6e27d-8f68-43e9-9dd9-d209aeed903c,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,NA,CFM,,Fan CFM
+8c1523ac-5d84-4b69-b353-2bd0df8bea1c,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+4300f57a-81fb-45ff-b517-ea1a22fe5054,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+d468a6cd-a161-400b-bb9f-0ef5b7fac667,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,3,kW,Electric Reheat Coil Data,Coil Size
+f86508cc-5bfc-4f2e-9e7e-4caee8ca8e1d,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+d7175139-7fbf-46d4-83a4-fec914728b88,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+3b45746b-dddc-48f4-be1c-394a141aa276,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,460/3,,Single Point Power Info,Volt/PH
+056f3707-cc66-48b1-9fcb-35fc593d9739,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,15,,Single Point Power Info,MOCP
+6b26d81b-ec89-4d8f-aae4-2a89744c3e13,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,MetalAire,,,Manufacturer
+d5c1092f-690f-400b-bdf3-362dd4ad69e9,9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,,,,,,,,1,,,Notes
+7c80588b-f512-493a-a529-2631f2e4848b,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,FVI,,,Model
+509dfc1e-d1c0-4591-9fa0-203bf723bf18,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,LEFT,,,Handing
+a5eff5c9-7391-4212-893e-1ca9933efe4f,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,14,,,Inlet Size
+e0ce1fa9-04a0-4343-9845-ccb0f6321467,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,"2,500",CFM,Cooling,Max CFM
+5d6b00f2-5769-49ce-80cd-c79273dcf9b4,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,750,CFM,Cooling,Min CFM
+4abf74aa-0763-466b-9a30-1275259bd1e8,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,750,CFM,,Heating Inlet CFM
+f970644b-8389-4bea-835f-7477bee83ea8,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,750,CFM,,Fan CFM
+e8345943-b928-4f88-8df6-3c689c84d176,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+a0b3456d-41b0-41bc-b5ce-4609cbc85e7c,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+f61f6fcd-759d-4ba5-bbc0-d42560ee6f4e,6166528e-f334-4a79-840e-cb96e6650aa2,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,17,kW,Electric Reheat Coil Data,Coil Size
+683ab580-422e-48a4-8910-c48799b3142f,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,2,,Electric Reheat Coil Data,# Steps
+b4917f43-8b98-42a5-b3ea-7e230490c45a,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+c069ca13-14d7-4f38-b010-690328ba5059,6166528e-f334-4a79-840e-cb96e6650aa2,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,460/3,,Single Point Power Info,Volt/PH
+a2160cfb-f17e-4d65-bcbc-e20b8dae9aa7,6166528e-f334-4a79-840e-cb96e6650aa2,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,28,,Single Point Power Info,MCA
+bd7f9fbf-dad2-43d7-bb3a-ecd918b685db,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,30,,Single Point Power Info,MOCP
+1fc0f992-3b9f-450e-b23f-277d86bac662,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,MetalAire,,,Manufacturer
+e30179c7-c8cc-4445-933b-0160590295e0,6166528e-f334-4a79-840e-cb96e6650aa2,,,,,,,,"1,2",,,Notes
+6e5f2295-1bcc-460d-b999-b59b0e2e5fec,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,FVI,,,Model
+e81276d9-0ee6-4281-bf4e-2d0d2f09e72e,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,LEFT,,,Handing
+d026cf33-7cf9-41f0-b5b4-87aabb1166d5,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,10,,,Inlet Size
+12330b5e-2011-4a3f-a640-b82727d9ff3e,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,"1,000",CFM,Cooling,Max CFM
+49bf31df-95f7-43b5-8677-1ec5e0af584a,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,300,CFM,Cooling,Min CFM
+a7159c9e-f536-4a1e-bf35-9943c7769435,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,300,CFM,,Heating Inlet CFM
+f1babe01-daef-4b0d-8708-91cd1730d2e4,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,300,CFM,,Fan CFM
+838be10f-7bcf-49f6-9b26-6285a4b5ad85,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+02c9d0f3-f043-410b-9892-a3a2f68484ca,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+0b4e4f20-f96c-467a-8bfe-75de88da69a1,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,8,kW,Electric Reheat Coil Data,Coil Size
+0db36887-3b6e-47bf-a93b-0675e59c4b42,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,2,,Electric Reheat Coil Data,# Steps
+813bcbeb-e762-406d-86b7-7feae1d6ad8d,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+85c72f70-2995-46d4-b723-0275d13e60c0,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+426f50a5-d87e-45b7-b5cc-d81ba27942bb,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,13,,Single Point Power Info,MCA
+f36eeaa3-cf13-4819-a86f-cbf7f178d5c6,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,15,,Single Point Power Info,MOCP
+da70da3c-28ae-44ad-b84f-4442213d5a81,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,MetalAire,,,Manufacturer
+9a40d3c0-e335-43b8-b6ec-cfab535d3880,2f3413e8-c371-4374-9939-b70ac197a4c5,,,,,,,,"1,2",,,Notes
+7343aff7-134e-4b30-a1ec-0e50a48d906f,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,FVI,,,Model
+ae26935d-b869-4957-9b85-6c240c0c4d12,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,LEFT,,,Handing
+77f6c011-2de4-4672-85c5-46ede420c4ff,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,16,,,Inlet Size
+05a35d68-e8e5-45ce-aecf-fd8671a432d0,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,"3,900",CFM,Cooling,Max CFM
+ffde1beb-82ec-47d2-96bb-edd0d6fb8cf1,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,"1,170",CFM,Cooling,Min CFM
+7b0be438-9c8f-4642-b3aa-0a45652efe7b,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,"1,170",CFM,,Heating Inlet CFM
+8212befd-d1dc-4121-9ffc-91a3f785aa34,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,"1,170",CFM,,Fan CFM
+7269417a-5753-45c4-8d2a-095b2d9b5637,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+39df85c0-a3f9-4e95-8d30-dfb05d2c8b1a,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+9adc9bd1-57f4-4417-9824-1ab464ac5be3,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,25,kW,Electric Reheat Coil Data,Coil Size
+86ef78f4-ad8c-4c89-8e80-0612ce874bbb,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,2,,Electric Reheat Coil Data,# Steps
+94a05a5d-1f1c-4002-bb6c-f3a1b79ff805,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+df454a96-8c0c-4c93-9768-c31fde42e66f,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+dbdf9478-be9e-4467-a8a1-d2c8ff404849,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,42,,Single Point Power Info,MCA
+865cb01d-2756-40f8-8edf-485d7ff309ed,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,45,,Single Point Power Info,MOCP
+d0cd8fce-bc8f-44f9-b74f-c5bce06757bf,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,MetalAire,,,Manufacturer
+201c1085-12d7-4fa5-ba0e-c7216c04c919,1a623ed4-9458-4e68-9dad-c632cb312488,,,,,,,,"1,2",,,Notes
+6f7549d4-e26b-4c28-9631-d74a27ddc74e,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,FVI,,,Model
+88588a51-a98c-4b3a-8235-8f099b6230a0,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,LEFT,,,Handing
+1a5d0317-ba4b-4fb7-b7df-d3b100282161,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,12,,,Inlet Size
+4a337568-66c5-44fd-9724-aa78f39fc02e,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,"1,300",CFM,Cooling,Max CFM
+5990777c-aecd-4b8a-b6cf-fa7f081e5c0e,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,390,CFM,Cooling,Min CFM
+bb94175d-8bef-4d8a-9fc7-5ca81ef127d9,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,390,CFM,,Heating Inlet CFM
+8744df39-87ae-4de8-827f-8110aa37806e,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,390,CFM,,Fan CFM
+6802965a-3ada-45c9-96ee-969c744e1afb,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+25039846-73f0-49e0-bd8c-fca04e963a5a,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+2e306396-9d58-4b60-b1ae-effbf914c33e,b2488c71-7ec1-4286-9e5c-9db681e423b5,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,10,kW,Electric Reheat Coil Data,Coil Size
+2ba64964-6b2c-4ebd-b7af-de630590c8d3,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,2,,Electric Reheat Coil Data,# Steps
+5ea8163b-b693-4967-9b0d-b3e29d5da1de,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+6d01358b-49f9-4314-9e34-3c46e0a3f4ee,b2488c71-7ec1-4286-9e5c-9db681e423b5,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,460/3,,Single Point Power Info,Volt/PH
+64ba17df-1032-4667-b00a-8fd701b05383,b2488c71-7ec1-4286-9e5c-9db681e423b5,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,17,,Single Point Power Info,MCA
+de202ef3-4ead-4ed0-8a40-742195df31ad,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,20,,Single Point Power Info,MOCP
+582b2cd4-461b-414d-81e1-b8e4b94230e0,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,MetalAire,,,Manufacturer
+36229796-3ab3-4264-8d66-7c98025099e1,b2488c71-7ec1-4286-9e5c-9db681e423b5,,,,,,,,"1,2",,,Notes
+04f60308-092c-45e5-96b9-62ef53e05322,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,TH,,,Model
+cfd89af1-4dfe-4384-977a-3673ab3b74bb,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,LEFT,,,Handing
+1e0c8116-4045-49b5-a6d1-636a06976147,f3793109-3e15-4121-967f-8b51710ae36f,c730edbc-e1f3-4eac-ae25-f51282ab55aa,Gas Connection Size,,,,,,6,,,Inlet Size
+c8bd0228-ce0f-4f5b-a479-f6a51b58b19f,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,320,CFM,Cooling,Max CFM
+3032ad31-cf75-4f0a-bcfc-4966d5779020,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,96,CFM,Cooling,Min CFM
+7420ecea-fed5-435e-91f3-5bdc6fc0430b,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,210,CFM,,Heating Inlet CFM
+8b9f53eb-5309-4613-a927-8438dadbf1d9,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,NA,CFM,,Fan CFM
+e46b7dec-e494-4a56-a0ef-80d3acb58af4,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+c69910b8-359d-4fb0-b589-c92d30705e1f,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+0b833de2-fb25-42b4-a8ad-9c203c9e3fd4,f3793109-3e15-4121-967f-8b51710ae36f,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,3,kW,Electric Reheat Coil Data,Coil Size
+645a6830-72af-4245-a813-bcebcaceb44c,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+195310b4-01bf-4c8f-afee-5ec26e29f17d,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+3ef75dd1-8f9d-4c9b-9c86-1308effaa356,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+269aecc1-61ab-47f5-9c6e-d1536e197ccb,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,15,,Single Point Power Info,MOCP
+28236f8c-e603-4ea7-a056-62b5583295ce,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,MetalAire,,,Manufacturer
+ee02ab72-2bb6-410f-a200-0b21430f852d,f3793109-3e15-4121-967f-8b51710ae36f,,,,,,,,1,,,Notes
+0c958648-4794-44e7-851a-328396d4a578,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,TH,,,Model
+3918c5c3-4908-4102-b1f7-63e500805275,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,RIGHT,,,Handing
+83ddf202-773d-4816-a027-f161fb07f603,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,c730edbc-e1f3-4eac-ae25-f51282ab55aa,Gas Connection Size,,,,,,8,,,Inlet Size
+c69de87a-227c-4d9a-96ca-68b9580bc43d,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,550,CFM,Cooling,Max CFM
+dead0a26-d230-4f6c-926c-54c57b77c4d4,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,165,CFM,Cooling,Min CFM
+312212be-49ee-42d2-9402-bd2e98d991ee,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,350,CFM,,Heating Inlet CFM
+fabeba6f-4ea8-41c6-a9b8-65d5ef566558,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,NA,CFM,,Fan CFM
+133e01d7-84ba-411f-96f4-f419d116399a,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+9a9a2c83-b81f-4b06-9f2d-54b14030aca1,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+3e7eebef-755e-480f-8052-dafb50639fd6,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,5,kW,Electric Reheat Coil Data,Coil Size
+59f3f435-270f-4abf-aab1-405f36b7ecf3,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+8fc02e6c-5ac1-4beb-8af4-0a43052778af,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+65857a2b-e6b4-403b-89ca-b8906c2edca4,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,dda99289-4130-4af0-b6c3-1e1b68254bc8,3Ø,,,,460/3,,Single Point Power Info,Volt/PH
+77a3a3a6-d37f-4ecb-b24a-8940961cf20a,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,15,,Single Point Power Info,MOCP
+f2b99900-329d-425d-a7e8-66c456fb7cd7,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,MetalAire,,,Manufacturer
+6286641c-b3ca-40dc-8db3-4728efbba1fe,6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,,,,,,,,1,,,Notes
+4324aca0-30a0-4d7a-b007-ee05e2aea5bc,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,TH,,,Model
+0c79b723-c7d5-4486-93b1-fe059bd9f0c2,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,LEFT,,,Handing
+4b8d404d-ef2b-4944-8e88-f1ae30352142,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,6,,,Inlet Size
+b9b4337f-3b2a-4136-97c1-8999a38927ae,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,200,CFM,Cooling,Max CFM
+140021d2-b3c0-4363-bbf0-bf86b3509e22,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,60,CFM,Cooling,Min CFM
+7892a5c5-d9f5-446f-9fee-a957df780ae0,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,140,CFM,,Heating Inlet CFM
+eaf76818-f06b-49b7-8ec2-2c52718a0d3e,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,NA,CFM,,Fan CFM
+ea3fb3de-5948-43ec-a592-cd6b6b21172b,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+86385ff3-508a-4103-844f-4f09e2c6d9b7,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+240a25c7-577b-4b4b-82b6-b768c0f561eb,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,2,kW,Electric Reheat Coil Data,Coil Size
+6844400a-652f-413b-907d-167ab8efe379,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+80a2c531-00b1-4475-97c4-8e9dfbcf21f1,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+631bb82d-3ee7-4cbe-91e2-704423ae72cb,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,dda99289-4130-4af0-b6c3-1e1b68254bc8,3Ø,,,,460/3,,Single Point Power Info,Volt/PH
+19c7b3d1-ffce-4833-a307-4ab0c5bedb27,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,15,,Single Point Power Info,MOCP
+7392f0f2-8da1-4132-97fe-5a26a19eda04,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,MetalAire,,,Manufacturer
+2b5e801f-5296-4b4c-8c32-a9e1ff539893,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,1,,,Notes
+9a97966e-b011-4dd8-bf0e-a54af3d2c398,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,TH,,,Model
+dcd1afa4-52d3-4a50-9557-2ea99c577df2,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,LEFT,,,Handing
+0cf1b354-d95d-4e15-be10-9338fcaff724,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,6,,,Inlet Size
+4216437f-2219-4e2b-9714-b1be82f3d899,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,200,CFM,Cooling,Max CFM
+90c05afa-b4a6-4c0a-8b76-2f732feb370d,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,60,CFM,Cooling,Min CFM
+5760a670-fbea-4a0e-97ce-30d8de7f2565,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,140,CFM,,Heating Inlet CFM
+604d4d9c-dc6e-4cdf-aa00-60d5f52ecde4,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,NA,CFM,,Fan CFM
+dca08527-12b7-4edc-aaa8-2dfbdbb22784,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+8213e1be-2f80-41b2-acdc-cca962735dea,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+4ebe8250-401f-46ca-97bd-13522fa7ccfc,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,2,kW,Electric Reheat Coil Data,Coil Size
+97c9c5f1-3371-4881-a974-972f69607375,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+050284b6-d4af-40d5-9d04-38f920423939,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+19891c13-c09f-428f-ab62-a8db6aa77701,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,460/3,,Single Point Power Info,Volt/PH
+9b01666e-be13-4ded-a9c9-72d055115e04,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,15,,Single Point Power Info,MOCP
+ace2c373-5825-4fd5-be41-17894b875e00,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,MetalAire,,,Manufacturer
+f939f13b-11de-49da-978c-87a6ccc04f76,b9ef6d58-0996-4c96-a14f-1ba8e22e503a,,,,,,,,1,,,Notes
+617c7d62-405e-4c74-81ad-2ec588856d4b,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,TH,,,Model
+7d7fecff-8358-4d1d-9c87-4b4e9069d131,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,RIGHT,,,Handing
+42a6e6a8-6eb4-4b43-b4e2-a0e97a203131,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,12,,,Inlet Size
+f76401e4-f38a-4523-8947-90f8ae387e84,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,"1,800",CFM,Cooling,Max CFM
+d1925638-6094-46bc-9e37-bb0fad9d2a40,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,"1,800",CFM,Cooling,Min CFM
+2addf777-715a-4e9e-90c3-1896dd836d17,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,"1,800",CFM,,Heating Inlet CFM
+64d49478-eb89-4b0b-bacf-71e7286381c5,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,NA,CFM,,Fan CFM
+8072843f-fc3a-4f7d-bfab-95c60e10ba1e,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+1d52b8da-e21f-4097-98bf-d5a9794ef764,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,-,kW,Electric Reheat Coil Data,Coil Size
+64a48448-021b-41b7-bbcb-74859f991de9,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,-,,Electric Reheat Coil Data,# Steps
+fc128c4f-d642-4213-9aff-6bd985855a10,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,55,°F,Electric Reheat Coil Data,LAT
+f3bc0163-4389-4d31-bc29-549d340f87c6,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+65cce7cc-a632-4e07-8d39-4a0fe05ca729,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,15,,Single Point Power Info,MOCP
+fad6b4f7-fca7-40e3-a715-39fda8a709bf,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,MetalAire,,,Manufacturer
+c939dd8e-8793-4ace-baee-0d9e58b32773,6bbbac4c-e8ce-43b3-bddf-ec082bc17473,,,,,,,,"1,3",,,Notes
+1bcc4a1b-a589-473c-9141-88d1199f25c0,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,TH,,,Model
+614fbda8-9cae-4902-9778-15abf2e509d7,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,RIGHT,,,Handing
+e25d7bfe-0d20-4a88-bbe5-76b8e26ba5d5,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,8,,,Inlet Size
+6351ef2b-8141-4634-bbc1-94016c83709b,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,550,CFM,Cooling,Max CFM
+86dff4e7-3628-4aae-9052-56a76e66d9f5,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,165,CFM,Cooling,Min CFM
+5cf477b0-25e3-4c89-abed-944426385ec5,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,350,CFM,,Heating Inlet CFM
+2bd13cd0-3c2f-4a5c-960c-e17aa90005c9,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,NA,CFM,,Fan CFM
+589edc55-884e-4f40-a108-043da21cfff5,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+05ce8128-da1c-4891-9104-720665c0dfc7,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+f32d12d4-27e3-4e68-bf37-e4ca7fcbe1d3,53ac63ad-55e0-4d3f-ad13-acf53b042f79,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,5,kW,Electric Reheat Coil Data,Coil Size
+76209a07-d0b4-4644-9225-49845e808492,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+47d95581-60e9-4d07-b22d-cab36e717f40,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+818089e1-1445-486a-b771-0529042a7128,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+6836ce52-8104-4bac-a62d-8bbefac5f6c7,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,15,,Single Point Power Info,MOCP
+b7b7605d-bae4-4fcc-8300-ff88a4612340,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,MetalAire,,,Manufacturer
+e064f9be-0439-4b91-a450-1fab823c60be,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,1,,,Notes
+7d706000-a048-4bbc-9319-0e230d6b270a,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,TH,,,Model
+afdc003a-880c-403a-8d32-7b8583f6f7b1,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,RIGHT,,,Handing
+13956c3e-eeef-4d88-88db-9451f551c095,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,8,,,Inlet Size
+9191b7e5-65fe-46dc-ad93-295adf3d7a97,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,550,CFM,Cooling,Max CFM
+2ce87afd-35e0-4a6f-b21b-8f4a8a0f292a,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,165,CFM,Cooling,Min CFM
+54e6c1ff-8b14-4376-9b3b-9d9335c35244,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,350,CFM,,Heating Inlet CFM
+cd74cea3-b8f7-4472-b77b-bab6fe770c9c,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,NA,CFM,,Fan CFM
+189ea04a-13c7-430f-9640-decc415efad6,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+c50a663b-e510-4903-9bd5-9559df507550,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+373fd2bf-a296-4ee4-93db-98993527db1b,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,5,kW,Electric Reheat Coil Data,Coil Size
+bf29e5c7-2b53-4057-ac4c-3489ba320b3e,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+ee47d74e-2596-4fe5-8da2-296f2ded8d39,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+0c77ad07-8023-417b-8d80-e726f98eb3d6,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+627fef7a-7de2-44dd-a983-85fbfbfbb4fb,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,15,,Single Point Power Info,MOCP
+d8daa2fe-9c3a-4751-9321-9b055e795b89,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,MetalAire,,,Manufacturer
+e119b714-9a20-4454-b07c-54fa25033716,53ac63ad-55e0-4d3f-ad13-acf53b042f79,,,,,,,,1,,,Notes
+83e975e0-03ae-4eaa-b640-94191c7e06c1,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,TH,,,Model
+e4273ad7-7180-43e1-9873-be445bfb7f37,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,RIGHT,,,Handing
+38f6c495-2983-43f8-8167-540250f0a379,d885348b-64e4-4d56-af37-62df8bfc44fd,c730edbc-e1f3-4eac-ae25-f51282ab55aa,Gas Connection Size,,,,,,8,,,Inlet Size
+ce1951d2-ed27-482c-ada0-81c84d4cd0db,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,550,CFM,Cooling,Max CFM
+3e771541-e204-4f03-ad05-2a0f86d26361,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,165,CFM,Cooling,Min CFM
+ef2abd08-ff3b-4a43-af28-2665112eca1f,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,350,CFM,,Heating Inlet CFM
+25d72af3-f802-4c2f-8da8-ac5125d70ee5,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,NA,CFM,,Fan CFM
+e73e0b93-c367-41c0-83d9-b860a8bd516e,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+ac3f8d8b-cbb7-4d22-9217-4b4745c76bde,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+97aaf1e0-c213-4082-b4db-427fe74fd775,d885348b-64e4-4d56-af37-62df8bfc44fd,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,5,kW,Electric Reheat Coil Data,Coil Size
+e3a2a658-c11c-4c6a-b695-a2433b219963,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+7fa5d31d-b2c2-4f09-bd1a-bb7c499febff,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+21686a25-26c3-4e3b-9279-0ade5a91e4dc,d885348b-64e4-4d56-af37-62df8bfc44fd,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,dda99289-4130-4af0-b6c3-1e1b68254bc8,3Ø,,,,460/3,,Single Point Power Info,Volt/PH
+7ce69075-8257-4f3a-80d4-dde373f99ea2,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,15,,Single Point Power Info,MOCP
+e31e6de9-2ace-42ee-848a-8c2c0465ee55,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,MetalAire,,,Manufacturer
+8daada06-1649-42a9-84b3-c364cf539c5b,d885348b-64e4-4d56-af37-62df8bfc44fd,,,,,,,,1,,,Notes
+090cec2d-71c4-4daf-9aa7-a9ce7f167584,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,TH,,,Model
+684f7f09-4c18-4eba-9c11-593a2af8de49,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,RIGHT,,,Handing
+3a4a0187-620b-4365-a88a-4bef2693cfb3,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,8,,,Inlet Size
+c78ea3f3-23be-4da2-9da0-9834bfb96a39,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,700,CFM,Cooling,Max CFM
+edbe305a-60b2-4862-bea8-2613c8a20697,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,210,CFM,Cooling,Min CFM
+4b538333-5f90-4734-b58d-78e2f1154dce,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,420,CFM,,Heating Inlet CFM
+4b8d9d2c-d221-45ce-bfc7-4a851e29ffb2,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,NA,CFM,,Fan CFM
+bb664589-93fd-4119-b821-1def43ec7afd,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+1879aa7f-30fb-4a38-913d-8ae4600388e8,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+0c7875b4-8a14-4f2d-bffc-a290d359dd10,59f2adf7-21dd-4beb-8701-f34db9dfd756,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,6,kW,Electric Reheat Coil Data,Coil Size
+cb9f66e4-fb61-481c-a77c-90c0a3106918,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,2,,Electric Reheat Coil Data,# Steps
+13c7dda8-6d3c-40fd-a7f9-9decaf9b208c,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+e5be5194-4c53-47c5-b233-8414caa571dc,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+cd8cb848-feb5-455d-9dd7-9c5336fc63aa,59f2adf7-21dd-4beb-8701-f34db9dfd756,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,15,,Single Point Power Info,MOCP
+72a7164f-c6bc-403d-bbfd-ab9e575c9a7c,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,MetalAire,,,Manufacturer
+4dccdad2-e490-44ec-87ea-985c81dc47e0,59f2adf7-21dd-4beb-8701-f34db9dfd756,,,,,,,,1,,,Notes
+358f44a8-9d7f-48fe-b6f1-3e428b8de684,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,TH,,,Model
+1acc61f1-7efc-4b21-8c77-9490f7522e05,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,RIGHT,,,Handing
+abd17b62-2f8c-489f-ae28-9a02cdcc8ebd,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,8,,,Inlet Size
+8d7439f4-6504-4816-9443-951b201230d9,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,500,CFM,Cooling,Max CFM
+49d9eeae-5a81-4d38-a6ae-5da6f0c44ed0,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,150,CFM,Cooling,Min CFM
+8ef45e00-ea86-4b97-86a4-546357b8af2a,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,300,CFM,,Heating Inlet CFM
+57316192-5d50-48f2-848f-9e30c0b0c5e8,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,NA,CFM,,Fan CFM
+36f8c935-6d2c-48a6-9b79-b330ea823f91,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+a3046abc-fd56-4d14-bad7-06b6cfe23c40,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+8516b08b-896b-409f-965c-f1d31be352f5,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,5,kW,Electric Reheat Coil Data,Coil Size
+58ae19b5-2f0e-4bbe-a8e3-d23e8d9a5001,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+128e0c82-8a20-48bf-ad9c-1d5d124d61e4,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+857f39e8-92d7-4708-bee5-2fe84c1aa6c3,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+6ab5f4cc-e9fa-4b99-9170-02ba048c7c17,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,15,,Single Point Power Info,MOCP
+45673406-4b16-4e3f-a9bc-0536dab8b32d,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,MetalAire,,,Manufacturer
+77fb51a1-bfbc-4df7-bf93-0f2c9d252e2d,68c4496f-7658-4e2a-b210-a5b175f55db9,,,,,,,,1,,,Notes
+d42bc1c8-46d8-486a-8083-b617da318c74,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,TH,,,Model
+d76b253c-7843-4dc8-afec-0480c001f34f,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,LEFT,,,Handing
+500aaaa3-d8bb-4585-858d-1247553609c4,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,8,,,Inlet Size
+01d1ed60-7f69-4663-9ae6-fc9e70b1b344,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,400,CFM,Cooling,Max CFM
+1660da2a-7f64-44cb-bd2d-42bbd36c21e7,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,120,CFM,Cooling,Min CFM
+c45626e6-649c-4563-8e5b-3db82e13c264,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,240,CFM,,Heating Inlet CFM
+e4c358cf-0aaa-4236-ba6c-00a9b4530ce2,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,NA,CFM,,Fan CFM
+167ed9fa-9e08-48bb-a9fa-2c76cb93f922,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+35b0fc9d-439f-489e-8752-702ac71fe024,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+23a6d999-f80f-416a-ae2f-99d3272a022d,d0408556-948f-41d0-a431-986e3bd96326,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,4,kW,Electric Reheat Coil Data,Coil Size
+a798e364-29db-4f62-b4f6-d7fa28d4eaf6,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+597e9a9e-0259-49af-a63a-06f662aa1ec4,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+f13866d4-61f1-4268-9616-4b07b08b4905,d0408556-948f-41d0-a431-986e3bd96326,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,460/3,,Single Point Power Info,Volt/PH
+9cbd553d-ef4d-4cd8-80b3-95ab35f8c91c,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,15,,Single Point Power Info,MOCP
+0ff9c41a-f941-4994-9221-5ee2fa188a63,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,MetalAire,,,Manufacturer
+b8b1a932-b3f1-44b4-a3c9-44a3575ae8e0,d0408556-948f-41d0-a431-986e3bd96326,,,,,,,,1,,,Notes
+77018022-e30b-4e66-9e72-359284318cc2,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,TH,,,Model
+4305e0ab-05cb-4a43-893d-89137b845c13,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,RIGHT,,,Handing
+32f0a2b3-11b2-49ab-bdb6-1008c83ac76f,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,8,,,Inlet Size
+8c32a4ad-4965-47d3-8b1e-65e882a9e141,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,500,CFM,Cooling,Max CFM
+49088332-f74b-4487-8b9b-4f61caeb9aa9,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,150,CFM,Cooling,Min CFM
+96ebe227-8300-4194-8428-6a541c0b980e,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,TH,,,Model
+14683d5f-1cde-4dfb-9b63-17a377e7f252,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,RIGHT,,,Handing
+228ffc3a-50b2-4fb8-b0bf-b1c11bd67c45,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,c730edbc-e1f3-4eac-ae25-f51282ab55aa,Gas Connection Size,,,,,,8,,,Inlet Size
+c39e30d4-1c9a-40d7-bf6e-aef700424663,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,500,CFM,Cooling,Max CFM
+1852ab6c-8fb9-4b8f-972c-ef94b777c1d0,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,150,CFM,Cooling,Min CFM
+64b15328-96e7-48ba-8f49-7e80d877554f,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,350,CFM,,Heating Inlet CFM
+4ec2b802-e5f8-493f-bdd9-5a431fe18218,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,NA,CFM,,Fan CFM
+56042e7b-b65b-4d15-b157-dd106eb4a6f4,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+ec163812-c69b-48f1-912e-c638768275c6,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+f8e151fd-6dad-4db0-a805-6e10754d9a60,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,5,kW,Electric Reheat Coil Data,Coil Size
+cfc31530-d9da-4155-83a7-a247cb2aeda5,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+bc61d081-7614-4f08-9c12-6158bdacb42d,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+1670380a-f993-4ea0-97eb-e3574969d408,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,460/3,,Single Point Power Info,Volt/PH
+202b79cf-d691-45c5-8120-a4fbce91b8b1,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,15,,Single Point Power Info,MOCP
+786e376a-7904-41fc-b2d1-321597a043a3,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,MetalAire,,,Manufacturer
+6497a7c1-b59a-4ee1-a8c3-667131a0efd0,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,1,,,Notes
+c3703225-d7d0-4228-aa67-f529505074ac,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,350,CFM,,Heating Inlet CFM
+a4a9b9c3-0160-4e1d-a262-5e37ebed6927,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,NA,CFM,,Fan CFM
+4a248f4c-1da2-4289-9b45-58d5fd426ce8,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+e20a5729-5da5-4573-86dd-87430724b239,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+687abc1f-112a-4be8-bc81-e1d8e5f8931f,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,5,kW,Electric Reheat Coil Data,Coil Size
+1a4e178e-6d43-4765-8311-9e4c68f23c0c,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+c69fc71e-1af4-4a1b-bfe3-2190f98dbbee,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+bc6fd73b-4c4a-4c4f-9da9-1955cd2ac903,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,cf399a45-7c9f-450a-9aec-07f780f2b2b8,Operating Voltage,,,,,,460/3,,Single Point Power Info,Volt/PH
+82b75354-9704-4f51-8d2f-0ac3c68e2ff7,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,15,,Single Point Power Info,MOCP
+6e5686f5-18e2-499f-a9c5-b374a146743c,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,MetalAire,,,Manufacturer
+60380d17-b5f8-484e-9188-1faa87780377,9ff3d0d5-30c1-4dd9-9060-bb39e675c612,,,,,,,,1,,,Notes
+ab8b5cbe-d44b-4adb-bf16-0236a72ebdf9,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,TH,,,Model
+e0215976-1ba4-4f85-8eba-5edd33650edb,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,LEFT,,,Handing
+ee8b55b7-c242-4670-b7d3-cd6ad8ecd42b,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,6,,,Inlet Size
+ff12f92f-3d91-42cf-85f9-23aa6b986e99,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,300,CFM,Cooling,Max CFM
+edf55f39-013b-4608-8c20-30d2d8ba82c9,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,90,CFM,Cooling,Min CFM
+48f53bd3-9fe2-4a6e-bdd3-b8ef84fa9984,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,210,CFM,,Heating Inlet CFM
+30569b2a-5b8c-4ab6-8518-b3da43432846,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,NA,CFM,,Fan CFM
+5d12de57-80d4-45cd-be73-4870c8a10a9c,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,70,°F,Electric Reheat Coil Data,Setpoint
+25a272fe-035f-4326-a10f-13cb6bf69bc5,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,55,°F,Electric Reheat Coil Data,EAT
+dfed6638-e210-4d4a-8eec-37ef533b97f4,2d3d57c4-cb99-4e44-beb8-f146ef670479,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,,,,3,kW,Electric Reheat Coil Data,Coil Size
+8721a278-d66d-4315-8543-9db390b9bca8,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,1,,Electric Reheat Coil Data,# Steps
+cf454fed-0421-4138-a05a-272da4c29494,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,100,°F,Electric Reheat Coil Data,LAT
+cf04c456-74c4-47a6-8f8b-7265bbce28ca,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,460/3,,Single Point Power Info,Volt/PH
+ed28ceda-aeb7-41ce-aa16-d7932ce611a5,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,15,,Single Point Power Info,MOCP
+5b9565f7-5978-47cd-ade5-f02c62434a99,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,MetalAire,,,Manufacturer
+a5de4c33-f4e8-457d-804d-1b1ebb241f0c,2d3d57c4-cb99-4e44-beb8-f146ef670479,,,,,,,,1,,,Notes

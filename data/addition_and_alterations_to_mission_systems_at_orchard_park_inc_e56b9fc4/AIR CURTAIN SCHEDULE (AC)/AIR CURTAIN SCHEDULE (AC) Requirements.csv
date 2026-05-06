@@ -1,0 +1,9 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+9ca27990-92f9-47e4-884c-89883f08c85a,3ee8c874-7f40-4464-9c35-69e250f9cfca,,,,,,,"{"kind":"flat","type":"'MARS' MODEL No.","unit":null,"value":"STD296-2EHN","category":null}",STD296-2EHN,,,'MARS' MODEL No.
+fd8a9ea0-8dec-42eb-984c-8a801739f05b,3ee8c874-7f40-4464-9c35-69e250f9cfca,9f6ca6a5-25e9-4e99-82bb-48689827b16d,Location,,,,,"{"kind":"flat","type":"LOCATION","unit":null,"value":"N105 - S/R STAGING","category":null}",N105 - S/R STAGING,,,LOCATION
+b716d74b-0522-4263-97f0-db26aab056bf,3ee8c874-7f40-4464-9c35-69e250f9cfca,04acb553-3deb-415b-a14b-4f96ac64c580,Air Flow Rate,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,"{"kind":"flat","type":"AIRFLOW","unit":"CFM","value":"2298","category":"AIR"}",2298,CFM,AIR,AIRFLOW
+8270a6d4-185f-46db-9e5f-28ed6ec22cd1,3ee8c874-7f40-4464-9c35-69e250f9cfca,,,,,74d20bbe-dc1e-4477-ad2e-b9a7abbcf136,Degrees Fahrenheit,"{"kind":"flat","type":"TEMP RISE","unit":"°F","value":"33","category":"AIR"}",33,°F,AIR,TEMP RISE
+849aa14d-ffa5-4d18-a7ae-2f49e04f03a3,3ee8c874-7f40-4464-9c35-69e250f9cfca,e8acafc6-b152-4de5-903f-896af6120423,Power Input,,,ab4c65f8-35eb-4515-8e25-a11162dea7cc,Watts,"{"kind":"flat","type":"POWER","unit":"W","value":"1022","category":"ELECTRICAL"}",1022,W,ELECTRICAL,POWER
+ac4bfa9b-91a6-4a7b-8a53-ebdd57da95fa,3ee8c874-7f40-4464-9c35-69e250f9cfca,,,,,,,"{"kind":"flat","type":"HP","unit":null,"value":"2.5","category":"ELECTRICAL"}",2.5,,ELECTRICAL,HP
+d7c7a301-986b-429c-b0ee-5bf622e06976,3ee8c874-7f40-4464-9c35-69e250f9cfca,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,"{"kind":"flat","type":"FLA","unit":null,"value":"—","category":"ELECTRICAL"}",—,,ELECTRICAL,FLA
+58ef17f7-4c61-4ba5-a748-d09ba4c59128,3ee8c874-7f40-4464-9c35-69e250f9cfca,,,,,,,"{"kind":"flat","type":"NOTES","unit":null,"value":"1,2","category":null}","1,2",,,NOTES

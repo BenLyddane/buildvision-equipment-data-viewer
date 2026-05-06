@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+0f36455e-faff-415f-9864-0b3dfa1c13a1,EUH-02,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,2,34f84f55-a3df-45fe-afc4-f96004412da7,HER SERIES,HER SERIES,Modine,Modine
+c40bd96d-3285-4161-a4c7-f1568dbf47c3,EUH-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,1,34f84f55-a3df-45fe-afc4-f96004412da7,HER SERIES,HER SERIES,Modine,Modine

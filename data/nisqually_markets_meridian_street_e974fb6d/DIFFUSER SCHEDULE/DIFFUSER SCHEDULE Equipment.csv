@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+588e135a-2117-4ad6-b02c-2d7d955d5ffc,CD-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",7,938d8a9a-ef66-40c1-8d5d-65036929b05e,SCDA,SCDA,Price Industries,Price Industries
+c1a7be5c-d72c-4211-80bd-15d9f6a6f5e5,EG-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",5,cd53ab3f-ed9f-4526-98ce-757f9f58f149,80,80,Price Industries,Price Industries
+cb69a92c-6bcd-449b-a28b-53394b3001be,EG-2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",1,cd53ab3f-ed9f-4526-98ce-757f9f58f149,80,80,Price Industries,Price Industries
+28ebb5c4-ce91-4830-af24-592e7f2217bb,RG-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",2,cd53ab3f-ed9f-4526-98ce-757f9f58f149,80,80,Price Industries,Price Industries
+644e9f1a-4a52-4be5-b0b0-e099a352df37,SG-1,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,9,cddc78fc-89d4-4bf6-ac8f-2adbebb115b8,510,510,Price Industries,Price Industries

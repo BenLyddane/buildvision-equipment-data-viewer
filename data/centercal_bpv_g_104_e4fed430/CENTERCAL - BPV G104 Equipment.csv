@@ -1,0 +1,3 @@
+package_id,package,equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d7d12ae1-8092-4b5d-b845-a1be26adcf73,ROOFTOP UNIT SCHEDULE,07039a8d-c985-4188-9a53-4bba91105173,RTU 2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,5d11f64d-ea65-415e-86ab-adb23c89fd26,RT-70-15B,RT-70-15B,Greenheck,Greenheck
+d7d12ae1-8092-4b5d-b845-a1be26adcf73,ROOFTOP UNIT SCHEDULE,7ccf7248-d565-45c3-957d-bbfb7410ab5b,RTU 1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,5d11f64d-ea65-415e-86ab-adb23c89fd26,RT-70-15B,RT-70-15B,Greenheck,Greenheck

@@ -1,0 +1,19 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+83afa230-40f1-4316-afb8-5aa322a09372,UH-4,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+598f3a63-e61a-49ea-bca8-0b379ced70a6,UH-7,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+ed92ac78-6227-4775-a872-d97a5416327d,UH-16,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+a5d7d518-8f24-4f73-b32e-da28b1701cbf,UH-9,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,8d622209-e367-4254-b6bb-293348186c9a,HC 63,HC 63,Modine,Modine
+8b7f2960-1f3b-4c4f-876c-8e4e3a2a628a,UH-12,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+17d2e4d2-3d8f-4b88-8076-12aea93afbec,UH-2,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,0ab8cc2a-fc1c-4d31-b758-d3b884689048,HC 47,HC 47,Modine,Modine
+f36f9c31-c3ac-4021-94a4-0e1ff7f48b85,UH-1,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+9f2a31ee-8434-4f9c-a4b7-63a33748d347,UH-6,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+d9c5bf18-f380-4caf-9c46-85fb340ecaa4,UH-18,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+e5781f59-1758-4f05-8d97-bb5357c957b1,UH-5,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+86651af1-5af9-4e93-bbab-b44ee5ec97c7,UH-17,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+16e1b0ee-9ec2-47b7-a5f7-e0d393e94683,UH-11,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,0ab8cc2a-fc1c-4d31-b758-d3b884689048,HC 47,HC 47,Modine,Modine
+213a390c-43f4-4914-b3b0-a693b7bbf32a,UH-13,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+4a2f9700-10be-4917-8006-569265cbd40b,UH-3,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+a895e8ed-5ebf-46b7-a327-95e6155af820,UH-8,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,0ab8cc2a-fc1c-4d31-b758-d3b884689048,HC 47,HC 47,Modine,Modine
+3c2de24d-924c-42b1-90ac-cc2a9b4ac331,UH-14,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+976cc771-403b-4c35-882d-d49265cabf22,UH-15,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine
+062427fc-5668-4001-b23a-3690177df97c,UH-10,4948840d-a89c-490a-80f7-9f1236315d79,Hot Water Unit Heaters,0,a92c7500-7db3-48bc-b7f5-8224b1dfe3d0,HC 33,HC 33,Modine,Modine

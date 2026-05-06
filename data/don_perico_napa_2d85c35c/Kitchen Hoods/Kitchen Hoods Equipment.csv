@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+aa813965-61e2-42b9-9486-89a45e10d589,H-1,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,eeb49e85-f3db-4d85-bf1c-5c48615672e8,6024 ND-2,6024 ND-2,CaptiveAire,
+72fd6ee1-4d5f-4f1a-8793-9935f8204de0,H-2,39b070f7-bb45-4cab-ac88-76d5c24af421,Kitchen Hoods,0,eeb49e85-f3db-4d85-bf1c-5c48615672e8,6024 ND-2,6024 ND-2,CaptiveAire,

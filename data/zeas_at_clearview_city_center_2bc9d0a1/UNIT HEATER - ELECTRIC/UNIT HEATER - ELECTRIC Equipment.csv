@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+5350e5df-8654-4691-ad75-bdd90182b801,EUH-1,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,f396c570-7cfb-4e54-b1c3-334695a9d73f,EUH Electric Unit Heater,EUH,Reznor,Reznor

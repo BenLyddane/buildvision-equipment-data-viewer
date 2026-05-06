@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+f8acd574-61c3-4866-adda-67314aff0a2a,RTU-03,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,930b7a5a-c430-4090-9b71-1efa059909a3,DHG060,DHG060,Daikin Comfort Technologies (VRV and Mini Split),Daikin Comfort Technologies (VRV and Mini Split)
+5c2f9402-dfac-471c-a304-eebc3d00c556,RTU-02,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,48c7b220-040c-48a5-af21-cfbfdfcf9ab4,DHG130,DHG130,Daikin AC,Daikin AC
+f4672745-17a5-4ee6-bd6b-3b796f0bc144,RTU-01,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,48c7b220-040c-48a5-af21-cfbfdfcf9ab4,DHG130,DHG130,Daikin AC,Daikin AC

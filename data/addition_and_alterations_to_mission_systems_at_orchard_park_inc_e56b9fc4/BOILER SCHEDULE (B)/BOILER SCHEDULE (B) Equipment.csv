@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+b3a42bd3-bc02-41ea-ae2b-348f3893731a,B-1,60b323a2-cc25-421d-822f-c3bc9a601b18,Heating Boilers,0,88329cc2-3c94-472a-9126-5cd3d4dcb2dd,FTX600,FTX600,Lochinvar,Lochinvar

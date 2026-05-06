@@ -1,0 +1,9 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+2b41af8f-ceb1-47aa-811a-f27c7b0c2e71,F,e4a1b368-9968-49fe-ae3f-be45511209e9,HVAC Systems,0,,,,,
+7f56e35f-1e45-4df1-b3de-4264e92c64fc,E,e4a1b368-9968-49fe-ae3f-be45511209e9,HVAC Systems,0,,,,,
+77e88a59-316d-4065-a71f-656408ffd1c6,D,e4a1b368-9968-49fe-ae3f-be45511209e9,HVAC Systems,0,,,,,
+27fedad1-dd79-475d-ad6a-699a9b8886f3,B,e4a1b368-9968-49fe-ae3f-be45511209e9,HVAC Systems,0,,,,,
+b6ea94cd-c7b7-4fb1-8fa6-27e3b69d18b7,G,e4a1b368-9968-49fe-ae3f-be45511209e9,HVAC Systems,0,,,,,
+c9ee528e-2f90-4e40-a308-d2735851c4e1,H,e4a1b368-9968-49fe-ae3f-be45511209e9,HVAC Systems,0,,,,,
+83a050f1-524c-4e58-a44a-7605a45f5683,A,e4a1b368-9968-49fe-ae3f-be45511209e9,HVAC Systems,0,,,,,
+9f4ab78a-1bcc-4d20-82e7-99e2c46c0ee3,C,e4a1b368-9968-49fe-ae3f-be45511209e9,HVAC Systems,0,,,,,

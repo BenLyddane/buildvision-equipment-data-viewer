@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+8a0df321-8fa6-4a37-beed-a742c9f3d184,FCU-L1,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,2ce82c80-09e8-41a4-a185-29940cc7f77a,ZRNU123TRAA,ZRNU123TRAA,LG,LG
+e7516e88-8299-45ef-819e-c71e8f7f9800,FCU-L3,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,2ce82c80-09e8-41a4-a185-29940cc7f77a,ZRNU123TRAA,ZRNU123TRAA,LG,LG
+62230e83-6106-4826-8882-a5bfc998b034,FCU-L4,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,2ce82c80-09e8-41a4-a185-29940cc7f77a,ZRNU123TRAA,ZRNU123TRAA,LG,LG
+e567c63b-1797-43ba-8dea-73f905c27bb1,HP-L1,6e8977c7-aa28-4436-9fa4-2e23e0d5d07e,VRF Outdoor Units,0,4748c80b-daff-4e4b-a09d-0591bad9e73f,ZRUM048GSS0,ZRUM048GSS0,LG,LG
+b47123da-8d61-4d87-b0d8-a583393bb070,FCU-L2,997c6c01-cd27-4e2b-971c-7924cbd01df3,Split System Air Conditioners,0,2ce82c80-09e8-41a4-a185-29940cc7f77a,ZRNU123TRAA,ZRNU123TRAA,LG,LG

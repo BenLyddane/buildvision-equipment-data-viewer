@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+db02993b-1f1f-4089-9802-58fe2668161a,UH-2,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,895e75c9-065d-485a-af2f-0170e5d462ef,UDZ 30,UDZ 30,Reznor,
+927a2eb5-069c-4b00-9c16-c4444cab4494,UH-A,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,8bd4ae92-83ea-455d-9840-eeae8ff44f13,H7,H7,AIRTEX,
+931d7573-50b6-40d2-a3e8-7dad36139eed,UH-B,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,6b49c321-d42d-43a9-ae31-156fb7b7c664,H1,H1,AIRTEX,
+7efaa61a-e8d1-4871-8ad4-4efe89aeb117,UH-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,895e75c9-065d-485a-af2f-0170e5d462ef,UDZ 30,UDZ 30,Reznor,

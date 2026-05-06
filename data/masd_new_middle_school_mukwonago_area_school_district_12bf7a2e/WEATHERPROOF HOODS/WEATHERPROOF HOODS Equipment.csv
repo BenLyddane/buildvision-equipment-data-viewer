@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d135120c-bda5-447c-9ac2-72023fa48857,WPH-2,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,,,,,Loren Cook
+a6b1ec1b-39f7-4fed-a2b6-be4ee0b15db8,WPH-5,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,,,,,Loren Cook
+87a77455-87af-4949-b9c9-55a7d26598a1,WPH-6,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,,,,,Loren Cook
+e149a8a5-1017-4eea-8c2f-91d2bdaa2f52,WPH-4,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,,,,,Loren Cook
+f20d04c2-dd42-48c8-aca3-16a6605918fa,WPH-1,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,,,,,Loren Cook
+1dfe659d-25b1-4634-a06f-8c9feec086d1,WPH-3,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,,,,,Loren Cook

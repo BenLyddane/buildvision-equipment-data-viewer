@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+7af57812-8109-41e4-b99b-ae887929a51f,RTU-4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,1,ce25442a-7c46-4030-bc70-c1bae4b61566,YCD360DP4,YCD360DP4,Trane,Trane
+68f6479a-29dd-41c4-bd81-466f1e43b692,RTU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,1,3c6ce573-b547-4b6d-8413-b5c1789a3739,YCD330D4P,YCD330D4P,Trane,Trane
+7a90ec17-5bc8-4966-8007-431eeaf747b6,RTU-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,1,3c6ce573-b547-4b6d-8413-b5c1789a3739,YCD330D4P,YCD330D4P,Trane,Trane
+56539c63-c6be-4ed6-b4af-21e7f12ad517,RTU-3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,1,7a76af92-ac8b-4c51-8210-a55a79a0831c,YCD360D4P,YCD360D4P,Trane,Trane

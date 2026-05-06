@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+4ca3fd71-263a-4de6-988c-a8cb00b43895,RTU-5,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,979e6c5f-a0b1-49fe-861e-ed8ca11ca3cb,RT-120,RT-120,Greenheck,Greenheck
+8311cf01-1b30-4c17-9490-0f9d075cc90b,RTU-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,e4caef9b-3ed6-4957-a47a-c69f32c51775,RT-70,RT-70,Greenheck,Greenheck
+540a13de-2e7c-40b2-bf4b-b1c8cfd1c85e,RTU-4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,64a9f060-4022-4b15-9143-a55675681eef,RT-40,RT-40,Greenheck,Greenheck
+0efc8471-b889-4bd2-98f6-6b2d12b01e21,RTU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,e4caef9b-3ed6-4957-a47a-c69f32c51775,RT-70,RT-70,Greenheck,Greenheck
+7744f1b6-592e-4456-8ac5-c778c466b666,RTU-3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,e4caef9b-3ed6-4957-a47a-c69f32c51775,RT-70,RT-70,Greenheck,Greenheck

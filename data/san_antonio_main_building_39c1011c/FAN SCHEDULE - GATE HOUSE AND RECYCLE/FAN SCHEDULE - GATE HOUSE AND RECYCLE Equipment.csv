@@ -1,0 +1,44 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+8501f25c-600a-42b5-a095-77caa3b403b3,SF-P-6,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,3fadf9dd-aad3-4628-8318-5f4806af98ed,SQ-16-M2-VG,SQ-16-M2-VG,Greenheck,Greenheck
+dff0c373-7430-49ca-8848-82b757be5b82,SF-P-3,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,63c53df6-2ff0-4de4-b33d-9f860c2ba021,RBS-3L72,RBS-3L72,Greenheck,Greenheck
+794c6b8b-a94d-4cdb-87f6-9b8437dfda87,EF-P-2,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+65f8b770-426b-4f7c-a727-278255702299,EF-P-7,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,,,,,
+2723dc58-06c4-4866-a6bb-ceb8910bd55e,EF-P-19,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,436f2c0a-890c-4fcb-8404-a460a29cae62,USF-12-B6,USF-12-B6,Greenheck,Greenheck
+10c67a89-170c-4725-b807-bab6fcb2572f,EF-P-22,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,2efec804-4ec7-478d-8aa2-a648a7e24062,USF-12-B7,USF-12-B7,Greenheck,Greenheck
+18089549-fbea-40de-9b5a-09e5673fdc56,EF-O-5,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,1cf02e07-b8d5-4c75-ad17-62bae183b50a,G-070-VG,G-070-VG,Greenheck,Greenheck
+dfa170f0-94cb-4098-aa56-d8a16e5cd9c8,EF-O-4,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,e9cea24b-a393-4d19-880a-f1191e4245a7,G-095-VG,G-095-VG,Greenheck,Greenheck
+74b1c6c2-3435-4860-9ca4-bef6a2165cd1,TF-P-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,f9ed915f-f2e9-4dbe-9a6e-d6c1b6ac94db,MSX-P124-H32-MF,MSX-P124-H32-MF,Greenheck,Greenheck
+d31186e1-82d8-4fc6-ab04-6d4b0435ccc9,EF-P-23,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,e9cea24b-a393-4d19-880a-f1191e4245a7,G-095-VG,G-095-VG,Greenheck,Greenheck
+f67077b2-b2d2-425e-b65b-5cbe9698a1ca,EF-P-17,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,436f2c0a-890c-4fcb-8404-a460a29cae62,USF-12-B6,USF-12-B6,Greenheck,Greenheck
+a71e386a-b00f-42f7-8f4e-9227bd009c39,EF-O-2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,40d54784-34e3-4573-b2ab-c95883e9bda7,G-120-VG,G-120-VG,Greenheck,Greenheck
+62b4d1d4-66fd-4eaa-b7b3-6f545f5dd72d,EF-P-20,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,436f2c0a-890c-4fcb-8404-a460a29cae62,USF-12-B6,USF-12-B6,Greenheck,Greenheck
+3ad95075-b9ab-435e-8524-c9843bb531c6,SF-P-7,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,f9225811-6757-44ef-8aa0-6218040e852a,SQ-140-HP-VG,SQ-140-HP-VG,Greenheck,Greenheck
+291714e2-de32-4cc1-b036-1f3b699b9c33,EF-P-14,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,8cb0f559-d339-43e0-aded-2037fde99ed6,SQ-140-VG,SQ-140-VG,Greenheck,Greenheck
+7ca6f9be-6106-4c12-94f0-659f8b5d798a,EF-P-10,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,,,,,
+feff8579-be84-443f-9ad0-ca4b0c88c688,SF-P-1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,63c53df6-2ff0-4de4-b33d-9f860c2ba021,RBS-3L72,RBS-3L72,Greenheck,Greenheck
+9f574aee-9ad3-40a2-bb71-16199857ad69,KEF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,,,,,
+a0e2e20a-792f-41b1-bd5c-117e43ade230,TF-P-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,f9ed915f-f2e9-4dbe-9a6e-d6c1b6ac94db,MSX-P124-H32-MF,MSX-P124-H32-MF,Greenheck,Greenheck
+3c5ba998-62fa-4237-97b6-d55ad7ead16d,EF-P-12,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,89cca4c2-a840-4533-a1d7-4811c523b88e,RDU-48-621-VG,RDU-48-621-VG,Greenheck,Greenheck
+9be7de14-f056-4686-9f3e-b2f7014920ce,EF-R-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,845e87f5-7381-4ffa-94f8-d6efdbe3f791,SQ-70,SQ-70,Greenheck,Greenheck
+f4b19866-2909-408e-a08e-f6b90f10c441,EF-P-21,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,2efec804-4ec7-478d-8aa2-a648a7e24062,USF-12-B7,USF-12-B7,Greenheck,Greenheck
+0f5f5aa7-2581-428b-96fb-73990329a4ef,SF-P-5,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,9facd50b-5300-4948-8689-ea065f745fcf,SQ-160-VG,SQ-160-VG,Greenheck,Greenheck
+33c00dac-62f3-4ace-aaee-07898988c6cb,EF-P-15,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,436f2c0a-890c-4fcb-8404-a460a29cae62,USF-12-B6,USF-12-B6,Greenheck,Greenheck
+e1792b71-eaef-42d4-a496-49d008137965,TF-P-3,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,8cb0f559-d339-43e0-aded-2037fde99ed6,SQ-140-VG,SQ-140-VG,Greenheck,Greenheck
+6b1bb027-fd81-4d05-8ca8-adcead6bf6c0,EF-P-13,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,d45ba21f-9696-40d0-ba6a-6dbb95483ec8,CUE240BVGD,CUE240BVGD,Greenheck,Greenheck
+068ad0f7-ed8b-42f2-a335-6c5ab61025fa,EF-O-3,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,e9cea24b-a393-4d19-880a-f1191e4245a7,G-095-VG,G-095-VG,Greenheck,Greenheck
+d54669ec-8b71-471d-85f8-49fccbcaf750,SF-P-2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,63c53df6-2ff0-4de4-b33d-9f860c2ba021,RBS-3L72,RBS-3L72,Greenheck,Greenheck
+a6d2cecc-24ef-4ba8-a8ce-2599b9f0ca19,EF-P-5,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+4fbe1d38-d493-40ae-868d-fdf33641c244,EF-P-3,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+5ed7493e-ab40-490b-a66f-43aaeceac410,SF-P-4,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,8cb0f559-d339-43e0-aded-2037fde99ed6,SQ-140-VG,SQ-140-VG,Greenheck,Greenheck
+bd05afa7-885b-4ef4-a389-dacc36e861cd,EF-P-18,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,436f2c0a-890c-4fcb-8404-a460a29cae62,USF-12-B6,USF-12-B6,Greenheck,Greenheck
+94d81261-06fc-4e30-b34d-1625ccfa6a39,EF-P-8,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,0cc13347-f7b6-4597-b627-a14612b919ed,SQ-120-VG,SQ-120-VG,Greenheck,Greenheck
+22c87885-e11d-4837-ac5d-7941fb24dc4b,EF-P-16,5f8252fe-6cc4-47a4-be5d-e9608420df5b,Centrifugal HVAC Fans,0,436f2c0a-890c-4fcb-8404-a460a29cae62,USF-12-B6,USF-12-B6,Greenheck,Greenheck
+7f2bbdea-19c0-4538-b289-1276fd8572bb,EF-G-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,845e87f5-7381-4ffa-94f8-d6efdbe3f791,SQ-70,SQ-70,Greenheck,Greenheck
+5e6a5d74-14be-4974-a5d2-97c4a50913cd,EF-P-4,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+508179ff-d892-4b99-829c-0c3b2f24c624,EF-P-6,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+f81772bd-c949-4bf3-815e-d6501532e66c,DW-EF,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,,,,,
+174b89eb-f036-4457-8dd0-c35183fc519a,EF-P-11,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,89cca4c2-a840-4533-a1d7-4811c523b88e,RDU-48-621-VG,RDU-48-621-VG,Greenheck,Greenheck
+d040a295-ed2f-492a-83a2-59c02eb4805b,EF-P-1,325195ec-2b34-47df-8649-72c4d599c693,Axial HVAC Fans,0,3dcdfd5a-9697-4bce-8699-6259371215ee,TBI-CA-5L60,TBI-CA-5L60,Greenheck,Greenheck
+edebf510-6fab-456b-9a12-d102f13d8f9d,EF-O-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,4f470a57-9688-4d8e-89ad-ca2877e3d0e9,G-200-VG,G-200-VG,Greenheck,Greenheck
+0c8350e0-5dca-4492-bf6b-bb3d7adb6d82,KEF-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,,,,,
+69bdf8e4-1f2c-404f-b4de-4ab9cbaa27c9,EF-P-9,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,40d54784-34e3-4573-b2ab-c95883e9bda7,G-120-VG,G-120-VG,Greenheck,Greenheck

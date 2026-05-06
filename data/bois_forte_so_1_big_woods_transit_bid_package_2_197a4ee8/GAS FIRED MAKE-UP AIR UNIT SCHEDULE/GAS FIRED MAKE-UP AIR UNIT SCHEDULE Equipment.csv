@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+7aad5e2a-ac28-4de4-b898-8ebe79219c53,MAU-1,4bc17faf-7c15-41f7-86b0-76e2f7c5c64d,"Packaged, Outdoor, Heating-Only Makeup-Air Units",0,422bcf5a-93e4-4af6-aa04-ad202a200e30,GM-A2-D500-20D,GM-A2-D500-20D,GreaseMaster,GreaseMaster

@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+24708ffa-a41a-4f0b-b568-d6cd38741938,DOAS-2,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,0,fae9091a-bc99-447a-af75-45aa60263ace,RVE-150-81D-30I-O-A2,RVE-150-81D-30I-O-A2,Greenheck,Greenheck
+067fc91e-7f9b-49d3-bb62-f6dbcdcccf12,DOAS-1,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,0,fae9091a-bc99-447a-af75-45aa60263ace,RVE-150-81D-30I-O-A2,RVE-150-81D-30I-O-A2,Greenheck,Greenheck

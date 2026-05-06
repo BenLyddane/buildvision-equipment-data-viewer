@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+7011e07f-04cb-47a7-9ee1-c2193783e0f0,SMC-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,cee9b6fa-eaba-4726-b796-91074a6d4b65,SMC,SMC,HEAT TIMER,HEAT TIMER
+eb275ee7-430e-4b66-ad37-bcdda0fd5870,SIP-1,24074cf0-d09f-4f23-b6e5-866c864d4844,Air Coils,0,,,,,FlowTherm Systems
+8f1fb23c-c9fb-4ace-b19f-84e8c9875f8d,P-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,59b0e854-f923-40aa-b30a-85869ad8e90c,e-90E,e-90E,Bell & Gossett,Bell & Gossett
+cfb6b47d-1f50-42fc-a7b1-43fbe377265e,BPX-1,b60362bd-1d7d-4b1a-8bb7-0139a966bcf5,Hydronic Piping Specialties,0,793990b0-40d8-490f-8e15-ba7bb36f9cc2,BP 412-50,BP 412-50,Bell & Gossett,Bell & Gossett

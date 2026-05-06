@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+c2d5fb3c-49fc-4726-869b-6f0dccada262,EF-01,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,9344c2d8-d711-42ef-b438-705a565b5fe1,CUE-140-VG,CUE-140-VG,Greenheck,Greenheck
+5dadf30c-6a05-44a1-ac37-006e78235be3,SF-01,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,8cb0f559-d339-43e0-aded-2037fde99ed6,SQ-140-VG,SQ-140-VG,Greenheck,Greenheck
+e196438a-9e95-4f7c-90df-6911158a8252,SF-02,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,82323c3f-2e6b-465a-a372-506d4916379f,BCSW-FRP-22,BCSW-FRP-22,Greenheck,Greenheck

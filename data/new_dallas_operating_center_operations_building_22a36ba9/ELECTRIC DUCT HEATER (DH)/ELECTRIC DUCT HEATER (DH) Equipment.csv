@@ -1,0 +1,10 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+c828b0e4-e155-414b-b45b-cdf36dae5acd,DH-9,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,4118ba17-5a33-4d7d-bc21-4eb3012d85d0,IDHC,IDHC,Greenheck,Greenheck
+fc28a0f1-be6f-4e68-b95d-4a3e027081f6,DH-3,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,4118ba17-5a33-4d7d-bc21-4eb3012d85d0,IDHC,IDHC,Greenheck,Greenheck
+017cba1c-5b4b-41b2-a964-86279e6a41f9,DH-7,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,4118ba17-5a33-4d7d-bc21-4eb3012d85d0,IDHC,IDHC,Greenheck,Greenheck
+44961d07-04c2-4623-a06d-79f750ffd6a7,DH-5,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,4118ba17-5a33-4d7d-bc21-4eb3012d85d0,IDHC,IDHC,Greenheck,Greenheck
+fe1de669-4374-4ee9-b0e6-3c69593dc76f,DH-8,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,4118ba17-5a33-4d7d-bc21-4eb3012d85d0,IDHC,IDHC,Greenheck,Greenheck
+39f1870f-fc25-4a72-a18c-482606dd5e9a,DH-6,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,4118ba17-5a33-4d7d-bc21-4eb3012d85d0,IDHC,IDHC,Greenheck,Greenheck
+77328cba-23b2-4ac8-bdad-ae3b20a23eae,DH-4,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,4118ba17-5a33-4d7d-bc21-4eb3012d85d0,IDHC,IDHC,Greenheck,Greenheck
+52621422-7912-495f-83f8-7f854aba65e4,DH-2,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,4118ba17-5a33-4d7d-bc21-4eb3012d85d0,IDHC,IDHC,Greenheck,Greenheck
+60198d52-795e-46a2-b199-8e7eb49ce4ed,DH-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,4118ba17-5a33-4d7d-bc21-4eb3012d85d0,IDHC,IDHC,Greenheck,Greenheck

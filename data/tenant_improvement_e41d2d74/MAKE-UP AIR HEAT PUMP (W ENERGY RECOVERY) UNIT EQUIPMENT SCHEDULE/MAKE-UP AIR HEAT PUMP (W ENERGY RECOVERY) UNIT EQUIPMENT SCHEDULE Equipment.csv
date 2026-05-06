@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+0deb624c-4ab3-4718-b28c-3a86fab93e6b,MAU-2B,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,069f3599-2eb5-457b-85e4-38e785d9524a,RN-015,RN-015,AAON,AAON
+085524d0-0dca-472f-b74a-e878865857c8,MAU-2A,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,069f3599-2eb5-457b-85e4-38e785d9524a,RN-015,RN-015,AAON,AAON
+30a51d41-3dce-4b74-a995-aa7ed0ef1099,MAU-3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,823c3b44-f32a-486a-b87d-97bc01df6e75,RN-006,RN-006,AAON,AAON
+7f3a8795-5919-4a52-9032-b41fb046984a,MAU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,069f3599-2eb5-457b-85e4-38e785d9524a,RN-015,RN-015,AAON,AAON

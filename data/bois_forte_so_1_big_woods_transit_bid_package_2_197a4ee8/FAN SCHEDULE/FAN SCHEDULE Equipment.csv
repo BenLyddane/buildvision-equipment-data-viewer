@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+e16a6b7e-e4a8-43ee-b880-209f2161bba1,VES-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,5f678a41-f016-498a-b2d8-3b4891e9f618,TPD 10,TPD 10,Ventaire,Ventaire
+0d098d68-e0f0-4023-a1d8-8caa1f6fa8ac,EF-3,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,7fcb01e3-a2f3-49b6-93ac-87ae2140ce67,G-098-VG,G-098-VG,Greenheck,Greenheck
+940e1b9e-f71c-41d6-991d-dea56cd2a9a0,EF-4,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,4f444ed9-d833-4822-8297-9014372d7b43,BSQ-70,BSQ-70,Greenheck,Greenheck
+0ad5ff75-1b2f-43cc-b489-13dce7a5cc36,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,b3465c7a-65c5-4858-9a8e-38f35ed6594c,GB-240,GB-240,Greenheck,Greenheck
+9ca1bfc3-a88c-4805-9ce9-e17312d19961,EF-2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,8428dfc2-cff3-422d-a024-3dbd44c963d5,G-140-VG,G-140-VG,Greenheck,Greenheck

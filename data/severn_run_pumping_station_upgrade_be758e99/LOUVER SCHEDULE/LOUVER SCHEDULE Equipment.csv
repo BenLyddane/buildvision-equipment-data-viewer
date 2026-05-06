@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+fda50f96-baa1-4d12-95f4-cf12493a8b64,L-01,dec3a91e-f422-4b12-9c05-8b118c8d1057,Louvers,1,09490efa-9f83-4565-a840-864e0b2dcd8a,EHH-501,EHH-501,Greenheck,Greenheck

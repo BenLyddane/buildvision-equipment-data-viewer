@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d4aa624a-8be8-4718-9373-4a412f998fc6,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,87c448c2-b960-4c0c-bbd7-ca8cc0c4c048,ACED,ACED,Loren Cook,Loren Cook

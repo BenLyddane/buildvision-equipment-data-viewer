@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+bf2dba14-57ee-44f7-ae98-5823411d8d06,VAV-3,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,b15364be-f415-48ce-a5cd-b1c229a01039,SDV Single Duct Terminal Unit,SDV,Price Industries,Price Industries
+5efff26e-85d4-4194-853e-db0f47c9c193,VAV-2,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,b15364be-f415-48ce-a5cd-b1c229a01039,SDV Single Duct Terminal Unit,SDV,Price Industries,Price Industries
+a8cedb95-76ae-4259-82b9-9da9e4cdb59f,VAV-4,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,b15364be-f415-48ce-a5cd-b1c229a01039,SDV Single Duct Terminal Unit,SDV,Price Industries,Price Industries
+bb60e785-9fcc-4632-9d45-6647d62bec2c,VAV-1,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,b15364be-f415-48ce-a5cd-b1c229a01039,SDV Single Duct Terminal Unit,SDV,Price Industries,Price Industries

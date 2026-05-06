@@ -1,0 +1,29 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+aa226266-dc43-4e17-97d0-7ccbbc448d0c,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,,,,,,,,MOTOR OPERATED DAMPER,,,Type
+087ba7cf-64f8-492b-8972-98c8241cfa1b,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,9a128b41-ee5b-4b58-9a73-6e08e4122ac4,Sealing Requirements,d4cd962d-5cc7-4cd4-a71f-0378befc265c,Seal Class A,,,,1A,,,Leakage Class
+39db9b32-e5f3-40ba-b528-922e39b3de2d,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,efd848e4-a010-467e-b40a-a15dafef0aef,Blade Type,91611c72-1ad3-4797-93a4-0b36488321dc,Opposed Blade,,,,OPPOSED,,,Blade Action
+84de843c-6943-48af-89ce-801015f96312,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,,,,,,,,CHANNEL,,,Frame Type
+84d06f59-3000-45b4-a2df-3790d723d610,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,,,,,,,,5,IN WG,,Maximum Pressure Rating
+48013c48-236d-4a22-bcd3-a758bef9e13b,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,,,,,,,,30,IN,Size,Width
+4e4d5521-eb18-426a-b7e2-6469ab541b53,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,,,,,,,,24,IN,Size,Height
+70583a02-1406-494a-9b3b-e9b03ea9e580,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,c678e2b0-49e2-420f-8e59-37e932fb6baa,Velocity Rating,,,,,,3000,FPM,,Maximum Velocity
+375fa2d3-fcc8-46c9-8653-1a5885667402,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,,,,,,,,"10,330",CFM,,Volume
+3aaf8702-4cac-48ee-bb40-052ad9ffde4b,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.07,IN WG,,Pressure Drop
+2e6667f9-c96c-4e62-ae9a-7f9ced39d61c,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,,,,,,,,LEFT,,,Actuator Location
+f38bc46e-bdd1-4038-b734-a74ca7421197,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,adcf9796-b4e4-4354-bac0-977aae9882fc,Greenheck,,,,GREENHECK,,,Manufacturer
+9c00b047-10ee-4157-a669-c06ba3d4def1,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,,,,,,,,VCD-23,,,Model
+fb09fdb4-e22d-4903-b428-fd8d54d23567,2b6bfc19-9c5c-4798-b96f-a86b965ff16e,,,,,,,,1,,,Notes
+f208c21a-5e40-42e0-9fa4-cd31cd3074ea,e92f8849-a1a5-4254-8745-b68973f220dd,44d9afd3-6d5d-4638-ac34-bc9ce7defacf,Volume Damper Type,f24eb75e-7049-4f1b-9731-13bb6e130978,Motorized Opposed Blade,,,,MOTOR OPERATED DAMPER,,,Type
+b76d15e0-0ff5-44c0-aa7d-50be5d4db062,e92f8849-a1a5-4254-8745-b68973f220dd,9a128b41-ee5b-4b58-9a73-6e08e4122ac4,Sealing Requirements,d4cd962d-5cc7-4cd4-a71f-0378befc265c,Seal Class A,,,,1A,,,Leakage Class
+37c55951-0080-4ab6-8037-a494807a277f,e92f8849-a1a5-4254-8745-b68973f220dd,efd848e4-a010-467e-b40a-a15dafef0aef,Blade Type,91611c72-1ad3-4797-93a4-0b36488321dc,Opposed Blade,,,,OPPOSED,,,Blade Action
+3697804f-29b8-4a79-8f68-10e96aeb9e09,e92f8849-a1a5-4254-8745-b68973f220dd,,,,,,,,CHANNEL,,,Frame Type
+84f248e4-c323-4862-b0a6-1a03d6972a23,e92f8849-a1a5-4254-8745-b68973f220dd,,,,,,,,5,IN WG,,Maximum Pressure Rating
+03e74c03-8e4b-4957-bf15-1c05b88953ff,e92f8849-a1a5-4254-8745-b68973f220dd,,,,,,,,30,IN,Size,Width
+8915d88f-af65-439e-9bd9-f7553af0ac07,e92f8849-a1a5-4254-8745-b68973f220dd,,,,,,,,24,IN,Size,Height
+89d655d5-d2bb-487a-aa14-388f50d8b91f,e92f8849-a1a5-4254-8745-b68973f220dd,c678e2b0-49e2-420f-8e59-37e932fb6baa,Velocity Rating,,,,,,3000,FPM,,Maximum Velocity
+b705f825-75a7-47a6-be96-a5e3ae977786,e92f8849-a1a5-4254-8745-b68973f220dd,,,,,,,,"10,330",CFM,,Volume
+c861ad57-240f-4c28-b7f3-613c58f80864,e92f8849-a1a5-4254-8745-b68973f220dd,00db6215-55f3-48dd-973e-ae6418c8d547,Pressure Drop,,,55d4740f-1ada-4220-9d87-55fb1d417e14,inches of water gauge,,0.07,IN WG,,Pressure Drop
+44fb3e12-29a9-49a6-abe6-cfd9f156ec01,e92f8849-a1a5-4254-8745-b68973f220dd,,,,,,,,RIGHT,,,Actuator Location
+d877ac07-5b0d-4eb7-b628-ed40f50a76e1,e92f8849-a1a5-4254-8745-b68973f220dd,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,adcf9796-b4e4-4354-bac0-977aae9882fc,Greenheck,,,,GREENHECK,,,Manufacturer
+126e26aa-ce1d-454e-b992-302900f8a2af,e92f8849-a1a5-4254-8745-b68973f220dd,,,,,,,,VCD-23,,,Model
+895183b2-55f1-4be7-9ade-f68676abed3d,e92f8849-a1a5-4254-8745-b68973f220dd,,,,,,,,1,,,Notes

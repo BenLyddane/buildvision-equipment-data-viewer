@@ -1,0 +1,10 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+23b64de7-92d3-4951-a714-b9739ccf0e9b,VAV-13-07,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,,,,,
+e4d83fe5-5b58-4acd-bb1f-cfa77c9a543c,VAV-13-03,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,,,,,
+fcdc8d28-3265-4227-ba74-96a58da697c2,VAV-2-01,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,,,,,
+9d23d0ba-596e-49d5-a73b-92998761a3e6,VAV-13-02,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,,,,,
+8b880801-d79d-478e-960d-9c8384efe827,VAV-13-06,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,,,,,
+83168b2e-1347-47cc-9453-68c676a5ff13,VAV-13-04,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,,,,,
+14f99594-9e6c-44b8-95a0-1e6978de8c40,VAV-3-01,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,,,,,
+9cb4aa1f-5cf3-41d0-b162-c261e358c9fb,VAV-13-05,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,,,,,
+55fa7534-2c33-422e-a637-0797a67a8cfe,VAV-13-01,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,,,,,

@@ -1,0 +1,38 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+0ac95556-7e49-4735-8a80-bc30b54a5203,RH-09,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+c6e640fa-4ee4-4492-b16b-4beb2eb297e8,RH-P-1,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,930874aa-ab95-43a2-93d3-74db2466b079,FGR,FGR,Greenheck,Greenheck
+12db80f8-dc9d-4d7b-ba4d-5455c7f850b3,VER-P-5,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,50f83ce5-3d69-4431-933b-c205747673db,TSR-S36-6",TSR-S36-6",CAR-MON Products,CAR-MON Products
+ccafdca6-13ea-4839-87b2-b1268b6b9972,RH-02,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+420bc2a8-cfa4-4e9b-9fcd-e3570d03a0a2,WEA-P-2,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,6d7aa172-c876-4e76-9fd8-6df1db2a6c67,WXS-120-8",WXS-120-8",CAR-MON Products,CAR-MON Products
+6263bca0-b4f6-4dd2-b4e9-0fbbd36cd228,WEA-P-1,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,6d7aa172-c876-4e76-9fd8-6df1db2a6c67,WXS-120-8",WXS-120-8",CAR-MON Products,CAR-MON Products
+4ce8d196-77f2-4097-964a-093dc8ab9ccc,RH-P-9,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,930874aa-ab95-43a2-93d3-74db2466b079,FGR,FGR,Greenheck,Greenheck
+4e15067a-ae9b-4a86-abcd-c5e0850fb3dc,VER-P-2,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,50f83ce5-3d69-4431-933b-c205747673db,TSR-S36-6",TSR-S36-6",CAR-MON Products,CAR-MON Products
+db433233-1259-48c5-bcff-c582e2cfee38,VER-P-6,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,50f83ce5-3d69-4431-933b-c205747673db,TSR-S36-6",TSR-S36-6",CAR-MON Products,CAR-MON Products
+235103ff-8289-4fa8-97dc-ee45208583dc,RH-03,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+c8f96908-aa61-4d9e-bd59-8b2d80579238,RH-06,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+2f37b987-1ac2-4b33-b910-09d3232ee365,RH-27,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+f1638efb-1442-44b6-b414-15f8d95f2c1b,RH-08,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+b58f3fb5-5346-44d2-8da2-642f1af8321b,RH-P-12,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,930874aa-ab95-43a2-93d3-74db2466b079,FGR,FGR,Greenheck,Greenheck
+1b289ffc-8dc5-415e-8587-739295cebfc6,VER-P-1,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,50f83ce5-3d69-4431-933b-c205747673db,TSR-S36-6",TSR-S36-6",CAR-MON Products,CAR-MON Products
+7751dc0d-4a4d-47ec-a226-c88152fc2e43,VER-P-3,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,50f83ce5-3d69-4431-933b-c205747673db,TSR-S36-6",TSR-S36-6",CAR-MON Products,CAR-MON Products
+401bad52-c41c-4878-ab9c-5e6df61570b3,RH-11,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+edcb57fb-f667-489b-b41f-a4b890c1c0bc,RH-P-4,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,bf44b01b-faf0-49d4-ad9b-6228a0d1ab7b,GSRI,GSRI,Greenheck,Greenheck
+82ca5202-b65b-4e25-8bfb-7992668abdaf,VER-P-7,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,50f83ce5-3d69-4431-933b-c205747673db,TSR-S36-6",TSR-S36-6",CAR-MON Products,CAR-MON Products
+57091cb8-33ed-47d3-b664-c75f6c7acec4,RH-P-6,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,bf44b01b-faf0-49d4-ad9b-6228a0d1ab7b,GSRI,GSRI,Greenheck,Greenheck
+9ca47104-03a6-4261-a7fe-ef49696ea9f6,VER-P-8,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,50f83ce5-3d69-4431-933b-c205747673db,TSR-S36-6",TSR-S36-6",CAR-MON Products,CAR-MON Products
+a35186dd-e01a-4041-817c-fbba58686267,RH-P-2,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,930874aa-ab95-43a2-93d3-74db2466b079,FGR,FGR,Greenheck,Greenheck
+c33d438b-a82c-490a-9430-99491ce0030d,RH-P-13,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,930874aa-ab95-43a2-93d3-74db2466b079,FGR,FGR,Greenheck,Greenheck
+a8233943-81c5-4a91-9da6-0e398824f3a8,RH-07,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+9f10cfce-9e7d-4c15-ba5f-6f3b89194da9,RH-P-10,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,930874aa-ab95-43a2-93d3-74db2466b079,FGR,FGR,Greenheck,Greenheck
+2ba91dc0-c0aa-4a98-964b-c3250456241d,RH-P-11,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,930874aa-ab95-43a2-93d3-74db2466b079,FGR,FGR,Greenheck,Greenheck
+a6cecc6d-c519-4f8d-8678-8b3f73bb88e7,RH-P-7,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,930874aa-ab95-43a2-93d3-74db2466b079,FGR,FGR,Greenheck,Greenheck
+cc71f11a-bf33-43a1-a0b0-20c474419ce2,RH-P-5,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,bf44b01b-faf0-49d4-ad9b-6228a0d1ab7b,GSRI,GSRI,Greenheck,Greenheck
+d39ea5c4-b2ad-4d09-81f9-06117edeeb33,RH-12,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+dbd07bd3-6e73-47b3-977c-50d371515a4b,RH-04,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+8a89879b-d0a7-4f96-9581-6acdd2a3a5a7,RH-10,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+acf93e11-246d-4cd3-8744-5f2e7805459a,RH-05,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+2f954b54-1b58-485a-847d-f206adb8d82e,RH-13,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+c95cc368-f202-4ae3-82ac-9b8e8d237a40,RH-01,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,213acf7f-fe73-4382-a122-b871ed1b2770,FGI,FGI,Greenheck,Greenheck
+6890d97e-dbf2-4b41-b39d-859c08e71e5c,RH-P-3,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,bf44b01b-faf0-49d4-ad9b-6228a0d1ab7b,GSRI,GSRI,Greenheck,Greenheck
+53ebab36-8130-4413-9f2a-2328a9a85b44,VER-P-4,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,50f83ce5-3d69-4431-933b-c205747673db,TSR-S36-6",TSR-S36-6",CAR-MON Products,CAR-MON Products
+f0ee1fa1-1d50-43ed-a5ea-4d8918b07fbb,RH-P-8,dcf41309-511d-414f-9477-338536b2b241,HVAC Gravity Ventilators,0,930874aa-ab95-43a2-93d3-74db2466b079,FGR,FGR,Greenheck,Greenheck

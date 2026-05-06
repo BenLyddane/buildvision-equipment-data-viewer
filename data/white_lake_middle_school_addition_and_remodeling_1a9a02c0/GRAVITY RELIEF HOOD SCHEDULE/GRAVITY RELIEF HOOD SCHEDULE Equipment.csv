@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+6eed5f81-e49c-4973-ac65-124cfa858a70,GRH-2,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,f7fb76a3-a485-476d-920b-7aec8e488914,FGI-18X18,FGI-18X18,Greenheck,Greenheck
+d2d87871-5fe5-45c9-89d4-8e4da7e5bb51,GRH-1,9d6f151a-4dc1-481d-8e6d-e1ce7595e2b2,Ventilation Hoods,0,f7fb76a3-a485-476d-920b-7aec8e488914,FGI-18X18,FGI-18X18,Greenheck,Greenheck

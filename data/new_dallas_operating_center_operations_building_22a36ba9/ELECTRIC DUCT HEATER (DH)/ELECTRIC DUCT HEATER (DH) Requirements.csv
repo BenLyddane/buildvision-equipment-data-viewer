@@ -1,0 +1,109 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+3bcf6dcf-ded6-43d4-a2c2-2eef7c19ccfe,fe1de669-4374-4ee9-b0e6-3c69593dc76f,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3,KW,,Capacity
+7e4911fa-f7d1-4101-89f7-63650a320d00,fe1de669-4374-4ee9-b0e6-3c69593dc76f,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277,V,Electrical,Voltage
+9417a8c5-7597-4d8b-8b96-9fa52a20b204,fe1de669-4374-4ee9-b0e6-3c69593dc76f,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical,Phase
+2950efe3-daa4-44ef-b929-60666a913e62,fe1de669-4374-4ee9-b0e6-3c69593dc76f,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+a07c53ee-f001-442c-970e-34a70f6cebcd,fe1de669-4374-4ee9-b0e6-3c69593dc76f,,,,,,,,AIRFLOW SWITCH,,Required Features (from Note 1),Safety
+a5b0ffa4-f398-4539-b51d-57f5f6320eca,fe1de669-4374-4ee9-b0e6-3c69593dc76f,,,,,,,,MAGNETIC CONTACTOR,,Required Features (from Note 1),Component
+1afc0155-d725-41ec-8abc-8522b997293d,fe1de669-4374-4ee9-b0e6-3c69593dc76f,,,,,,,,126,,,Location
+9950a5d7-2660-4f53-8d07-8461771b262f,fe1de669-4374-4ee9-b0e6-3c69593dc76f,,,,,,,,SLIP-IN,,,Style
+67672cd6-11ff-49df-bcc5-8f883ee29783,fe1de669-4374-4ee9-b0e6-3c69593dc76f,,,,,,,,24,VAC,Electrical,Control Voltage
+39dba248-a7a6-4f19-891d-49ad44236c1a,fe1de669-4374-4ee9-b0e6-3c69593dc76f,,,,,,,,IDHC,,,Model
+dbda75a4-09d4-4e80-b149-eb4e5a4bfa78,fe1de669-4374-4ee9-b0e6-3c69593dc76f,,,,,,,,1,,,Notes
+a5f8a981-2046-4a43-8ea6-d797f1310f01,fe1de669-4374-4ee9-b0e6-3c69593dc76f,,,,,,,,SCR CONTROL,,Required Features (from Note 1),Control
+67b32258-6a32-4bd6-aae7-14fe27c561d9,60198d52-795e-46a2-b199-8e7eb49ce4ed,,,,,,,,SLIP-IN,,,Style
+3ce9d2e8-f760-4d8d-aca7-ccb1d22ee694,60198d52-795e-46a2-b199-8e7eb49ce4ed,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3,KW,,Capacity
+09351173-031f-4542-8f44-865c5073658a,60198d52-795e-46a2-b199-8e7eb49ce4ed,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277,V,Electrical,Voltage
+f0cadb41-6c58-41af-9154-d209b14f9940,60198d52-795e-46a2-b199-8e7eb49ce4ed,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical,Phase
+24939626-ef0f-4806-b75a-ef273edaf6e1,60198d52-795e-46a2-b199-8e7eb49ce4ed,,,,,,,,24,VAC,Electrical,Control Voltage
+e3a5ac86-8686-4b45-924f-fa5d76045ad6,60198d52-795e-46a2-b199-8e7eb49ce4ed,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+44b49685-54c6-4796-86c7-cb23e6e7949a,60198d52-795e-46a2-b199-8e7eb49ce4ed,,,,,,,,IDHC,,,Model
+bd635e2e-8549-4406-bfcc-df74e8f9c71f,60198d52-795e-46a2-b199-8e7eb49ce4ed,,,,,,,,1,,,Notes
+6f2f66c8-dec8-42ed-834a-6146f22fb40c,60198d52-795e-46a2-b199-8e7eb49ce4ed,,,,,,,,SCR CONTROL,,Required Features (from Note 1),Control
+c7387bf1-bc56-491e-938d-d70a992593cf,60198d52-795e-46a2-b199-8e7eb49ce4ed,,,,,,,,119,,,Location
+4fd38585-c83c-43fb-ae45-0808f7265c52,60198d52-795e-46a2-b199-8e7eb49ce4ed,,,,,,,,AIRFLOW SWITCH,,Required Features (from Note 1),Safety
+cb7f0e5e-87a3-4dc9-bd9a-2b3bff87a278,60198d52-795e-46a2-b199-8e7eb49ce4ed,,,,,,,,MAGNETIC CONTACTOR,,Required Features (from Note 1),Component
+f1bd8fb6-a551-4e70-b8b8-acf2e797eef2,52621422-7912-495f-83f8-7f854aba65e4,,,,,,,,120,,,Location
+ae951191-4e50-401a-9381-eac8a1343c70,52621422-7912-495f-83f8-7f854aba65e4,,,,,,,,SLIP-IN,,,Style
+ce1cc49e-a650-4c96-8d59-fab96dc6f137,52621422-7912-495f-83f8-7f854aba65e4,,,,,,,,3,KW,,Capacity
+68f107e2-c023-4b39-b518-2700f7b3eaf8,52621422-7912-495f-83f8-7f854aba65e4,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277,V,Electrical,Voltage
+a89f9b60-fec1-46aa-9a3c-d4a176d7cf17,52621422-7912-495f-83f8-7f854aba65e4,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical,Phase
+df737aaa-3614-4842-830b-24a5886804b9,52621422-7912-495f-83f8-7f854aba65e4,,,,,,,,24,VAC,Electrical,Control Voltage
+5c3c3172-63a1-43ce-bad4-dba75a2deb25,52621422-7912-495f-83f8-7f854aba65e4,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+b1c234c7-0c34-4ca7-bd86-1459e2c59e69,52621422-7912-495f-83f8-7f854aba65e4,,,,,,,,IDHC,,,Model
+3229c0d5-d8ec-4171-82ba-a1123decb8fd,52621422-7912-495f-83f8-7f854aba65e4,,,,,,,,1,,,Notes
+8699e38f-5413-45f7-8b31-ca3733febf5b,52621422-7912-495f-83f8-7f854aba65e4,,,,,,,,SCR CONTROL,,Required Features (from Note 1),Control
+7e12ffca-f281-4228-9e01-0dc21b1bc8b1,52621422-7912-495f-83f8-7f854aba65e4,,,,,,,,AIRFLOW SWITCH,,Required Features (from Note 1),Safety
+953cdef5-a6fb-452d-9a39-026396dbbc58,52621422-7912-495f-83f8-7f854aba65e4,,,,,,,,MAGNETIC CONTACTOR,,Required Features (from Note 1),Component
+96a37b79-14a5-41e2-a56e-aea53f115e80,39f1870f-fc25-4a72-a18c-482606dd5e9a,,,,,,,,124,,,Location
+d9bba9d1-fbfe-4a84-9fe8-7a396a9fe196,39f1870f-fc25-4a72-a18c-482606dd5e9a,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3,KW,,Capacity
+bc76cd8c-f412-49c0-a0ca-a65d873c0351,39f1870f-fc25-4a72-a18c-482606dd5e9a,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,de72b72e-4c75-438b-ad2d-059e4a275ded,277,,,,277,V,Electrical,Voltage
+b88bb9d9-66d6-4b0a-9128-1017c2fcc623,39f1870f-fc25-4a72-a18c-482606dd5e9a,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,1,,Electrical,Phase
+d22790de-774d-4418-bd10-79adf2e5e6ba,39f1870f-fc25-4a72-a18c-482606dd5e9a,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+f0c9cee1-fe86-440d-b3b2-af47a5919bd5,39f1870f-fc25-4a72-a18c-482606dd5e9a,,,,,,,,MAGNETIC CONTACTOR,,Required Features (from Note 1),Component
+ad336015-be2d-45e5-899d-5c57b44428c2,39f1870f-fc25-4a72-a18c-482606dd5e9a,,,,,,,,SLIP-IN,,,Style
+68dae151-65a6-441f-8c17-12c621463753,39f1870f-fc25-4a72-a18c-482606dd5e9a,,,,,,,,24,VAC,Electrical,Control Voltage
+f10ec114-fbe6-4019-bc3f-cdef367f5cb8,39f1870f-fc25-4a72-a18c-482606dd5e9a,,,,,,,,IDHC,,,Model
+2e95b7cd-890d-41d6-a0e7-812923a6cf22,39f1870f-fc25-4a72-a18c-482606dd5e9a,,,,,,,,1,,,Notes
+8cbb7ffa-0b6e-47dc-885a-04b4c5331755,39f1870f-fc25-4a72-a18c-482606dd5e9a,,,,,,,,SCR CONTROL,,Required Features (from Note 1),Control
+7943b030-c034-4d90-8327-bcc6c9995f4f,39f1870f-fc25-4a72-a18c-482606dd5e9a,,,,,,,,AIRFLOW SWITCH,,Required Features (from Note 1),Safety
+34953f45-d7f4-43ca-8082-07d0286f6604,017cba1c-5b4b-41b2-a964-86279e6a41f9,,,,,,,,125,,,Location
+55f88e38-c6e6-40a7-be1a-326a93404b48,017cba1c-5b4b-41b2-a964-86279e6a41f9,,,,,,,,SLIP-IN,,,Style
+209ed1d8-03a9-442f-94be-19298ca0664f,017cba1c-5b4b-41b2-a964-86279e6a41f9,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3,KW,,Capacity
+41c00cd4-6468-49f5-a8e2-2addbe99490f,017cba1c-5b4b-41b2-a964-86279e6a41f9,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277,V,Electrical,Voltage
+8e77320b-1f08-4560-af33-0a4b6f2c5336,017cba1c-5b4b-41b2-a964-86279e6a41f9,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical,Phase
+5a26b2a5-0b4b-48a5-b2f0-80422430cd45,017cba1c-5b4b-41b2-a964-86279e6a41f9,,,,,,,,24,VAC,Electrical,Control Voltage
+1578914e-1ff7-4821-a948-185efd62fa01,017cba1c-5b4b-41b2-a964-86279e6a41f9,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+e2a75642-34c4-4a18-af07-58753958a59f,017cba1c-5b4b-41b2-a964-86279e6a41f9,,,,,,,,IDHC,,,Model
+234a4282-5c11-4b88-ad42-98652daca871,017cba1c-5b4b-41b2-a964-86279e6a41f9,,,,,,,,1,,,Notes
+752e003a-88fa-4aab-aec2-f34cd886f0f7,017cba1c-5b4b-41b2-a964-86279e6a41f9,,,,,,,,SCR CONTROL,,Required Features (from Note 1),Control
+3f7b2f3f-b3c9-4ec2-96a6-1e89f4534c13,017cba1c-5b4b-41b2-a964-86279e6a41f9,,,,,,,,AIRFLOW SWITCH,,Required Features (from Note 1),Safety
+9c0d3e26-8ca2-4393-bb05-6cb7d2d7eb67,017cba1c-5b4b-41b2-a964-86279e6a41f9,,,,,,,,MAGNETIC CONTACTOR,,Required Features (from Note 1),Component
+0b70419a-2e04-4d55-85a0-b5ca5480c8bd,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,,,,,,,,121,,,Location
+ee18e044-3d9e-4dc0-9028-b92830b9ba44,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,,,,,,,,SLIP-IN,,,Style
+7f3d6e2f-d8c5-4022-87a5-a14f12040c57,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3,KW,,Capacity
+382a1ae2-7045-43f2-80cf-474921fba424,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,de72b72e-4c75-438b-ad2d-059e4a275ded,277,,,,277,V,Electrical,Voltage
+c9398cc9-2586-4aa5-855a-ce67d909b225,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,5cccfbae-e42f-4a4a-9a47-4df36ddbf0f8,1Ø,,,,1,,Electrical,Phase
+0d1e3b75-6b46-4320-8994-9265bd6eae7f,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,,,,,,,,24,VAC,Electrical,Control Voltage
+3f0d31c0-130b-4e53-9e88-284080cb2dc0,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+ca33e369-8706-49c8-9bb0-1594b83dca6b,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,,,,,,,,IDHC,,,Model
+cd6908de-3dda-49cb-9ccc-f7fe9129d384,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,,,,,,,,1,,,Notes
+dd5e905f-66ea-4d4f-924d-9f53d8557069,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,,,,,,,,SCR CONTROL,,Required Features (from Note 1),Control
+99b7e4f8-9f98-4f94-aa1f-41450fb7d942,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,,,,,,,,AIRFLOW SWITCH,,Required Features (from Note 1),Safety
+7d09cb8d-7636-4e67-97a5-a16410615678,fc28a0f1-be6f-4e68-b95d-4a3e027081f6,,,,,,,,MAGNETIC CONTACTOR,,Required Features (from Note 1),Component
+a6c0f9b4-ea22-49b4-8745-dd14f5db7aa4,77328cba-23b2-4ac8-bdad-ae3b20a23eae,,,,,,,,122,,,Location
+6c4dee44-5a53-4890-b8e9-65777f5c1b93,77328cba-23b2-4ac8-bdad-ae3b20a23eae,,,,,,,,SLIP-IN,,,Style
+667420cd-dcc7-4842-ab34-5618fb13702e,77328cba-23b2-4ac8-bdad-ae3b20a23eae,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3,KW,,Capacity
+ce9c8c21-e1ae-4234-b4f0-38163f6733d4,77328cba-23b2-4ac8-bdad-ae3b20a23eae,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277,V,Electrical,Voltage
+76262991-f084-4e51-9518-6427a665afd2,77328cba-23b2-4ac8-bdad-ae3b20a23eae,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical,Phase
+6f8a68dc-77ab-4554-894b-b917b214cb17,77328cba-23b2-4ac8-bdad-ae3b20a23eae,,,,,,,,24,VAC,Electrical,Control Voltage
+e645da15-2d73-47d8-ab2c-e138bef4b82a,77328cba-23b2-4ac8-bdad-ae3b20a23eae,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+b1f4cab3-a4bc-4303-b075-1da183b05256,77328cba-23b2-4ac8-bdad-ae3b20a23eae,,,,,,,,IDHC,,,Model
+ed7278cf-16e1-4c05-bd06-d5d174351481,77328cba-23b2-4ac8-bdad-ae3b20a23eae,,,,,,,,1,,,Notes
+0f8cf947-af7b-4313-94cb-7a150d62abb9,77328cba-23b2-4ac8-bdad-ae3b20a23eae,,,,,,,,SCR CONTROL,,Required Features (from Note 1),Control
+e9af5294-ae24-4bb4-aa28-c9e272e67216,77328cba-23b2-4ac8-bdad-ae3b20a23eae,,,,,,,,AIRFLOW SWITCH,,Required Features (from Note 1),Safety
+9e06861c-a818-48ed-9705-69667b04067c,77328cba-23b2-4ac8-bdad-ae3b20a23eae,,,,,,,,MAGNETIC CONTACTOR,,Required Features (from Note 1),Component
+8abe3bd6-00c4-4448-9966-4b8ce5554772,44961d07-04c2-4623-a06d-79f750ffd6a7,,,,,,,,123,,,Location
+bbeb6381-e2c2-4c54-b41a-befe97013ba8,44961d07-04c2-4623-a06d-79f750ffd6a7,,,,,,,,SLIP-IN,,,Style
+5fd8867c-1126-4f76-ae2c-250f8eb11399,44961d07-04c2-4623-a06d-79f750ffd6a7,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3,KW,,Capacity
+b165e112-0b6b-4d32-8c50-78ad5272a25b,44961d07-04c2-4623-a06d-79f750ffd6a7,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277,V,Electrical,Voltage
+5e61017c-a760-4d9d-a10a-9f4e142cfef0,44961d07-04c2-4623-a06d-79f750ffd6a7,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical,Phase
+b589f7ff-6f88-4ca4-8f26-97399a3cc5af,44961d07-04c2-4623-a06d-79f750ffd6a7,,,,,,,,24,VAC,Electrical,Control Voltage
+8ff11e53-2885-4b7d-adbc-4edba9848c0e,44961d07-04c2-4623-a06d-79f750ffd6a7,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+970f76b6-99f9-4970-8937-5c683a3be296,44961d07-04c2-4623-a06d-79f750ffd6a7,,,,,,,,IDHC,,,Model
+d6c86923-28c6-4678-97b8-689fbfe53d7f,44961d07-04c2-4623-a06d-79f750ffd6a7,,,,,,,,1,,,Notes
+9c51aa24-5601-43f2-b4ab-50f507e6926a,44961d07-04c2-4623-a06d-79f750ffd6a7,,,,,,,,SCR CONTROL,,Required Features (from Note 1),Control
+678e3585-928d-40ab-aeab-b23d8bec241a,44961d07-04c2-4623-a06d-79f750ffd6a7,,,,,,,,AIRFLOW SWITCH,,Required Features (from Note 1),Safety
+87e70b02-ff60-4a52-b727-b69c0e9fa961,44961d07-04c2-4623-a06d-79f750ffd6a7,,,,,,,,MAGNETIC CONTACTOR,,Required Features (from Note 1),Component
+b8832cf9-a735-4b69-9d77-903e861d2703,c828b0e4-e155-414b-b45b-cdf36dae5acd,,,,,,,,127,,,Location
+94c9c881-249b-4bfc-b0ff-ee88faf17bfc,c828b0e4-e155-414b-b45b-cdf36dae5acd,,,,,,,,SLIP-IN,,,Style
+3a7e2ece-55ac-4551-bf1d-9fdd40b191cb,c828b0e4-e155-414b-b45b-cdf36dae5acd,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3,KW,,Capacity
+d55293c9-3d10-4475-92b0-393d01dccb3b,c828b0e4-e155-414b-b45b-cdf36dae5acd,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277,V,Electrical,Voltage
+c6c7cc21-4127-453f-b418-666f8ef447e4,c828b0e4-e155-414b-b45b-cdf36dae5acd,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical,Phase
+b8ec92fe-eae8-4fb9-9fee-cce6025a20de,c828b0e4-e155-414b-b45b-cdf36dae5acd,,,,,,,,24,VAC,Electrical,Control Voltage
+1726060c-e48e-4e13-b67c-367bd315f40b,c828b0e4-e155-414b-b45b-cdf36dae5acd,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,,,,,,GREENHECK,,,Manufacturer
+5a6dfe0a-022c-45e0-a8d7-5659a122e1e0,c828b0e4-e155-414b-b45b-cdf36dae5acd,,,,,,,,IDHC,,,Model
+1aeec4df-3ff5-40e5-8241-5b3da379211a,c828b0e4-e155-414b-b45b-cdf36dae5acd,,,,,,,,1,,,Notes
+4b28493e-b38f-409f-9ba1-d3d8e3fc5ece,c828b0e4-e155-414b-b45b-cdf36dae5acd,,,,,,,,SCR CONTROL,,Required Features (from Note 1),Control
+4597d28b-11c0-49be-9258-775a811f7b51,c828b0e4-e155-414b-b45b-cdf36dae5acd,,,,,,,,AIRFLOW SWITCH,,Required Features (from Note 1),Safety
+fa7f94d9-d5f8-4135-a64e-effe5a86bbd3,c828b0e4-e155-414b-b45b-cdf36dae5acd,,,,,,,,MAGNETIC CONTACTOR,,Required Features (from Note 1),Component

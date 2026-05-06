@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+48ad7dc6-4642-4894-a88d-2a6490e3275a,AHU-14,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,
+f4b91374-337b-4cd8-a154-ed686e315029,AHU-13,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,
+6416adf6-b5c0-4fbc-9f92-456eede72983,AHU-1,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,
+1cadc305-7192-4c18-ae98-1727d94dc655,AHU-2,56868738-7ef3-4341-9db1-897acc8cd62b,Factory-Fabricated Air-Handling Units,0,,,,,

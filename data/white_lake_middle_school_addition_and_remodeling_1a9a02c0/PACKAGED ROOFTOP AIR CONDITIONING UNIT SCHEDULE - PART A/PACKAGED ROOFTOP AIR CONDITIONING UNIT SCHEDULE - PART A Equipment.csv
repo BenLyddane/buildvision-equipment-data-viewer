@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+eea807f5-0ebc-412c-b8ca-c04f9c499a11,RTU-4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,3f8c9fad-38e2-4f9d-9b3a-b92244e4628d,RQ-002-3-0-HAAY-V0-21-000-A,RQ-002-3-0-HAAY-V0-21-000-A,AAON,AAON
+c03e72d2-0f92-4212-a731-f618c210d0f9,RTU-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,a23c860d-f3b6-4261-bca1-57aac3b939d7,RN-015-3-0-HABY-V0-21-000-A,RN-015-3-0-HABY-V0-21-000-A,AAON,AAON
+6e5d12c2-fa05-4da2-b401-2421d7349182,RTU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,febfb734-c01a-41d2-9ebc-6114cc7d6dd1,RN-008-3-0-HAAY-V0-21-000-A,RN-008-3-0-HAAY-V0-21-000-A,AAON,AAON
+a0a06961-eab1-4390-a11b-890e13e3cd68,RTU-3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,0d605261-1276-489c-a9f5-2e4058770684,RN-011-3-0-HABY-V0-21-000-A,RN-011-3-0-HABY-V0-21-000-A,AAON,AAON

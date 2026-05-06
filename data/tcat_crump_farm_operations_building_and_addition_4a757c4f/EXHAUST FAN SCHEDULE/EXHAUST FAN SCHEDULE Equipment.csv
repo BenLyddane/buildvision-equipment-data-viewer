@@ -1,0 +1,14 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+4d2d0df2-9b29-4d03-bea8-d844d6bf9d23,EF-12,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,338b81a3-e7dd-4d78-8dbc-7692602d088a,G-160-VG,G-160-VG,Greenheck,Greenheck
+b4042e0b-3759-4695-a5fb-fd54ddae890d,EF-3,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,cd895d24-209c-4130-9fa6-1969d07e8730,G-200HP-VG,G-200HP-VG,Greenheck,Greenheck
+621f3b82-2b2f-47a9-b3b1-a564950068e9,EF-11,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,2c103cb6-8ecc-42ab-9dd1-b37870690383,G-060-VG,G-060-VG,Greenheck,Greenheck
+71639d0a-48c5-4e0e-aecb-6fd5d59d57c0,EF-10,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,7bac3f02-149f-4d09-87ae-1cd5f99a0c63,G-099-VG,G-099-VG,Greenheck,Greenheck
+826d918b-a76f-4de0-ba8b-575f5fc47a55,EF-9,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,7bac3f02-149f-4d09-87ae-1cd5f99a0c63,G-099-VG,G-099-VG,Greenheck,Greenheck
+44adb904-4626-41a8-bd4e-b7a7e8fb177d,EF-1,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,a0e4e2b8-9e53-4157-a761-17106d93e6f7,G-080-VG,G-080-VG,Greenheck,Greenheck
+be9abfae-0c73-44a4-b945-fe317ae122f1,EF-2,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,a0e4e2b8-9e53-4157-a761-17106d93e6f7,G-080-VG,G-080-VG,Greenheck,Greenheck
+6a0dec2e-910d-4362-be42-d2fc2b2ff3c9,EF-4,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,338b81a3-e7dd-4d78-8dbc-7692602d088a,G-160-VG,G-160-VG,Greenheck,Greenheck
+cd02c14b-2620-4a1e-8060-69e21a21aaa8,EF-13,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,70e20312-4d4f-44bf-9051-8fa8d477759e,120 BI,120 BI,Monoxivent,Monoxivent
+a67c8e44-236a-405d-940a-36c59f57fc12,EF-8,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,2c103cb6-8ecc-42ab-9dd1-b37870690383,G-060-VG,G-060-VG,Greenheck,Greenheck
+49091141-8a4f-4c7c-990b-47c6a66d4243,EF-7,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,2c103cb6-8ecc-42ab-9dd1-b37870690383,G-060-VG,G-060-VG,Greenheck,Greenheck
+e01551fe-eb41-490b-9242-1f2bac0e4fee,EF-5,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,a0e4e2b8-9e53-4157-a761-17106d93e6f7,G-080-VG,G-080-VG,Greenheck,Greenheck
+5fb9153c-88aa-4043-b3f5-f3af64033e99,EF-6,70453ac9-069e-4574-9d1e-42bbfd7fb5a9,HVAC Power Ventilators,0,a0e4e2b8-9e53-4157-a761-17106d93e6f7,G-080-VG,G-080-VG,Greenheck,Greenheck

@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+2564200f-0163-44c4-8be0-8e0c565bc344,HVLS-5,1c412dc5-6765-4654-a353-096dc543d8a7,"High-Volume, Low-Speed Fans",0,e71ed4c6-9568-41b2-9c06-d41ba0bdc423,DC-5-10-13LV,DC-5-10-13LV,Greenheck,Greenheck
+0ecd2e11-34a4-4740-a260-c88a6f5b34e4,HVLS-2,1c412dc5-6765-4654-a353-096dc543d8a7,"High-Volume, Low-Speed Fans",0,e71ed4c6-9568-41b2-9c06-d41ba0bdc423,DC-5-10-13LV,DC-5-10-13LV,Greenheck,Greenheck
+c1bc7d4b-8edf-4ed9-90f5-849550e1c2d9,HVLS-3,1c412dc5-6765-4654-a353-096dc543d8a7,"High-Volume, Low-Speed Fans",0,e71ed4c6-9568-41b2-9c06-d41ba0bdc423,DC-5-10-13LV,DC-5-10-13LV,Greenheck,Greenheck
+d7986203-e104-4fc2-bd2e-a6b037a48a50,HVLS-4,1c412dc5-6765-4654-a353-096dc543d8a7,"High-Volume, Low-Speed Fans",0,e71ed4c6-9568-41b2-9c06-d41ba0bdc423,DC-5-10-13LV,DC-5-10-13LV,Greenheck,Greenheck
+899c164a-3d53-49b2-97f9-561e551e6cb6,HVLS-1,1c412dc5-6765-4654-a353-096dc543d8a7,"High-Volume, Low-Speed Fans",0,3a86315d-4e59-4b9b-8594-abf2d04feb84,DC-5-14-13LV,DC-5-14-13LV,Greenheck,Greenheck

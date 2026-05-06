@@ -1,0 +1,11 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+1460305a-b014-4d40-abba-a92f1871b3a0,VAV-6,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,dbc92568-b992-4139-a8ff-77b32257dedc,VCCF06-,VCCF06-,Trane,Trane
+5f99a0c1-7b4a-4c3b-8f3c-d23214d42cfd,VAV-1,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,b33b9b01-211e-4128-b865-aeba33f3c145,VCCF10-,VCCF10-,Trane,Trane
+53a6e7c1-7cd3-4dd1-87b0-5718a1913cac,VAV-8,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,dbc92568-b992-4139-a8ff-77b32257dedc,VCCF06-,VCCF06-,Trane,Trane
+b2dd51c5-48b2-44a6-8e9a-7be4998d43d7,VAV-2,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,dbc92568-b992-4139-a8ff-77b32257dedc,VCCF06-,VCCF06-,Trane,Trane
+b748958f-ea4d-4dd1-942d-4c850c91227d,VAV-9,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,dbc92568-b992-4139-a8ff-77b32257dedc,VCCF06-,VCCF06-,Trane,Trane
+ca4e08a3-cce0-4a44-ab9c-da87e2e68d81,VAV-5,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,dbc92568-b992-4139-a8ff-77b32257dedc,VCCF06-,VCCF06-,Trane,Trane
+f554a77c-7767-47f1-98da-fd1a5e35193d,VAV-3,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,dbc92568-b992-4139-a8ff-77b32257dedc,VCCF06-,VCCF06-,Trane,Trane
+f75e568f-6f3c-45d8-8d42-a01d3d08c64d,VAV-4,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,dbc92568-b992-4139-a8ff-77b32257dedc,VCCF06-,VCCF06-,Trane,Trane
+a63b2156-a5e9-4d18-a496-bb7cd804ddbf,VAV-7,f261e3df-df3f-44ac-a1a8-189e4f0a4c88,Single-Duct VAV Terminal Units,0,dbc92568-b992-4139-a8ff-77b32257dedc,VCCF06-,VCCF06-,Trane,Trane
+b3b2bd20-1cf2-4c32-91a8-5903123dc219,VAV-10,51041420-f0c5-41e5-80f6-77dd2cc0f08e,Variable-Air-Volume Terminal Units,0,49ef5167-21c5-42c7-8e14-c105b0ff8084,VCCF16,VCCF16,Trane,Trane

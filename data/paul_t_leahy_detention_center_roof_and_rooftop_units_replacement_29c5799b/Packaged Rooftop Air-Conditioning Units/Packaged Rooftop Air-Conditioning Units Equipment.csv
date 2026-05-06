@@ -1,0 +1,10 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+0c3e50fd-0326-419b-a7e0-f99f0570c52e,RTU-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,1,82b7fc35-b66d-482f-bee7-90df94be3eb8,YHK120A3SOL,YHK120A3SOL,Trane,Trane
+e715136a-0d19-44e5-bcef-4a636629e818,RTU-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,2,82b7fc35-b66d-482f-bee7-90df94be3eb8,YHK120A3SOL,YHK120A3SOL,Trane,Trane
+490cb206-26ea-4104-9401-16512be6fb26,RTU-3,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,1,82b7fc35-b66d-482f-bee7-90df94be3eb8,YHK120A3SOL,YHK120A3SOL,Trane,Trane
+6eade69e-47ce-4b65-b60f-1c7c1521517c,RTU-4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,2,82b7fc35-b66d-482f-bee7-90df94be3eb8,YHK120A3SOL,YHK120A3SOL,Trane,Trane
+2ec44631-e013-4a50-a2db-12f88548a281,RTU-5,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,3,379368e1-c0e0-4d2f-859a-c973a612a5d2,YHK048A3SOL,YHK048A3SOL,Trane,Trane
+ad44c7d6-f6f1-4010-a833-61ddeed89197,RTU-6,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,2,379368e1-c0e0-4d2f-859a-c973a612a5d2,YHK048A3SOL,YHK048A3SOL,Trane,Trane
+d1e1d25c-ecbf-40c6-9d4a-16ebcdc66ae7,RTU-8,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,2,24bde3c2-70f3-4652-a419-95bb4f4267b3,YHK036A3SOL,YHK036A3SOL,Trane,Trane
+31ea99ce-16b3-4116-ad20-2978362f72cd,RTU-9,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,1,618cd02f-3fe0-4278-b659-c6259f08d4e6,YHK120A3SOM,YHK120A3SOM,Trane,Trane
+82097a36-88dd-4b5a-80b6-1688e1d8d966,RTU-7,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,2,24bde3c2-70f3-4652-a419-95bb4f4267b3,YHK036A3SOL,YHK036A3SOL,Trane,Trane

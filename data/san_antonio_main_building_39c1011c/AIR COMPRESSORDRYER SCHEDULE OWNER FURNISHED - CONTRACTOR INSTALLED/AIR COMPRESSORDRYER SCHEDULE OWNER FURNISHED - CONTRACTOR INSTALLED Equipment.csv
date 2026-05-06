@@ -1,0 +1,10 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a9b0a1cd-c095-43f8-83df-756625b464ab,AC-3,443c24bf-462f-46d6-9671-31ade4aa5eae,Air Compressors,0,8d147380-6fd5-408d-9700-3ee5765e840e,CSD 175,CSD 175,Kaeser,Kaeser
+cb5c7d46-ddee-4ea6-bef2-1beeeea2361f,AC-1,443c24bf-462f-46d6-9671-31ade4aa5eae,Air Compressors,0,01259f4d-c96b-4732-813f-c3d74f788dd0,SFC 90M,SFC 90M,Kaeser,Kaeser
+eb47efa4-07ce-49d8-afe8-b4f98e449438,AD-2,443c24bf-462f-46d6-9671-31ade4aa5eae,Air Compressors,0,5366cd40-95d2-4843-a62d-6278fe58f757,TG780,TG780,Kaeser,Kaeser
+b07064b1-454c-4fe1-b54f-6908ae2116f3,WAR-1,443c24bf-462f-46d6-9671-31ade4aa5eae,Air Compressors,0,,,,,Kaeser
+0bff0ec4-4e91-40b3-b343-500de7ba7cab,DAR-1,443c24bf-462f-46d6-9671-31ade4aa5eae,Air Compressors,0,,,,,Kaeser
+3b13f484-345b-4186-bcea-5976b0fcf8e4,DAR-2,443c24bf-462f-46d6-9671-31ade4aa5eae,Air Compressors,0,,,,,Kaeser
+8ceee4ce-fd8e-42c4-bb3f-fcf0067cf9e5,AD-1,443c24bf-462f-46d6-9671-31ade4aa5eae,Air Compressors,0,5366cd40-95d2-4843-a62d-6278fe58f757,TG780,TG780,Kaeser,Kaeser
+9b510f0b-e96f-4fa5-9cf5-eaa808347d42,AC-2,443c24bf-462f-46d6-9671-31ade4aa5eae,Air Compressors,0,8d147380-6fd5-408d-9700-3ee5765e840e,CSD 175,CSD 175,Kaeser,Kaeser
+a17e824b-b54c-4a4c-aa9c-dab1d6ec5b7f,DAR-3,443c24bf-462f-46d6-9671-31ade4aa5eae,Air Compressors,0,,,,,Kaeser

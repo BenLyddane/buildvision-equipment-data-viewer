@@ -1,0 +1,7 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+bebc14b4-d68b-49a2-81da-d07b8edbf4a0,FTR-2,c0067543-176e-4136-90da-fbf715fa62c4,Radiant-Heating Electric Panels,0,7b1b2223-0d66-4327-b023-c8be44a14cb9,F99108-01-200,F99108-01-200,Markel Products,Markel Products
+fa72ba6a-e212-4852-9de2-569f425d9d88,FTR-1,c0067543-176e-4136-90da-fbf715fa62c4,Radiant-Heating Electric Panels,0,7b1b2223-0d66-4327-b023-c8be44a14cb9,F99108-01-200,F99108-01-200,Markel Products,Markel Products
+5514f262-3c10-466c-a535-06b36725fe90,FTR-4,c0067543-176e-4136-90da-fbf715fa62c4,Radiant-Heating Electric Panels,0,98f1a5b0-6462-43d9-aafd-a4376fa86901,F9972-01-200,F9972-01-200,Markel Products,Markel Products
+7530da3c-0e43-43ef-a648-b43b29fc2eba,FTR-6,c0067543-176e-4136-90da-fbf715fa62c4,Radiant-Heating Electric Panels,0,be5b9a88-8222-43b3-bac1-23f41926d91f,F9996-01-200,F9996-01-200,Markel Products,Markel Products
+5537e5fd-f2ca-4932-b271-98dc1e539030,FTR-5,c0067543-176e-4136-90da-fbf715fa62c4,Radiant-Heating Electric Panels,0,98f1a5b0-6462-43d9-aafd-a4376fa86901,F9972-01-200,F9972-01-200,Markel Products,Markel Products
+479a422c-f582-496d-9966-e6fd7928f0bc,FTR-3,c0067543-176e-4136-90da-fbf715fa62c4,Radiant-Heating Electric Panels,0,7b1b2223-0d66-4327-b023-c8be44a14cb9,F99108-01-200,F99108-01-200,Markel Products,Markel Products

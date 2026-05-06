@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+d5f5303b-9c62-4e9c-8399-0e1d0cccc722,EF-1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,1,190dcdef-1243-4907-830b-76c07c8e9152,TBI-FS-4H42,TBI-FS-4H42,Greenheck,Greenheck

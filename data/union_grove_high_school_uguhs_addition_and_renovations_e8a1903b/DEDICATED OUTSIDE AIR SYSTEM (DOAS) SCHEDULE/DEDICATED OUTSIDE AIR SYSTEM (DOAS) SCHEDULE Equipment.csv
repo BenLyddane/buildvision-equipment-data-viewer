@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+3b82639d-7438-4ae2-910e-12e06c244688,DOAS-1,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,0,,,,,
+f4b59024-d63d-4ebf-b483-0b96adffbdd9,DOAS-3,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,0,,,,,
+326c41f3-2c68-4093-ad6a-75079e2e8217,DOAS-2,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,0,,,,,

@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+1543c9d2-e2d6-4a6a-ba88-f9543ab98b1b,ERU 4,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,1,512426b5-ab73-4297-bef3-c8bd62bbc201,RVE-85-52B-15I-1-A2,RVE-85-52B-15I-1-A2,Greenheck,Greenheck
+a6dc7547-7cdc-4dd8-a725-9471d8bfc1ed,ERU 1,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,1,512426b5-ab73-4297-bef3-c8bd62bbc201,RVE-85-52B-15I-1-A2,RVE-85-52B-15I-1-A2,Greenheck,Greenheck
+51b724e7-b7ca-4d01-aab1-6e5dff180ca6,ERU 2,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,1,512426b5-ab73-4297-bef3-c8bd62bbc201,RVE-85-52B-15I-1-A2,RVE-85-52B-15I-1-A2,Greenheck,Greenheck
+8be307a1-bb54-476d-baec-bbf9c189e53f,ERU 3,0105a4ef-cf83-4dcc-acd9-9e1fabea5a1a,Energy Recovery Units,1,512426b5-ab73-4297-bef3-c8bd62bbc201,RVE-85-52B-15I-1-A2,RVE-85-52B-15I-1-A2,Greenheck,Greenheck

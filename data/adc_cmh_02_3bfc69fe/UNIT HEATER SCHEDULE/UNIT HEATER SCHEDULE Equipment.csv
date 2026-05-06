@@ -1,0 +1,23 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+c300e2e2-813b-4d7c-84a0-26fda2b9a2b4,UH2-220-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+ba4f90de-b11c-4cf8-b609-57c4466c9330,UH2-133-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+8cf8ccf5-2650-46a3-bc3f-ce82a9921f4b,UH2-120-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+fd999d96-b7f1-47be-bff7-fee387c02ae3,UH2-101-02,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+a1e6ee4a-5d96-4c64-a1c3-caddcddbf93c,UH2-101-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+b2e96771-6ce0-49c1-a9ff-df17382d95dd,UH2-S04-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+91358d3f-70b3-4e96-8cc4-2f0852a26f4b,UH2-260-02,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+cabbeb9b-1da3-4339-a244-4fea8f1d214b,UH2-S08-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+1f173806-15df-4824-9289-3170217a612f,UH2-180-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+ec604001-b482-4c06-9363-20e3dda3bcfa,UH2-S05-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+52720f12-20ac-4405-bc96-a9f1f8659824,UH2-160-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+461dd517-becd-4a24-b6a8-45a484737040,UH2-S02-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+9529f1b9-62d5-4bb5-af2e-843ad89f28c2,UH2-185-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+abc3e6ac-8fb5-41f4-9f9b-56c285df7dac,UH2-280-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+77493fe6-c098-4e76-94b7-761597bd881f,UH2-133-03,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+f90944c1-0a9b-4dcf-8f8e-a5d4318efe70,UH2-133-02,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+ea5c9b85-171b-40d0-b760-dc642b2d61ce,UH2-260-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+429238e4-c5a7-4e77-8c24-1c832bf4b981,UH2-220-02,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+b8141854-3a6c-4a8e-b7d5-ce3da737849c,UH2-S06-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+c1a525b0-96f5-43cf-a360-7317a560f03c,UH2-102-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+0f85fb6f-faf7-44d2-90aa-1760c943e519,UH2-S07-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko
+e0a1ed2c-8649-4235-8a4e-37b47ecfba09,UH2-S03-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,98cb53c2-3863-4751-8cbe-14df38cd6285,HUHAA-548,HUHAA-548,Berko,Berko

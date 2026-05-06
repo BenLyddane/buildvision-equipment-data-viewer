@@ -1,0 +1,13 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+418405e6-926f-4efe-ac21-262555952c61,ODU-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,d2bfcbf0-e3c0-4205-b04e-91b440d78e8a,RXL24WMVUJ9,RXL24WMVUJ9,Daikin AC,Daikin AC
+ff4b8966-bea7-43e5-a2d9-96200034d773,IDU-3,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,37650210-ab22-4cf1-aea8-974f1b0e583b,FTX24WMVUJ9,FTX24WMVUJ9,Daikin AC,Daikin AC
+94db0a9b-474b-4035-9f0d-ddc2462d452e,ODU-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,222cc39c-27a1-47fd-a205-624684322ddd,4MXM36AVJU9,4MXM36AVJU9,Daikin AC,Daikin AC
+7a70246e-4d90-438f-b303-fd99533520f4,IDU-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,1f2a74cd-d555-448c-af3d-0687ea213dec,FTX09WMVUJ9,FTX09WMVUJ9,Daikin AC,Daikin AC
+20d50f90-a20f-476b-8532-d7a681bbf936,ODU-4,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,2d265583-3fef-4cf0-9506-c90d0abf977c,RXL09WMVUJ9,RXL09WMVUJ9,Daikin AC,Daikin AC
+4c9c5634-ac6a-48d6-93cf-bc5739bff51f,IDU-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,1f2a74cd-d555-448c-af3d-0687ea213dec,FTX09WMVUJ9,FTX09WMVUJ9,Daikin AC,Daikin AC
+8cad2e45-7ab0-41e9-9103-ba69d1820580,IDU-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,1f2a74cd-d555-448c-af3d-0687ea213dec,FTX09WMVUJ9,FTX09WMVUJ9,Daikin AC,Daikin AC
+f5a93730-a7f4-4047-85e8-5a8669fa1488,IDU-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,3b0ec097-5a61-40bf-b491-2cae4e23af0b,FTXV18A,FTXV18A,Daikin AC,Daikin AC
+ed0d4c23-0a84-494d-9a26-4f2539adc312,IDU-5,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,3b0ec097-5a61-40bf-b491-2cae4e23af0b,FTXV18A,FTXV18A,Daikin AC,Daikin AC
+0f4069c4-aa6f-40bd-9b22-f8cdeb7f8927,ODU-1,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,2d265583-3fef-4cf0-9506-c90d0abf977c,RXL09WMVUJ9,RXL09WMVUJ9,Daikin AC,Daikin AC
+b3e09028-a707-4b3b-8e04-5b3af83e0a12,ODU-2,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,2d265583-3fef-4cf0-9506-c90d0abf977c,RXL09WMVUJ9,RXL09WMVUJ9,Daikin AC,Daikin AC
+fde3416e-f7b0-4297-969a-1a77014e651a,ODU-6,800381da-3e26-4f23-906c-f1ecfc55f4ed,Split System Heat Pumps,0,222cc39c-27a1-47fd-a205-624684322ddd,4MXM36AVJU9,4MXM36AVJU9,Daikin AC,Daikin AC

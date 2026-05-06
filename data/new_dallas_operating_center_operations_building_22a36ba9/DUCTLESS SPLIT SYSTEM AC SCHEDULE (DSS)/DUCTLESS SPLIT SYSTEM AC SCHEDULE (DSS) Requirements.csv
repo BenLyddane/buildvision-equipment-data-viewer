@@ -1,0 +1,20 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+0aa63ce3-98a8-421a-be13-2de4bc25b2b0,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,103,,,Location
+4ef61cee-582b-4253-bcf1-1bc52e654de6,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,MITSUBISHI,,,MFR
+f6758cd0-6716-4243-a880-bf9120a8e82c,670aa450-ee5c-44a1-b1f6-ea591a4377f6,af87ad6c-0dee-4c7b-bf5c-13781178261a,SEER Rating,,,,,,18.5,,,SEER
+cc55a364-f74b-4348-8373-c0cdc55bbc9b,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,1,,,Cooling Stages
+ca83dd02-4a16-4d93-b3c4-ce982f647d93,670aa450-ee5c-44a1-b1f6-ea591a4377f6,6b991434-66c8-4d7d-929d-ff34a7df9384,Refrigerant Type,,,,,,R-410A,,,Refrig
+3454094b-c52d-44e8-820e-a9a76d9d25b9,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,1,,,Notes
+de6a493d-1b19-4010-878c-6eed206d9e8c,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,8.0,MBH,Cooling Cap (MBH),Min
+84400bfa-d0c0-4a47-b55b-cd1856a1d6d6,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,18.0,MBH,Cooling Cap (MBH),Max
+6614a5a2-2cec-4c50-9057-b2059d9c20f8,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,PKA-A18HA,,Indoor Evaporator Unit,Model
+fd5d9f3d-699a-40d8-a089-2cc1edd52767,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,208,V,Electrical,Voltage
+b05cda04-21bd-4493-a03f-0f82f94f83a0,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,60,Hz,Electrical,Frequency
+a09210ff-baf2-4af6-ade7-fc9f964a9ed4,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,1,Ph,Electrical,Phase
+8a6bca69-ed05-4ed7-bb90-5fbb8524b777,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,PUY-A18NKA7,,Outdoor Roof Mounted Condensing Unit,Model
+32eab4fa-2288-4c48-9ec4-252a3267301a,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,99,LBS,Outdoor Roof Mounted Condensing Unit,Weight
+0c7e5d75-ed57-486a-9167-813fc9e5ea9e,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,11,A,Electrical,MCA
+ae8f85a7-dddd-49e7-b259-ccc78505fb87,670aa450-ee5c-44a1-b1f6-ea591a4377f6,,,,,,,,20,A,Electrical,MOCP
+b5eff461-d562-47d2-9374-6412b5fa9b85,670aa450-ee5c-44a1-b1f6-ea591a4377f6,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,208,V,Electrical,Voltage
+d56bbae2-2356-42bd-96ab-b2e9381377d5,670aa450-ee5c-44a1-b1f6-ea591a4377f6,9aae5376-ca52-4e0d-8853-822740d0973b,Frequency,,,b5e91e48-bf45-7e1f-45c2-fca2f122a079,Cycles per Second,,60,Hz,Electrical,Frequency
+4592c5f0-b924-41e7-8ed0-6258a21e39dd,670aa450-ee5c-44a1-b1f6-ea591a4377f6,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,48448411-f919-5e27-f453-70f4ef41c6be,pH,,1,Ph,Electrical,Phase

@@ -1,0 +1,5 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a6034c6f-de27-410a-89d0-2f9f19180560,RTU W1-4,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,6e14801e-8096-4193-8c35-b6c4f0955aa0,OAND540A4,OAND540A4,Trane,Trane
+94e8c91c-407a-4cc8-b6fd-2bc54caf150f,RTU W2-1,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,74e1e5e7-4489-42d8-9b52-7e770a17f30a,SFHPF604P,SFHPF604P,Trane,Trane
+af3153c5-d45f-4c0b-9efe-1b8a42db5927,RTU W1-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,684861f6-2ce5-4c0a-95ed-be6e9cf6bab4,SFHPF404P,SFHPF404P,Trane,Trane
+27a27ba5-d892-4fea-8351-5c0e788c511c,RTU W2-2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,0,74e1e5e7-4489-42d8-9b52-7e770a17f30a,SFHPF604P,SFHPF604P,Trane,Trane

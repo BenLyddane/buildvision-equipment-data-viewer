@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+8e3d1de5-ffd0-4dd7-8a8a-e0b406e117d9,ACCU-3,fd11bf76-fb96-4d01-8fdf-875daf6d638e,Air-Cooled Refrigerant Condensers,0,fa06a567-f743-4eda-80e6-5833e6022922,TTA240,TTA240,Trane,Trane
+6e4f5163-ff85-4b9d-8df9-d6ed1b867638,ACCU-4,fd11bf76-fb96-4d01-8fdf-875daf6d638e,Air-Cooled Refrigerant Condensers,0,fa06a567-f743-4eda-80e6-5833e6022922,TTA240,TTA240,Trane,Trane

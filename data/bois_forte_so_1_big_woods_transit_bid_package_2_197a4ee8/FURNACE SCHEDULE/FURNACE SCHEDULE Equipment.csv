@@ -1,0 +1,6 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+c166be1c-94de-4a33-b437-ab56c4a183a2,F-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,2a8523d7-1b44-4a79-9aa4-49ed2bc374f9,R962V0603A,R962V0603A,Rheem Manufacturing Company Inc,Rheem Manufacturing Company Inc
+efd36c09-e6b2-4893-8a40-63e89aeed481,GFUH-2,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,9536d95f-578c-42c0-8c96-3173982ddb86,UDXG-200,UDXG-200,Reznor,Reznor
+be00df9d-3d11-452c-b061-bdcc76bced76,GFUH-3,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,ea091f07-b572-488e-b2b3-3d92ff2ac13b,UEZ-130,UEZ-130,Reznor,Reznor
+63dd5fa2-6f7f-4f43-ad44-3f5cccb717a0,GFUH-1,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,9536d95f-578c-42c0-8c96-3173982ddb86,UDXG-200,UDXG-200,Reznor,Reznor
+8ea59c6e-b651-42c6-a351-81a68bd75d4f,GFUH-4,b9b3ef9d-fbdc-465c-9b5c-a149b805b33d,Unit Heaters,0,ea091f07-b572-488e-b2b3-3d92ff2ac13b,UEZ-130,UEZ-130,Reznor,Reznor

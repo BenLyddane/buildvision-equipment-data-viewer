@@ -1,0 +1,15 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+f85becc4-3ae0-424d-8ddd-a3dcf0783e27,PHP E-1,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,bbc0a242-fa3f-438f-87a2-835d3c8edb7e,WYE05A4,WYE05A4,Tempmaster,Tempmaster
+bf5dbc20-84f2-4faf-8688-f9ba6f4d1985,PHP D-1,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,bbc0a242-fa3f-438f-87a2-835d3c8edb7e,WYE05A4,WYE05A4,Tempmaster,Tempmaster
+658cfed8-89a1-432a-9e78-5bd81d14f06c,PHP M-6,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,494b9c94-379f-44e0-9aa3-016cbd1d586e,WYE06A,WYE06A,Tempmaster,Tempmaster
+01cbd9d1-9db3-4a68-81b3-ba1390594e37,PHP M-2,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,10a4a0ce-85c4-4660-a96d-9205f634f4c9,MV15C0D,MV15C0D,Tempmaster,Tempmaster
+b0cdef44-9adc-4ebf-8ee1-868ed5d2e28d,PHP M-4,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,bbc0a242-fa3f-438f-87a2-835d3c8edb7e,WYE05A4,WYE05A4,Tempmaster,Tempmaster
+1c0cd4ae-e548-4cbf-b64f-f162ae0e811f,PHP M-5,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,494b9c94-379f-44e0-9aa3-016cbd1d586e,WYE06A,WYE06A,Tempmaster,Tempmaster
+d3f75e14-9a8d-445b-8bcb-7b6cc4e3b51a,PHP M-7,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,2e136f6d-2cfa-4988-a8da-cbf5b69336fb,WYE04A4,WYE04A4,Tempmaster,Tempmaster
+c90b3ba6-c2e8-4936-8c11-f9f0e800b19e,PHP M-1,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,10a4a0ce-85c4-4660-a96d-9205f634f4c9,MV15C0D,MV15C0D,Tempmaster,Tempmaster
+0ea626ea-8728-4817-bdf1-12e4ba499ed6,PHP M-3,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,bbc0a242-fa3f-438f-87a2-835d3c8edb7e,WYE05A4,WYE05A4,Tempmaster,Tempmaster
+ce45a4de-69a2-448b-87c1-6b85120060c9,PHP C-1,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,bbc0a242-fa3f-438f-87a2-835d3c8edb7e,WYE05A4,WYE05A4,Tempmaster,Tempmaster
+5b0a4899-dca1-4a89-afd7-1e40d6bdc5c2,PHP A-1,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,2,bbc0a242-fa3f-438f-87a2-835d3c8edb7e,WYE05A4,WYE05A4,Tempmaster,Tempmaster
+cb3b7022-d39f-41a4-b0c9-351c10b1b1f2,PHP A-2,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,2,2e136f6d-2cfa-4988-a8da-cbf5b69336fb,WYE04A4,WYE04A4,Tempmaster,Tempmaster
+6a0b8df4-40e5-4c41-925a-cde4e11a30bc,PHP B-1,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,2,7b0f42e1-c797-4327-b686-ccef3d18e6cb,WYE7A4,WYE7A4,Tempmaster,Tempmaster
+f11bf4f8-246b-42c7-b168-6de6d7e93f0b,PHP F-1,5709e575-3973-4c17-9dd1-6fc5767dd0d9,Packaged Outdoor HVAC Equipment,1,bbc0a242-fa3f-438f-87a2-835d3c8edb7e,WYE05A4,WYE05A4,Tempmaster,Tempmaster

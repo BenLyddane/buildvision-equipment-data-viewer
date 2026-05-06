@@ -1,0 +1,4 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+fe4c53bc-5a6d-4a7c-bf22-052d788da232,MAU-03,8574f153-3f51-45d4-811b-3fb57d73280b,"Packaged, Indirect-Fired, Outdoor, Heating-Only Makeup-Air Units",0,2ff56681-0c88-4740-b280-aa5b0e4befa0,SFA10-EHIDX,SFA10-EHIDX,SPRING AIR,
+306b6cde-47a4-41d5-a7ff-fceb3f87e98d,MAU-01,8574f153-3f51-45d4-811b-3fb57d73280b,"Packaged, Indirect-Fired, Outdoor, Heating-Only Makeup-Air Units",0,52d45225-d2e2-4b38-84fa-7c3b218ac9bc,EDT-650/D2O/O,EDT-650/D2O/O,ENVENT,
+a03d3d7c-62e7-42d9-b077-56a577827f8d,MAU-02,8574f153-3f51-45d4-811b-3fb57d73280b,"Packaged, Indirect-Fired, Outdoor, Heating-Only Makeup-Air Units",0,2ff56681-0c88-4740-b280-aa5b0e4befa0,SFA10-EHIDX,SFA10-EHIDX,SPRING AIR,

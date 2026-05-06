@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+976192f4-faf4-4a9e-9ab5-dfcf0ac6f4ac,UH 1,efd99c1f-ada6-4413-b7d9-b6cffcc72338,Louvers and Vents,0,5ce0b8b2-70fe-4010-92ba-70145e9871c3,PTX150,PTX150,Modine,Modine

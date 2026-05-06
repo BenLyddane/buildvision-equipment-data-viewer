@@ -1,0 +1,8 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+39b40f16-1197-4a61-8eac-bdb90ea43d08,GXF-A,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,43444940-2cfc-4f7e-83a9-56000344f447,DX10Q,DX10Q,PennBarry,PennBarry
+226883cd-7f88-48c3-a83f-cf8203b333f9,EF-A2,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,4b310b82-cb49-433d-b819-30c5c4e17cc8,FV-0511VKS2,FV-0511VKS2,Panasonic,Panasonic
+2aaef938-509c-49a0-bca1-0d61df1f7f8e,KXF-A,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,0da87b66-67ca-4674-8e34-d0d7392b7eb9,DX10R,DX10R,PennBarry,PennBarry
+4210913f-cc41-4872-be31-ffc492ce44c9,KXF-B,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,43444940-2cfc-4f7e-83a9-56000344f447,DX10Q,DX10Q,PennBarry,PennBarry
+17c2d179-d504-4fb8-9490-520660e1ed94,EF-A1,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,4b310b82-cb49-433d-b819-30c5c4e17cc8,FV-0511VKS2,FV-0511VKS2,Panasonic,Panasonic
+6ac27c30-1699-468a-921f-983c5f982e16,TXF-A,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,0da87b66-67ca-4674-8e34-d0d7392b7eb9,DX10R,DX10R,PennBarry,PennBarry
+7bbed159-3441-41ac-9699-5fa5bc6b982a,TXF-B,705363ff-26fc-4460-b413-8e1e894bc068,HVAC Fans,0,43444940-2cfc-4f7e-83a9-56000344f447,DX10Q,DX10Q,PennBarry,PennBarry

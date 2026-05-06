@@ -1,0 +1,49 @@
+spec_id,equipment_id,type_id,type_name,option_id,option_name,unit_id,unit_name,raw_specs,literal_value,literal_unit,literal_category,literal_type
+84ae7828-aa5b-4486-9659-795b3735fc2f,278e83b7-37b1-4208-802b-036aa7331df2,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,b8903bcb-06d0-4c8f-a21d-10e15aa1fd61,Reznor,,,,REZNOR,,,Manufacturer
+0ec261c9-2602-431f-8234-b425ddc1c105,278e83b7-37b1-4208-802b-036aa7331df2,,,,,,,,EWHB,,,Model
+151034e5-c95a-4a3b-88cf-a03ef8b1db0c,278e83b7-37b1-4208-802b-036aa7331df2,,,,,,,,WASHABLE UNIT HEATER,,,Type
+a031e941-a387-4e2d-bc76-54aa20933b63,278e83b7-37b1-4208-802b-036aa7331df2,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,,,,,,STRUCTURE,,,Mounting
+34024ad0-18a5-42dd-a68f-f2d0aa4975e7,278e83b7-37b1-4208-802b-036aa7331df2,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,700,CFM,,Airflow
+02516a36-609f-44aa-8642-61229c67dd2d,278e83b7-37b1-4208-802b-036aa7331df2,,,,,,,,70,LBS,,Operating Weight
+050f40ae-bf7f-4ff6-8ad7-847f0391640a,278e83b7-37b1-4208-802b-036aa7331df2,,,,,,,,1-6,,,Remarks
+765306c4-ddbb-4447-84b4-6216d0e1f094,278e83b7-37b1-4208-802b-036aa7331df2,92929d54-bdb5-4112-a464-e3362820c7c6,Capacity,,,,,,7.5,KW,Coil Data,Capacity
+989bbc24-84e3-4c5a-aa54-ef21db5eb3f3,278e83b7-37b1-4208-802b-036aa7331df2,,,,,,,,1,,Coil Data,# of Circuits
+ae5cd95e-02ea-4dad-8f78-130565151760,278e83b7-37b1-4208-802b-036aa7331df2,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,480,,Electrical Data,Volt
+5c1f9a8c-e863-4cd2-baf0-b11aea7189a7,278e83b7-37b1-4208-802b-036aa7331df2,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,3,,Electrical Data,Phase
+889535a0-12fe-4580-ba38-e7950bf0cf36,278e83b7-37b1-4208-802b-036aa7331df2,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,9.03,,Electrical Data,Amps
+e69bf053-eee4-4224-9dbe-ab63149f5be2,27c7ab9b-d106-49bf-adcf-8984acaaf469,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,9da7acf3-f7f7-4e53-b6b7-a3c5197431b8,Markel,,,,MARKEL,,,Manufacturer
+dc80813a-b370-4054-a780-d0882fa5570a,27c7ab9b-d106-49bf-adcf-8984acaaf469,,,,,,,,6300 SERIES,,,Model
+bfc4bb33-c651-465c-bded-c5397fc96f7c,27c7ab9b-d106-49bf-adcf-8984acaaf469,,,,,,,,CABINET UNIT HEATER,,,Type
+db3882b6-aaf8-45f9-bb27-256cf8ea1b37,27c7ab9b-d106-49bf-adcf-8984acaaf469,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,,,,,,CEILING/RECESSED,,,Mounting
+e635401f-d60c-4dbf-ad55-56fa866a754b,27c7ab9b-d106-49bf-adcf-8984acaaf469,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,230,CFM,,Airflow
+f47c212f-cfc8-43a2-ac39-517690df9dd8,27c7ab9b-d106-49bf-adcf-8984acaaf469,,,,,,,,99,LBS,,Operating Weight
+95017bf8-803b-4de8-b5d6-a95910325589,27c7ab9b-d106-49bf-adcf-8984acaaf469,,,,,,,,ALL,,,Remarks
+fb73f268-69f7-47c5-810e-64ec78bc50b1,27c7ab9b-d106-49bf-adcf-8984acaaf469,92929d54-bdb5-4112-a464-e3362820c7c6,Capacity,,,,,,3.0,KW,Coil Data,Capacity
+d4ad4b8c-6fd1-4327-a58b-1405ae397933,27c7ab9b-d106-49bf-adcf-8984acaaf469,,,,,,,,1,,Coil Data,# of Circuits
+2f3cc7b6-23b9-442f-b531-a95f2670284a,27c7ab9b-d106-49bf-adcf-8984acaaf469,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,208/277,,Electrical Data,Volt
+7cd8b663-21d7-4a89-b2c9-2a1a3be5def1,27c7ab9b-d106-49bf-adcf-8984acaaf469,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+90267bc8-74c0-4959-bbde-31d47dd8c7d6,27c7ab9b-d106-49bf-adcf-8984acaaf469,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,15.4 / 11.7,,Electrical Data,Amps
+9f346893-9638-480d-a60d-2dc202545861,73bab013-ab13-4804-ab58-2e787429b993,bc663106-1c5c-4cc9-9f68-3a51eb3d4c5b,Manufacturer,9da7acf3-f7f7-4e53-b6b7-a3c5197431b8,Markel,,,,MARKEL,,,Manufacturer
+f2be6b3f-8a45-4f69-b556-6019a4a2a03b,73bab013-ab13-4804-ab58-2e787429b993,,,,,,,,5100 SERIES,,,Model
+3f79a39f-1bc5-4407-97a0-cc024a73efb5,73bab013-ab13-4804-ab58-2e787429b993,,,,,,,,UNIT HEATER,,,Type
+a1fc410d-19e3-4458-883a-e9483acec756,73bab013-ab13-4804-ab58-2e787429b993,77e852f9-8538-4233-9412-f6560777c81e,Mounting Type,,,,,,STRUCTURE,,,Mounting
+029dfb08-a8c9-403f-9984-c35b880c461b,73bab013-ab13-4804-ab58-2e787429b993,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,400,CFM,,Airflow
+4585aae2-6207-4a28-98fe-1cce5226c355,73bab013-ab13-4804-ab58-2e787429b993,92929d54-bdb5-4112-a464-e3362820c7c6,Capacity,,,,,,3.3,KW,Coil Data,Capacity
+61576cad-0104-49b8-aa31-6c4d88b599c1,73bab013-ab13-4804-ab58-2e787429b993,f8c7b985-288e-4160-b9f9-f923877ec673,Voltage,,,,,,277,,Electrical Data,Volt
+26ba2f52-5020-4c91-8ab8-2cc0de92e879,73bab013-ab13-4804-ab58-2e787429b993,dc025f71-f7e9-4f8b-afe8-776f30a7acc7,Phase,,,,,,1,,Electrical Data,Phase
+93693e75-fbde-4790-8bc9-ef8cc6044e4c,73bab013-ab13-4804-ab58-2e787429b993,5869aba7-ed8b-4fb0-a830-8f68c613d30e,Current Draw,,,,,,11.9,,Electrical Data,Amps
+be9d014f-b03c-482e-9414-93efa540131d,73bab013-ab13-4804-ab58-2e787429b993,,,,,,,,25,LBS,,Operating Weight
+0be22bbb-9d5d-40a6-b72d-8b899d439282,73bab013-ab13-4804-ab58-2e787429b993,,,,,,,,"1,3-7",,,Remarks
+f8b7d5fc-8e95-47e3-a08f-b450b41f6f8f,73bab013-ab13-4804-ab58-2e787429b993,,,,,,,,1,,Coil Data,# of Circuits
+b1662bd1-9840-4fb8-a8b4-25136cc05846,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,MARKEL,,,Manufacturer
+bebb0d8c-f977-46df-9359-5829036d299e,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,3320 SERIES,,,Model
+136bd6fd-2afa-4cd1-8352-b6ccc686f5e3,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,ARCH WALL HEATER,,,Type
+aac3de73-ca1d-4487-8a8d-7e1ec828e4fe,e58ae977-bfcb-4177-80da-990bcc8eed86,ab685915-020e-4475-9f80-8a2915e81d5c,Air Flow,,,a791359d-783e-49ff-9190-1b028e527495,Cubic Feet per Minute,,175,CFM,,Airflow
+1b108758-8a1a-4700-8fc7-10d7f7b60416,e58ae977-bfcb-4177-80da-990bcc8eed86,2d2ae19d-c0d6-41f1-a2c0-2a2b97a70745,Heating Capacity,,,,,,3.0,KW,Coil Data,Capacity
+71db158a-c3d5-4f69-b311-6cdccf9aa1e6,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,ALL,,,Remarks
+b5c0b14b-f6a3-4922-b3be-57a5442e3125,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,WALL/RECESSED,,,Mounting
+d1f34439-baba-435c-9112-1c99dac9e43d,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,30,LBS,,Operating Weight
+b7a41b60-dea3-4e99-a8a5-166305cc2928,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,1,,Coil Data,# of Circuits
+75ce8d70-0e58-4093-a3db-739ba519c684,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,208/277,,Electrical Data,Volt
+3ce1e386-19b9-4384-a1ab-dc9cad6bb877,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,1,,Electrical Data,Phase
+6d8698be-dfa2-4edd-ae9b-ca0bc6deb194,e58ae977-bfcb-4177-80da-990bcc8eed86,,,,,,,,14.4 / 10.8,,Electrical Data,Amps

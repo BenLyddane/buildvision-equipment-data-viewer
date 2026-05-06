@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+64e29963-82b0-4f92-8336-90b2b2ce44a1,UH-2,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,61d102af-23cf-46fa-b5e3-cde1ed8d9c71,932,932,Indeeco,Indeeco
+8d05eaa2-1425-428c-bfe2-7d26715e63c0,UH-1,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,61d102af-23cf-46fa-b5e3-cde1ed8d9c71,932,932,Indeeco,Indeeco

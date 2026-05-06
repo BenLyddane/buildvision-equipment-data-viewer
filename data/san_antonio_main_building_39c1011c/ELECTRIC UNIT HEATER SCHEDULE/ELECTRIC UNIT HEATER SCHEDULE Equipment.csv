@@ -1,0 +1,21 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+f4dd79ab-e405-4eb4-b962-4a43d29b9b86,UH-04,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+cb86c383-672b-4e7f-bda3-4280bb5e17c4,EDH-02,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,,,,,Neptronic
+6ab106a3-fab3-46e4-9e4f-74fd8dcf462c,UH-01,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+4c64fe7c-e2ab-4b2e-88d0-311da04f9d9a,UH-02,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+56f0a55b-a5f8-4816-90d6-2b3de0900cf7,EDH-10,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,,,,,Neptronic
+3e604dbc-0889-4cc8-9f36-f2374acd5bb8,UH-05,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+2b15b207-59d5-43c3-af31-32e9f19632a2,EDH-11 (FUTURE),3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,,,,,Neptronic
+7923e1f1-7778-4ee8-b206-6f8ec147f42a,UH-05-T,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+08f4e667-20df-46aa-956f-5ae24fa3ff2b,EDH-07,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,,,,,Neptronic
+9cb94749-7ec4-4075-a019-ce71b3dac64d,UH-04-T,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+b6d7e754-4a27-47dc-9598-b13e9e80447b,EDH-03,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,,,,,Neptronic
+2ce3a8d6-a924-402c-9a55-2cb7afa7189e,UH-06,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+79507f8f-744e-4597-a4c9-e10291ec2b9a,EDH-12 (FUTURE),3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,,,,,Neptronic
+620558cb-6da1-4f71-b306-b01896c6c407,UH-01-T,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+bc24e0fa-b331-490f-85a8-7da01a67e25c,UH-03,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+33190b59-a650-4c77-9966-734d1a5d87c0,EDH-04,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,,,,,Neptronic
+f789ecf7-905b-4076-9046-3a6239268465,EDH-09,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,,,,,Neptronic
+c5501647-5e87-4a3e-93a9-fde3b552cdf7,UH-02-T,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+7f807184-d591-4fe6-872a-cf30a700f64d,UH-03-T,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i
+d3d2ecac-1d0a-47c1-b41f-75681f950349,UH-06-T,3d63895f-b8c9-4a24-a60a-ea6460f15a2e,Electric Unit Heaters,0,90df5762-c256-4a83-a896-6a04f67f0652,P3PUH03CA1,P3PUH03CA1,Redd-i,Redd-i

@@ -1,0 +1,12 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+f559d3e6-5bde-43e4-9406-afe91f2a8bb0,RD-3,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,e7763758-944e-4fd0-8876-0f1007026d1d,PAR,PAR,Titus,
+e26344a2-627c-4a83-856e-a3fefc174bba,SD-5,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,3bc19108-e0fb-4aa5-af3d-d0bfb12ec00d,PAS,PAS,Titus,
+3176f3b8-f1de-4346-b68d-f63d47f8ba0f,RG-2,196e4ade-4a74-4933-b50e-dce66ce5b51c,Wall Registers and Grilles,0,fa0d1437-06f9-4134-9434-53c871849088,350R,350R,Titus,
+c4124e70-436e-42ad-b540-f45f1e08962c,RG-1,196e4ade-4a74-4933-b50e-dce66ce5b51c,Wall Registers and Grilles,0,fa0d1437-06f9-4134-9434-53c871849088,350R,350R,Titus,
+f09d0a54-6824-414c-8549-5302299e7b03,SD-3,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,3bc19108-e0fb-4aa5-af3d-d0bfb12ec00d,PAS,PAS,Titus,
+63fb6044-6d54-497d-882e-52ce93d7d5a7,SD-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,3bc19108-e0fb-4aa5-af3d-d0bfb12ec00d,PAS,PAS,Titus,
+0904249a-f047-42cb-97c3-6c4f165182cf,LSD-1,42900260-9152-49ee-a2b5-4a4802e0bda7,Air Outlets and Inlets,0,81e845d1-6cb9-45f4-abab-c8aa051044c1,FL-10,FL-10,Titus,Titus
+9d97d772-524a-4aa3-82a2-30a16152d691,RD-1,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,e7763758-944e-4fd0-8876-0f1007026d1d,PAR,PAR,Titus,
+ad0d7159-7299-44e6-94d5-ac20648fad26,SD-2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,32136a9a-4466-4903-a79f-a5b889142dcb,DI-PSP,DI-PSP,CaptiveAire,
+9671746b-8b46-4baa-92ff-2a62cec24537,RD-2,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,e7763758-944e-4fd0-8876-0f1007026d1d,PAR,PAR,Titus,
+02b4e38d-c9fb-42bd-b30a-10501e87bb01,SD-4,8102129d-90c1-4eba-9f1e-4ade21100199,"Diffusers, Registers, and Grilles",0,19578331-c87b-460a-809f-64920e78bd4a,TMRA-AA,TMRA-AA,Titus,

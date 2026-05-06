@@ -1,0 +1,3 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+4da7d031-e885-476a-bcab-6f3a67d1a489,B-2,60b323a2-cc25-421d-822f-c3bc9a601b18,Heating Boilers,0,e3202013-6d9c-4aaa-8232-91eadc8b89df,WHN110,WHN110,Lochinvar,Lochinvar
+5e152fe1-8946-4e5b-ad03-5621204582cb,B-1,60b323a2-cc25-421d-822f-c3bc9a601b18,Heating Boilers,0,e3202013-6d9c-4aaa-8232-91eadc8b89df,WHN110,WHN110,Lochinvar,Lochinvar

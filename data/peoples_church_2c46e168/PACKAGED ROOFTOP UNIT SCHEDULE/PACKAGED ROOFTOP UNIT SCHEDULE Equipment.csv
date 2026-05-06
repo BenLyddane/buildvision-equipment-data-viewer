@@ -1,0 +1,10 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+88127912-ba17-4fc3-8f88-80cc5e66b98c,RTU1,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,e871f34b-afa2-4115-989e-fcc4952fcb88,RV,RV,Greenheck,Greenheck
+f82bfe65-c85b-4fbe-9d91-3d6a57a53a3d,RTU2,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,1,83e043df-6232-4d72-8286-d36437f3bf5c,RT,RT,Greenheck,Greenheck
+d58edeec-a88f-4000-9684-ac2800bf9a51,RTU3,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,e871f34b-afa2-4115-989e-fcc4952fcb88,RV,RV,Greenheck,Greenheck
+937e7489-6ca9-4e79-b1c6-5222fbcf865f,RTU4,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,e871f34b-afa2-4115-989e-fcc4952fcb88,RV,RV,Greenheck,Greenheck
+3b7c5cac-24cc-4b5c-895f-9d739e6d5199,RTU5,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,e871f34b-afa2-4115-989e-fcc4952fcb88,RV,RV,Greenheck,Greenheck
+6d537d2f-c14e-4e74-be3e-74d577dcf287,RTU6,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,e871f34b-afa2-4115-989e-fcc4952fcb88,RV,RV,Greenheck,Greenheck
+bf8de828-935a-4666-8eea-d20b27786741,RTU7,c9f534b8-3836-487c-b8c4-6faa10e0b1f2,Packaged Rooftop Air-Conditioning Units,1,83e043df-6232-4d72-8286-d36437f3bf5c,RT,RT,Greenheck,Greenheck
+d1b2c345-6306-4d8f-b53e-ce521071c59f,RTU8,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,e871f34b-afa2-4115-989e-fcc4952fcb88,RV,RV,Greenheck,Greenheck
+569ba467-6397-4ff0-ad88-f03ef41bbdcf,RTU9,d19f3f23-ff8d-4796-8707-88d0507ffc8f,Dedicated Outdoor-Air Units,1,e871f34b-afa2-4115-989e-fcc4952fcb88,RV,RV,Greenheck,Greenheck

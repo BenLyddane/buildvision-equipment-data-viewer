@@ -1,0 +1,8 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+40d86375-1e95-4d58-8838-a8bfacf0ebc2,DSHP-1,a0f07fd8-8eda-48dd-94eb-4c5b3976d0bb,Enclosed Switches,1,,,,,
+d12065a1-4b74-4a69-8524-7b56a4cfb35f,DSHP-2,a0f07fd8-8eda-48dd-94eb-4c5b3976d0bb,Enclosed Switches,1,,,,,
+3356226c-3cfc-417c-8cbe-3ce800a425e0,EF-1,a0f07fd8-8eda-48dd-94eb-4c5b3976d0bb,Enclosed Switches,1,,,,,
+bc4fb8c2-a572-40c1-8d9d-edc9970ed303,EF-2,a0f07fd8-8eda-48dd-94eb-4c5b3976d0bb,Enclosed Switches,1,,,,,
+a1d101ae-fc15-44a3-a730-9b17a4c7388a,DISCONNECT for RTU-2,a0f07fd8-8eda-48dd-94eb-4c5b3976d0bb,Enclosed Switches,0,,,,,
+30f70774-be16-4c6a-bff9-21e622af9bde,DISCONNECT for RTU-1,a0f07fd8-8eda-48dd-94eb-4c5b3976d0bb,Enclosed Switches,0,,,,,
+90c1f42e-5516-4380-b8e7-5fe3cdbd53df,DISCONNECT for RTU-3,a0f07fd8-8eda-48dd-94eb-4c5b3976d0bb,Enclosed Switches,0,,,,,

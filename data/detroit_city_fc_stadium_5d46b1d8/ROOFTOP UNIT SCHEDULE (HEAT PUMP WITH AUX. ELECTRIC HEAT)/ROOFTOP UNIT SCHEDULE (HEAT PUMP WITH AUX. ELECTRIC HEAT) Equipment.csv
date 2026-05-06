@@ -1,0 +1,2 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+a3c7f575-5bf4-43d5-a374-b1a400d95a68,RTU N1-1,8f0a3c4a-455a-4598-8294-0b49f76e5658,Air-Source Unitary Heat Pumps,0,58522c24-cb4f-4a80-8daf-cb91228b9170,WSK048A4S0G,WSK048A4S0G,Trane,Trane

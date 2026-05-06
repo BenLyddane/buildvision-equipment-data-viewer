@@ -1,0 +1,21 @@
+equipment_id,equipment_tag,component_type_id,component_type_name,quantity,component_id,component_name,component_model,component_manufacturer_name,bod_manufacturer_name
+6166528e-f334-4a79-840e-cb96e6650aa2,V-101,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,52f5b1e2-97d1-4de1-bd84-27d0bfe3c64b,FVI,FVI,Metalaire,Metalaire
+68c4496f-7658-4e2a-b210-a5b175f55db9,V-102,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+d0408556-948f-41d0-a431-986e3bd96326,V-103,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+9cb32947-bfde-40f6-9f2a-dbf12106e054,V-107,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+d06b64ca-2afe-4a28-9214-417b9738efdf,V-110,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+b9ef6d58-0996-4c96-a14f-1ba8e22e503a,V-111,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+c57c0a27-36e7-443d-bb94-dd2113334d2e,V-113,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+9ff3d0d5-30c1-4dd9-9060-bb39e675c612,V-115,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+9731ca37-7d4c-4bce-bf9f-5ca7ac0db92e,V-116,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+6bbbac4c-e8ce-43b3-bddf-ec082bc17473,V-119,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+b2488c71-7ec1-4286-9e5c-9db681e423b5,V-128,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,52f5b1e2-97d1-4de1-bd84-27d0bfe3c64b,FVI,FVI,Metalaire,Metalaire
+cc3123d9-ab2a-46f1-969a-178f43ae86c8,V-130,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,52f5b1e2-97d1-4de1-bd84-27d0bfe3c64b,FVI,FVI,Metalaire,Metalaire
+1a623ed4-9458-4e68-9dad-c632cb312488,V-136,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,52f5b1e2-97d1-4de1-bd84-27d0bfe3c64b,FVI,FVI,Metalaire,Metalaire
+2d3d57c4-cb99-4e44-beb8-f146ef670479,V-137,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+2f3413e8-c371-4374-9939-b70ac197a4c5,V-139,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,52f5b1e2-97d1-4de1-bd84-27d0bfe3c64b,FVI,FVI,Metalaire,Metalaire
+f3793109-3e15-4121-967f-8b51710ae36f,V-140,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+6b85e3e9-3f17-4fa2-8836-70bcd14d67c7,V-146,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+53ac63ad-55e0-4d3f-ad13-acf53b042f79,V-147,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+d885348b-64e4-4d56-af37-62df8bfc44fd,V-148,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire
+59f2adf7-21dd-4beb-8701-f34db9dfd756,V-149,23340675-cd6c-4cad-969d-8020e0559e27,Radiant Heating Units,0,11c554d9-1234-4700-931e-a3e9eea36826,TH-500 Single Duct Air Terminal Unit,TH-500,Metalaire,Metalaire

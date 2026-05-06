@@ -12,6 +12,7 @@ const navItems = [
   { href: "/manufacturers", label: "Manufacturers" },
   { href: "/component-types", label: "Component Types" },
   { href: "/insights", label: "Insights" },
+  { href: "/queries", label: "Ask AI" },
 ];
 
 export function SiteHeader() {

@@ -261,6 +261,105 @@ function main() {
     marketShare,
   };
 
+  // ---- LLM-friendly dataset summary (compact, ~tens of KB) ----
+  // Per-project rollups
+  const perProjectSummary = projectSummaries.map((p) => {
+    const projEq = equipmentOut.filter((e) => e.projectId === p.id);
+    const typeCounts = new Map<string, number>();
+    const manuCounts = new Map<string, number>();
+    for (const e of projEq) {
+      if (e.componentTypeName)
+        bumpCount(typeCounts, e.componentTypeName);
+      if (e.manufacturer) bumpCount(manuCounts, e.manufacturer);
+    }
+    return {
+      id: p.id,
+      name: p.name,
+      createdAt: p.createdAt,
+      equipmentCount: p.equipmentCount,
+      packageCount: p.packageCount,
+      manufacturerCount: p.manufacturerCount,
+      componentTypeCount: p.componentTypeCount,
+      componentTypes: [...typeCounts.entries()].map(([k, v]) => ({
+        name: k,
+        count: v,
+      })),
+      manufacturers: [...manuCounts.entries()].map(([k, v]) => ({
+        name: k,
+        count: v,
+      })),
+    };
+  });
+
+  // Per-component-type rollup (with top manufacturers)
+  const perTypeSummary = [...componentTypeCounts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(([type, count]) => {
+      const inner = manuByType.get(type) || new Map<string, number>();
+      return {
+        name: type,
+        count,
+        manufacturers: [...inner.entries()].map(([k, v]) => ({
+          name: k,
+          count: v,
+        })),
+      };
+    });
+
+  // Per-manufacturer rollup
+  const manuRollup = new Map<
+    string,
+    { count: number; types: Map<string, number>; projects: Set<string> }
+  >();
+  for (const e of equipmentOut) {
+    if (!e.manufacturer) continue;
+    const r =
+      manuRollup.get(e.manufacturer) ||
+      ({
+        count: 0,
+        types: new Map<string, number>(),
+        projects: new Set<string>(),
+      } as any);
+    r.count++;
+    r.projects.add(e.projectId);
+    if (e.componentTypeName)
+      r.types.set(
+        e.componentTypeName,
+        (r.types.get(e.componentTypeName) || 0) + 1
+      );
+    manuRollup.set(e.manufacturer, r);
+  }
+  const perManufacturerSummary = [...manuRollup.entries()]
+    .sort((a, b) => b[1].count - a[1].count)
+    .map(([name, v]) => ({
+      name,
+      count: v.count,
+      projectCount: v.projects.size,
+      componentTypes: [...v.types.entries()].map(([k, c]) => ({
+        name: k,
+        count: c,
+      })),
+    }));
+
+  const datasetSummary = {
+    description:
+      "Summary of HVAC/MEP equipment-schedule data extracted from construction bid packages.",
+    schema: {
+      project: ["id", "name", "createdAt", "equipmentCount", "packageCount"],
+      componentType: ["name", "count", "manufacturers[]"],
+      manufacturer: ["name", "count", "projectCount", "componentTypes[]"],
+    },
+    totals: aggregates.totals,
+    bod: {
+      matches: aggregates.bod.matches,
+      mismatches: aggregates.bod.mismatches,
+      missing: aggregates.bod.missing,
+    },
+    projects: perProjectSummary,
+    componentTypes: perTypeSummary,
+    manufacturers: perManufacturerSummary,
+  };
+
   // ---- Write ----
   ensureDir(OUT_DIR);
   fs.writeFileSync(
@@ -278,6 +377,10 @@ function main() {
   fs.writeFileSync(
     path.join(OUT_DIR, "aggregates.json"),
     JSON.stringify(aggregates)
+  );
+  fs.writeFileSync(
+    path.join(OUT_DIR, "dataset-summary.json"),
+    JSON.stringify(datasetSummary)
   );
 
   console.log(`[build-data] wrote outputs to ${OUT_DIR}`);
